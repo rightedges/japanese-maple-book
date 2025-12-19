@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "9. Companion Planting"
+nav_order: 10
 permalink: /chapters/09-companion-planting.html
 ---
 

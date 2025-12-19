@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "1. Introduction to Acer palmatum"
+nav_order: 2
 permalink: /chapters/01-introduction.html
 ---
 

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "10. Famous Cultivars Guide"
+nav_order: 11
 permalink: /chapters/10-famous-cultivars.html
 ---
 

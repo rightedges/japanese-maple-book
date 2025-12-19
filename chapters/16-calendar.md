@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "16. Maintenance Calendar"
+nav_order: 17
 permalink: /chapters/16-calendar.html
 ---
 

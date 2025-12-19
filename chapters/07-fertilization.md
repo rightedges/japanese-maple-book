@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "7. Fertilization"
+nav_order: 8
 permalink: /chapters/07-fertilization.html
 ---
 

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "13. Maple Bonsai Introduction"
+nav_order: 14
 permalink: /chapters/13-bonsai.html
 ---
 

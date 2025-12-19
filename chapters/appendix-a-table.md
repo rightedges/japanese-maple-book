@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Appendix A: Cultivar Quick Reference"
+nav_order: 18
 permalink: /chapters/appendix-a-table.html
 ---
 

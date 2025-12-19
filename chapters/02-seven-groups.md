@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "2. The 7 Groups"
+nav_order: 3
 permalink: /chapters/02-seven-groups.html
 ---
 

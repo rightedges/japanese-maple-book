@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "6. Container Culture"
+nav_order: 7
 permalink: /chapters/06-containers.html
 ---
 

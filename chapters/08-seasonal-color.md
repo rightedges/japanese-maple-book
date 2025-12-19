@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "8. Seasonal Color Palette"
+nav_order: 9
 permalink: /chapters/08-seasonal-color.html
 ---
 

@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "5. Watering and Mulching"
+nav_order: 6
 permalink: /chapters/05-watering.html
 ---
 

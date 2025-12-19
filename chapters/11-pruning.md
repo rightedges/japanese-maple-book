@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "11. Pruning Mastery"
+nav_order: 12
 permalink: /chapters/11-pruning.html
 ---
 

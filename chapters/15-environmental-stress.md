@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "15. Environmental Stress"
+nav_order: 16
 permalink: /chapters/15-environmental-stress.html
 ---
 

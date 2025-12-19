@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "12. Propagation"
+nav_order: 13
 permalink: /chapters/12-propagation.html
 ---
 

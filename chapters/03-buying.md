@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: "3. Buying Your First Tree"
+nav_order: 4
 permalink: /chapters/03-buying.html
 ---
 
