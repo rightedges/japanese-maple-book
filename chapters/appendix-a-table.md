@@ -7,6 +7,19 @@ permalink: /chapters/appendix-a-table.html
 
 # Appendix A: Cultivar Quick Reference
 
+<style>
+  table {
+    width: 100%;
+    table-layout: auto;
+  }
+  th:nth-child(1), td:nth-child(1) { width: 15%; } /* Cultivar Name */
+  th:nth-child(2), td:nth-child(2) { width: 10%; } /* Group */
+  th:nth-child(3), td:nth-child(3) { width: 12%; } /* Foliage Color */
+  th:nth-child(4), td:nth-child(4) { width: 10%; } /* Mature Habit */
+  th:nth-child(5), td:nth-child(5) { width: 8%; }  /* Sun Tolerance */
+  th:nth-child(6), td:nth-child(6) { width: 45%; } /* Best Feature */
+</style>
+
 This table provides a snapshot comparison of some of the most popular Japanese Maples. Use it to quickly find a tree that fits your site requirements.
 
 | Cultivar Name | Group | Foliage Color (Sum/Fall) | Mature Habit | Sun Tolerance | Best Feature |
