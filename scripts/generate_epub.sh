@@ -28,10 +28,16 @@ grep "file:" _data/navigation.yml | awk '{print $2}' | while read -r file; do
     echo "" >> "$COMBINED_MD"
     
     # Append content, stripping Front Matter (lines between first two ---)
-    # This simple sed command deletes from line 1 to the second '---' found.
-    # It assumes front matter exists.
     sed '1,/^---$/d' "$file" >> "$COMBINED_MD"
 done
+
+# CLEANUP for Pandoc (Strip Liquid tags)
+echo "Cleaning up Liquid tags for Pandoc..."
+# Replace {{ '/path/to/img.jpg' | relative_url }} with path/to/img.jpg
+# We remove the leading / so it becomes relative to the current directory
+sed -i 's/{{ '\''\/\([^'\'']*\)'\'' | relative_url }}/\1/g' "$COMBINED_MD"
+# Also handle cases with double quotes or no leading slash
+sed -i 's/{{ "\/\([^"]*\)" | relative_url }}/\1/g' "$COMBINED_MD"
 
 echo "Generating EPUB..."
 pandoc "$COMBINED_MD" -o "$OUTPUT" --toc
