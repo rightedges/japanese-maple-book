@@ -22,6 +22,18 @@ This table provides a snapshot comparison of some of the most popular Japanese M
 | **'Ukigumo'** | Variegated | White-Green / Pink | Upright (8-10') | **Low (Shade)** | Ethereal "floating cloud" look |
 | **'Shishigashira'** | Palmatum | Deep Green / Orange | Upright (8-12') | High | "Lion's Head" crinkled foliage |
 | **'Inaba shidare'** | Dissectum | Deep Purple / Red | Weeping (6-8') | High | Most sun-tolerant red lace-leaf |
+| **'Summer Gold'** | Palmatum | Golden Yellow / Gold | Upright (8-10') | High | High sun tolerance for a yellow maple |
+| **'Jordan'** | Shirasawanum | Neon Yellow / Orange | Upright (10-12') | Moderate | Brightest yellow foliage |
+| **'Scolopendrifolium'** | Linearilobum | Green / Gold | Upright (12-15') | Moderate | Classic string-leaf texture |
+| **'Mejishi'** | Palmatum | Green / Yellow | Upright (10-15') | Moderate | Elegant, classic form |
+| **'Viridis'** | Dissectum | Bright Green / Gold | Weeping (6-8') | Moderate | Pure green lace-leaf |
+| **'Aoyagi'** | Palmatum | Green / Yellow | Upright (10-15') | Moderate | The "Green Bark" maple |
+| **'Kiyohime'** | Dwarf | Green / Yellow-Orange | Dwarf (2-4') | Moderate | Perfect for low hedging or bonsai |
+| **'Villa Taranto'** | Linearilobum | Pink-Green / Gold | Upright (6-8') | Moderate | Spider-like, multicolored leaves |
+| **'Sekka Yatsubusa'** | Dwarf | Green / Orange | Dwarf (3-5') | Moderate | Extremely congested, "broccoli" habit |
+| **'Tiny Stars'** | Dwarf | Green / Red | Dwarf (2-3') | Moderate | Miniscule star-shaped leaves |
+| **'Tamukeyama'** | Dissectum | Purple-Red / Scarlet | Weeping (6-8') | High | Excellent heat tolerance for a red dissectum |
+| **'Butterfly'** | Variegated | White-Green / Pink-Red| Upright (8-12') | Moderate | Best hardy variegated variety |
 
 ## Note on Hardiness
 Almost all cultivars listed above are hardy to **USDA Zones 5-9**. However, for container-grown trees, remember the "2-Zone Rule" (see Chapter 6).
