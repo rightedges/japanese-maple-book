@@ -78,6 +78,8 @@ The **Dwarf** group is a catch-all for cultivars selected for small stature and 
 
 ## 7. Variegated Group
 
+![Acer palmatum - Variegated Group]({{ '/assets/images/chapter2/variegated.jpg' | relative_url }})
+
 The **Variegated** group includes any maple where the leaf color feature mutli-colored patterns—white, pink, cream, or peach mixed with green or red.
 *   **Leaf Shape**: Variable, can be Palmatum or Amoenum type.
 *   **Habit**: Generally weaker and slower growing than solid-color counterparts because they have less chlorophyll.
