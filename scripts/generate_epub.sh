@@ -34,7 +34,7 @@ done
 # CLEANUP for Pandoc (Strip Liquid tags)
 echo "Cleaning up Liquid tags for Pandoc..."
 # 1. Normalize curly quotes to straight quotes (just in case)
-sed -i "" "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
+# sed -i "" "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
 
 # 2. Replace {{ '/assets/images/chapter2/palmatum.png' | relative_url }} with assets/images/chapter2/palmatum.png
 # This version is more robust against different quote types and leading slashes.
