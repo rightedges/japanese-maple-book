@@ -11,7 +11,7 @@ This reference guide provides detailed information on some of the most popular J
 
 ---
 
-### ['Bloodgood'](/cultivars/bloodgood)
+### ['Bloodgood']({{ 'cultivars/bloodgood' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -21,7 +21,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Remarkable color retention. Robust and sun-tolerant, but requires very well-drained soil. |
 
-### ['Sango Kaku'](/cultivars/sango-kaku)
+### ['Sango Kaku']({{ 'cultivars/sango-kaku' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -31,7 +31,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Coral-red winter bark. Needs sun for red bark, but foliage is sensitive to hot afternoon sun and dry winds. |
 
-### ['Crimson Queen'](/cultivars/crimson-queen)
+### ['Crimson Queen']({{ 'cultivars/crimson-queen' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -41,7 +41,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
 
-### ['Katsura'](/cultivars/katsura)
+### ['Katsura']({{ 'cultivars/katsura' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -51,7 +51,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Stunning orange spring growth. Forms a dense, tiered structure; prune for air circulation to prevent mildew. |
 
-### ['Osakazuki'](/cultivars/osakazuki)
+### ['Osakazuki']({{ 'cultivars/osakazuki' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -61,7 +61,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | World-class fall color. A "green giant" for 10 months, but becomes the garden star in November. |
 
-### ['Mikawa Yatsubusa'](/cultivars/mikawa-yatsubusa)
+### ['Mikawa Yatsubusa']({{ 'cultivars/mikawa-yatsubusa' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -71,7 +71,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Unique shingled habit. Extremely slow-growing; ideal for containers and focal points in rock gardens. |
 
-### ['Seiryu'](/cultivars/seiryu)
+### ['Seiryu']({{ 'cultivars/seiryu' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -81,7 +81,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Elegant upright lace-leaf. Very vigorous for a dissectum; tolerates heat better than weeping varieties. |
 
-### ['Beni maiko'](/cultivars/beni-maiko)
+### ['Beni maiko']({{ 'cultivars/beni-maiko' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -91,7 +91,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Brilliant "Red Dance" spring color. Needs protection from late spring frosts to protect first flush. |
 
-### ['Ukigumo'](/cultivars/ukigumo)
+### ['Ukigumo']({{ 'cultivars/ukigumo' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -101,7 +101,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | Ethereal "floating cloud" look. Requires deep shade; white leaf portions burn instantly in direct sun. |
 
-### ['Shishigashira'](/cultivars/shishigashira)
+### ['Shishigashira']({{ 'cultivars/shishigashira' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -111,7 +111,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | "Lion's Head" crinkled foliage. Holds leaves very late into autumn; best used as a vertical architectural element. |
 
-### ['Inaba shidare'](/cultivars/inaba-shidare)
+### ['Inaba shidare']({{ 'cultivars/inaba-shidare' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -121,7 +121,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Exceptional vigor. Most sun-tolerant of the red lace-leafs; excellent for larger weeping specimens. |
 
-### ['Summer Gold'](/cultivars/summer-gold)
+### ['Summer Gold']({{ 'cultivars/summer-gold' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -131,7 +131,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Vibrant yellow focal point. Retains its golden-yellow color even in the full sun of July and August. |
 
-### ['Jordan'](/cultivars/jordan)
+### ['Jordan']({{ 'cultivars/jordan' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -141,7 +141,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Pastel neon foliage. Needs morning sun for best color, but afternoon shade is critical in hot regions. |
 
-### ['Scolopendrifolium'](/cultivars/scolopendrifolium)
+### ['Scolopendrifolium']({{ 'cultivars/scolopendrifolium' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -151,7 +151,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Dramatic "willow" look. Long, narrow lobes move beautifully in the wind; provides an airy light filter. |
 
-### ['Butterfly'](/cultivars/butterfly)
+### ['Butterfly']({{ 'cultivars/butterfly' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -161,7 +161,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Best hardy variegated variety. More resilient than 'Ukigumo'; stays compact with light structural pruning. |
 
-### ['Tamukeyama'](/cultivars/tamukeyama)
+### ['Tamukeyama']({{ 'cultivars/tamukeyama' | relative_url }})
 
 | Attribute | Specification |
 | :--- | :--- |
