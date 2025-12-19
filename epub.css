@@ -1,8 +1,8 @@
-/* CSS for EPUB to force San Francisco / sans-serif across all elements */
+/* CSS for EPUB consistent with Just-the-Docs theme (GitHub Pages) */
 
-/* Target everything for maximum coverage */
+/* Target everything for maximum coverage with the GitHub Pages font stack */
 * {
-    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, helvetica, arial, sans-serif !important;
 }
 
 body {
@@ -17,7 +17,7 @@ div,
 span,
 dd,
 dt {
-    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, helvetica, arial, sans-serif !important;
 }
 
 h1,
@@ -26,19 +26,19 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, helvetica, arial, sans-serif !important;
     font-weight: bold;
     margin-top: 1.2em;
     margin-bottom: 0.6em;
 }
 
-/* Maintain monospace for code blocks */
+/* Maintain monospace for code blocks consistent with Jekyll's Rouge highlighter */
 code,
 pre,
 kbd,
 samp {
-    font-family: "SF Mono", "Menlo", "Courier New", monospace !important;
-    font-size: 0.9em;
+    font-family: "SF Mono", "Menlo", "Consolas", "Liberation Mono", "Courier New", monospace !important;
+    font-size: 0.85em;
 }
 
 /* Ensure italic and bold still work within the forced font */
