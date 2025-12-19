@@ -10,8 +10,6 @@ side_bar_label: "Japanese Maple Book"
 # Just-the-Docs Configuration
 search_enabled: true
 aux_links:
-  "English Version": "/"
-  "繁體中文版": "/zh-tw/"
   "GitHub Repository": "https://github.com/rightedges/japanese-maple-book"
 
 markdown: kramdown
