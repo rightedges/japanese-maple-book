@@ -5,15 +5,23 @@ nav_order: 18
 permalink: /chapters/appendix-a-table.html
 ---
 
-# Appendix A: Cultivar Quick Reference Table
+# Appendix A: Cultivar Quick Reference
 
-| Cultivar Name | Group | Sun Tolerance | Mature Size (10yr) | Leaf Size | Main Characteristic |
+This table provides a snapshot comparison of some of the most popular Japanese Maples. Use it to quickly find a tree that fits your site requirements.
+
+| Cultivar Name | Group | Foliage Color (Sum/Fall) | Mature Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Bloodgood** | Palmatum | Full Sun / Part Shade | 15-20 ft | Medium | Deep red foliage all summer |
-| **Sango Kaku** | Palmatum | Part Shade | 15-20 ft | Small | Coral-red bark in winter |
-| **Mikawa Yatsubusa** | Dwarf | Part Shade | 3-4 ft | Small | Layered, shingle-like leaves |
-| **Crimson Queen** | Dissectum | Part Shade | 4-6 ft (Weeping) | Fine | Lace-leaf, red-purple color |
-| **Waterfall** | Dissectum | Part Shade | 4-6 ft (Weeping) | Fine | Green lace-leaf, cascading habit |
-| **Osakazuki** | Amoenum | Full Sun | 15-20 ft | Large | Intense crimson fall color |
-| **Beni Otake** | Linearilobum | Part Shade | 10-12 ft | Bamboo-like | Long, narrow red strap leaves |
-| **Emperor I** | Palmatum | Full Sun / Part Shade | 15-20 ft | Medium | Similar to Bloodgood, leafs out later |
+| **'Bloodgood'** | Palmatum | Burgundy / Scarlet | Upright (15-20') | High | Summer color retention |
+| **'Sango Kaku'** | Matsumurae | Green / Gold | Upright (15-20') | Moderate | Coral-red winter bark |
+| **'Crimson Queen'** | Dissectum | Burgundy / Red | Weeping (6-8') | Moderate | Fine lacy texture |
+| **'Katsura'** | Palmatum | Chartreuse / Orange | Upright (10-12') | Moderate | Stunning orange spring growth |
+| **'Osakazuki'** | Amoenum | Green / Fire-Red | Upright (20-25') | High | Best fall color in existence |
+| **'Mikawa Yatsubusa'** | Dwarf | Green / Orange | Dwarf (3-5') | Moderate | Shingled, sculptural leaves |
+| **'Seiryu'** | Dissectum | Green / Gold-Red | Upright (10-15') | High | Only upright lace-leaf |
+| **'Beni maiko'** | Palmatum | Red-Green / Scarlet | Bushy (6-8') | Moderate | Brilliant red spring color |
+| **'Ukigumo'** | Variegated | White-Green / Pink | Upright (8-10') | **Low (Shade)** | Ethereal "floating cloud" look |
+| **'Shishigashira'** | Palmatum | Deep Green / Orange | Upright (8-12') | High | "Lion's Head" crinkled foliage |
+| **'Inaba shidare'** | Dissectum | Deep Purple / Red | Weeping (6-8') | High | Most sun-tolerant red lace-leaf |
+
+## Note on Hardiness
+Almost all cultivars listed above are hardy to **USDA Zones 5-9**. However, for container-grown trees, remember the "2-Zone Rule" (see Chapter 6).
