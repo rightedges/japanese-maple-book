@@ -29,11 +29,19 @@ How do you get a large leaf to stay the size of a fingernail? It's all about pru
 
 ---
 
-## 3. Styling Your Tree: Using Wire
+## 3. Styling Your Tree: Deciduous Wiring
 
-Bonsai artists use wire to gently guide the branches into beautiful shapes.
-*   **The Look**: In nature, old trees have branches that sag toward the ground. By using wire to bend your bonsai branches downward, you can make a young tree look like it has been standing on a mountain for a hundred years.
-*   **Safety**: Only leave the wire on for a few months. Once the branch "remembers" its new shape, remove the wire so it doesn't leave a scar on the bark.
+While bonsai artists use wire to guide branches, wiring a Japanese Maple is fundamentally different from wiring a pine or juniper. Maples have delicate, smooth bark that scars easily, and they grow much faster than conifers during the spring surge.
+
+### 3.1 The "Deciduous Method"
+*   **Aluminum vs. Copper**: Never use annealed copper wire (common for pines) on a maple. It is too stiff and can easily crush the cambium. Use **Anodized Aluminum wire**; it is softer, easier to apply, and offers more "give" as the branch swells.
+*   **Protection**: For important branches, use **paper-wrapped aluminum wire** or wrap the branch in a thin layer of **raffia** before wiring. This acts as a cushion to prevent the wire from biting into the soft bark.
+*   **Timing**: Unlike conifers, which are often wired in the winter, maples should be wired in **late spring or early summer** after the first flush of leaves has hardened. Avoid wiring in winter, as frozen branches are brittle and 'bleed' sap more easily.
+
+### 3.2 The "Clip and Grow" Philosophy
+Because maples scar so easily, many masters prefer the **"Clip and Grow"** method over heavy wiring. This involves pruning a branch back to a bud that is pointing in the direction you want the tree to grow. Wiring should only be used for fine adjustments, not for massive structural changes.
+
+*   **The 3-Month Rule**: Check your wire every two weeks. In the peak of summer, a maple can outgrow its wire in less than a month. Remove the wire the moment it begins to look snug—**do not wait for it to "set"** as you would with a juniper. A wire scar on a maple can take decades to heal.
 
 ---
 
