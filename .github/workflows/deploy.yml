@@ -27,7 +27,7 @@ jobs:
         with:
           ruby-version: '3.1'
           bundler-cache: true
-          working-directory: './japanese-maple-book'
+
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
@@ -38,24 +38,24 @@ jobs:
       # Build the Jekyll site
       - name: Build with Jekyll
         run: bundle exec jekyll build
-        working-directory: './japanese-maple-book'
+
         env:
           JEKYLL_ENV: production
 
       # Generate EPUB
       - name: Generate EPUB
         run: ./scripts/generate_epub.sh
-        working-directory: './japanese-maple-book'
+
 
       # Move EPUB to _site so it is published
       - name: Move EPUB to site folder
         run: mv book.epub _site/
-        working-directory: './japanese-maple-book'
+
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './japanese-maple-book/_site'
+          path: './_site'
 
   deploy:
     environment:
