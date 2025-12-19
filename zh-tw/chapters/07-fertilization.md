@@ -3,7 +3,7 @@ layout: default
 title: "7. 施肥基礎"
 nav_order: 8
 parent: "繁體中文版"
-permalink: /zh-tw/chapters/0zh-tw/chapters/07-fertilization.html
+permalink: /zh-tw/chapters/07-fertilization.html
 ---
 
 # 施肥：克制的藝術
