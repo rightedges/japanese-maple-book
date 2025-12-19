@@ -38,7 +38,7 @@ echo "Cleaning up Liquid tags for Pandoc..."
 
 # 2. Replace {{ '/assets/images/chapter2/palmatum.png' | relative_url }} with assets/images/chapter2/palmatum.png
 # This version is more robust against different quote types and leading slashes.
-sed -i "" -E 's/\{\{[[:space:]]*['\''"]\/?([^'\''"]+)['\''"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
+# sed -i "" -E "s/\{\{[[:space:]]*['"]\/?([^'"]\+)['"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g" "$COMBINED_MD"
 
 echo "Generating EPUB..."
 pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.jpg
