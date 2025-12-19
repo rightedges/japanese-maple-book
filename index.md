@@ -11,4 +11,4 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 Please use the navigation sidebar to browse the chapters.
 
 
-[Download EPUB Version]({{ 'book.epub' | relative_url }})
+[Download EPUB Version (v1.1 - Dec 2025)]({{ 'book.epub' | relative_url }})
