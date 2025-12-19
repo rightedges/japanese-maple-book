@@ -8,16 +8,22 @@ permalink: /chapters/appendix-a-table.html
 # Appendix A: Cultivar Quick Reference
 
 <style>
-  table {
-    width: 100%;
-    table-layout: auto;
+  .table-wrapper table {
+    width: 100% !important;
+    table-layout: fixed !important;
+    display: table !important;
   }
-  th:nth-child(1), td:nth-child(1) { width: 15%; } /* Cultivar Name */
-  th:nth-child(2), td:nth-child(2) { width: 10%; } /* Group */
-  th:nth-child(3), td:nth-child(3) { width: 12%; } /* Foliage Color */
-  th:nth-child(4), td:nth-child(4) { width: 10%; } /* Mature Habit */
-  th:nth-child(5), td:nth-child(5) { width: 8%; }  /* Sun Tolerance */
-  th:nth-child(6), td:nth-child(6) { width: 45%; } /* Best Feature */
+  .table-wrapper th, .table-wrapper td {
+    white-space: normal !important;
+    word-wrap: break-word !important;
+    overflow-wrap: break-word !important;
+  }
+  th:nth-child(1), td:nth-child(1) { width: 12% !important; } /* Cultivar Name */
+  th:nth-child(2), td:nth-child(2) { width: 8% !important; }  /* Group */
+  th:nth-child(3), td:nth-child(3) { width: 10% !important; } /* Foliage Color */
+  th:nth-child(4), td:nth-child(4) { width: 8% !important; }  /* Mature Habit */
+  th:nth-child(5), td:nth-child(5) { width: 7% !important; }  /* Sun Tolerance */
+  th:nth-child(6), td:nth-child(6) { width: 55% !important; } /* Best Feature */
 </style>
 
 This table provides a snapshot comparison of some of the most popular Japanese Maples. Use it to quickly find a tree that fits your site requirements.
