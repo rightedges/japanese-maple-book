@@ -22,6 +22,14 @@ The answer is almost always: "It depends where you live."
 **The Golden Rule**: *Morning Sun, Afternoon Shade.*
 Ideally, position the tree where it gets sun from dawn until 12:00 PM or 1:00 PM, and is shaded by a house, fence, or larger tree during the hottest part of the day (2:00 PM - 5:00 PM).
 
+### The Compass Guide (Aspect)
+Which way your planting site faces determines its suitability.
+
+*   **East-Facing (The Gold Standard)**: This is the ideal location for 90% of Japanese Maples. It receives the gentle, cool morning sun which dries the dew (preventing fungal issues) but is shaded by the house or wall during the scorching afternoon hours.
+*   **North-Facing (The Safe Haven)**: Offers the coolest conditions with consistent shade. This is perfect for the sensitive "Variegated" group (like 'Ukigumo') or "Full Moon" maples which scorch easily. However, in deep shade, red trees may turn green and fall color might be less intense.
+*   **South-Facing (The Heat Trap)**: This is high-risk. A south-facing wall reflects heat, creating a microclimate often 10 degrees hotter than the rest of the garden. Only plant the toughest cultivars here (e.g., 'Seiryu', 'Bloodgood') and ensure they are well-mulched and watered.
+*   **West-Facing (The Danger Zone)**: This aspect receives the late afternoon sun (3 PM - 7 PM), which coincides with the hottest air temperatures of the day. This combination is lethal for delicate leaves. Avoid planting dissectums or variegated maples here unless they are shaded by a larger tree.
+
 ### Wind Protection
 Recall that *Acer palmatum* is an understory tree. It hates consistent, drying wind.
 *   **Hot Wind**: Causes leaf scorch (crispy edges) even if the soil is wet.
