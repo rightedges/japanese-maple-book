@@ -33,11 +33,12 @@ done
 
 # CLEANUP for Pandoc (Strip Liquid tags)
 echo "Cleaning up Liquid tags for Pandoc..."
-# Replace {{ '/path/to/img.jpg' | relative_url }} with path/to/img.jpg
-# We remove the leading / so it becomes relative to the current directory
-sed -i 's/{{ '\''\/\([^'\'']*\)'\'' | relative_url }}/\1/g' "$COMBINED_MD"
-# Also handle cases with double quotes or no leading slash
-sed -i 's/{{ "\/\([^"]*\)" | relative_url }}/\1/g' "$COMBINED_MD"
+# 1. Normalize curly quotes to straight quotes (just in case)
+sed -i "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
+
+# 2. Replace {{ '/assets/images/chapter2/palmatum.png' | relative_url }} with assets/images/chapter2/palmatum.png
+# This version is more robust against different quote types and leading slashes.
+sed -i -E 's/\{\{[[:space:]]*['\''"]\/?([^'\''"]+)['\''"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
 
 echo "Generating EPUB..."
 pandoc "$COMBINED_MD" -o "$OUTPUT" --toc
