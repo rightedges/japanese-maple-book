@@ -9,8 +9,8 @@ COMBINED_MD="combined.md"
 
 # Add title block for Pandoc
 echo "% The Japanese Maple Book" > "$COMBINED_MD"
-echo "% Revised Digital Edition by Rightedges with AI" >> "$COMBINED_MD"
-echo "% © 2025 Rightedges with AI" >> "$COMBINED_MD"
+echo "% Revised Digital Edition by rightedges with Gemini AI" >> "$COMBINED_MD"
+echo "% © 2025 rightedges with Gemini AI" >> "$COMBINED_MD"
 echo "" >> "$COMBINED_MD"
 
 # Concatenate files in order based on navigation.yml
@@ -41,6 +41,6 @@ sed -i "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
 sed -i -E 's/\{\{[[:space:]]*['\''"]\/?([^'\''"]+)['\''"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
 
 echo "Generating EPUB..."
-pandoc "$COMBINED_MD" -o "$OUTPUT" --toc
+pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true
 
 echo "Done: $OUTPUT"

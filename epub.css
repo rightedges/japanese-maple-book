@@ -1,0 +1,15 @@
+/* CSS for EPUB to prioritize Apple fonts */
+body {
+    font-family: "Iowan Old Style", "Seravek", -apple-system, system-ui, serif;
+    line-height: 1.5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Seravek", -apple-system, system-ui, sans-serif;
+    margin-top: 1.2em;
+    margin-bottom: 0.6em;
+}
+
+code, pre {
+    font-family: "SF Mono", "Menlo", monospace;
+}
