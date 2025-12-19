@@ -9,8 +9,15 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 
 ## Table of Contents
 
-{% for item in site.data.navigation %}
-* [{{ item.title }}]({{ item.url | relative_url }})
+{% for part in site.data.navigation %}
+{% if part.url %}
+* [{{ part.title }}]({{ part.url | relative_url }})
+{% else %}
+### {{ part.title }}
+{% for chapter in part.children %}
+* [{{ chapter.title }}]({{ chapter.url | relative_url }})
+{% endfor %}
+{% endif %}
 {% endfor %}
 
 [Download EPUB Version]({{ 'book.epub' | relative_url }})
