@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "2. The 7 Groups"
+title: "2. The 8 Groups"
 nav_order: 3
 permalink: /chapters/02-seven-groups.html
 ---
 
-# The 7 Groups of Japanese Maples: A Framework for Beauty
+# The 8 Groups of Japanese Maples: A Framework for Beauty
 
-For the novice gardener, the sheer variety of *Acer palmatum* can be paralyzing. With over 1,000 named cultivars—ranging from 30-foot shade trees to 12-inch bonsai subjects, and from "bamboo-leafed" red spears to "lace-leafed" emerald mounds—the species seems to defy categorization. However, botanists and dedicated enthusiasts have historically organized these into seven (sometimes eight) distinct groups. 
+For the novice gardener, the sheer variety of *Acer palmatum* can be paralyzing. With over 1,000 named cultivars—ranging from 30-foot shade trees to 12-inch bonsai subjects, and from "bamboo-leafed" red spears to "lace-leafed" emerald mounds—the species seems to defy categorization. However, botanists and dedicated enthusiasts have historically organized these into eight distinct groups. 
 
 This classification system is not merely academic; it is the most powerful tool you have for garden design. By knowing which group a tree belongs to, you can instantly predict its growth rate, its ultimate size, its sunlight requirements, and its textural impact on your landscape. In this chapter, we go deep into the botanical markers, historical context, and horticultural nuances of each group.
 
@@ -132,9 +132,20 @@ Because the white parts of the leaf don't produce food, the tree is under consta
 
 ---
 
-## The "8th Group": Shirasawanum and the Golden Hybrids
+## 8. Shirasawanum Group (The Golden Full Moons)
 
-While technically a different species, *Acer shirasawanum* (the Full Moon Maple) and its hybrids are now so integrated into the Japanese Maple world that they are often treated as an eighth group. The most famous is **'Aureum'**, with its neon-yellow, round leaves. These require almost constant shade, as their yellow pigment offers zero protection from UV rays.
+![Acer shirasawanum - 'Aureum']({{ '/assets/images/chapter2/aureum.jpg' | relative_url }})
+
+While technically a different species, *Acer shirasawanum* (the Full Moon Maple) and its hybrids are now so integrated into the Japanese Maple world that they are formally treated as an eighth group. These are the "jewels" of the shaded garden.
+
+### Botanical Markers
+*   **Leaf Shape**: Rounder and more "fan-like" than *palmatum*.
+*   **Lobes**: Typically 9 to 13 shallow lobes, giving the leaf a nearly circular silhouette.
+*   **Color**: Famous for neon yellows and soft oranges.
+*   **Habit**: Slower growing and typically smaller (8-15 feet), with a stiff, tiered branching habit.
+
+### The "Aureum" Standard
+The most famous member is **'Aureum'** (Golden Full Moon Maple). Its translucent, chartreuse-to-yellow leaves offer zero protection from UV rays, meaning they require almost constant shade. In the right spot, they glow as if illuminated from within.
 
 ## Summary Table: Group Selection Matrix
 
@@ -147,3 +158,4 @@ While technically a different species, *Acer shirasawanum* (the Full Moon Maple)
 | **Linearilobum** | Texture / Airy | Low-Med | 'Beni otake' |
 | **Dwarf** | Rocks / Containers | High (usually) | 'Mikawa Yatsubusa' |
 | **Variegated** | Collector "WOW" factor | Very Low | 'Ukigumo' |
+| **Shirasawanum** | Shady "Glow" | Very Low | 'Aureum' |
