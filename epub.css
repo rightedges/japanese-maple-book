@@ -1,8 +1,23 @@
-/* CSS for EPUB to match the provided image (San Francisco / sans-serif) */
+/* CSS for EPUB to force San Francisco / sans-serif across all elements */
+
+/* Target everything for maximum coverage */
+* {
+    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
 body {
-    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.5;
-    color: #000;
+}
+
+/* Explicitly target common text blocks to override reader defaults */
+p,
+li,
+blockquote,
+div,
+span,
+dd,
+dt {
+    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 
 h1,
@@ -11,14 +26,28 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
     font-weight: bold;
     margin-top: 1.2em;
     margin-bottom: 0.6em;
 }
 
+/* Maintain monospace for code blocks */
 code,
-pre {
-    font-family: "SF Mono", "Menlo", monospace;
+pre,
+kbd,
+samp {
+    font-family: "SF Mono", "Menlo", "Courier New", monospace !important;
     font-size: 0.9em;
+}
+
+/* Ensure italic and bold still work within the forced font */
+em,
+i {
+    font-style: italic;
+}
+
+strong,
+b {
+    font-weight: bold;
 }
