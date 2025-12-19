@@ -1,0 +1,72 @@
+- title: Introduction
+  url: /
+  file: index.md
+
+- title: "Part I: The Foundation"
+  children:
+    - title: "1. Introduction to Acer palmatum"
+      url: /chapters/01-introduction.html
+      file: chapters/01-introduction.md
+    - title: "2. The 7 Groups"
+      url: /chapters/02-seven-groups.html
+      file: chapters/02-seven-groups.md
+    - title: "3. Buying Your First Tree"
+      url: /chapters/03-buying.html
+      file: chapters/03-buying.md
+
+- title: "Part II: Cultivation & Care"
+  children:
+    - title: "4. Siting and Planting"
+      url: /chapters/04-siting-planting.html
+      file: chapters/04-siting-planting.md
+    - title: "5. Watering and Mulching"
+      url: /chapters/05-watering.html
+      file: chapters/05-watering.md
+    - title: "6. Container Culture"
+      url: /chapters/06-containers.html
+      file: chapters/06-containers.md
+    - title: "7. Fertilization Basics"
+      url: /chapters/07-fertilization.html
+      file: chapters/07-fertilization.md
+
+- title: "Part III: Design & Aesthetics"
+  children:
+    - title: "8. Seasonal Color Palette"
+      url: /chapters/08-seasonal-color.html
+      file: chapters/08-seasonal-color.md
+    - title: "9. Companion Planting"
+      url: /chapters/09-companion-planting.html
+      file: chapters/09-companion-planting.md
+    - title: "10. Famous Cultivars Guide"
+      url: /chapters/10-famous-cultivars.html
+      file: chapters/10-famous-cultivars.md
+
+- title: "Part IV: Advanced Techniques"
+  children:
+    - title: "11. Pruning Mastery"
+      url: /chapters/11-pruning.html
+      file: chapters/11-pruning.md
+    - title: "12. Propagation"
+      url: /chapters/12-propagation.html
+      file: chapters/12-propagation.md
+    - title: "13. Maple Bonsai Introduction"
+      url: /chapters/13-bonsai.html
+      file: chapters/13-bonsai.md
+
+- title: "Part V: Troubleshooting"
+  children:
+    - title: "14. Pests and Diseases"
+      url: /chapters/14-pests-diseases.html
+      file: chapters/14-pests-diseases.md
+    - title: "15. Environmental Stress"
+      url: /chapters/15-environmental-stress.html
+      file: chapters/15-environmental-stress.md
+    - title: "16. Maintenance Calendar"
+      url: /chapters/16-calendar.html
+      file: chapters/16-calendar.md
+
+- title: "Part VI: Appendices"
+  children:
+    - title: "Appendix A: Cultivar Quick Reference"
+      url: /chapters/appendix-a-table.html
+      file: chapters/appendix-a-table.md
