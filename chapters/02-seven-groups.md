@@ -69,6 +69,8 @@ These create a distinct, fine texture in the landscape that contrasts beautifull
 
 ## 6. Dwarf Group
 
+![Acer palmatum - Dwarf Group]({{ '/assets/images/chapter2/dwarf.jpg' | relative_url }})
+
 The **Dwarf** group is a catch-all for cultivars selected for small stature and dense growth.
 *   **Leaf Shape**: Often small, sometimes distorted or crinkled.
 *   **Habit**: Slow growing, compact, often suited for rock gardens or bonsai. They may naturally form tight balls or squat bushes.
