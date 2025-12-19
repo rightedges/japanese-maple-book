@@ -70,3 +70,58 @@
     - title: "Appendix A: Cultivar Quick Reference"
       url: /chapters/appendix-a-table.html
       file: chapters/appendix-a-table.md
+
+- title: "繁體中文版"
+  url: /zh-tw/
+  children:
+    - title: "1. 日本楓樹簡介"
+      url: /zh-tw/chapters/01-introduction.html
+      file: zh-tw/chapters/01-introduction.md
+    - title: "2. 七大類別"
+      url: /zh-tw/chapters/02-seven-groups.html
+      file: zh-tw/chapters/02-seven-groups.md
+    - title: "3. 購買第一棵樹"
+      url: /zh-tw/chapters/03-buying.html
+      file: zh-tw/chapters/03-buying.md
+    - title: "4. 選址與種植"
+      url: /zh-tw/chapters/04-siting-planting.html
+      file: zh-tw/chapters/04-siting-planting.md
+    - title: "5. 澆水與覆蓋"
+      url: /zh-tw/chapters/05-watering.html
+      file: zh-tw/chapters/05-watering.md
+    - title: "6. 盆栽栽培"
+      url: /zh-tw/chapters/06-containers.html
+      file: zh-tw/chapters/06-containers.md
+    - title: "7. 施肥基礎"
+      url: /zh-tw/chapters/07-fertilization.html
+      file: zh-tw/chapters/07-fertilization.md
+    - title: "8. 季節色彩調色盤"
+      url: /zh-tw/chapters/08-seasonal-color.html
+      file: zh-tw/chapters/08-seasonal-color.md
+    - title: "9. 伴生植物與生態系統"
+      url: /zh-tw/chapters/09-companion-planting.html
+      file: zh-tw/chapters/09-companion-planting.md
+    - title: "10. 著名品種指南"
+      url: /zh-tw/chapters/10-famous-cultivars.html
+      file: zh-tw/chapters/10-famous-cultivars.md
+    - title: "11. 修剪大師"
+      url: /zh-tw/chapters/11-pruning.html
+      file: zh-tw/chapters/11-pruning.md
+    - title: "12. 繁殖技術"
+      url: /zh-tw/chapters/12-propagation.html
+      file: zh-tw/chapters/12-propagation.md
+    - title: "13. 楓樹盆景入門"
+      url: /zh-tw/chapters/13-bonsai.html
+      file: zh-tw/chapters/13-bonsai.md
+    - title: "14. 病蟲害管理"
+      url: /zh-tw/chapters/14-pests-diseases.html
+      file: zh-tw/chapters/14-pests-diseases.md
+    - title: "15. 環境壓力"
+      url: /zh-tw/chapters/15-environmental-stress.html
+      file: zh-tw/chapters/15-environmental-stress.md
+    - title: "16. 養護月曆"
+      url: /zh-tw/chapters/16-calendar.html
+      file: zh-tw/chapters/16-calendar.md
+    - title: "附錄 A：品種快速參考表"
+      url: /zh-tw/chapters/appendix-a-table.html
+      file: zh-tw/chapters/appendix-a-table.md
