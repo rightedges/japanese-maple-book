@@ -64,6 +64,9 @@
     - title: "16. Maintenance Calendar"
       url: /chapters/16-calendar.html
       file: chapters/16-calendar.md
+    - title: "17. Cultivar Library"
+      url: /chapters/cultivar-library.html
+      file: chapters/cultivar-library.md
 
 - title: "Part VI: Appendices"
   children:

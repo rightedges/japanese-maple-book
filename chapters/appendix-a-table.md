@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Appendix A: Cultivar Quick Reference"
-nav_order: 18
+nav_order: 19
 permalink: /chapters/appendix-a-table.html
 ---
 
@@ -11,7 +11,7 @@ This reference guide provides detailed information on some of the most popular J
 
 ---
 
-### ['Bloodgood']({{ site.baseurl }}/cultivars/bloodgood)
+### ['Bloodgood'](/japanese-maple-book/cultivars/bloodgood)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -21,7 +21,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Remarkable color retention. Robust and sun-tolerant, but requires very well-drained soil. |
 
-### ['Sango Kaku']({{ site.baseurl }}/cultivars/sango-kaku)
+### ['Sango Kaku'](/japanese-maple-book/cultivars/sango-kaku)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -31,7 +31,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Coral-red winter bark. Needs sun for red bark, but foliage is sensitive to hot afternoon sun and dry winds. |
 
-### ['Crimson Queen']({{ site.baseurl }}/cultivars/crimson-queen)
+### ['Crimson Queen'](/japanese-maple-book/cultivars/crimson-queen)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -41,7 +41,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
 
-### ['Katsura']({{ site.baseurl }}/cultivars/katsura)
+### ['Katsura'](/japanese-maple-book/cultivars/katsura)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -51,7 +51,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Stunning orange spring growth. Forms a dense, tiered structure; prune for air circulation to prevent mildew. |
 
-### ['Osakazuki']({{ site.baseurl }}/cultivars/osakazuki)
+### ['Osakazuki'](/japanese-maple-book/cultivars/osakazuki)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -61,7 +61,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | World-class fall color. A "green giant" for 10 months, but becomes the garden star in November. |
 
-### ['Mikawa Yatsubusa']({{ site.baseurl }}/cultivars/mikawa-yatsubusa)
+### ['Mikawa Yatsubusa'](/japanese-maple-book/cultivars/mikawa-yatsubusa)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -71,7 +71,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Unique shingled habit. Extremely slow-growing; ideal for containers and focal points in rock gardens. |
 
-### ['Seiryu']({{ site.baseurl }}/cultivars/seiryu)
+### ['Seiryu'](/japanese-maple-book/cultivars/seiryu)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -81,7 +81,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Elegant upright lace-leaf. Very vigorous for a dissectum; tolerates heat better than weeping varieties. |
 
-### ['Beni maiko']({{ site.baseurl }}/cultivars/beni-maiko)
+### ['Beni maiko'](/japanese-maple-book/cultivars/beni-maiko)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -91,7 +91,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Brilliant "Red Dance" spring color. Needs protection from late spring frosts to protect first flush. |
 
-### ['Ukigumo']({{ site.baseurl }}/cultivars/ukigumo)
+### ['Ukigumo'](/japanese-maple-book/cultivars/ukigumo)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -101,7 +101,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | Ethereal "floating cloud" look. Requires deep shade; white leaf portions burn instantly in direct sun. |
 
-### ['Shishigashira']({{ site.baseurl }}/cultivars/shishigashira)
+### ['Shishigashira'](/japanese-maple-book/cultivars/shishigashira)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -111,7 +111,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | "Lion's Head" crinkled foliage. Holds leaves very late into autumn; best used as a vertical architectural element. |
 
-### ['Inaba shidare']({{ site.baseurl }}/cultivars/inaba-shidare)
+### ['Inaba shidare'](/japanese-maple-book/cultivars/inaba-shidare)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -121,7 +121,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Exceptional vigor. Most sun-tolerant of the red lace-leafs; excellent for larger weeping specimens. |
 
-### ['Summer Gold']({{ site.baseurl }}/cultivars/summer-gold)
+### ['Summer Gold'](/japanese-maple-book/cultivars/summer-gold)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -131,7 +131,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Vibrant yellow focal point. Retains its golden-yellow color even in the full sun of July and August. |
 
-### ['Jordan']({{ site.baseurl }}/cultivars/jordan)
+### ['Jordan'](/japanese-maple-book/cultivars/jordan)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -141,7 +141,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Pastel neon foliage. Needs morning sun for best color, but afternoon shade is critical in hot regions. |
 
-### ['Scolopendrifolium']({{ site.baseurl }}/cultivars/scolopendrifolium)
+### ['Scolopendrifolium'](/japanese-maple-book/cultivars/scolopendrifolium)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -151,7 +151,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Dramatic "willow" look. Long, narrow lobes move beautifully in the wind; provides an airy light filter. |
 
-### ['Butterfly']({{ site.baseurl }}/cultivars/butterfly)
+### ['Butterfly'](/japanese-maple-book/cultivars/butterfly)
 
 | Attribute | Specification |
 | :--- | :--- |
@@ -161,7 +161,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Best hardy variegated variety. More resilient than 'Ukigumo'; stays compact with light structural pruning. |
 
-### ['Tamukeyama']({{ site.baseurl }}/cultivars/tamukeyama)
+### ['Tamukeyama'](/japanese-maple-book/cultivars/tamukeyama)
 
 | Attribute | Specification |
 | :--- | :--- |
