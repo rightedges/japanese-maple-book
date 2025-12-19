@@ -9,8 +9,8 @@ COMBINED_MD="combined.md"
 
 # Add title block for Pandoc
 echo "% The Japanese Maple Book" > "$COMBINED_MD"
-echo "% Revised Digital Edition - $(date +'%b %Y')" >> "$COMBINED_MD"
-echo "% $(date +%Y-%m-%d)" >> "$COMBINED_MD"
+echo "% Revised Digital Edition by Rightedges with AI" >> "$COMBINED_MD"
+echo "% © 2025 Rightedges with AI" >> "$COMBINED_MD"
 echo "" >> "$COMBINED_MD"
 
 # Concatenate files in order based on navigation.yml

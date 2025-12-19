@@ -9,6 +9,7 @@ side_bar_label: "Japanese Maple Book"
 
 # Just-the-Docs Configuration
 search_enabled: true
+footer_content: "© 2025 Rightedges with AI. All rights reserved."
 aux_links:
   "GitHub Repository": "https://github.com/rightedges/japanese-maple-book"
 
