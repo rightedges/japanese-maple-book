@@ -9,8 +9,8 @@ COMBINED_MD="combined.md"
 
 # Add title block for Pandoc
 echo "% The Japanese Maple Book" > "$COMBINED_MD"
-echo "% Author Name" >> "$COMBINED_MD"
-echo "% $(date +%Y)" >> "$COMBINED_MD"
+echo "% Revised Digital Edition by rightedges with Gemini AI" >> "$COMBINED_MD"
+echo "% © 2025 rightedges with Gemini AI" >> "$COMBINED_MD"
 echo "" >> "$COMBINED_MD"
 
 # Concatenate files in order based on navigation.yml
@@ -34,13 +34,13 @@ done
 # CLEANUP for Pandoc (Strip Liquid tags)
 echo "Cleaning up Liquid tags for Pandoc..."
 # 1. Normalize curly quotes to straight quotes (just in case)
-sed -i "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
+sed -i "" "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
 
 # 2. Replace {{ '/assets/images/chapter2/palmatum.png' | relative_url }} with assets/images/chapter2/palmatum.png
 # This version is more robust against different quote types and leading slashes.
-sed -i -E 's/\{\{[[:space:]]*['\''"]\/?([^'\''"]+)['\''"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
+sed -i "" -E 's/\{\{[[:space:]]*['\''"]\/?([^'\''"]+)['\''"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
 
 echo "Generating EPUB..."
-pandoc "$COMBINED_MD" -o "$OUTPUT" --toc
+pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.jpg
 
 echo "Done: $OUTPUT"

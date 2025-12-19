@@ -35,7 +35,7 @@ done
 echo "Cleaning up Liquid tags for Pandoc..."
 
 # 1. Handle any remaining {{ ... | relative_url }} patterns
-sed -i "" -E 's/\{\{[[:space:]]*["'"'"']?\/?([^"'"'"']+)["'"'"']?[[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
+sed -i "" -E 's/\{\{[[:space:]]*["\047]?\/?([^"\047]+)["\047]?[[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
 
 # 2. Clean up curly single quotes around paths and remove leading slashes
 # Pattern: ''/path/to/file.ext'' -> assets/path/to/file.ext
