@@ -5,6 +5,7 @@ group: "Linearilobum"
 foliage_sum_fall: "Green / Gold"
 habit: "Upright (12-15')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Scolopendrifolium' Japanese Maple

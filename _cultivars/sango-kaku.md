@@ -5,6 +5,7 @@ group: "Matsumurae"
 foliage_sum_fall: "Green / Gold"
 habit: "Upright (15-20')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Sango Kaku' (Coral Bark Maple)

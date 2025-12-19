@@ -5,6 +5,7 @@ group: "Variegated"
 foliage_sum_fall: "White-Green / Pink"
 habit: "Upright (8-10')"
 sun_tolerance: "Low (Shade)"
+parent: "Cultivar Library"
 ---
 
 # 'Ukigumo' ("Floating Cloud" Maple)

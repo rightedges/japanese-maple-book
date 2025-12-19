@@ -5,6 +5,7 @@ group: "Palmatum"
 foliage_sum_fall: "Red-Green / Scarlet"
 habit: "Bushy (6-8')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Beni maiko' ("Red Dance" Maple)

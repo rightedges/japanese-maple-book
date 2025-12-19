@@ -5,6 +5,7 @@ group: "Dissectum"
 foliage_sum_fall: "Purple-Red / Scarlet"
 habit: "Weeping (6-8')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Tamukeyama' Japanese Maple

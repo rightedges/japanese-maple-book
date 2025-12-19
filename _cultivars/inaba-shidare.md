@@ -5,6 +5,7 @@ group: "Dissectum"
 foliage_sum_fall: "Deep Purple / Red"
 habit: "Weeping (6-8')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Inaba shidare' Japanese Maple

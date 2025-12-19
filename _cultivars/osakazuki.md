@@ -5,6 +5,7 @@ group: "Amoenum"
 foliage_sum_fall: "Green / Fire-Red"
 habit: "Upright (20-25')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Osakazuki' Japanese Maple

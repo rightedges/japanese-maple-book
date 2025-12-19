@@ -5,6 +5,7 @@ group: "Dissectum"
 foliage_sum_fall: "Burgundy / Red"
 habit: "Weeping (6-8')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Crimson Queen' Japanese Maple

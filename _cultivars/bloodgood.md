@@ -5,6 +5,7 @@ group: "Palmatum"
 foliage_sum_fall: "Burgundy / Scarlet"
 habit: "Upright (15-20')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Bloodgood' Japanese Maple

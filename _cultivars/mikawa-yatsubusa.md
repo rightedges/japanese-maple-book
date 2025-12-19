@@ -5,6 +5,7 @@ group: "Dwarf"
 foliage_sum_fall: "Green / Orange"
 habit: "Dwarf (3-5')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Mikawa Yatsubusa' Japanese Maple

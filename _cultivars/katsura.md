@@ -5,6 +5,7 @@ group: "Palmatum"
 foliage_sum_fall: "Chartreuse / Orange"
 habit: "Upright (10-12')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Katsura' Japanese Maple

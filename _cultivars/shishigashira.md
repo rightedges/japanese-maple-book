@@ -5,6 +5,7 @@ group: "Palmatum"
 foliage_sum_fall: "Deep Green / Orange"
 habit: "Upright (8-12')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Shishigashira' ("Lion's Head" Maple)

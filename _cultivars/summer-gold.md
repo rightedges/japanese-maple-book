@@ -5,6 +5,7 @@ group: "Palmatum"
 foliage_sum_fall: "Golden Yellow / Gold"
 habit: "Upright (8-10')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Summer Gold' Japanese Maple

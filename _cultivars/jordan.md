@@ -5,6 +5,7 @@ group: "Shirasawanum"
 foliage_sum_fall: "Neon Yellow / Orange"
 habit: "Upright (10-12')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Jordan' (Full Moon Maple)

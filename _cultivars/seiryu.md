@@ -5,6 +5,7 @@ group: "Dissectum"
 foliage_sum_fall: "Green / Gold-Red"
 habit: "Upright (10-15')"
 sun_tolerance: "High"
+parent: "Cultivar Library"
 ---
 
 # 'Seiryu' Japanese Maple

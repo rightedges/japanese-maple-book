@@ -5,6 +5,7 @@ group: "Variegated"
 foliage_sum_fall: "White-Green / Pink-Red"
 habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
+parent: "Cultivar Library"
 ---
 
 # 'Butterfly' Japanese Maple
