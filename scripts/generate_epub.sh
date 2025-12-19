@@ -27,8 +27,8 @@ grep "file:" _data/navigation.yml | awk '{print $2}' | while read -r file; do
     echo "---" >> "$COMBINED_MD"
     echo "" >> "$COMBINED_MD"
     
-    # Append content, stripping Front Matter (lines between first two ---) 
-    sed '1,/^---$/d' "$file" >> "$COMBINED_MD"
+    # Process the file: extract front matter, replace {{ page.* }} variables, output markdown
+    python3 scripts/process_liquid.py "$file" >> "$COMBINED_MD"
 done
 
 # CLEANUP for Pandoc (Strip Liquid tags and fix paths)
