@@ -27,18 +27,20 @@ grep "file:" _data/navigation.yml | awk '{print $2}' | while read -r file; do
     echo "---" >> "$COMBINED_MD"
     echo "" >> "$COMBINED_MD"
     
-    # Append content, stripping Front Matter (lines between first two ---)
+    # Append content, stripping Front Matter (lines between first two ---) 
     sed '1,/^---$/d' "$file" >> "$COMBINED_MD"
 done
 
-# CLEANUP for Pandoc (Strip Liquid tags)
+# CLEANUP for Pandoc (Strip Liquid tags and fix paths)
 echo "Cleaning up Liquid tags for Pandoc..."
-# 1. Normalize curly quotes to straight quotes (just in case)
-# sed -i "" "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
 
-# 2. Replace {{ '/assets/images/chapter2/palmatum.png' | relative_url }} with assets/images/chapter2/palmatum.png
-# This version is more robust against different quote types and leading slashes.
-# sed -i "" -E "s/\{\{[[:space:]]*['"]\/?([^'"]\+)['"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g" "$COMBINED_MD"
+# 1. Handle any remaining {{ ... | relative_url }} patterns
+sed -i "" -E 's/\{\{[[:space:]]*["'"'"']?\/?([^"'"'"']+)["'"'"']?[[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
+
+# 2. Clean up curly single quotes around paths and remove leading slashes
+# Pattern: ''/path/to/file.ext'' -> assets/path/to/file.ext
+sed -i "" -E "s|''/|assets/|g" "$COMBINED_MD"
+sed -i "" -E "s|'' \)|)|g" "$COMBINED_MD"
 
 echo "Generating EPUB..."
 pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.jpg
