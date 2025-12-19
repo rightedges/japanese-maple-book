@@ -171,6 +171,66 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Heat resilience master. The preferred red lace-leaf for the American South due to soil/heat tolerance. |
 
+### ['Hime-shojo'](/japanese-maple-book/cultivars/hime-shojo)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Cherry Red / Bright Red |
+| **Mature Habit** | Dwarf (3-6') |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | Intense cherry color. Maintains its maroon-red better through summer heat than most small cultivars. |
+
+### ['Orange Dream'](/japanese-maple-book/cultivars/orange-dream)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Orange / Yellow-Gold |
+| **Mature Habit** | Upright (8-10') |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Sunrise" spring growth. Emerging orange-gold transitions to a luminous chartreuse in summer. |
+
+### ['Baldsmith'](/japanese-maple-book/cultivars/baldsmith)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Dissectum |
+| **Foliage (Sum/Fall)** | Coral-Red / Yellow-Orange |
+| **Mature Habit** | Weeping (4-6') |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | Shifting multi-colors. Coral-pink spring foliage matures into a green-and-pink summer tapestry. |
+
+### ['Sekka Yatsubusa'](/japanese-maple-book/cultivars/sekka-yatsubusa)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green / Yellow-Red |
+| **Mature Habit** | Upright (10-12') |
+| **Sun Tolerance** | High |
+| **Best Feature** | Sculptural tufted growth. Features unique fasciated (flattened) stems and layered leaf pads. |
+
+### ['Murasaki Kiyohime'](/japanese-maple-book/cultivars/murasaki-kiyohime)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green / Yellow-Orange |
+| **Mature Habit** | Dwarf Mounding (2-6') |
+| **Sun Tolerance** | High |
+| **Best Feature** | Purple-tipped foliage. A vigorous, low-mounding dwarf that is extremely durable and bonsai-friendly. |
+
+### ['Baton Rouge'](/japanese-maple-book/cultivars/baton-rouge)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green / Yellow |
+| **Mature Habit** | Upright (10-15') |
+| **Sun Tolerance** | High |
+| **Best Feature** | Intense lipstick-red bark. Bred for heat tolerance; bark color remains vibrant even in southern climates. |
+
 ---
 
 

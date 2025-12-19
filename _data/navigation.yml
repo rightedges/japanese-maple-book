@@ -67,6 +67,51 @@
     - title: "17. Cultivar Library"
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
+      children:
+        - title: "Baldsmith"
+          file: _cultivars/baldsmith.md
+        - title: "Baton Rouge"
+          file: _cultivars/baton-rouge.md
+        - title: "Beni maiko"
+          file: _cultivars/beni-maiko.md
+        - title: "Bloodgood"
+          file: _cultivars/bloodgood.md
+        - title: "Butterfly"
+          file: _cultivars/butterfly.md
+        - title: "Crimson Queen"
+          file: _cultivars/crimson-queen.md
+        - title: "Hime-shojo"
+          file: _cultivars/hime-shojo.md
+        - title: "Inaba shidare"
+          file: _cultivars/inaba-shidare.md
+        - title: "Jordan"
+          file: _cultivars/jordan.md
+        - title: "Katsura"
+          file: _cultivars/katsura.md
+        - title: "Mikawa Yatsubusa"
+          file: _cultivars/mikawa-yatsubusa.md
+        - title: "Murasaki Kiyohime"
+          file: _cultivars/murasaki-kiyohime.md
+        - title: "Orange Dream"
+          file: _cultivars/orange-dream.md
+        - title: "Osakazuki"
+          file: _cultivars/osakazuki.md
+        - title: "Sango Kaku"
+          file: _cultivars/sango-kaku.md
+        - title: "Scolopendrifolium"
+          file: _cultivars/scolopendrifolium.md
+        - title: "Seiryu"
+          file: _cultivars/seiryu.md
+        - title: "Sekka Yatsubusa"
+          file: _cultivars/sekka-yatsubusa.md
+        - title: "Shishigashira"
+          file: _cultivars/shishigashira.md
+        - title: "Summer Gold"
+          file: _cultivars/summer-gold.md
+        - title: "Tamukeyama"
+          file: _cultivars/tamukeyama.md
+        - title: "Ukigumo"
+          file: _cultivars/ukigumo.md
 
 - title: "Part VI: Appendices"
   children:
