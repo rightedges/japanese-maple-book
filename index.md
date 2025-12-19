@@ -13,4 +13,4 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 * [{{ item.title }}]({{ item.url | relative_url }})
 {% endfor %}
 
-[Download EPUB Version](./book.epub)
+[Download EPUB Version]({{ 'book.epub' | relative_url }})
