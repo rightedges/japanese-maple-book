@@ -41,6 +41,6 @@ sed -i "s/‘/'/g; s/’/'/g; s/“/\"/g; s/”/\"/g" "$COMBINED_MD"
 sed -i -E 's/\{\{[[:space:]]*['\''"]\/?([^'\''"]+)['\''"][[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
 
 echo "Generating EPUB..."
-pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true
+pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.jpg
 
 echo "Done: $OUTPUT"
