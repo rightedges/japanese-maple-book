@@ -1,15 +1,24 @@
-/* CSS for EPUB to prioritize Apple fonts */
+/* CSS for EPUB to match the provided image (San Francisco / sans-serif) */
 body {
-    font-family: "Iowan Old Style", "Seravek", -apple-system, system-ui, serif;
+    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 1.5;
+    color: #000;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Seravek", -apple-system, system-ui, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: -apple-system, system-ui, "SF Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
     margin-top: 1.2em;
     margin-bottom: 0.6em;
 }
 
-code, pre {
+code,
+pre {
     font-family: "SF Mono", "Menlo", monospace;
+    font-size: 0.9em;
 }
