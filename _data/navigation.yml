@@ -68,6 +68,8 @@
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
       children:
+        - title: "Aoyagi"
+          file: _cultivars/aoyagi.md
         - title: "Baldsmith"
           file: _cultivars/baldsmith.md
         - title: "Baton Rouge"
@@ -90,12 +92,16 @@
           file: _cultivars/katsura.md
         - title: "Mikawa Yatsubusa"
           file: _cultivars/mikawa-yatsubusa.md
+        - title: "Moonrise"
+          file: _cultivars/moonrise.md
         - title: "Murasaki Kiyohime"
           file: _cultivars/murasaki-kiyohime.md
         - title: "Orange Dream"
           file: _cultivars/orange-dream.md
         - title: "Osakazuki"
           file: _cultivars/osakazuki.md
+        - title: "Peve Starfish"
+          file: _cultivars/peve-starfish.md
         - title: "Sango Kaku"
           file: _cultivars/sango-kaku.md
         - title: "Scolopendrifolium"
@@ -110,8 +116,14 @@
           file: _cultivars/summer-gold.md
         - title: "Tamukeyama"
           file: _cultivars/tamukeyama.md
+        - title: "Tiny Stars"
+          file: _cultivars/tiny-stars.md
         - title: "Ukigumo"
           file: _cultivars/ukigumo.md
+        - title: "Villa Taranto"
+          file: _cultivars/villa-taranto.md
+        - title: "Viridis"
+          file: _cultivars/viridis.md
 
 - title: "Part VI: Appendices"
   children:
