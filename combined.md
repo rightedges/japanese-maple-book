@@ -30,7 +30,7 @@ The Japanese maple belongs to the genus *Acer* (*maples*) and the section *Palma
 
 While often grouped together, it is distinct from its relatives:
 *   ***Acer japonicum*** (**Fullmoon Maple**): Larger leaves with more lobes (9-13) and a rounder appearance.
-*   ***Acer shirasawanum***: Prized for hardiness and fan-like foliage (e.g., 'Autumn Moon').
+*   ***Acer shirasawanum***: Prized for hardiness and fan-like foliage (e.g., 'Autumn Moon).
 *   ***Acer sieboldianum***: A hardy mountain species similar to *palmatum*.
 
 The defining trait of *Acer palmatum* is its **genetic instability**. This natural propensity for mutation allows the species to produce endless variations in color, shape, and habit, which is why thousands of unique cultivars exist today.
@@ -61,7 +61,7 @@ The iconic winged seeds, or **samaras**, are designed to spin. This allows the w
 
 In Japan, the maple is celebrated as *momiji* (crimson leaves). 
 *   **Heian Period (794-1185)**: *Momijigari* (maple hunting) became a courtly pastime, where nobles explored mountains to view autumn color, viewing the transient red leaves as a reflection of *mono no aware*—the sensitive pathos of ephemera.
-*   **Edo Period (1603-1867)**: Modern cultivation exploded during this era of peace. Samurai and nurserymen began isolating wild mutations, cataloging dozens of varieties in works like the *Kaedebyō*.
+*   **Edo Period (1603-186)**: Modern cultivation exploded during this era of peace. Samurai and nurserymen began isolating wild mutations, cataloging dozens of varieties in works like the *Kaedebyō*.
 
 The West discovered these treasures in the 19th century through botanists like von Siebold. By the 20th century, Japanese Maples had become staples of European and American landscapes.
 
@@ -159,7 +159,7 @@ Because their leaves are so thin, they have almost no water-holding capacity. Th
 To the casual observer, these often don't even look like maples. They look more like bundles of bamboo or spider legs.
 
 ### Botanical Markers
-*   **Leaf Shape**: Lobes are extremely long and narrow ("linear"). In some cultivars like **'Koto no ito'** (Harp Strings), the lobes are no wider than a blade of grass.
+*   **Leaf Shape**: Lobes are extremely long and narrow ("linear). In some cultivars like **'Koto no ito'** (Harp Strings), the lobes are no wider than a blade of grass.
 *   **Habit**: Usually upright and vase-shaped, though they are often airy and transparent.
 
 ### Aesthetic Contrast
@@ -230,7 +230,7 @@ The most famous member is **'Aureum'** (Golden Full Moon Maple). Its translucent
 
 # Buying Your First Tree: A Connoisseur's Guide
 
-Embarking on the journey of Japanese Maple stewardship begins with a single, crucial moment: the purchase. While impulse buying so often plagues gardeners ("I have a spot for this somewhere!"), selecting a Japanese Maple requires a discerning eye. You are not just buying a plant; you are buying a structure, a root system, and a genetic history.
+Embarking on the journey of Japanese Maple stewardship begins with a single, crucial moment: the purchase. While impulse buying so often plagues gardeners ("I have a spot for this somewhere!), selecting a Japanese Maple requires a discerning eye. You are not just buying a plant; you are buying a structure, a root system, and a genetic history.
 
 Because these trees are long-lived (often exceeding a hundred years) and slow-growing, mistakes made at the nursery can take a decade to haunt you. A poorly placed graft or a girdled root is a "time bomb." In this expanded chapter, we go beyond the surface aesthetics of leaf color and dive into the technical and logistical realities of sourcing high-quality maples.
 
@@ -268,7 +268,7 @@ Ninety percent of named Japanese Maples are clones created through grafting.
 3.  **The "Dog-Leg"**: Avoid trees where the graft creates a sharp 45-degree kink. A high-quality grafter aligns the cambium layers so that the tree grows straight.
 
 ### The Stem and Leader
-For upright varieties ('Bloodgood', 'Sango Kaku'), look for a clear **central leader**. Avoid trees that have been "topped" in the nursery. If the main trunk has been cut, the tree will produce a chaotic cluster of weak "water sprouts" that will ruin the architectural structure of the mature tree.
+For upright varieties ('Bloodgood', 'Sango Kaku), look for a clear **central leader**. Avoid trees that have been "topped" in the nursery. If the main trunk has been cut, the tree will produce a chaotic cluster of weak "water sprouts" that will ruin the architectural structure of the mature tree.
 
 ---
 
@@ -319,7 +319,7 @@ When buying, don't buy height; buy **trunk caliper** (thickness). A thick trunk 
 
 When you find "The One," do not leave the nursery until you have checked these six boxes:
 
-1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 14).
+1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 1).
 2.  **Bark Integrity**: Ensure there is no damage from weed-whackers or mower-stings at the base.
 3.  **Drainage Test**: Look at the top of the soil. If it is covered in green moss or liverwort, the soil has been saturated for too long, indicating potential root rot.
 4.  **Variety Verification**: Does the leaf look like it should for this variety? If it's a 'Sango Kaku', are the twigs actually red?
@@ -394,7 +394,7 @@ However, "Watering" doesn't mean just spraying the tree with a hose every day. T
 
 ## 1. The Simple Test: Use Your Finger
 
-The biggest mistake people make is watering on a schedule (like "every Monday"). Instead, you should water whenever the tree *needs* it.
+The biggest mistake people make is watering on a schedule (like "every Monday). Instead, you should water whenever the tree *needs* it.
 *   **The Finger Test**: Stick your finger two inches into the dirt. 
     *   If it feels damp and cool like a wrung-out sponge, the tree is fine. 
     *   If it feels dry and dusty, give it a long, slow soak.
@@ -545,7 +545,7 @@ Every bag of fertilizer bears three numbers (e.g., 5-5-5). These represent the p
 
 ### Nitrogen (N): The Double-Edged Sword
 Nitrogen is the primary driver of chlorophyll and leafy growth. 
-*   **The Trap**: High nitrogen (like a 20-10-10) pushes "epicormic" growth. The tree grows faster than its skeletal structure can support. This results in **long internodes**—the space between two leaves might be 6 inches instead of 1 inch. This ruins the "layered" or "cloud-like" look of the tree.
+*   **The Trap**: High nitrogen (like a 20-10-1) pushes "epicormic" growth. The tree grows faster than its skeletal structure can support. This results in **long internodes**—the space between two leaves might be 6 inches instead of 1 inch. This ruins the "layered" or "cloud-like" look of the tree.
 *   **The Vulnerability**: This lush, "soft" growth has thin cell walls. It is a magnet for aphids (who love the sugar-rich sap) and is the first to scorch in the sun or freeze in a late frost.
 
 ### Phosphorus (P) and Potassium (K): The Strength Foundation
@@ -622,7 +622,7 @@ For container trees, you may continue light liquid feeding (Fish Emulsion) throu
 
 ### The Autumn Prohibition (REALLY IMPORTANT)
 **Do not fertilize after July.** 
-In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 14).
+In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 1).
 
 ---
 
@@ -660,7 +660,7 @@ The color you see at any given moment is the result of the **ratio** of these pi
 Spring is the peak of the maple's "energetic" output. As the sap rises, the tree must push out new leaves as fast as possible to start feeding itself. 
 
 ### Anthocyanin as a Shield: The Physics of UV
-Often, a green cultivar (like 'Katsura' or 'Aoyagi') will emerge in spring with bright orange or red tips. This isn't just for show. The new leaves are translucent and thin; their photosynthetic machinery is vulnerable to the spring sun. The tree pumps **anthocyanins** into the new leaves to absorb excess UV light, acting as a biological shield. 
+Often, a green cultivar (like 'Katsura' or 'Aoyagi) will emerge in spring with bright orange or red tips. This isn't just for show. The new leaves are translucent and thin; their photosynthetic machinery is vulnerable to the spring sun. The tree pumps **anthocyanins** into the new leaves to absorb excess UV light, acting as a biological shield. 
 *   **The UV Index Link**: Research indicates that trees grown at higher altitudes (or in higher UV areas) produce more intense spring reds as a direct defensive response. As the leaf matures and thickens, the green chlorophyll takes over, and the red "sunscreen" fades away.
 
 ### The "Ghost" Emergence
@@ -668,7 +668,7 @@ Cultivars like 'First Ghost' or 'Amber Ghost' have a unique spring gimmick. They
 
 ---
 
-## 3. Act II: Summer (The Weight of the Sun and "Greening Out")
+## 3. Act II: Summer (The Weight of the Sun and "Greening Out)
 
 ### Why Red Maples Turn Green: The Energy Equation
 In the high heat of July, a red maple may turn a muddy bronze-green.
@@ -688,7 +688,7 @@ The transition from summer to fall is a chemical "shutdown" of the leaf.
 As day length shrinks, the tree stops producing new chlorophyll. The existing green pigment breaks down and is reabsorbed by the tree. As the green masks disappear, the yellow **carotenoids** and **xanthophylls** that were there all summer are finally revealed. 
 
 ### The Sugar-Color Link: The Physics of Intense Red
-The most intense reds (like 'Osakazuki') require a specific weather pattern: **Sunny days and cold nights (above freezing).**
+The most intense reds (like 'Osakazuki) require a specific weather pattern: **Sunny days and cold nights (above freezing).**
 *   **Day**: Sunlight allows leaves to continue producing sugar.
 *   **Night**: Cold prevents sugar from moving out of leaves into the trunk.
 *   **The Chemistry**: The "trapped" sugar reacts with sunlight to produce a massive burst of new anthocyanins. This is what creates the "incandescent" neon-reds.
@@ -749,7 +749,7 @@ Some trees (like Black Walnut or certain Eucalyptus) are "allelopathic"—they s
 
 ### The "Humidity Well" Physics (Revisited)
 As we discussed in Chapter 4, maples live and die by the moisture in the air. A solitary maple standing in a lawn is exposed to drying winds on all sides. 
-*   **The Benefit of Grouping**: By planting an understory of ferns, hostas, and azaleas, you create a "transpiration canopy." As all these plants breathe water vapor into the air through their stomata, they create a bubble of high humidity (a "humidity well") that protects the maple's delicate leaves from scorching. Research shows that a densely planted "community" of plants can maintain a local humidity level 10-15% higher than a bare soil site. This isn't just for looks; it is a life-support system that reduces the tree's water stress.
+*   **The Benefit of Grouping**: By planting an understory of ferns, hostas, and azaleas, you create a "transpiration canopy." As all these plants breathe water vapor into the air through their stomata, they create a bubble of high humidity (a "humidity well) that protects the maple's delicate leaves from scorching. Research shows that a densely planted "community" of plants can maintain a local humidity level 10-15% higher than a bare soil site. This isn't just for looks; it is a life-support system that reduces the tree's water stress.
 
 ---
 
@@ -760,7 +760,7 @@ In design, a "foil" is a plant that highlights the features of another by being 
 ### Bold vs. Fine: The Visual Tension
 If you plant a fine-leafed maple next to a fine-leafed shrub (like a Spiraea), the eye gets confused. The two plants "blur" together into a fuzzy mess. 
 *   **The Contrast Solution**: Pair the maple with **Hostas** or **Bergenia**. The massive, solid, heart-shaped leaves of a Hosta act as a solid "ground" against which the "figure" of the maple can be seen. This contrast makes the maple look even more delicate and the Hosta look even more powerful. 
-*   **Color Counterpoints**: Use chartreuse-colored Hostas (like 'Sum and Substance') to sit beneath a burgundy 'Bloodgood'. The neon-yellow light reflected from the Hostas will "light up" the dark canopy of the maple from below.
+*   **Color Counterpoints**: Use chartreuse-colored Hostas (like 'Sum and Substance) to sit beneath a burgundy 'Bloodgood'. The neon-yellow light reflected from the Hostas will "light up" the dark canopy of the maple from below.
 
 ---
 
@@ -780,7 +780,7 @@ This is the "perfect marriage" of the garden.
 
 ### 3. Ferns (The Understory Soul)
 Ferns like the **Japanese Painted Fern** (*Athyrium niponicum*) are the most evocative companions.
-*   **Color Synergy**: The silver and burgundy colors of the Painted Fern mirror the red and white variegated maples (like 'Ukigumo') perfectly. 
+*   **Color Synergy**: The silver and burgundy colors of the Painted Fern mirror the red and white variegated maples (like 'Ukigumo) perfectly. 
 *   **Hydraulics**: Ferns grow best in the exact same dappled light that protects maples from sunscald.
 
 ### 4. Pines (The Structural Weight)
@@ -840,7 +840,7 @@ With over 1,000 named cultivars of *Acer palmatum*, choosing your first (or fift
 
 ---
 
-## 1. The Core Classics (The "Must-Haves")
+## 1. The Core Classics (The "Must-Haves)
 
 These are the trees that defined the species for the Western world. They are the most reliable, widely-planted, and historically significant cultivars in the world.
 
@@ -863,7 +863,7 @@ These are the trees that defined the species for the Western world. They are the
 
 ---
 
-## 2. The Fine-Leaf Specialists (The "Lace-Leafs")
+## 2. The Fine-Leaf Specialists (The "Lace-Leafs)
 
 These are the mounding, weeping trees that define the modern ornamental garden.
 
@@ -1320,7 +1320,7 @@ Spring is the high-stakes season. Everything happens at once: sap moves, buds br
 
 ### March: The Awakening
 *   **Potting and Root Pruning**: This is the most critical month for containers. You must repot **just as the buds begin to swell** but before they open. Once the leaves are out, it is too late.
-*   **The Soil Wakeup**: As the soil warms, the microbiology activates. This is the time to apply Humic Acids (Chapter 7) to prime the root zone.
+*   **The Soil Wakeup**: As the soil warms, the microbiology activates. This is the time to apply Humic Acids (Chapter ) to prime the root zone.
 *   **Pro-Tip**: Scuff up your mulch to ensure no molds developed over winter.
 
 ### April: The Critical Frost Watch
@@ -1381,7 +1381,7 @@ Summer is about defense. Your goal is to keep the tree cool and the water pressu
 
 ---
 
-## Regional Adjustment Matrix (Base: Zone 7)
+## Regional Adjustment Matrix (Base: Zone )
 
 | Climate Zone | Spring Start (Buds) | Summer Peak (Heat) | Winter Prep |
 | :--- | :--- | :--- | :--- |
@@ -1405,7 +1405,7 @@ Consistency is the secret to maple mastery. Ten minutes of observation every wee
 Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide. Each profile contains history, care tips, and technical specifications to help you grow your best tree.
 
 {% for cultivar in site.cultivars %}
-- [cultivar.title }}]({{ cultivar.url )
+- [cultivar.title }}]({{ cultivar.url)
 {% endfor %}
 
 ---
@@ -1416,7 +1416,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Coral-Red / Yellow-Orange |
-| **Mature Habit** | Weeping (4-6') |
+| **Mature Habit** | Weeping (4-6) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1446,7 +1446,7 @@ A perfect focal point for rock gardens or as a specimen near a pond where its ca
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Green / Yellow |
-| **Mature Habit** | Upright (10-15') |
+| **Mature Habit** | Upright (10-15) |
 | **Sun Tolerance** | High |
 
 ## Overview
@@ -1476,7 +1476,7 @@ An essential choice for southern landscapes (Zones 7-9) where other coral bark m
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Red-Green / Scarlet |
-| **Mature Habit** | Bushy (6-8') |
+| **Mature Habit** | Bushy (6-8) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1506,7 +1506,7 @@ Excellent for containers or the front of a garden border due to its compact 6-8 
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
-| **Mature Habit** | Upright (15-20') |
+| **Mature Habit** | Upright (15-2) |
 | **Sun Tolerance** | High |
 
 ## Overview
@@ -1536,7 +1536,7 @@ A perfect 15-20 foot residential anchor that provides shade without overwhelming
 | :--- | :--- |
 | **Group** | Variegated |
 | **Foliage (Sum/Fall)** | White-Green / Pink-Red |
-| **Mature Habit** | Upright (8-12') |
+| **Mature Habit** | Upright (8-12) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1566,7 +1566,7 @@ Ideal as a patio pillar or a soft privacy screen. Its slow growth and 8-12 foot 
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Burgundy / Red |
-| **Mature Habit** | Weeping (6-8') |
+| **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1596,7 +1596,7 @@ A perfect companion for water features or as a focal groundcover that won't bloc
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Cherry Red / Bright Red |
-| **Mature Habit** | Dwarf (3-6') |
+| **Mature Habit** | Dwarf (3-6) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1625,7 +1625,7 @@ An elite choice for containers, rock gardens, or as a small-scale focal point (3
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Deep Purple / Red |
-| **Mature Habit** | Weeping (6-8') |
+| **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | High |
 
 ## Overview
@@ -1655,7 +1655,7 @@ Ideal for large landscape focal points or as a "purple waterfall" pouring over s
 | :--- | :--- |
 | **Group** | Shirasawanum |
 | **Foliage (Sum/Fall)** | Neon Yellow / Orange |
-| **Mature Habit** | Upright (10-12') |
+| **Mature Habit** | Upright (10-12) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1663,7 +1663,7 @@ Ideal for large landscape focal points or as a "purple waterfall" pouring over s
 
 ## Key Features & Seasonal Interest
 - **Spring**: Emerge as neon lemon-lime fans, often brushed with soft apricot-orange at the margins.
-- **Summer**: Maintains a saturated chartreuse with striking red upright seeds ("samaras") providing a stunning contrast.
+- **Summer**: Maintains a saturated chartreuse with striking red upright seeds ("samaras) providing a stunning contrast.
 - **Fall & Winter**: Transitions through a "halo" effect to fiery orange and gold. Pale grey bark and tiered horizontal branching define its winter presence.
 
 ## Garden Use & Care
@@ -1685,7 +1685,7 @@ Functions as a "visual spotlight" in shaded or wooded areas. Its tropical textur
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Chartreuse / Orange |
-| **Mature Habit** | Upright (10-12') |
+| **Mature Habit** | Upright (10-12) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1715,7 +1715,7 @@ Functions as a perfect "threshold marker" for garden entrances. Its tiered habit
 | :--- | :--- |
 | **Group** | Dwarf |
 | **Foliage (Sum/Fall)** | Green / Orange |
-| **Mature Habit** | Dwarf (3-5') |
+| **Mature Habit** | Dwarf (3-5) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1745,11 +1745,11 @@ Place at eye-level near entrances or in ornamental pots to appreciate its sculpt
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Green / Yellow-Orange |
-| **Mature Habit** | Dwarf Mounding (2-6') |
+| **Mature Habit** | Dwarf Mounding (2-6) |
 | **Sun Tolerance** | High |
 
 ## Overview
-'Murasaki Kiyohime' ("Purple Princess") is a vigorous dwarf maple known for its low, mounding spread and tiny, purple-edged leaves. Typically growing wider than it is tall (2-6ft), it creates a luxurious "carpet" of green and purple that is exceptionally durable compared to more delicate dwarfs.
+'Murasaki Kiyohime' ("Purple Princess) is a vigorous dwarf maple known for its low, mounding spread and tiny, purple-edged leaves. Typically growing wider than it is tall (2-6ft), it creates a luxurious "carpet" of green and purple that is exceptionally durable compared to more delicate dwarfs.
 
 ## Key Features & Seasonal Interest
 - **Spring Flush**: Small, bright green leaves emerge with striking deep purple-red edges and tips, providing a refined, "dipped" appearance.
@@ -1775,7 +1775,7 @@ A premier choice for planting at the base of larger trees, in rock gardens, or a
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Orange / Yellow-Gold |
-| **Mature Habit** | Upright (8-10') |
+| **Mature Habit** | Upright (8-1) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1805,11 +1805,11 @@ Ideal for adding a splash of high-luminosity color to small gardens or as a pati
 | :--- | :--- |
 | **Group** | Amoenum |
 | **Foliage (Sum/Fall)** | Green / Fire-Red |
-| **Mature Habit** | Upright (20-25') |
+| **Mature Habit** | Upright (20-25) |
 | **Sun Tolerance** | High |
 
 ## Overview
-'Osakazuki' is the world’s finest autumn-display maple, known for its incandescent scarlet transition that lasts for weeks. Belonging to the rugged **Amoenum** group, it features large, slightly concave leaves ("Wine Cups") and a vigorous, tree-like growth habit that is exceptionally resilient for novice gardeners.
+'Osakazuki' is the world’s finest autumn-display maple, known for its incandescent scarlet transition that lasts for weeks. Belonging to the rugged **Amoenum** group, it features large, slightly concave leaves ("Wine Cups) and a vigorous, tree-like growth habit that is exceptionally resilient for novice gardeners.
 
 ## Key Features & Seasonal Interest
 - **Spring & Summer**: Understated dusty bronze-green emergence matures into a deep, glossy forest green. Thick leaf cuticles provide superior resistance to sun and wind "tip burn."
@@ -1835,7 +1835,7 @@ An ideal property anchor or privacy screen due to its 20-25 foot height. Pair wi
 | :--- | :--- |
 | **Group** | Matsumurae |
 | **Foliage (Sum/Fall)** | Green / Gold |
-| **Mature Habit** | Upright (15-20') |
+| **Mature Habit** | Upright (15-2) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1844,7 +1844,7 @@ An ideal property anchor or privacy screen due to its 20-25 foot height. Pair wi
 ## Key Features & Seasonal Interest
 - **Spring & Summer**: Chartreuse leaves with reddish margins emerge, maturing into a bright, glossy green with an airy canopy.
 - **Fall & Winter**: Transitions through apricot-gold to a complete bareness that triggers the fluorescent coral-red bark intensification.
-- **Bark Care**: The intense color is most prominent on 1-2 year old growth ("twigs"). Proper pruning is essential to encourage the regular production of this juvenile wood.
+- **Bark Care**: The intense color is most prominent on 1-2 year old growth ("twigs). Proper pruning is essential to encourage the regular production of this juvenile wood.
 
 ## Garden Use & Care
 An ideal "window specimen" near kitchens or living rooms to brighten winter views. Pair with yellow-barked **Dogwoods** for a high-impact "fire and ice" effect.
@@ -1865,7 +1865,7 @@ An ideal "window specimen" near kitchens or living rooms to brighten winter view
 | :--- | :--- |
 | **Group** | Linearilobum |
 | **Foliage (Sum/Fall)** | Green / Gold |
-| **Mature Habit** | Upright (12-15') |
+| **Mature Habit** | Upright (12-15) |
 | **Sun Tolerance** | Moderate |
 
 ## Overview
@@ -1895,11 +1895,11 @@ The #1 choice for underplanting, as its airy canopy allows 60-70% of light to re
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Green / Gold-Red |
-| **Mature Habit** | Upright (10-15') |
+| **Mature Habit** | Upright (10-15) |
 | **Sun Tolerance** | High |
 
 ## Overview
-'Seiryu' ("Blue Dragon") is a botanical marvel: the only widely available upright lace-leaf maple. It combines the delicate, feathery foliage of the **Dissectum** group with the vigorous, vase-like habit of **Palmatums**, offering lacey texture without the weeping footprint.
+'Seiryu' ("Blue Dragon) is a botanical marvel: the only widely available upright lace-leaf maple. It combines the delicate, feathery foliage of the **Dissectum** group with the vigorous, vase-like habit of **Palmatums**, offering lacey texture without the weeping footprint.
 
 ## Key Features & Seasonal Interest
 - **Spring & Summer**: Bright chartreuse ribbons emerge with pinkish-bronze tips, maturing into a crisp emerald emerald green that moves like a "flurry of feathers."
@@ -1925,7 +1925,7 @@ Perfect for narrow side-yards or creating sheltered seating areas with a high, "
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Green / Yellow-Red |
-| **Mature Habit** | Upright (10-12') |
+| **Mature Habit** | Upright (10-12) |
 | **Sun Tolerance** | High |
 
 ## Overview
@@ -1955,11 +1955,11 @@ An exceptional choice for enthusiasts looking for a "conversation piece." Its ad
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Deep Green / Orange |
-| **Mature Habit** | Upright (8-12') |
+| **Mature Habit** | Upright (8-12) |
 | **Sun Tolerance** | High |
 
 ## Overview
-'Shishigashira' ("Lion's Head") is a sculptural masterpiece known for its dense, crinkled foliage that resembles the mane of a mythical Japanese lion. A slow-growing upright with an ancient gravitas, it is prized for its structural power and unapologetic "thick" appearance.
+'Shishigashira' ("Lion's Head) is a sculptural masterpiece known for its dense, crinkled foliage that resembles the mane of a mythical Japanese lion. A slow-growing upright with an ancient gravitas, it is prized for its structural power and unapologetic "thick" appearance.
 
 ## Key Features & Seasonal Interest
 - **Spring & Summer**: Bright apple-green emergence matures into a deep, leathery green. Its dense nodes create "thick ropes" of foliage that are remarkably heat-resistant.
@@ -1985,7 +1985,7 @@ Functions as a perfect "entryway sentinel" or a standalone focal point for minim
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Golden Yellow / Gold |
-| **Mature Habit** | Upright (8-10') |
+| **Mature Habit** | Upright (8-1) |
 | **Sun Tolerance** | High |
 
 ## Overview
@@ -2015,7 +2015,7 @@ The #1 choice for a sunny mixed border. For maximum impact, plant in front of a 
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Purple-Red / Scarlet |
-| **Mature Habit** | Weeping (6-8') |
+| **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | High |
 
 ## Overview
@@ -2045,11 +2045,11 @@ Ideally suited for sunny slopes or as a reliable courtyard focal point. Pair wit
 | :--- | :--- |
 | **Group** | Variegated |
 | **Foliage (Sum/Fall)** | White-Green / Pink |
-| **Mature Habit** | Upright (8-10') |
+| **Mature Habit** | Upright (8-1) |
 | **Sun Tolerance** | Low (Shade) |
 
 ## Overview
-'Ukigumo' ("Floating Cloud") is the holy grail of variegated maples, known for its ethereal, snow-like appearance. Its leaves are so heavily flecked with white and soft pink that the tree appears as a "spectral ghost" or a floating cloud in the shaded garden corners.
+'Ukigumo' ("Floating Cloud) is the holy grail of variegated maples, known for its ethereal, snow-like appearance. Its leaves are so heavily flecked with white and soft pink that the tree appears as a "spectral ghost" or a floating cloud in the shaded garden corners.
 
 ## Key Features & Seasonal Interest
 - **Spring**: A shocking initial flush of white, cream, and baby-pink with almost no green, creating a translucent "halo" effect.
@@ -2075,223 +2075,223 @@ This reference guide provides detailed information on some of the most popular J
 
 ---
 
-### ['Bloodgood'](/japanese-maple-book/cultivars/bloodgood)
+### ['Bloodgood'](japanese-maple-book/cultivars/bloodgood)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
-| **Mature Habit** | Upright (15-20') |
+| **Mature Habit** | Upright (15-2) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Remarkable color retention. Robust and sun-tolerant, but requires very well-drained soil. |
 
-### ['Sango Kaku'](/japanese-maple-book/cultivars/sango-kaku)
+### ['Sango Kaku'](japanese-maple-book/cultivars/sango-kaku)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Matsumurae |
 | **Foliage (Sum/Fall)** | Green / Gold |
-| **Mature Habit** | Upright (15-20') |
+| **Mature Habit** | Upright (15-2) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Coral-red winter bark. Needs sun for red bark, but foliage is sensitive to hot afternoon sun and dry winds. |
 
-### ['Crimson Queen'](/japanese-maple-book/cultivars/crimson-queen)
+### ['Crimson Queen'](japanese-maple-book/cultivars/crimson-queen)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Burgundy / Red |
-| **Mature Habit** | Weeping (6-8') |
+| **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
 
-### ['Katsura'](/japanese-maple-book/cultivars/katsura)
+### ['Katsura'](japanese-maple-book/cultivars/katsura)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Chartreuse / Orange |
-| **Mature Habit** | Upright (10-12') |
+| **Mature Habit** | Upright (10-12) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Stunning orange spring growth. Forms a dense, tiered structure; prune for air circulation to prevent mildew. |
 
-### ['Osakazuki'](/japanese-maple-book/cultivars/osakazuki)
+### ['Osakazuki'](japanese-maple-book/cultivars/osakazuki)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Amoenum |
 | **Foliage (Sum/Fall)** | Green / Fire-Red |
-| **Mature Habit** | Upright (20-25') |
+| **Mature Habit** | Upright (20-25) |
 | **Sun Tolerance** | High |
 | **Best Feature** | World-class fall color. A "green giant" for 10 months, but becomes the garden star in November. |
 
-### ['Mikawa Yatsubusa'](/japanese-maple-book/cultivars/mikawa-yatsubusa)
+### ['Mikawa Yatsubusa'](japanese-maple-book/cultivars/mikawa-yatsubusa)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Dwarf |
 | **Foliage (Sum/Fall)** | Green / Orange |
-| **Mature Habit** | Dwarf (3-5') |
+| **Mature Habit** | Dwarf (3-5) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Unique shingled habit. Extremely slow-growing; ideal for containers and focal points in rock gardens. |
 
-### ['Seiryu'](/japanese-maple-book/cultivars/seiryu)
+### ['Seiryu'](japanese-maple-book/cultivars/seiryu)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Green / Gold-Red |
-| **Mature Habit** | Upright (10-15') |
+| **Mature Habit** | Upright (10-15) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Elegant upright lace-leaf. Very vigorous for a dissectum; tolerates heat better than weeping varieties. |
 
-### ['Beni maiko'](/japanese-maple-book/cultivars/beni-maiko)
+### ['Beni maiko'](japanese-maple-book/cultivars/beni-maiko)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Red-Green / Scarlet |
-| **Mature Habit** | Bushy (6-8') |
+| **Mature Habit** | Bushy (6-8) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Brilliant "Red Dance" spring color. Needs protection from late spring frosts to protect first flush. |
 
-### ['Ukigumo'](/japanese-maple-book/cultivars/ukigumo)
+### ['Ukigumo'](japanese-maple-book/cultivars/ukigumo)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Variegated |
 | **Foliage (Sum/Fall)** | White-Green / Pink |
-| **Mature Habit** | Upright (8-10') |
+| **Mature Habit** | Upright (8-1) |
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | Ethereal "floating cloud" look. Requires deep shade; white leaf portions burn instantly in direct sun. |
 
-### ['Shishigashira'](/japanese-maple-book/cultivars/shishigashira)
+### ['Shishigashira'](japanese-maple-book/cultivars/shishigashira)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Deep Green / Orange |
-| **Mature Habit** | Upright (8-12') |
+| **Mature Habit** | Upright (8-12) |
 | **Sun Tolerance** | High |
 | **Best Feature** | "Lion's Head" crinkled foliage. Holds leaves very late into autumn; best used as a vertical architectural element. |
 
-### ['Inaba shidare'](/japanese-maple-book/cultivars/inaba-shidare)
+### ['Inaba shidare'](japanese-maple-book/cultivars/inaba-shidare)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Deep Purple / Red |
-| **Mature Habit** | Weeping (6-8') |
+| **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Exceptional vigor. Most sun-tolerant of the red lace-leafs; excellent for larger weeping specimens. |
 
-### ['Summer Gold'](/japanese-maple-book/cultivars/summer-gold)
+### ['Summer Gold'](japanese-maple-book/cultivars/summer-gold)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Golden Yellow / Gold |
-| **Mature Habit** | Upright (8-10') |
+| **Mature Habit** | Upright (8-1) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Vibrant yellow focal point. Retains its golden-yellow color even in the full sun of July and August. |
 
-### ['Jordan'](/japanese-maple-book/cultivars/jordan)
+### ['Jordan'](japanese-maple-book/cultivars/jordan)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Shirasawanum |
 | **Foliage (Sum/Fall)** | Neon Yellow / Orange |
-| **Mature Habit** | Upright (10-12') |
+| **Mature Habit** | Upright (10-12) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Pastel neon foliage. Needs morning sun for best color, but afternoon shade is critical in hot regions. |
 
-### ['Scolopendrifolium'](/japanese-maple-book/cultivars/scolopendrifolium)
+### ['Scolopendrifolium'](japanese-maple-book/cultivars/scolopendrifolium)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Linearilobum |
 | **Foliage (Sum/Fall)** | Green / Gold |
-| **Mature Habit** | Upright (12-15') |
+| **Mature Habit** | Upright (12-15) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Dramatic "willow" look. Long, narrow lobes move beautifully in the wind; provides an airy light filter. |
 
-### ['Butterfly'](/japanese-maple-book/cultivars/butterfly)
+### ['Butterfly'](japanese-maple-book/cultivars/butterfly)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Variegated |
 | **Foliage (Sum/Fall)** | White-Green / Pink-Red |
-| **Mature Habit** | Upright (8-12') |
+| **Mature Habit** | Upright (8-12) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Best hardy variegated variety. More resilient than 'Ukigumo'; stays compact with light structural pruning. |
 
-### ['Tamukeyama'](/japanese-maple-book/cultivars/tamukeyama)
+### ['Tamukeyama'](japanese-maple-book/cultivars/tamukeyama)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Purple-Red / Scarlet |
-| **Mature Habit** | Weeping (6-8') |
+| **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Heat resilience master. The preferred red lace-leaf for the American South due to soil/heat tolerance. |
 
-### ['Hime-shojo'](/japanese-maple-book/cultivars/hime-shojo)
+### ['Hime-shojo'](japanese-maple-book/cultivars/hime-shojo)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Cherry Red / Bright Red |
-| **Mature Habit** | Dwarf (3-6') |
+| **Mature Habit** | Dwarf (3-6) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Intense cherry color. Maintains its maroon-red better through summer heat than most small cultivars. |
 
-### ['Orange Dream'](/japanese-maple-book/cultivars/orange-dream)
+### ['Orange Dream'](japanese-maple-book/cultivars/orange-dream)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Orange / Yellow-Gold |
-| **Mature Habit** | Upright (8-10') |
+| **Mature Habit** | Upright (8-1) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | "Sunrise" spring growth. Emerging orange-gold transitions to a luminous chartreuse in summer. |
 
-### ['Baldsmith'](/japanese-maple-book/cultivars/baldsmith)
+### ['Baldsmith'](japanese-maple-book/cultivars/baldsmith)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Dissectum |
 | **Foliage (Sum/Fall)** | Coral-Red / Yellow-Orange |
-| **Mature Habit** | Weeping (4-6') |
+| **Mature Habit** | Weeping (4-6) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Shifting multi-colors. Coral-pink spring foliage matures into a green-and-pink summer tapestry. |
 
-### ['Sekka Yatsubusa'](/japanese-maple-book/cultivars/sekka-yatsubusa)
+### ['Sekka Yatsubusa'](japanese-maple-book/cultivars/sekka-yatsubusa)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Green / Yellow-Red |
-| **Mature Habit** | Upright (10-12') |
+| **Mature Habit** | Upright (10-12) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Sculptural tufted growth. Features unique fasciated (flattened) stems and layered leaf pads. |
 
-### ['Murasaki Kiyohime'](/japanese-maple-book/cultivars/murasaki-kiyohime)
+### ['Murasaki Kiyohime'](japanese-maple-book/cultivars/murasaki-kiyohime)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Green / Yellow-Orange |
-| **Mature Habit** | Dwarf Mounding (2-6') |
+| **Mature Habit** | Dwarf Mounding (2-6) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Purple-tipped foliage. A vigorous, low-mounding dwarf that is extremely durable and bonsai-friendly. |
 
-### ['Baton Rouge'](/japanese-maple-book/cultivars/baton-rouge)
+### ['Baton Rouge'](japanese-maple-book/cultivars/baton-rouge)
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
 | **Foliage (Sum/Fall)** | Green / Yellow |
-| **Mature Habit** | Upright (10-15') |
+| **Mature Habit** | Upright (10-15) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Intense lipstick-red bark. Bred for heat tolerance; bark color remains vibrant even in southern climates. |
 
