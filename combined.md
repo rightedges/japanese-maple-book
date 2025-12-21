@@ -1076,12 +1076,28 @@ This is how almost every 'Bloodgood' or 'Coral Bark' in the world was created. I
 ### Why Graft?
 Specialty maples often have "weak" root systems. They are divas. By putting a diva's top on a "workhorse" seedling's bottom, you get a tree that is both beautiful and hardy.
 
-### The Mechanics of the "Side-Veneer"
-The most common graft for maples is the side-veneer graft, performed in mid-winter or very early spring.
-*   **The Rootstock**: A 1-2 year old *Acer palmatum* seedling. 
-*   **The Scion**: A 3-4 inch dormant twig from your target cultivar.
-*   **The Union**: You cut a thin sliver of bark off the side of the rootstock and a matching sliver off the scion. You bind them together with "grafting tape" or rubber bands.
-*   **The "Callus" Box**: For the graft to take, the atmosphere must be perfectly controlled—high humidity and a steady 65°F (18°C). The two trees must physically "fuse" their cells together.
+### The Side-Veneer Graft: Step-by-Step Mastery
+
+The most common and successful graft for maples is the **Side-Veneer Graft**. This technique provides a large surface area for cambium contact, ensuring a strong union.
+
+#### 1. Preparation and Materials
+*   **Rootstock**: Use a vigorous base plant, typically a 2-year-old *Acer palmatum* seedling.
+*   **Scion**: Select a dormant cutting from the desired cultivar. It should have healthy buds and be roughly the same diameter as the rootstock.
+*   **Timing**: Grafting is most successful in late winter or early spring before the leaves emerge, or during late summer when the plant is in a second growth flush.
+
+#### 2. The Grafting Process
+*   **Preparing the Rootstock**: Make a shallow, downward slicing cut into the side of the rootstock stem, about 1 to 2 inches long. Leave a small "flap" of bark and wood at the bottom of the cut to tuck the scion into.
+*   **Carving the Scion**: Cut the base of the scion into a long, thin wedge shape. One side of the wedge should be longer to match the cut on the rootstock, while the back side is a shorter, slanted cut.
+*   **The Insertion**: Insert the scion into the flap of the rootstock. 
+*   **Crucial Step**: Ensure the **cambium layers** (the green layer just under the bark) of both the scion and the rootstock are aligned on at least one side. This alignment is essential for the flow of nutrients and the success of the graft.
+
+#### 3. Securing the Graft
+*   **Wrapping**: Use grafting tape or rubber budding strips to wrap the union tightly. This holds the pieces together and prevents the delicate tissue from shifting.
+*   **Sealing**: Apply a sealant (like wax or parafilm) over the graft site to prevent moisture loss and protect the union from drying out or infection.
+
+#### 4. Aftercare
+*   **Environment**: Place the grafted plants in a humid, shaded environment (like a greenhouse or under a plastic tent) to reduce stress.
+*   **The Final Cut**: Once the graft has successfully "taken" and the scion begins to grow vigorously, the original top of the rootstock is pruned away, allowing the new cultivar to become the main trunk of the tree.
 
 ### The "Graft Line" Mark
 This is why you see a scar or a change in bark color about 3-6 inches above the soil on nursery trees. This is the surgical site of the graft. Understanding this helps you identify "suckers"—branches that grow from *below* the graft line. These suckers are the wild rootstock trying to take over; they should be pruned off immediately, or they will eventually kill the specialty tree.
