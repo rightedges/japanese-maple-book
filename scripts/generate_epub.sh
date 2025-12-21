@@ -35,17 +35,17 @@ done
 echo "Cleaning up Liquid tags for Pandoc..."
 
 # 1. Handle any remaining {{ ... | relative_url }} patterns
-sed -i "" -E -e 's/\{\{[[:space:]]*["\047]?\/?([^"\047]+)["\047]?[[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD"
+sed -E 's/\{\{[[:space:]]*["\047]?\/?([^"\047]+)["\047]?[[:space:]]*\|[[:space:]]*relative_url[[:space:]]*\}\}/\1/g' "$COMBINED_MD" > "${COMBINED_MD}.tmp" && mv "${COMBINED_MD}.tmp" "$COMBINED_MD"
 
 # 2. Clean up paths in markdown image/link syntax: ![Alt]('/path/to/img') -> ![Alt](assets/path/to/img)
 # Step A: Handle leading slashes (e.g., /assets/images -> assets/images)
-sed -i "" -E -e "s|\]\(['\047\"]*/|](|g" "$COMBINED_MD"
+sed -E "s|\]\(['\047\"]*/|](|g" "$COMBINED_MD" > "${COMBINED_MD}.tmp" && mv "${COMBINED_MD}.tmp" "$COMBINED_MD"
 # Step B: Ensure paths that don't start with assets/ get it (if they look like images)
-sed -i "" -E -e "s|\]\((images/)|](assets/\1|g" "$COMBINED_MD"
+sed -E "s|\]\((images/)|](assets/\1|g" "$COMBINED_MD" > "${COMBINED_MD}.tmp" && mv "${COMBINED_MD}.tmp" "$COMBINED_MD"
 # Step C: Remove quotes/spaces inside parentheses
-sed -i "" -E -e "s|\]\(['\047\"]*|](|g" "$COMBINED_MD"
-sed -i "" -E -e "s|['\047\"]* \)|)|g" "$COMBINED_MD"
-sed -i "" -E -e "s|['\047\"]*\)|)|g" "$COMBINED_MD"
+sed -E "s|\]\(['\047\"]*|](|g" "$COMBINED_MD" > "${COMBINED_MD}.tmp" && mv "${COMBINED_MD}.tmp" "$COMBINED_MD"
+sed -E "s|['\047\"]* \)|)|g" "$COMBINED_MD" > "${COMBINED_MD}.tmp" && mv "${COMBINED_MD}.tmp" "$COMBINED_MD"
+sed -E "s|['\047\"]*\)|)|g" "$COMBINED_MD" > "${COMBINED_MD}.tmp" && mv "${COMBINED_MD}.tmp" "$COMBINED_MD"
 
 echo "Generating EPUB..."
 pandoc "$COMBINED_MD" -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.jpg
