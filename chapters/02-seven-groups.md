@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "2. The 8 Groups"
-nav_order: 3
+parent: "Part I: Discovery & Selection"
+nav_order: 2
 permalink: /chapters/02-seven-groups.html
 ---
 

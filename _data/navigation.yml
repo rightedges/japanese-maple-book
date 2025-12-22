@@ -3,6 +3,7 @@
   file: index.md
 
 - title: "Part I: Discovery & Selection"
+  file: chapters/part-1-discovery.md
   children:
     - title: "1. Introduction to Acer palmatum"
       url: /chapters/01-introduction.html
@@ -18,6 +19,7 @@
       file: chapters/04-buying.md
 
 - title: "Part II: Cultivation & Care"
+  file: chapters/part-2-care.md
   children:
     - title: "5. Siting and Planting"
       url: /chapters/05-siting-planting.html
@@ -33,6 +35,7 @@
       file: chapters/08-fertilization.md
 
 - title: "Part III: Design & Aesthetics"
+  file: chapters/part-3-design.md
   children:
     - title: "9. Seasonal Color Palette"
       url: /chapters/09-seasonal-color.html
@@ -42,6 +45,7 @@
       file: chapters/10-companion-planting.md
 
 - title: "Part IV: Advanced Techniques"
+  file: chapters/part-4-advanced.md
   children:
     - title: "11. Pruning Mastery"
       url: /chapters/11-pruning.html
@@ -51,6 +55,7 @@
       file: chapters/12-propagation.md
 
 - title: "Part V: Health & Troubleshooting"
+  file: chapters/part-5-health.md
   children:
     - title: "13. Pests and Diseases"
       url: /chapters/13-pests-diseases.html
@@ -63,12 +68,14 @@
       file: chapters/15-calendar.md
 
 - title: "Part VI: Specialized Interests"
+  file: chapters/part-6-specialized.md
   children:
     - title: "16. Maple Bonsai Introduction"
       url: /chapters/16-bonsai.html
       file: chapters/16-bonsai.md
 
 - title: "Part VII: Reference"
+  file: chapters/part-7-reference.md
   children:
     - title: "17. Cultivar Library"
       url: /chapters/cultivar-library.html
@@ -142,6 +149,7 @@
           file: _cultivars/viridis.md
 
 - title: "Part VIII: Appendices"
+  file: chapters/part-8-appendices.md
   children:
     - title: "Appendix A: Cultivar Quick Reference"
       url: /chapters/appendix-a-table.html

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "7. Container Culture"
-nav_order: 8
+parent: "Part II: Cultivation & Care"
+nav_order: 3
 permalink: /chapters/07-containers.html
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "13. Pests and Diseases"
-nav_order: 14
+parent: "Part V: Health & Troubleshooting"
+nav_order: 1
 permalink: /chapters/13-pests-diseases.html
 ---
 

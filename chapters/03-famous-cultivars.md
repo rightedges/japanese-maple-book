@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "3. Famous Cultivars Guide"
-nav_order: 4
+parent: "Part I: Discovery & Selection"
+nav_order: 3
 permalink: /chapters/03-famous-cultivars.html
 ---
 

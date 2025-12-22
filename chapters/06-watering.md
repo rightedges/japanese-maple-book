@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "6. Watering and Mulching"
-nav_order: 7
+parent: "Part II: Cultivation & Care"
+nav_order: 2
 permalink: /chapters/06-watering.html
 ---
 

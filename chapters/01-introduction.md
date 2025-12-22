@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "1. Introduction to Acer palmatum"
-nav_order: 2
+parent: "Part I: Discovery & Selection"
+nav_order: 1
 permalink: /chapters/01-introduction.html
 ---
 

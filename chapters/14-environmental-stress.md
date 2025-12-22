@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "14. Environmental Stress"
-nav_order: 15
+parent: "Part V: Health & Troubleshooting"
+nav_order: 2
 permalink: /chapters/14-environmental-stress.html
 ---
 

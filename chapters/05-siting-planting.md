@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "5. Siting and Planting"
-nav_order: 6
+parent: "Part II: Cultivation & Care"
+nav_order: 1
 permalink: /chapters/05-siting-planting.html
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "9. Seasonal Color Palette"
-nav_order: 10
+parent: "Part III: Design & Aesthetics"
+nav_order: 1
 permalink: /chapters/09-seasonal-color.html
 ---
 

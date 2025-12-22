@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "16. Maple Bonsai Introduction"
-nav_order: 17
+parent: "Part VI: Specialized Interests"
+nav_order: 1
 permalink: /chapters/16-bonsai.html
 ---
 

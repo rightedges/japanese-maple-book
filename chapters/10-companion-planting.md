@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "10. Companion Planting"
-nav_order: 11
+parent: "Part III: Design & Aesthetics"
+nav_order: 2
 permalink: /chapters/10-companion-planting.html
 ---
 

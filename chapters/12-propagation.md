@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "12. Propagation"
-nav_order: 13
+parent: "Part IV: Advanced Techniques"
+nav_order: 2
 permalink: /chapters/12-propagation.html
 ---
 

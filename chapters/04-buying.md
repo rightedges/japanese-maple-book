@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "4. Buying Your First Tree"
-nav_order: 5
+parent: "Part I: Discovery & Selection"
+nav_order: 4
 permalink: /chapters/04-buying.html
 ---
 

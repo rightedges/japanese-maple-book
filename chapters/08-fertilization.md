@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "8. Fertilization Basics"
-nav_order: 9
+parent: "Part II: Cultivation & Care"
+nav_order: 4
 permalink: /chapters/08-fertilization.html
 ---
 

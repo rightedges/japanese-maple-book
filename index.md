@@ -10,18 +10,42 @@ nav_order: 1
 
 Welcome to the digital edition of *The Japanese Maple Book*. This guide explores the history, varieties, and care of *Acer palmatum*.
 
-## How This Book is Organized
+## Table of Contents
 
-This book is designed to take you from a curious admirer to a confident steward of Japanese Maples. It is organized into eight logical parts:
+### Part I: Discovery & Selection
+*   [1. Introduction to Acer palmatum]({{ site.baseurl }}/chapters/01-introduction.html)
+*   [2. The 8 Groups]({{ site.baseurl }}/chapters/02-seven-groups.html)
+*   [3. Famous Cultivars Guide]({{ site.baseurl }}/chapters/03-famous-cultivars.html)
+*   [4. Buying Your First Tree]({{ site.baseurl }}/chapters/04-buying.html)
 
-*   **Part I: Discovery & Selection** (Chapters 1-4) – Historical context, botanical groups, and how to buy your first tree.
-*   **Part II: Cultivation & Care** (Chapters 5-8) – The fundamentals of planting, watering, and feeding.
-*   **Part III: Design & Aesthetics** (Chapters 9-10) – Planning for seasonal color and using companion plants.
-*   **Part IV: Advanced Techniques** (Chapters 11-12) – Pruning mastery and the secrets of propagation.
-*   **Part V: Health & Troubleshooting** (Chapters 13-15) – A dedicated section for pests, environmental stress, and a year-round maintenance calendar.
-*   **Part VI: Specialized Interests** (Chapter 16) – An introduction to the ancient art of Japanese Maple Bonsai.
-*   **Part VII & VIII: Reference** (Chapter 17 & Appendix) – A comprehensive cultivar library and a quick technical reference table.
+### Part II: Cultivation & Care
+*   [5. Siting and Planting]({{ site.baseurl }}/chapters/05-siting-planting.html)
+*   [6. Watering and Mulching]({{ site.baseurl }}/chapters/06-watering.html)
+*   [7. Container Culture]({{ site.baseurl }}/chapters/07-containers.html)
+*   [8. Fertilization Basics]({{ site.baseurl }}/chapters/08-fertilization.html)
 
-Please use the navigation sidebar to browse the chapters.
+### Part III: Design & Aesthetics
+*   [9. Seasonal Color Palette]({{ site.baseurl }}/chapters/09-seasonal-color.html)
+*   [10. Companion Planting]({{ site.baseurl }}/chapters/10-companion-planting.html)
+
+### Part IV: Advanced Techniques
+*   [11. Pruning Mastery]({{ site.baseurl }}/chapters/11-pruning.html)
+*   [12. Propagation]({{ site.baseurl }}/chapters/12-propagation.html)
+
+### Part V: Health & Troubleshooting
+*   [13. Pests and Diseases]({{ site.baseurl }}/chapters/13-pests-diseases.html)
+*   [14. Environmental Stress]({{ site.baseurl }}/chapters/14-environmental-stress.html)
+*   [15. Maintenance Calendar]({{ site.baseurl }}/chapters/15-calendar.html)
+
+### Part VI: Specialized Interests
+*   [16. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/16-bonsai.html)
+
+### Part VII: Reference
+*   [17. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
+
+### Part VIII: Appendices
+*   [Appendix A: Cultivar Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
+
+Please use the navigation sidebar or the links above to browse the chapters.
 
 [Download EPUB Version (v1.1 - Dec 2025)]({{ 'book.epub' | relative_url }})

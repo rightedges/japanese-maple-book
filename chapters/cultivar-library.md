@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "17. Cultivar Library"
+parent: "Part VII: Reference"
 has_children: true
-nav_order: 18
+nav_order: 1
 permalink: /chapters/cultivar-library.html
 ---
 

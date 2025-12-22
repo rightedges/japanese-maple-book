@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "11. Pruning Mastery"
-nav_order: 12
+parent: "Part IV: Advanced Techniques"
+nav_order: 1
 permalink: /chapters/11-pruning.html
 ---
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "15. Maintenance Calendar"
-nav_order: 16
+parent: "Part V: Health & Troubleshooting"
+nav_order: 3
 permalink: /chapters/15-calendar.html
 ---
 
