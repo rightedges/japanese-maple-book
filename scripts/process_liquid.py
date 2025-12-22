@@ -61,14 +61,42 @@ def process_file(filepath):
     processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
 
     # 4. Standardize Internal Links for Pandoc Anchors
-    # /chapters/xx.html -> #xx
-    processed = re.sub(r'(\]\()/chapters/([^/)]+)\.html\)', r'\1#\2)', processed)
-    # /chapters/xx.md -> #xx (if any exist)
-    processed = re.sub(r'(\]\()/chapters/([^/)]+)\.md\)', r'\1#\2)', processed)
-    # /cultivars/xx -> #xx
-    processed = re.sub(r'(\]\()/cultivars/([^/)]+)\)', r'\1#\2)', processed)
-    # Root link / -> #the-japanese-maple-book
-    processed = re.sub(r'(\]\()/(\))', r'\1#the-japanese-maple-book\2', processed)
+    # Handle spaces and slashes inside brackets: ]( /chapters/foo.html ) -> ](#foo)
+    
+    # helper to clean up paths inside markdown links
+    def normalize_link(match):
+        prefix = match.group(1) # ](
+        path = match.group(2).strip()
+        suffix = match.group(3) # )
+        
+        # Remove leading slashes
+        path = path.lstrip('/')
+        
+        # /chapters/xx.html -> #xx
+        if path.startswith('chapters/') and path.endswith('.html'):
+            target = path.replace('chapters/', '').replace('.html', '')
+            return f'{prefix}#{target}{suffix}'
+        
+        # cultivars/xx -> #xx
+        if path.startswith('cultivars/'):
+            target = path.replace('cultivars/', '')
+            return f'{prefix}#{target}{suffix}'
+            
+        # Root link / -> #the-japanese-maple-book
+        if path == '' or path == '/':
+            return f'{prefix}#the-japanese-maple-book{suffix}'
+            
+        # Images: images/foo -> assets/images/foo
+        if path.startswith('images/'):
+            return f'{prefix}assets/{path}{suffix}'
+            
+        return f'{prefix}{path}{suffix}'
+
+    # Match ]( path )
+    processed = re.sub(r'(\]\()([^)]+)(\))', normalize_link, processed)
+
+    # 5. Remove the EPUB download link line from the EPUB content itself (index.md)
+    processed = re.sub(r'\[Download EPUB Version.*?\n', '', processed)
 
     return processed
 
