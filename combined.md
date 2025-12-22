@@ -1936,6 +1936,8 @@ With its compact, upright habit, it is an excellent choice for smaller landscape
 
 # 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
 
+![Acer palmatum - 'Sango Kaku'](assets/images/cultivars/sango-kaku.jpg)
+
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Matsumurae |
@@ -1960,7 +1962,6 @@ An ideal "window specimen" near kitchens or living rooms to brighten winter view
 
 > [!WARNING]
 > Avoid high-nitrogen fertilizers. "Fast" growth is "soft" growth, which is significantly more vulnerable to winter kill and bacterial infection.
-
 
 ---
 
