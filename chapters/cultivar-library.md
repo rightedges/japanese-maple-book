@@ -26,6 +26,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Inaba shidare]({{ site.baseurl }}/cultivars/inaba-shidare.html)
 - [Jordan]({{ site.baseurl }}/cultivars/jordan.html)
 - [Katsura]({{ site.baseurl }}/cultivars/katsura.html)
+- [Kuro hime]({{ site.baseurl }}/cultivars/kuro-hime.html)
 - [Mikawa Yatsubusa]({{ site.baseurl }}/cultivars/mikawa-yatsubusa.html)
 - [Moonrise]({{ site.baseurl }}/cultivars/moonrise.html)
 - [Murasaki Kiyohime]({{ site.baseurl }}/cultivars/murasaki-kiyohime.html)

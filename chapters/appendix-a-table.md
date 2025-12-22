@@ -162,6 +162,15 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Stunning orange spring growth. Forms a dense, tiered structure; prune for air circulation to prevent mildew. |
 
+### [Kuro hime](/japanese-maple-book/cultivars/kuro-hime)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Dwarf |
+| **Foliage (Sum/Fall)** | Green-Pink / Red |
+| **Mature Habit** | Dwarf Mounding (3-5') |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Black-Red Princess". Dwarf habit with intense spring color and vibrant red fall display. |
 ### [Mikawa Yatsubusa](/japanese-maple-book/cultivars/mikawa-yatsubusa)
 
 | Attribute | Specification |
