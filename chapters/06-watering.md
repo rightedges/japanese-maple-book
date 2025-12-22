@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "6. Watering and Mulching"
-nav_order: 8
+nav_order: 7
 permalink: /chapters/06-watering.html
 ---
 

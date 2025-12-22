@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "13. Pests and Diseases"
-nav_order: 15
+nav_order: 14
 permalink: /chapters/13-pests-diseases.html
 ---
 

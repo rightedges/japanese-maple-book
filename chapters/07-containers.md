@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "7. Container Culture"
-nav_order: 9
+nav_order: 8
 permalink: /chapters/07-containers.html
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "8. Fertilization Basics"
-nav_order: 10
+nav_order: 9
 permalink: /chapters/08-fertilization.html
 ---
 

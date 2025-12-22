@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "14. Environmental Stress"
-nav_order: 16
+nav_order: 15
 permalink: /chapters/14-environmental-stress.html
 ---
 

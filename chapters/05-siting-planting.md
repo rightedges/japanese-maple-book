@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "5. Siting and Planting"
-nav_order: 7
+nav_order: 6
 permalink: /chapters/05-siting-planting.html
 ---
 
