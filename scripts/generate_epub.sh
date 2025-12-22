@@ -9,6 +9,7 @@ COMBINED_MD="combined.md"
 
 # Add title block for Pandoc
 echo "% The Japanese Maple Book" > "$COMBINED_MD"
+echo "% v2.0 - Dec 2025" >> "$COMBINED_MD"
 echo "% Revised Digital Edition by rightedges with Gemini AI" >> "$COMBINED_MD"
 echo "% © 2025 rightedges with Gemini AI" >> "$COMBINED_MD"
 echo "" >> "$COMBINED_MD"
