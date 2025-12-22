@@ -1416,7 +1416,7 @@ Bonsai is a "slow art." You can't rush a tree to grow, but that's part of the fu
 
 ---
 
-# 17. Cultivar Library: The Genetic Heritage
+# Cultivar Library: The Genetic Heritage
 
 Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide. Each profile contains history, care tips, and technical specifications to help you grow your best tree.
 
