@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/appendix-a-table.html
 ---
 
-# Appendix A: Cultivar Quick Reference
+# Appendix A: Cultivar Quick Reference {#appendix-a-table}
 
 This reference guide provides detailed information on some of the most popular Japanese Maples. This vertical "Profile" format ensures that technical specifications are readable on all devices, including E-readers and mobile phones.
 

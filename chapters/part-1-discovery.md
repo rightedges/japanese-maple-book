@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-1-discovery.html
 ---
 
-# Part I: Discovery & Selection
+# Part I: Discovery & Selection {#part-1-discovery}
 
 This section explores the history, categorization, and acquisition of Japanese Maples.
 

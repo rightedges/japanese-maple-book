@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-2-care.html
 ---
 
-# Part II: Cultivation & Care
+# Part II: Cultivation & Care {#part-2-care}
 
 The essential fundamentals of maple stewardship.
 

@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /chapters/02-seven-groups.html
 ---
 
-# The 8 Groups of Japanese Maples: A Framework for Beauty
+# The 8 Groups of Japanese Maples: A Framework for Beauty {#02-seven-groups}
 
 For the novice gardener, the sheer variety of *Acer palmatum* can be paralyzing. With over 1,000 named cultivars—ranging from 30-foot shade trees to 12-inch bonsai subjects, and from "bamboo-leafed" red spears to "lace-leafed" emerald mounds—the species seems to defy categorization. However, botanists and dedicated enthusiasts have historically organized these into eight distinct groups. 
 

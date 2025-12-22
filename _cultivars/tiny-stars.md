@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Tiny Stars' Japanese Maple: The Miniature Jewel
+# 'Tiny Stars' Japanese Maple: The Miniature Jewel {#tiny-stars}
 
 | Attribute | Specification |
 | :--- | :--- |

@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-4-advanced.html
 ---
 
-# Part IV: Advanced Techniques
+# Part IV: Advanced Techniques {#part-4-advanced}
 
 Techniques for the dedicated enthusiast.
 

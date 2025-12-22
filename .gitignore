@@ -1,1 +1,5 @@
 vendor/
+combined.md
+_site/
+.jekyll-cache/
+.bundle/

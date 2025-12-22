@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Baton Rouge' Japanese Maple: The Texas Fire-Stick
+# 'Baton Rouge' Japanese Maple: The Texas Fire-Stick {#baton-rouge}
 
 | Attribute | Specification |
 | :--- | :--- |

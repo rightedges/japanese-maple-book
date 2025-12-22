@@ -6,7 +6,7 @@ nav_order: 4
 permalink: /chapters/04-buying.html
 ---
 
-# Buying Your First Tree: A Connoisseur's Guide
+# Buying Your First Tree: A Connoisseur's Guide {#04-buying}
 
 Embarking on the journey of Japanese Maple stewardship begins with a single, crucial moment: the purchase. While impulse buying so often plagues gardeners ("I have a spot for this somewhere!"), selecting a Japanese Maple requires a discerning eye. You are not just buying a plant; you are buying a structure, a root system, and a genetic history.
 

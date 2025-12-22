@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Summer Gold' Japanese Maple: The Solar-Powered Masterpiece
+# 'Summer Gold' Japanese Maple: The Solar-Powered Masterpiece {#summer-gold}
 
 | Attribute | Specification |
 | :--- | :--- |

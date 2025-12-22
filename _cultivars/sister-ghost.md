@@ -8,7 +8,7 @@ sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 ---
 
-# 'Sister Ghost' Japanese Maple: The Subtle Spirit
+# 'Sister Ghost' Japanese Maple: The Subtle Spirit {#sister-ghost}
 
 | Attribute | Specification |
 | :--- | :--- |

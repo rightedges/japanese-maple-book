@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-6-specialized.html
 ---
 
-# Part VI: Specialized Interests
+# Part VI: Specialized Interests {#part-6-specialized}
 
 Deep dives into specific maple hobbies.
 

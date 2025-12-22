@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Beni maiko' Japanese Maple: The Red-Haired Dancing Girl
+# 'Beni maiko' Japanese Maple: The Red-Haired Dancing Girl {#beni-maiko}
 
 | Attribute | Specification |
 | :--- | :--- |

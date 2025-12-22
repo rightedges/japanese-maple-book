@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Mikawa Yatsubusa' Japanese Maple: Living Sculpture
+# 'Mikawa Yatsubusa' Japanese Maple: Living Sculpture {#mikawa-yatsubusa}
 
 | Attribute | Specification |
 | :--- | :--- |

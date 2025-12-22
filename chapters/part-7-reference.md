@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-7-reference.html
 ---
 
-# Part VII: Reference
+# Part VII: Reference {#part-7-reference}
 
 Comprehensive data for the avid collector.
 

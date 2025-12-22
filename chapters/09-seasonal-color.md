@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/09-seasonal-color.html
 ---
 
-# Seasonal Color Palette: The Biochemistry of Beauty
+# Seasonal Color Palette: The Biochemistry of Beauty {#09-seasonal-color}
 
 To own a Japanese Maple is to own a living kaleidoscope. Unlike many landscape trees that provide a single, static burst of interest before fading into a green background, *Acer palmatum* offers four distinct "acts" every year. This seasonal dynamism is the primary reason for its global popularity.
 

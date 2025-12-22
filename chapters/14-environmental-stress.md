@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /chapters/14-environmental-stress.html
 ---
 
-# Environmental Stress: Helping Your Tree Cope
+# Environmental Stress: Helping Your Tree Cope {#14-environmental-stress}
 
 While bugs and fungi are easy to spot, the most common problems for Japanese Maples come from their environment. "Environmental stress" is just a fancy way of saying a tree is struggling because its surroundings—like the sun, wind, or heat—are too much for it to handle.
 

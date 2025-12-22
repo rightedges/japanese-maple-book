@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Sekka Yatsubusa' Japanese Maple: The Sculpted Curiosity
+# 'Sekka Yatsubusa' Japanese Maple: The Sculpted Curiosity {#sekka-yatsubusa}
 
 | Attribute | Specification |
 | :--- | :--- |

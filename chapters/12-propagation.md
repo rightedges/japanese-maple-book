@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /chapters/12-propagation.html
 ---
 
-# Propagation: The Secret Language of the Forest
+# Propagation: The Secret Language of the Forest {#12-propagation}
 
 There is a profound, almost mystical satisfaction in creating a new life from a tiny seed or a discarded twig. For the Japanese Maple enthusiast, propagation is the ultimate test of patience and understanding. It is one thing to buy a beautiful tree from a nursery; it is quite another to witness the first white root emerging from a cutting you took yourself.
 

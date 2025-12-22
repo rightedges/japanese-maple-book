@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /chapters/10-companion-planting.html
 ---
 
-# Companion Planting: Building a Resilient Miniature Ecosystem
+# Companion Planting: Building a Resilient Miniature Ecosystem {#10-companion-planting}
 
 No tree is an island. In nature, the Japanese Maple exists as part of a complex, multi-layered forest tapestry. To bring a maple into your garden and leave it standing in a solitary "donut" of bare mulch is to do it a biological and aesthetic disservice. 
 

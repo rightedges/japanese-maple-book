@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Bloodgood' Japanese Maple: The Perpetual Standard
+# 'Bloodgood' Japanese Maple: The Perpetual Standard {#bloodgood}
 
 | Attribute | Specification |
 | :--- | :--- |

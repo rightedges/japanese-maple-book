@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
+# 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony {#sango-kaku}
 
 | Attribute | Specification |
 | :--- | :--- |

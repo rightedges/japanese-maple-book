@@ -6,7 +6,7 @@ nav_order: 3
 permalink: /chapters/07-containers.html
 ---
 
-# Container Culture: The Mobile Masterpiece
+# Container Culture: The Mobile Masterpiece {#07-containers}
 
 Japanese Maples are perhaps the most ideal trees in the world for container culture. Their naturally compact root systems, slow growth rates, and spectacular aesthetics make them perfect for patios, balconies, and small courtyards. In a pot, a maple becomes a mobile piece of architecture—a living sculpture that you can move as the sun shifts through the seasons.
 

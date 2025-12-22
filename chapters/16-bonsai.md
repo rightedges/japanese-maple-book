@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/16-bonsai.html
 ---
 
-# Maple Bonsai: The Mountain Distilled
+# Maple Bonsai: The Mountain Distilled {#16-bonsai}
 
 A Japanese Maple isn't just a tree in the world of bonsai; it's a star. While we love seeing these trees in our gardens, there is something magical about seeing a 50-year-old maple that can fit in the palm of your hand. This is the art of bonsai—taking the essence of a mountain giant and distilling it into a tiny pot.
 

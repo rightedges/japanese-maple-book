@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-# The Japanese Maple Book
+# The Japanese Maple Book {#the-japanese-maple-book}
 
 ![Japanese Maple Book Cover]({{ 'assets/images/cover.jpg' | relative_url }})
 

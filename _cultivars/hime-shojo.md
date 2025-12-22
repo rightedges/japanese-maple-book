@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Hime-shojo' Japanese Maple: The Crimson Gem
+# 'Hime-shojo' Japanese Maple: The Crimson Gem {#hime-shojo}
 
 | Attribute | Specification |
 | :--- | :--- |

@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Orange Dream' Japanese Maple: The Golden Sunrise
+# 'Orange Dream' Japanese Maple: The Golden Sunrise {#orange-dream}
 
 | Attribute | Specification |
 | :--- | :--- |

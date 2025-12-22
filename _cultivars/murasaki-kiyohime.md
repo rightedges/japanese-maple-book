@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Murasaki Kiyohime' (Purple Princess): The Royal Carpet
+# 'Murasaki Kiyohime' (Purple Princess): The Royal Carpet {#murasaki-kiyohime}
 
 | Attribute | Specification |
 | :--- | :--- |
