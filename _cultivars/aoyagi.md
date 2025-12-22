@@ -10,8 +10,6 @@ parent: "17. Cultivar Library"
 
 # 'Aoyagi' Japanese Maple: The Green Bark Beauty
 
-![Acer palmatum - 'Aoyagi']({{ '/assets/images/cultivars/aoyagi.jpg' | relative_url }})
-
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |

@@ -1428,8 +1428,6 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 # 'Aoyagi' Japanese Maple: The Green Bark Beauty
 
-![Acer palmatum - 'Aoyagi'](assets/images/cultivars/aoyagi.jpg)
-
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
@@ -1935,8 +1933,6 @@ With its compact, upright habit, it is an excellent choice for smaller landscape
 ---
 
 # 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
-
-![Acer palmatum - 'Sango Kaku'](assets/images/cultivars/sango-kaku.jpg)
 
 | Attribute | Specification |
 | :--- | :--- |

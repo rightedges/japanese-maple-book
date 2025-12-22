@@ -10,8 +10,6 @@ parent: "17. Cultivar Library"
 
 # 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
 
-![Acer palmatum - 'Sango Kaku']({{ '/assets/images/cultivars/sango-kaku.jpg' | relative_url }})
-
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
