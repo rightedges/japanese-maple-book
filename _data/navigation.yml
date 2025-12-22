@@ -68,6 +68,8 @@
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
       children:
+        - title: "Amber Ghost"
+          file: _cultivars/amber-ghost.md
         - title: "Aoyagi"
           file: _cultivars/aoyagi.md
         - title: "Baldsmith"
@@ -82,6 +84,12 @@
           file: _cultivars/butterfly.md
         - title: "Crimson Queen"
           file: _cultivars/crimson-queen.md
+        - title: "Emperor 1"
+          file: _cultivars/emperor-1.md
+        - title: "Fireglow"
+          file: _cultivars/fireglow.md
+        - title: "First Ghost"
+          file: _cultivars/first-ghost.md
         - title: "Hime-shojo"
           file: _cultivars/hime-shojo.md
         - title: "Inaba shidare"
@@ -112,6 +120,8 @@
           file: _cultivars/sekka-yatsubusa.md
         - title: "Shishigashira"
           file: _cultivars/shishigashira.md
+        - title: "Sister Ghost"
+          file: _cultivars/sister-ghost.md
         - title: "Summer Gold"
           file: _cultivars/summer-gold.md
         - title: "Tamukeyama"

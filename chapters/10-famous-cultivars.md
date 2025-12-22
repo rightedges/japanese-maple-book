@@ -19,7 +19,7 @@ These are the trees that defined the species for the Western world. They are the
 *   **Origin**: Selected at the Bloodgood Nursery in Long Island, NY, in the early 20th century.
 *   **The Color Arc**: Deep burgundy-purple (Spring/Summer) -> Brilliant Scarlet (Fall).
 *   **Technical Note**: 'Bloodgood' is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 8) in the heat of July, 'Bloodgood' holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
-*   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **'Emperor 1'** (which leafes out two weeks later to avoid frost) and **'Fireglow'** (which stays shorter and has even more translucent, glowing red leaves).
+*   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **['Emperor 1']({{ '/cultivars/emperor-1' | relative_url }})** (which leafes out two weeks later to avoid frost) and **['Fireglow']({{ '/cultivars/fireglow' | relative_url }})** (which stays shorter and has even more translucent, glowing red leaves).
 
 ### ['Osakazuki']({{ '/cultivars/osakazuki' | relative_url }}) (The Autumn Masterpiece)
 *   **Origin**: An ancient Japanese cultivar, буквально meaning "The Cup of Osaka." It has been documented for over 200 years.
@@ -77,9 +77,9 @@ Maples that bring light or architectural "gravity" into the garden.
 
 A relatively modern addition to the maple world, the "Ghost" series (developed by Buchholz & Buchholz Nursery) features **reticulated variegation**.
 
-*   **'First Ghost'**: Emerges white with dark green veins.
-*   **'Amber Ghost'**: Emerges amber-orange with dark green veins.
-*   **'Sister Ghost'**: Emerges chartreuse with deep green veins.
+*   **['First Ghost']({{ '/cultivars/first-ghost' | relative_url }})**: Emerges white with dark green veins.
+*   **['Amber Ghost']({{ '/cultivars/amber-ghost' | relative_url }})**: Emerges amber-orange with dark green veins.
+*   **['Sister Ghost']({{ '/cultivars/sister-ghost' | relative_url }})**: Emerges chartreuse with deep green veins.
 *   **The Science**: The tree inhibits chlorophyll production in the "webbing" of the leaf while keeping the veins green. This creates a haunting, spectral look that is unmatched in the plant world.
 *   **Maintenance**: These are high-maintenance. They require **Deep Shade** to prevent the white/amber parts from burning.
 

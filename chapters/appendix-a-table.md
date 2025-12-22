@@ -11,6 +11,16 @@ This reference guide provides detailed information on some of the most popular J
 
 ---
 
+### ['Amber Ghost'](/japanese-maple-book/cultivars/amber-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Amber-Green / Gold-Red |
+| **Mature Habit** | Upright (10-12') |
+| **Sun Tolerance** | Low (Shade) |
+| **Best Feature** | Radiant amber spring color with dark veins. A standout in the Ghost series; requires deep shade. |
+
 ### ['Aoyagi'](/japanese-maple-book/cultivars/aoyagi)
 
 | Attribute | Specification |
@@ -80,6 +90,36 @@ This reference guide provides detailed information on some of the most popular J
 | **Mature Habit** | Weeping (6-8') |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
+
+### ['Emperor 1'](/japanese-maple-book/cultivars/emperor-1)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Burgundy / Scarlet |
+| **Mature Habit** | Upright (15-20') |
+| **Sun Tolerance** | High |
+| **Best Feature** | Late bud break. Excellent for avoiding late spring frosts; has a more translucent red than 'Bloodgood'. |
+
+### ['Fireglow'](/japanese-maple-book/cultivars/fireglow)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Red / Scarlet |
+| **Mature Habit** | Upright (12-15') |
+| **Sun Tolerance** | High |
+| **Best Feature** | Backlit "glow." Thinner, more translucent foliage than 'Bloodgood'; stays more compact. |
+
+### ['First Ghost'](/japanese-maple-book/cultivars/first-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | White-Green / Yellow-Orange |
+| **Mature Habit** | Upright (8-10') |
+| **Sun Tolerance** | Low (Shade) |
+| **Best Feature** | High-contrast reticulation. Deep green veins on white-cream leaves; an ethereal collector's item. |
 
 ### ['Hime-shojo'](/japanese-maple-book/cultivars/hime-shojo)
 
@@ -230,6 +270,16 @@ This reference guide provides detailed information on some of the most popular J
 | **Mature Habit** | Upright (8-12') |
 | **Sun Tolerance** | High |
 | **Best Feature** | "Lion's Head" crinkled foliage. Holds leaves very late into autumn; best used as a vertical architectural element. |
+
+### ['Sister Ghost'](/japanese-maple-book/cultivars/sister-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Chartreuse-Green / Gold |
+| **Mature Habit** | Upright (8-10') |
+| **Sun Tolerance** | Low (Shade) |
+| **Best Feature** | Subtle chartreuse reticulation. Cooler and more refined than other Ghost series maples. |
 
 ### ['Summer Gold'](/japanese-maple-book/cultivars/summer-gold)
 
