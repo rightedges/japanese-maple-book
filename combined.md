@@ -1428,6 +1428,8 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 # 'Aoyagi' Japanese Maple: The Green Bark Beauty
 
+![Acer palmatum - 'Aoyagi'](assets/images/cultivars/aoyagi.jpg)
+
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | Palmatum |
