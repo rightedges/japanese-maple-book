@@ -10,5 +10,4 @@ permalink: /chapters/part-3-design.html
 
 Creating beauty and harmony in the landscape.
 
-- [9. Seasonal Color Palette]({{ site.baseurl }}/chapters/09-seasonal-color.html)
-- [10. Companion Planting]({{ site.baseurl }}/chapters/10-companion-planting.html)
+

@@ -10,4 +10,4 @@ permalink: /chapters/part-7-reference.html
 
 Comprehensive data for the avid collector.
 
-- [17. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
+

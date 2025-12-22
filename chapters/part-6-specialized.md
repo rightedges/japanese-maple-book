@@ -10,4 +10,4 @@ permalink: /chapters/part-6-specialized.html
 
 Deep dives into specific maple hobbies.
 
-- [16. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/16-bonsai.html)
+

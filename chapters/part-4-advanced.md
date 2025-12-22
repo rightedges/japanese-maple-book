@@ -10,5 +10,4 @@ permalink: /chapters/part-4-advanced.html
 
 Techniques for the dedicated enthusiast.
 
-- [11. Pruning Mastery]({{ site.baseurl }}/chapters/11-pruning.html)
-- [12. Propagation]({{ site.baseurl }}/chapters/12-propagation.html)
+
