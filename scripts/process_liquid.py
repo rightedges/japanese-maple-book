@@ -8,6 +8,29 @@ import re
 import sys
 import os
 
+# Mapping of chapter/appendix text to anchor IDs
+# This helps convert "(Chapter X)" into actual links
+REF_MAP = {
+    "Chapter 1": "01-introduction",
+    "Chapter 2": "02-seven-groups",
+    "Chapter 3": "03-famous-cultivars",
+    "Chapter 4": "04-buying",
+    "Chapter 5": "05-siting-planting",
+    "Chapter 6": "06-watering",
+    "Chapter 7": "07-containers",
+    "Chapter 8": "08-fertilization",
+    "Chapter 9": "09-seasonal-color",
+    "Chapter 10": "10-companion-planting",
+    "Chapter 11": "11-pruning",
+    "Chapter 12": "12-propagation",
+    "Chapter 13": "13-pests-diseases",
+    "Chapter 14": "14-environmental-stress",
+    "Chapter 15": "15-calendar",
+    "Chapter 16": "16-bonsai",
+    "Chapter 17": "cultivar-library",
+    "Appendix A": "appendix-a-table"
+}
+
 def parse_simple_yaml(yaml_str):
     """Simple YAML parser for key: value pairs."""
     data = {}
@@ -15,18 +38,14 @@ def parse_simple_yaml(yaml_str):
         line = line.strip()
         if not line or line.startswith('#'):
             continue
-        
-        # Match: key: value (with or without quotes)
         match = re.match(r'^(\w+):\s*(.+)$', line)
         if match:
             key = match.group(1)
             value = match.group(2).strip()
-            # Remove surrounding quotes if present
             if (value.startswith('"') and value.endswith('"')) or \
                (value.startswith("'") and value.endswith("'")):
                 value = value[1:-1]
             data[key] = value
-    
     return data
 
 def process_file(filepath):
@@ -61,41 +80,36 @@ def process_file(filepath):
     processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
 
     # 4. Standardize Internal Links for Pandoc Anchors
-    # Handle spaces and slashes inside brackets: ]( /chapters/foo.html ) -> ](#foo)
-    
-    # helper to clean up paths inside markdown links
     def normalize_link(match):
         prefix = match.group(1) # ](
         path = match.group(2).strip()
         suffix = match.group(3) # )
-        
-        # Remove leading slashes
         path = path.lstrip('/')
-        
-        # /chapters/xx.html -> #xx
         if path.startswith('chapters/') and path.endswith('.html'):
             target = path.replace('chapters/', '').replace('.html', '')
             return f'{prefix}#{target}{suffix}'
-        
-        # cultivars/xx -> #xx
         if path.startswith('cultivars/'):
             target = path.replace('cultivars/', '')
             return f'{prefix}#{target}{suffix}'
-            
-        # Root link / -> #the-japanese-maple-book
         if path == '' or path == '/':
             return f'{prefix}#the-japanese-maple-book{suffix}'
-            
-        # Images: images/foo -> assets/images/foo
         if path.startswith('images/'):
             return f'{prefix}assets/{path}{suffix}'
-            
         return f'{prefix}{path}{suffix}'
 
-    # Match ]( path )
     processed = re.sub(r'(\]\()([^)]+)(\))', normalize_link, processed)
 
-    # 5. Remove the EPUB download link line from the EPUB content itself (index.md)
+    # 5. Auto-link text references: (Chapter X) -> ([Chapter X](#xx-target))
+    def auto_link_refs(match):
+        full_text = match.group(0) # e.g. (Chapter 11)
+        inner_text = match.group(1) # e.g. Chapter 11
+        if inner_text in REF_MAP:
+            return f'([{inner_text}](#{REF_MAP[inner_text]}))'
+        return full_text
+
+    processed = re.sub(r'\((Chapter \d+|Appendix [A-Z])\)', auto_link_refs, processed)
+
+    # 6. Remove the EPUB download link line from the EPUB content itself (index.md)
     processed = re.sub(r'\[Download EPUB Version.*?\n', '', processed)
 
     return processed
