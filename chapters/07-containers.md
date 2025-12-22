@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "6. Container Culture"
-nav_order: 7
-permalink: /chapters/06-containers.html
+title: "7. Container Culture"
+nav_order: 9
+permalink: /chapters/07-containers.html
 ---
 
 # Container Culture: The Mobile Masterpiece

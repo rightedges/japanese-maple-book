@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "8. Seasonal Color Palette"
-nav_order: 9
-permalink: /chapters/08-seasonal-color.html
+title: "9. Seasonal Color Palette"
+nav_order: 12
+permalink: /chapters/09-seasonal-color.html
 ---
 
 # Seasonal Color Palette: The Biochemistry of Beauty

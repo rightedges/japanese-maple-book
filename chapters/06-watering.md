@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "5. Watering and Mulching"
-nav_order: 6
-permalink: /chapters/05-watering.html
+title: "6. Watering and Mulching"
+nav_order: 8
+permalink: /chapters/06-watering.html
 ---
 
 # Watering and Mulching: Keep the Roots Happy

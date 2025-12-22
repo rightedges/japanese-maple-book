@@ -35,7 +35,7 @@ Spring is the high-stakes season. Everything happens at once: sap moves, buds br
 
 ### March: The Awakening
 *   **Potting and Root Pruning**: This is the most critical month for containers. You must repot **just as the buds begin to swell** but before they open. Once the leaves are out, it is too late.
-*   **The Soil Wakeup**: As the soil warms, the microbiology activates. This is the time to apply Humic Acids (Chapter 7) to prime the root zone.
+*   **The Soil Wakeup**: As the soil warms, the microbiology activates. This is the time to apply Humic Acids (Chapter 8) to prime the root zone.
 *   **Pro-Tip**: Scuff up your mulch to ensure no molds developed over winter.
 
 ### April: The Critical Frost Watch

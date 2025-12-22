@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "10. Famous Cultivars Guide"
-nav_order: 11
-permalink: /chapters/10-famous-cultivars.html
+title: "3. Famous Cultivars Guide"
+nav_order: 4
+permalink: /chapters/03-famous-cultivars.html
 ---
 
 # Famous Cultivars Guide: The Icons and Specialists
@@ -18,7 +18,7 @@ These are the trees that defined the species for the Western world. They are the
 ### ['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }}) (The Crimson King) and its Legacy
 *   **Origin**: Selected at the Bloodgood Nursery in Long Island, NY, in the early 20th century.
 *   **The Color Arc**: Deep burgundy-purple (Spring/Summer) -> Brilliant Scarlet (Fall).
-*   **Technical Note**: 'Bloodgood' is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 8) in the heat of July, 'Bloodgood' holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
+*   **Technical Note**: 'Bloodgood' is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 9) in the heat of July, 'Bloodgood' holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
 *   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **['Emperor 1']({{ '/cultivars/emperor-1' | relative_url }})** (which leafes out two weeks later to avoid frost) and **['Fireglow']({{ '/cultivars/fireglow' | relative_url }})** (which stays shorter and has even more translucent, glowing red leaves).
 
 ### ['Osakazuki']({{ '/cultivars/osakazuki' | relative_url }}) (The Autumn Masterpiece)
@@ -62,7 +62,7 @@ Maples that bring light or architectural "gravity" into the garden.
 
 ### ['Mikawa Yatsubusa']({{ '/cultivars/mikawa-yatsubusa' | relative_url }}) (The Shingled Maple)
 *   **Aesthetic**: The leaves grow on extremely short branches (short internodes) and overlap like shingles on a roof. 
-*   **Why it's famous**: It naturally creates a "tiered" or "pagoda-like" appearance without any pruning. It is widely considered the best Japanese Maple for container culture (Chapter 6).
+*   **Why it's famous**: It naturally creates a "tiered" or "pagoda-like" appearance without any pruning. It is widely considered the best Japanese Maple for container culture (Chapter 7).
 *   **Technical Note**: It is an "Amoenum" type dwarf, meaning it is tougher than it looks. It can handle full sun in many climates if well-watered.
 
 ### ['Shishigashira']({{ '/cultivars/shishigashira' | relative_url }}) (The Lion's Head)

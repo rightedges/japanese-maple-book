@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "9. Companion Planting"
-nav_order: 10
-permalink: /chapters/09-companion-planting.html
+title: "10. Companion Planting"
+nav_order: 13
+permalink: /chapters/10-companion-planting.html
 ---
 
 # Companion Planting: Building a Resilient Miniature Ecosystem
@@ -21,7 +21,7 @@ When we talk about companions, we usually talk about colors. But the most import
 Some trees (like Black Walnut or certain Eucalyptus) are "allelopathic"—they secrete chemicals from their roots that kill or stun nearby plants to ensure the tree has no competition. **Japanese Maples are the opposite.** They are incredibly "friendly" neighbors. They do not produce chemical inhibitors. This makes them ideal for a "high-density" garden where layers of plants are tucked right up against the root flare. This lack of chemical aggression allows for a multi-storied landscape where every square inch of soil can be productive.
 
 ### The "Humidity Well" Physics (Revisited)
-As we discussed in Chapter 4, maples live and die by the moisture in the air. A solitary maple standing in a lawn is exposed to drying winds on all sides. 
+As we discussed in Chapter 5, maples live and die by the moisture in the air. A solitary maple standing in a lawn is exposed to drying winds on all sides. 
 *   **The Benefit of Grouping**: By planting an understory of ferns, hostas, and azaleas, you create a "transpiration canopy." As all these plants breathe water vapor into the air through their stomata, they create a bubble of high humidity (a "humidity well") that protects the maple's delicate leaves from scorching. Research shows that a densely planted "community" of plants can maintain a local humidity level 10-15% higher than a bare soil site. This isn't just for looks; it is a life-support system that reduces the tree's water stress.
 
 ---

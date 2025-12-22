@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "3. Buying Your First Tree"
-nav_order: 4
-permalink: /chapters/03-buying.html
+title: "4. Buying Your First Tree"
+nav_order: 5
+permalink: /chapters/04-buying.html
 ---
 
 # Buying Your First Tree: A Connoisseur's Guide

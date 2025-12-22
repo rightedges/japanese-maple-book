@@ -15,7 +15,7 @@ However, a word of advice for the beginner: set your expectations low. Japanese 
 
 ## 1. Seeds (The Genetic Lottery and Rootstock Factory)
 
-Growing maples from seed is the "slow" way, but it is the most accessible. As we mentioned in Chapter 3 and 12, the most important rule of maple seeds is that **they do not come true to the parent.** 
+Growing maples from seed is the "slow" way, but it is the most accessible. As we mentioned in Chapter 4 and 12, the most important rule of maple seeds is that **they do not come true to the parent.** 
 
 ### Why Seeds Matter
 If you take a seed from a 'Bloodgood', you will get a "plain" green or reddish *Acer palmatum* seedling. So why do it?

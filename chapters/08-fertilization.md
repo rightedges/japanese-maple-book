@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "7. Fertilization"
-nav_order: 8
-permalink: /chapters/07-fertilization.html
+title: "8. Fertilization Basics"
+nav_order: 10
+permalink: /chapters/08-fertilization.html
 ---
 
 # Fertilization: The Technical Art of Restraint
@@ -104,6 +104,6 @@ In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen
 
 ## Summary: Feed the Soil, Not the Tree
 
-The most successful maple growers are those who focus on **soil health** rather than "feeding" the plant. By providing a 3-inch layer of quality wood-chip mulch (see Chapter 5), you are providing a slow-release, perfectly balanced fertilizer that mimics the Japanese mountain forest.
+The most successful maple growers are those who focus on **soil health** rather than "feeding" the plant. By providing a 3-inch layer of quality wood-chip mulch (see Chapter 6), you are providing a slow-release, perfectly balanced fertilizer that mimics the Japanese mountain forest.
 
 If you must intervene, do so with the "Bonsai Mindset." Use organic, low-nitrogen sources. Use half the dose the label suggests. Your job is not to "pump it up," but to provide a stable, nutrient-clean environment where it can slowly, gracefully, reveal its character. Build the soil, and the tree will follow.
