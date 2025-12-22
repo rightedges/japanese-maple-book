@@ -2,7 +2,7 @@
 set -e
 
 # Output file
-OUTPUT="book.epub"
+OUTPUT="assets/book.epub"
 
 # Create a temporary file to hold the complete markdown content
 COMBINED_MD="combined.md"
