@@ -49,21 +49,27 @@
     - title: "12. Propagation"
       url: /chapters/12-propagation.html
       file: chapters/12-propagation.md
-    - title: "13. Maple Bonsai Introduction"
-      url: /chapters/13-bonsai.html
-      file: chapters/13-bonsai.md
 
-- title: "Part V: Troubleshooting & Health"
+- title: "Part V: Health & Troubleshooting"
   children:
-    - title: "14. Pests and Diseases"
-      url: /chapters/14-pests-diseases.html
-      file: chapters/14-pests-diseases.md
-    - title: "15. Environmental Stress"
-      url: /chapters/15-environmental-stress.html
-      file: chapters/15-environmental-stress.md
-    - title: "16. Maintenance Calendar"
-      url: /chapters/16-calendar.html
-      file: chapters/16-calendar.md
+    - title: "13. Pests and Diseases"
+      url: /chapters/13-pests-diseases.html
+      file: chapters/13-pests-diseases.md
+    - title: "14. Environmental Stress"
+      url: /chapters/14-environmental-stress.html
+      file: chapters/14-environmental-stress.md
+    - title: "15. Maintenance Calendar"
+      url: /chapters/15-calendar.html
+      file: chapters/15-calendar.md
+
+- title: "Part VI: Specialized Interests"
+  children:
+    - title: "16. Maple Bonsai Introduction"
+      url: /chapters/16-bonsai.html
+      file: chapters/16-bonsai.md
+
+- title: "Part VII: Reference"
+  children:
     - title: "17. Cultivar Library"
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
@@ -135,7 +141,7 @@
         - title: "Viridis"
           file: _cultivars/viridis.md
 
-- title: "Part VI: Reference"
+- title: "Part VIII: Appendices"
   children:
     - title: "Appendix A: Cultivar Quick Reference"
       url: /chapters/appendix-a-table.html

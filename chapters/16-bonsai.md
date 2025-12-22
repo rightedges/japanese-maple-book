@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "13. Maple Bonsai Introduction"
-nav_order: 14
-permalink: /chapters/13-bonsai.html
+title: "16. Maple Bonsai Introduction"
+nav_order: 18
+permalink: /chapters/16-bonsai.html
 ---
 
 # Maple Bonsai: The Mountain Distilled

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "14. Pests and Diseases"
+title: "13. Pests and Diseases"
 nav_order: 15
-permalink: /chapters/14-pests-diseases.html
+permalink: /chapters/13-pests-diseases.html
 ---
 
 # Pests and Diseases: A Simple Guide to Maple Health

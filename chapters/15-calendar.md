@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "16. Maintenance Calendar"
+title: "15. Maintenance Calendar"
 nav_order: 17
-permalink: /chapters/16-calendar.html
+permalink: /chapters/15-calendar.html
 ---
 
 # Maintenance Calendar: A Yearly Guide to Stewardship
@@ -62,7 +62,7 @@ Summer is about defense. Your goal is to keep the tree cool and the water pressu
 
 ### July: Heatwave Management
 *   **The Hydration Marathon**: Check pots every morning and evening. For trees in the sun, use "shading the pot" with a board to prevent root-cooking.
-*   **Morning Misting**: Misting the foliage in the morning (6 AM) can lower the local VPD (Chapter 15) and help the tree manage the day's heat.
+*   **Morning Misting**: Misting the foliage in the morning (6 AM) can lower the local VPD (Chapter 14) and help the tree manage the day's heat.
 *   **Fertilization**: **STOP ALL FEEDING** by July 4th.
 
 ### August: The Hardening Off

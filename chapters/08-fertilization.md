@@ -98,7 +98,7 @@ For container trees, you may continue light liquid feeding (Fish Emulsion) throu
 
 ### The Autumn Prohibition (REALLY IMPORTANT)
 **Do not fertilize after July.** 
-In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 14).
+In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 13).
 
 ---
 

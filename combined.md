@@ -228,6 +228,126 @@ The most famous member is **'Aureum'** (Golden Full Moon Maple). Its translucent
 
 ---
 
+# Famous Cultivars Guide: The Icons and Specialists
+
+With over 1,000 named cultivars of *Acer palmatum*, choosing your first (or fifth) tree can be overwhelming. Some trees have stood the test of time due to their resilience, while others are prized for a singular, breathtaking feature. In this super-expanded guide, we move beyond the "catalog description" and explore the historical origins, color arcs, and specific maintenance requirements of the world's most famous maples.
+
+---
+
+## 1. The Core Classics (The "Must-Haves)
+
+These are the trees that defined the species for the Western world. They are the most reliable, widely-planted, and historically significant cultivars in the world.
+
+### ['Bloodgood'](cultivars/bloodgood) (The Crimson King) and its Legacy
+*   **Origin**: Selected at the Bloodgood Nursery in Long Island, NY, in the early 20th century.
+*   **The Color Arc**: Deep burgundy-purple (Spring/Summer) -> Brilliant Scarlet (Fall).
+*   **Technical Note**: 'Bloodgood' is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 9) in the heat of July, 'Bloodgood' holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
+*   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **['Emperor 1'](cultivars/emperor-1' | relative_url }})** (which leafes out two weeks later to avoid frost) and **['Fireglow']({{ '/cultivars/fireglow)** (which stays shorter and has even more translucent, glowing red leaves).
+
+### ['Osakazuki'](cultivars/osakazuki) (The Autumn Masterpiece)
+*   **Origin**: An ancient Japanese cultivar, буквально meaning "The Cup of Osaka." It has been documented for over 200 years.
+*   **The Color Arc**: Olive-Green (Spring/Summer) -> Fire-Engine Red (Fall).
+*   **Technical Note**: For 200 years, 'Osakazuki' has been considered the world's best tree for autumn color. Its thick, Amoenum-style leaves hold more sugar than other cultivars. This sugar-loading triggers an "incandescent" red that seems to glow in the dark, outperforming even the wild mountain maples.
+*   **Landscape Role**: Plant it as a specimen where it can be seen from a distance. Its summer green acts as a perfect "quiet" backdrop for other flowers until it "explodes" in October.
+
+### ['Katsura'](cultivars/katsura) (The Harbinger of Spring)
+*   **The Color Arc**: Bright Orange (Spring) -> Chartreuse Green (Summer) -> Bright Yellow-Orange (Fall).
+*   **Technical Note**: 'Katsura' is prized for its early-season "wow" factor. It is often the very first tree to leaf out in the garden. Its emergent leaves are so bright they look like flowers.
+*   **Maintenance**: It is a "sprinter"—it uses all its energy in spring. It is prone to late frost damage because it wakes up so early. If a spring freeze is predicted, you **must** cover it with a frost cloth.
+
+---
+
+## 2. The Fine-Leaf Specialists (The "Lace-Leafs)
+
+These are the mounding, weeping trees that define the modern ornamental garden.
+
+### 'Crimson Queen' / 'Tamukeyama'
+These are the two "Queens" of the red dissectums.
+*   **['Crimson Queen'](cultivars/crimson-queen)**: Selected in 1965 in New Jersey, it is prized for its **retention**. It holds its red color until the very last leaf falls in November.
+*   **['Tamukeyama'](cultivars/tamukeyama)**: The "Industrial Strength" weeper. It dates back to the 1700s in Japan. It is considered the most heat-tolerant red weeper, making it the #1 choice for the American South or South-Facing patios.
+*   **Pruning Strategy**: Both cultivars require "interior cleaning." Because they are so dense, old leaves and dead twigs get trapped inside the "mound," which can lead to fungal rot in humid climates. You should be able to sit "inside" a mature 'Tamukeyama' and see the branch structure clearly (Chapter 11).
+
+### ['Seiryu'](cultivars/seiryu) (The Blue Dragon)
+*   **Technical Note**: 'Seiryu' is a botanical anomaly. It has the lacy, dissected leaf of a weeper, but it grows in a strong, **upright vase shape**.
+*   **Landscape Role**: It offers the texture of a 'Crimson Queen' but at human eye level (15-20 feet tall). It is one of the hardiest and most sun-tolerant maples in the entire guide. It is the perfect choice for a "narrow" space where you need height but want fine texture.
+
+---
+
+## 3. The Neon & Sculptural Group
+
+Maples that bring light or architectural "gravity" into the garden.
+
+### 'Summer Gold' / 'Jordan'
+*   **['Summer Gold'](cultivars/summer-gold)**: A breakthrough in breeding from Italy. Unlike older yellow maples that scorch in the sun, 'Summer Gold' actually gets **brighter** in direct sunlight, turning a brilliant, pale lemon-yellow.
+*   **['Jordan'](cultivars/jordan)**: A Full Moon maple (*A. shirasawanum*). It features huge, round, neon-lime leaves. 
+*   **History**: Named after the son of the Fratelli Gilardelli nursery owner in Italy. 
+*   **Maintenance**: 'Jordan' needs protection from wind; its massive leaves act like sails and can "tatter" easily.
+
+### ['Mikawa Yatsubusa'](cultivars/mikawa-yatsubusa) (The Shingled Maple)
+*   **Aesthetic**: The leaves grow on extremely short branches (short internodes) and overlap like shingles on a roof. 
+*   **Why it's famous**: It naturally creates a "tiered" or "pagoda-like" appearance without any pruning. It is widely considered the best Japanese Maple for container culture (Chapter ).
+*   **Technical Note**: It is an "Amoenum" type dwarf, meaning it is tougher than it looks. It can handle full sun in many climates if well-watered.
+
+### ['Shishigashira'](cultivars/shishigashira) (The Lion's Head)
+*   **The Color Arc**: Deep Green (Summer) -> Golden Orange (Extremely Late Fall).
+*   **Physical Trait**: Tightly crinkled, bunched-up foliage that looks like the mane of a lion. 
+*   **History**: A very old cultivar, often featured in Japanese woodblock prints.
+*   **Landscape Role**: It is the "sturdy" maple—its wood is extremely hard and it is very resistant to wind damage. It is also one of the best subjects for bonsai (Chapter 13).
+
+---
+
+## 4. The Ghost Series: The Magic of Reticulation
+
+A relatively modern addition to the maple world, the "Ghost" series (developed by Buchholz & Buchholz Nursery) features **reticulated variegation**.
+
+*   **['First Ghost'](cultivars/first-ghost)**: Emerges white with dark green veins.
+*   **['Amber Ghost'](cultivars/amber-ghost)**: Emerges amber-orange with dark green veins.
+*   **['Sister Ghost'](cultivars/sister-ghost)**: Emerges chartreuse with deep green veins.
+*   **The Science**: The tree inhibits chlorophyll production in the "webbing" of the leaf while keeping the veins green. This creates a haunting, spectral look that is unmatched in the plant world.
+*   **Maintenance**: These are high-maintenance. They require **Deep Shade** to prevent the white/amber parts from burning.
+
+---
+
+## 5. The Variegated & Bark "Divas"
+
+### ['Ukigumo'](cultivars/ukigumo) (The Floating Cloud)
+*   **Aesthetic**: In a good year, the leaves can be almost 100% white. 
+*   **Warning**: This is the most difficult maple in this guide. Too much sun burns the white leaves; too much shade makes them turn solid green. 
+*   **The "Reversion" Check**: You must prune out any solid green branches immediately. Because green leaves have more chlorophyll, they grow faster and will "choke out" the white parts of the tree within two seasons.
+
+### ['Sango Kaku'](cultivars/sango-kaku) (The Coral Bark Maple)
+*   **Technical Note**: While its summer leaves are a pleasant green, the "show" starts in winter. The bark on the young twigs turns a brilliant, glowing coral-red once the temperature drops.
+*   **Pruning**: The best bark color is always on the "new wood." To keep a 'Sango Kaku' looking bright, you should prune it regularly (thinning) to encourage a constant supply of juvenile twigs.
+
+---
+
+## 6. Comprehensive Selection Matrix
+
+| Cultivar | Key Feature | Sun Tolerance | Growth Rate | Best Use |
+| :--- | :--- | :--- | :--- | :--- |
+| **['Bloodgood'](cultivars/bloodgood)** | Consistent Red | High | Fast | Anchor Specimen |
+| **['Osakazuki'](cultivars/osakazuki)** | Best Fall Red | Medium | Moderate | Focal Point |
+| **['Seiryu'](cultivars/seiryu)** | Upright Laceleaf | High | Fast | Narrow Spaces |
+| **['Mikawa'](cultivars/mikawa-yatsubusa)** | Shingled Layers | Medium-High | Slow | Containers / Rocks |
+| **['Tamukeyama'](cultivars/tamukeyama)** | Weeping Red | High | Moderate | Ponds / Slopes |
+| **['Ukigumo'](cultivars/ukigumo)** | White Foliage | Very Low | Slow | Shaded Courtyard |
+| **['Katsura'](cultivars/katsura)** | Orange Spring | Medium | Moderate | Early Interest |
+| **['Jordan'](cultivars/jordan)** | Neon Yellow | Low-Medium | Slow | Shaded Contrast |
+| **['Shishigashira'](cultivars/shishigashira)**| Crinkled Mane | High | Slow | Sculptural |
+
+---
+
+## Summary: Designing Your Collection
+
+When choosing your cultivars, think of your garden as a multi-season symphony.
+1.  **For the Soloists**: Pick one "Icon" like 'Bloodgood' to anchor the space.
+2.  **For the Textual Contrast**: Add a "Specialist" like 'Seiryu' for its unique lacy-but-upright form.
+3.  **For the Light**: Use 'Summer Gold' or 'Jordan' in a dark corner that needs brightening.
+
+Every cultivar in this guide has been tested over decades of horticultural practice. While there are thousands of rarer maples available, these "Famous Cultivars" are famous for a reason: they combine aesthetic perfection with the genetic stamina to thrive in your garden for generations.
+
+---
+
 # Buying Your First Tree: A Connoisseur's Guide
 
 Embarking on the journey of Japanese Maple stewardship begins with a single, crucial moment: the purchase. While impulse buying so often plagues gardeners ("I have a spot for this somewhere!), selecting a Japanese Maple requires a discerning eye. You are not just buying a plant; you are buying a structure, a root system, and a genetic history.
@@ -319,7 +439,7 @@ When buying, don't buy height; buy **trunk caliper** (thickness). A thick trunk 
 
 When you find "The One," do not leave the nursery until you have checked these six boxes:
 
-1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 1).
+1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 13).
 2.  **Bark Integrity**: Ensure there is no damage from weed-whackers or mower-stings at the base.
 3.  **Drainage Test**: Look at the top of the soil. If it is covered in green moss or liverwort, the soil has been saturated for too long, indicating potential root rot.
 4.  **Variety Verification**: Does the leaf look like it should for this variety? If it's a 'Sango Kaku', are the twigs actually red?
@@ -475,7 +595,7 @@ Water does not move easily from a fine-textured material (soil) to a coarse-text
 This is the most important rule of container maples.
 *   **The Physics**: A tree's roots are far more sensitive to cold than its branches. In the ground, the soil temperature rarely drops below 32°F (0°C). In a pot, the soil temperature can match the air temperature.
 *   **The Rule**: If a maple is rated for Zone 5 in the ground, in a pot it behaves as if it's in Zone 7. To survive a winter in a pot without protection, you must choose a tree that is **two zones hardier** than your current location.
-*   **The Protection**: If you live in Zone 6, you must wrap your Zone 6 maples in burlap or move them into an unheated garage (Chapter 16) once the temperature drops below 20°F (-7°C).
+*   **The Protection**: If you live in Zone 6, you must wrap your Zone 6 maples in burlap or move them into an unheated garage (Chapter 15) once the temperature drops below 20°F (-7°C).
 
 ---
 
@@ -622,13 +742,13 @@ For container trees, you may continue light liquid feeding (Fish Emulsion) throu
 
 ### The Autumn Prohibition (REALLY IMPORTANT)
 **Do not fertilize after July.** 
-In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 1).
+In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 13).
 
 ---
 
 ## Summary: Feed the Soil, Not the Tree
 
-The most successful maple growers are those who focus on **soil health** rather than "feeding" the plant. By providing a 3-inch layer of quality wood-chip mulch (see Chapter 5), you are providing a slow-release, perfectly balanced fertilizer that mimics the Japanese mountain forest.
+The most successful maple growers are those who focus on **soil health** rather than "feeding" the plant. By providing a 3-inch layer of quality wood-chip mulch (see Chapter 6), you are providing a slow-release, perfectly balanced fertilizer that mimics the Japanese mountain forest.
 
 If you must intervene, do so with the "Bonsai Mindset." Use organic, low-nitrogen sources. Use half the dose the label suggests. Your job is not to "pump it up," but to provide a stable, nutrient-clean environment where it can slowly, gracefully, reveal its character. Build the soil, and the tree will follow.
 
@@ -664,7 +784,7 @@ Often, a green cultivar (like 'Katsura' or 'Aoyagi) will emerge in spring with b
 *   **The UV Index Link**: Research indicates that trees grown at higher altitudes (or in higher UV areas) produce more intense spring reds as a direct defensive response. As the leaf matures and thickens, the green chlorophyll takes over, and the red "sunscreen" fades away.
 
 ### The "Ghost" Emergence
-Cultivars like 'First Ghost' or 'Amber Ghost' have a unique spring gimmick. They emerge with nearly white or cream leaves with dark green veins. This is a controlled form of "reticulated variegation." It is exceptionally beautiful but makes the tree very vulnerable to heat (see Chapter 15).
+Cultivars like 'First Ghost' or 'Amber Ghost' have a unique spring gimmick. They emerge with nearly white or cream leaves with dark green veins. This is a controlled form of "reticulated variegation." It is exceptionally beautiful but makes the tree very vulnerable to heat (see Chapter 1).
 
 ---
 
@@ -748,7 +868,7 @@ When we talk about companions, we usually talk about colors. But the most import
 Some trees (like Black Walnut or certain Eucalyptus) are "allelopathic"—they secrete chemicals from their roots that kill or stun nearby plants to ensure the tree has no competition. **Japanese Maples are the opposite.** They are incredibly "friendly" neighbors. They do not produce chemical inhibitors. This makes them ideal for a "high-density" garden where layers of plants are tucked right up against the root flare. This lack of chemical aggression allows for a multi-storied landscape where every square inch of soil can be productive.
 
 ### The "Humidity Well" Physics (Revisited)
-As we discussed in Chapter 4, maples live and die by the moisture in the air. A solitary maple standing in a lawn is exposed to drying winds on all sides. 
+As we discussed in Chapter 5, maples live and die by the moisture in the air. A solitary maple standing in a lawn is exposed to drying winds on all sides. 
 *   **The Benefit of Grouping**: By planting an understory of ferns, hostas, and azaleas, you create a "transpiration canopy." As all these plants breathe water vapor into the air through their stomata, they create a bubble of high humidity (a "humidity well) that protects the maple's delicate leaves from scorching. Research shows that a densely planted "community" of plants can maintain a local humidity level 10-15% higher than a bare soil site. This isn't just for looks; it is a life-support system that reduces the tree's water stress.
 
 ---
@@ -834,126 +954,6 @@ Think about the year-long arc. Use bulbs for late winter interest, Azaleas for s
 
 ---
 
-# Famous Cultivars Guide: The Icons and Specialists
-
-With over 1,000 named cultivars of *Acer palmatum*, choosing your first (or fifth) tree can be overwhelming. Some trees have stood the test of time due to their resilience, while others are prized for a singular, breathtaking feature. In this super-expanded guide, we move beyond the "catalog description" and explore the historical origins, color arcs, and specific maintenance requirements of the world's most famous maples.
-
----
-
-## 1. The Core Classics (The "Must-Haves)
-
-These are the trees that defined the species for the Western world. They are the most reliable, widely-planted, and historically significant cultivars in the world.
-
-### ['Bloodgood'](cultivars/bloodgood) (The Crimson King) and its Legacy
-*   **Origin**: Selected at the Bloodgood Nursery in Long Island, NY, in the early 20th century.
-*   **The Color Arc**: Deep burgundy-purple (Spring/Summer) -> Brilliant Scarlet (Fall).
-*   **Technical Note**: 'Bloodgood' is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 8) in the heat of July, 'Bloodgood' holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
-*   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **'Emperor 1'** (which leafes out two weeks later to avoid frost) and **'Fireglow'** (which stays shorter and has even more translucent, glowing red leaves).
-
-### ['Osakazuki'](cultivars/osakazuki) (The Autumn Masterpiece)
-*   **Origin**: An ancient Japanese cultivar, буквально meaning "The Cup of Osaka." It has been documented for over 200 years.
-*   **The Color Arc**: Olive-Green (Spring/Summer) -> Fire-Engine Red (Fall).
-*   **Technical Note**: For 200 years, 'Osakazuki' has been considered the world's best tree for autumn color. Its thick, Amoenum-style leaves hold more sugar than other cultivars. This sugar-loading triggers an "incandescent" red that seems to glow in the dark, outperforming even the wild mountain maples.
-*   **Landscape Role**: Plant it as a specimen where it can be seen from a distance. Its summer green acts as a perfect "quiet" backdrop for other flowers until it "explodes" in October.
-
-### ['Katsura'](cultivars/katsura) (The Harbinger of Spring)
-*   **The Color Arc**: Bright Orange (Spring) -> Chartreuse Green (Summer) -> Bright Yellow-Orange (Fall).
-*   **Technical Note**: 'Katsura' is prized for its early-season "wow" factor. It is often the very first tree to leaf out in the garden. Its emergent leaves are so bright they look like flowers.
-*   **Maintenance**: It is a "sprinter"—it uses all its energy in spring. It is prone to late frost damage because it wakes up so early. If a spring freeze is predicted, you **must** cover it with a frost cloth.
-
----
-
-## 2. The Fine-Leaf Specialists (The "Lace-Leafs)
-
-These are the mounding, weeping trees that define the modern ornamental garden.
-
-### 'Crimson Queen' / 'Tamukeyama'
-These are the two "Queens" of the red dissectums.
-*   **['Crimson Queen'](cultivars/crimson-queen)**: Selected in 1965 in New Jersey, it is prized for its **retention**. It holds its red color until the very last leaf falls in November.
-*   **['Tamukeyama'](cultivars/tamukeyama)**: The "Industrial Strength" weeper. It dates back to the 1700s in Japan. It is considered the most heat-tolerant red weeper, making it the #1 choice for the American South or South-Facing patios.
-*   **Pruning Strategy**: Both cultivars require "interior cleaning." Because they are so dense, old leaves and dead twigs get trapped inside the "mound," which can lead to fungal rot in humid climates. You should be able to sit "inside" a mature 'Tamukeyama' and see the branch structure clearly (Chapter 11).
-
-### ['Seiryu'](cultivars/seiryu) (The Blue Dragon)
-*   **Technical Note**: 'Seiryu' is a botanical anomaly. It has the lacy, dissected leaf of a weeper, but it grows in a strong, **upright vase shape**.
-*   **Landscape Role**: It offers the texture of a 'Crimson Queen' but at human eye level (15-20 feet tall). It is one of the hardiest and most sun-tolerant maples in the entire guide. It is the perfect choice for a "narrow" space where you need height but want fine texture.
-
----
-
-## 3. The Neon & Sculptural Group
-
-Maples that bring light or architectural "gravity" into the garden.
-
-### 'Summer Gold' / 'Jordan'
-*   **['Summer Gold'](cultivars/summer-gold)**: A breakthrough in breeding from Italy. Unlike older yellow maples that scorch in the sun, 'Summer Gold' actually gets **brighter** in direct sunlight, turning a brilliant, pale lemon-yellow.
-*   **['Jordan'](cultivars/jordan)**: A Full Moon maple (*A. shirasawanum*). It features huge, round, neon-lime leaves. 
-*   **History**: Named after the son of the Fratelli Gilardelli nursery owner in Italy. 
-*   **Maintenance**: 'Jordan' needs protection from wind; its massive leaves act like sails and can "tatter" easily.
-
-### ['Mikawa Yatsubusa'](cultivars/mikawa-yatsubusa) (The Shingled Maple)
-*   **Aesthetic**: The leaves grow on extremely short branches (short internodes) and overlap like shingles on a roof. 
-*   **Why it's famous**: It naturally creates a "tiered" or "pagoda-like" appearance without any pruning. It is widely considered the best Japanese Maple for container culture (Chapter 6).
-*   **Technical Note**: It is an "Amoenum" type dwarf, meaning it is tougher than it looks. It can handle full sun in many climates if well-watered.
-
-### ['Shishigashira'](cultivars/shishigashira) (The Lion's Head)
-*   **The Color Arc**: Deep Green (Summer) -> Golden Orange (Extremely Late Fall).
-*   **Physical Trait**: Tightly crinkled, bunched-up foliage that looks like the mane of a lion. 
-*   **History**: A very old cultivar, often featured in Japanese woodblock prints.
-*   **Landscape Role**: It is the "sturdy" maple—its wood is extremely hard and it is very resistant to wind damage. It is also one of the best subjects for bonsai (Chapter 13).
-
----
-
-## 4. The Ghost Series: The Magic of Reticulation
-
-A relatively modern addition to the maple world, the "Ghost" series (developed by Buchholz & Buchholz Nursery) features **reticulated variegation**.
-
-*   **'First Ghost'**: Emerges white with dark green veins.
-*   **'Amber Ghost'**: Emerges amber-orange with dark green veins.
-*   **'Sister Ghost'**: Emerges chartreuse with deep green veins.
-*   **The Science**: The tree inhibits chlorophyll production in the "webbing" of the leaf while keeping the veins green. This creates a haunting, spectral look that is unmatched in the plant world.
-*   **Maintenance**: These are high-maintenance. They require **Deep Shade** to prevent the white/amber parts from burning.
-
----
-
-## 5. The Variegated & Bark "Divas"
-
-### ['Ukigumo'](cultivars/ukigumo) (The Floating Cloud)
-*   **Aesthetic**: In a good year, the leaves can be almost 100% white. 
-*   **Warning**: This is the most difficult maple in this guide. Too much sun burns the white leaves; too much shade makes them turn solid green. 
-*   **The "Reversion" Check**: You must prune out any solid green branches immediately. Because green leaves have more chlorophyll, they grow faster and will "choke out" the white parts of the tree within two seasons.
-
-### ['Sango Kaku'](cultivars/sango-kaku) (The Coral Bark Maple)
-*   **Technical Note**: While its summer leaves are a pleasant green, the "show" starts in winter. The bark on the young twigs turns a brilliant, glowing coral-red once the temperature drops.
-*   **Pruning**: The best bark color is always on the "new wood." To keep a 'Sango Kaku' looking bright, you should prune it regularly (thinning) to encourage a constant supply of juvenile twigs.
-
----
-
-## 6. Comprehensive Selection Matrix
-
-| Cultivar | Key Feature | Sun Tolerance | Growth Rate | Best Use |
-| :--- | :--- | :--- | :--- | :--- |
-| **['Bloodgood'](cultivars/bloodgood)** | Consistent Red | High | Fast | Anchor Specimen |
-| **['Osakazuki'](cultivars/osakazuki)** | Best Fall Red | Medium | Moderate | Focal Point |
-| **['Seiryu'](cultivars/seiryu)** | Upright Laceleaf | High | Fast | Narrow Spaces |
-| **['Mikawa'](cultivars/mikawa-yatsubusa)** | Shingled Layers | Medium-High | Slow | Containers / Rocks |
-| **['Tamukeyama'](cultivars/tamukeyama)** | Weeping Red | High | Moderate | Ponds / Slopes |
-| **['Ukigumo'](cultivars/ukigumo)** | White Foliage | Very Low | Slow | Shaded Courtyard |
-| **['Katsura'](cultivars/katsura)** | Orange Spring | Medium | Moderate | Early Interest |
-| **['Jordan'](cultivars/jordan)** | Neon Yellow | Low-Medium | Slow | Shaded Contrast |
-| **['Shishigashira'](cultivars/shishigashira)**| Crinkled Mane | High | Slow | Sculptural |
-
----
-
-## Summary: Designing Your Collection
-
-When choosing your cultivars, think of your garden as a multi-season symphony.
-1.  **For the Soloists**: Pick one "Icon" like 'Bloodgood' to anchor the space.
-2.  **For the Textual Contrast**: Add a "Specialist" like 'Seiryu' for its unique lacy-but-upright form.
-3.  **For the Light**: Use 'Summer Gold' or 'Jordan' in a dark corner that needs brightening.
-
-Every cultivar in this guide has been tested over decades of horticultural practice. While there are thousands of rarer maples available, these "Famous Cultivars" are famous for a reason: they combine aesthetic perfection with the genetic stamina to thrive in your garden for generations.
-
----
-
 # Pruning Mastery: The Art of Revelation
 
 For most people, pruning is a chore used to keep a plant from getting too big. But for Japanese Maple lovers, pruning is like slow-motion sculpture. You aren't forcing the tree into a shape; you are gently helping it reveal its own beauty.
@@ -1020,7 +1020,7 @@ However, a word of advice for the beginner: set your expectations low. Japanese 
 
 ## 1. Seeds (The Genetic Lottery and Rootstock Factory)
 
-Growing maples from seed is the "slow" way, but it is the most accessible. As we mentioned in Chapter 3 and 12, the most important rule of maple seeds is that **they do not come true to the parent.** 
+Growing maples from seed is the "slow" way, but it is the most accessible. As we mentioned in Chapter 4 and 12, the most important rule of maple seeds is that **they do not come true to the parent.** 
 
 ### Why Seeds Matter
 If you take a seed from a 'Bloodgood', you will get a "plain" green or reddish *Acer palmatum* seedling. So why do it?
@@ -1119,59 +1119,6 @@ Propagation is the antidote to the "instant gratification" of modern gardening. 
 If you succeed, you have a tree that shares your history. You have a "Bloodgood" that came from your grandfather's tree, or a "Sango Kaku" that was a gift from a friend's garden. These trees carry stories. And even if you fail—which you will, many times—you are learning the deepest secrets of *Acer palmatum*. You are learning what it takes to sustain life. 
 
 Start with **Air Layering** for a win, then move to **Seeds** for the adventure, and finally attempt **Cuttings** and **Grafting** once you have mastered the environmental controls. The forest is waiting.
-
----
-
-# Maple Bonsai: The Mountain Distilled
-
-A Japanese Maple isn't just a tree in the world of bonsai; it's a star. While we love seeing these trees in our gardens, there is something magical about seeing a 50-year-old maple that can fit in the palm of your hand. This is the art of bonsai—taking the essence of a mountain giant and distilling it into a tiny pot.
-
-Growing a Japanese Maple as a bonsai is different than growing one in the yard. In the garden, you are a helper; in bonsai, you are the tree's entire life support. This chapter introduces you to the simple basics of keeping a tiny maple happy.
-
----
-
-## 1. The Challenge of the Tiny Pot
-
-A bonsai pot is a very small place to live. Because there isn't much soil, the tree can dry out in just a few hours on a hot day.
-*   **The Soil**: You can't use regular garden dirt. Bonsai soil is made of small rocks and bark that allow air to reach the roots while still holding onto just enough water.
-*   **Watering**: You will need to check your bonsai tree every single day. If the surface of the soil feels dry, give it a drink until water runs out of the holes in the bottom.
-
----
-
-## 2. Tiny Leaves: The Secret of "Pinching"
-
-How do you get a large leaf to stay the size of a fingernail? It's all about pruning.
-*   **Dividing the Energy**: When a tree has 1,000 tiny branches instead of just 1 big one, it splits its energy 1,000 ways. Each branch gets only a small "sip" of energy, which results in smaller, perfectly scaled leaves.
-*   **Pinching**: In the spring, you can pinch off the very tips of the new growth between your fingers. This tells the tree to grow two branches where there was only one, making the tree bushier and the leaves smaller.
-
----
-
-## 3. Styling Your Tree: Deciduous Wiring
-
-While bonsai artists use wire to guide branches, wiring a Japanese Maple is fundamentally different from wiring a pine or juniper. Maples have delicate, smooth bark that scars easily, and they grow much faster than conifers during the spring surge.
-
-### 3.1 The "Deciduous Method"
-*   **Aluminum vs. Copper**: Never use annealed copper wire (common for pines) on a maple. It is too stiff and can easily crush the cambium. Use **Anodized Aluminum wire**; it is softer, easier to apply, and offers more "give" as the branch swells.
-*   **Protection**: For important branches, use **paper-wrapped aluminum wire** or wrap the branch in a thin layer of **raffia** before wiring. This acts as a cushion to prevent the wire from biting into the soft bark.
-*   **Timing**: Unlike conifers, which are often wired in the winter, maples should be wired in **late spring or early summer** after the first flush of leaves has hardened. Avoid wiring in winter, as frozen branches are brittle and 'bleed' sap more easily.
-
-### 3.2 The "Clip and Grow" Philosophy
-Because maples scar so easily, many masters prefer the **"Clip and Grow"** method over heavy wiring. This involves pruning a branch back to a bud that is pointing in the direction you want the tree to grow. Wiring should only be used for fine adjustments, not for massive structural changes.
-
-*   **The 3-Month Rule**: Check your wire every two weeks. In the peak of summer, a maple can outgrow its wire in less than a month. Remove the wire the moment it begins to look snug—**do not wait for it to "set"** as you would with a juniper. A wire scar on a maple can take decades to heal.
-
----
-
-## 4. Repotting: The Secret to Long Life
-
-Because the pot is so small, the roots will eventually fill every inch of space. 
-*   **The Roots Reset**: Every two years, you take the tree out of the pot and trim off about one-third of the root mass. This sounds scary, but it actually keeps the tree young and healthy by encouraging fresh, new roots to grow. 
-
----
-
-## Summary: A Life-Long Hobby
-
-Bonsai is a "slow art." You can't rush a tree to grow, but that's part of the fun. It teaches you to slow down and notice the small changes in the seasons. To own a maple bonsai is to have a tiny piece of the forest in your home—a living legacy that you can pass down for generations.
 
 ---
 
@@ -1336,7 +1283,7 @@ Spring is the high-stakes season. Everything happens at once: sap moves, buds br
 
 ### March: The Awakening
 *   **Potting and Root Pruning**: This is the most critical month for containers. You must repot **just as the buds begin to swell** but before they open. Once the leaves are out, it is too late.
-*   **The Soil Wakeup**: As the soil warms, the microbiology activates. This is the time to apply Humic Acids (Chapter ) to prime the root zone.
+*   **The Soil Wakeup**: As the soil warms, the microbiology activates. This is the time to apply Humic Acids (Chapter 8) to prime the root zone.
 *   **Pro-Tip**: Scuff up your mulch to ensure no molds developed over winter.
 
 ### April: The Critical Frost Watch
@@ -1363,7 +1310,7 @@ Summer is about defense. Your goal is to keep the tree cool and the water pressu
 
 ### July: Heatwave Management
 *   **The Hydration Marathon**: Check pots every morning and evening. For trees in the sun, use "shading the pot" with a board to prevent root-cooking.
-*   **Morning Misting**: Misting the foliage in the morning (6 AM) can lower the local VPD (Chapter 15) and help the tree manage the day's heat.
+*   **Morning Misting**: Misting the foliage in the morning (6 AM) can lower the local VPD (Chapter 1) and help the tree manage the day's heat.
 *   **Fertilization**: **STOP ALL FEEDING** by July 4th.
 
 ### August: The Hardening Off
@@ -1416,6 +1363,59 @@ Consistency is the secret to maple mastery. Ten minutes of observation every wee
 
 ---
 
+# Maple Bonsai: The Mountain Distilled
+
+A Japanese Maple isn't just a tree in the world of bonsai; it's a star. While we love seeing these trees in our gardens, there is something magical about seeing a 50-year-old maple that can fit in the palm of your hand. This is the art of bonsai—taking the essence of a mountain giant and distilling it into a tiny pot.
+
+Growing a Japanese Maple as a bonsai is different than growing one in the yard. In the garden, you are a helper; in bonsai, you are the tree's entire life support. This chapter introduces you to the simple basics of keeping a tiny maple happy.
+
+---
+
+## 1. The Challenge of the Tiny Pot
+
+A bonsai pot is a very small place to live. Because there isn't much soil, the tree can dry out in just a few hours on a hot day.
+*   **The Soil**: You can't use regular garden dirt. Bonsai soil is made of small rocks and bark that allow air to reach the roots while still holding onto just enough water.
+*   **Watering**: You will need to check your bonsai tree every single day. If the surface of the soil feels dry, give it a drink until water runs out of the holes in the bottom.
+
+---
+
+## 2. Tiny Leaves: The Secret of "Pinching"
+
+How do you get a large leaf to stay the size of a fingernail? It's all about pruning.
+*   **Dividing the Energy**: When a tree has 1,000 tiny branches instead of just 1 big one, it splits its energy 1,000 ways. Each branch gets only a small "sip" of energy, which results in smaller, perfectly scaled leaves.
+*   **Pinching**: In the spring, you can pinch off the very tips of the new growth between your fingers. This tells the tree to grow two branches where there was only one, making the tree bushier and the leaves smaller.
+
+---
+
+## 3. Styling Your Tree: Deciduous Wiring
+
+While bonsai artists use wire to guide branches, wiring a Japanese Maple is fundamentally different from wiring a pine or juniper. Maples have delicate, smooth bark that scars easily, and they grow much faster than conifers during the spring surge.
+
+### 3.1 The "Deciduous Method"
+*   **Aluminum vs. Copper**: Never use annealed copper wire (common for pines) on a maple. It is too stiff and can easily crush the cambium. Use **Anodized Aluminum wire**; it is softer, easier to apply, and offers more "give" as the branch swells.
+*   **Protection**: For important branches, use **paper-wrapped aluminum wire** or wrap the branch in a thin layer of **raffia** before wiring. This acts as a cushion to prevent the wire from biting into the soft bark.
+*   **Timing**: Unlike conifers, which are often wired in the winter, maples should be wired in **late spring or early summer** after the first flush of leaves has hardened. Avoid wiring in winter, as frozen branches are brittle and 'bleed' sap more easily.
+
+### 3.2 The "Clip and Grow" Philosophy
+Because maples scar so easily, many masters prefer the **"Clip and Grow"** method over heavy wiring. This involves pruning a branch back to a bud that is pointing in the direction you want the tree to grow. Wiring should only be used for fine adjustments, not for massive structural changes.
+
+*   **The 3-Month Rule**: Check your wire every two weeks. In the peak of summer, a maple can outgrow its wire in less than a month. Remove the wire the moment it begins to look snug—**do not wait for it to "set"** as you would with a juniper. A wire scar on a maple can take decades to heal.
+
+---
+
+## 4. Repotting: The Secret to Long Life
+
+Because the pot is so small, the roots will eventually fill every inch of space. 
+*   **The Roots Reset**: Every two years, you take the tree out of the pot and trim off about one-third of the root mass. This sounds scary, but it actually keeps the tree young and healthy by encouraging fresh, new roots to grow. 
+
+---
+
+## Summary: A Life-Long Hobby
+
+Bonsai is a "slow art." You can't rush a tree to grow, but that's part of the fun. It teaches you to slow down and notice the small changes in the seasons. To own a maple bonsai is to have a tiny piece of the forest in your home—a living legacy that you can pass down for generations.
+
+---
+
 # 17. Cultivar Library: The Genetic Heritage
 
 Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide. Each profile contains history, care tips, and technical specifications to help you grow your best tree.
@@ -1423,6 +1423,35 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 {% for cultivar in site.cultivars %}
 - [cultivar.title }}]({{ cultivar.url)
 {% endfor %}
+
+---
+
+# 'Amber Ghost' Japanese Maple: The Glowing Apparition
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Amber-Green / Gold-Red |
+| **Mature Habit** | Upright (10-12) |
+| **Sun Tolerance** | Low (Shade) |
+
+## Overview
+'Amber Ghost' is a standout in the "Ghost" series, featuring rich amber and coral tones in the spring that contrast sharply with deep green veins. It offers a warmth that is unique among reticulated variegated maples.
+
+## Key Features & Seasonal Interest
+- **Spring**: Stunning emergence of amber, coral, and pink leaves with a network of dark green veins.
+- **Summer**: Slowly transitions to a soft green with subtle amber undertones. 
+- **Fall**: Spectacular finish in bright golds, oranges, and often fiery reds.
+
+## Garden Use & Care
+Adds a warm, glowing quality to shaded areas. Like its siblings, it requires protection from the sun to maintain its delicate coloration.
+
+### Maintenance Tips
+- **Afternoon Shade**: Critical for protecting the unique spring colors from fading or burning.
+- **Moisture**: Keep soil consistently moist but never waterlogged.
+
+> [!TIP]
+> Plant 'Amber Ghost' near dark-foliaged plants or in a dark corner to see it "glow" in the shade.
 
 ---
 
@@ -1632,6 +1661,93 @@ A perfect companion for water features or as a focal groundcover that won't bloc
 > [!TIP]
 > Prune away the lowest 12 inches of branches so the tree "hovers" above the ground, creating a clean line for underplanting snowdrops.
 
+
+---
+
+# 'Emperor 1' Japanese Maple: The Late-Blooming King
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Burgundy / Scarlet |
+| **Mature Habit** | Upright (15-2) |
+| **Sun Tolerance** | High |
+
+## Overview
+'Emperor 1' is often considered the "improved Bloodgood." It was selected for its ability to leaf out about two weeks later than 'Bloodgood', effectively avoiding the late spring frosts that can damage other red maples.
+
+## Key Features & Seasonal Interest
+- **Spring**: Emerges with a dark, rich red color that is very translucent when backlit.
+- **Summer**: Maintains a deep burgundy-purple color, even in hot climates, resisting the "greening out" common in other red cultivars.
+- **Fall**: Turns a brilliant, glowing scarlet.
+
+## Garden Use & Care
+An excellent choice for a specimen tree where reliable red color is desired. Its slightly faster growth rate and frost resistance make it a favorite for many landscapes.
+
+### Maintenance Tips
+- **Pruning**: Responds well to thinning to maintain its upright, vase-like shape and airy feel.
+- **Location**: Thrives in full sun to partial shade.
+
+> [!TIP]
+> Use 'Emperor 1' in areas prone to late spring frosts where other Japanese Maples have struggled.
+
+---
+
+# 'Fireglow' Japanese Maple: The Glowing Specimen
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Red / Scarlet |
+| **Mature Habit** | Upright (12-15) |
+| **Sun Tolerance** | High |
+
+## Overview
+'Fireglow' is named for its incredible ability to "glow" when backlit by the sun. It is a more compact and slower-growing alternative to 'Bloodgood', making it ideal for smaller gardens.
+
+## Key Features & Seasonal Interest
+- **Spring**: Emerges a bright, intense red.
+- **Summer**: The leaves are thinner and more translucent than many red maples, allowing light to pass through and create a glowing effect. It holds its red color very well in the heat.
+- **Fall**: A spectacular finish in brilliant scarlet and orange-red.
+
+## Garden Use & Care
+Perfect as a focal point in a small garden or as a high-impact specimen in a mixed border. Its compact size makes it more manageable than larger upright cultivars.
+
+### Maintenance Tips
+- **Positioning**: Best planted where it will be backlit by morning or afternoon sun to fully appreciate its name.
+- **Soil**: Requires well-drained soil rich in organic matter.
+
+> [!NOTE]
+> 'Fireglow' is often preferred over 'Bloodgood' for smaller spaces due to its more manageable size and intense, glowing color.
+
+---
+
+# 'First Ghost' Japanese Maple: The Spectral Beauty
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | White-Green / Yellow-Orange |
+| **Mature Habit** | Upright (8-1) |
+| **Sun Tolerance** | Low (Shade) |
+
+## Overview
+'First Ghost' is the original and perhaps most famous of the "Ghost" series developed by Buchholz & Buchholz. It is prized for its dramatic reticulated variegation, where the veins are a stark, dark green against a much lighter leaf field.
+
+## Key Features & Seasonal Interest
+- **Spring**: Emerges with creamy white to pale green leaves featuring prominent dark green veins. The tips often show a soft pink or red flush.
+- **Summer**: The variegation remains striking but may soften; the leaf field becomes more chartreuse.
+- **Fall**: Transitions to beautiful yellows and oranges, often with the veins still visible.
+
+## Garden Use & Care
+An absolute "must-have" for collectors and lovers of variegated plants. It must be planted in a shaded, protected spot to prevent leaf burn.
+
+### Maintenance Tips
+- **Deep Shade**: This is a true shade lover. Direct afternoon sun will ruin the delicate white portions of the leaves.
+- **Airflow**: Ensure good airflow to prevent fungal issues in the shade.
+
+> [!IMPORTANT]
+> The 'Ghost' series maples are "high-maintenance" maples that reward the gardener with an ethereal, hauntingly beautiful appearance.
 
 ---
 
@@ -2081,6 +2197,35 @@ Functions as a perfect "entryway sentinel" or a standalone focal point for minim
 
 ---
 
+# 'Sister Ghost' Japanese Maple: The Subtle Spirit
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Chartreuse-Green / Gold |
+| **Mature Habit** | Upright (8-1) |
+| **Sun Tolerance** | Low (Shade) |
+
+## Overview
+'Sister Ghost' offers a more subtle but no less beautiful version of the reticulated Ghost variegation. Its colors are cooler, focusing on chartreuse and soft greens.
+
+## Key Features & Seasonal Interest
+- **Spring**: Emerges with soft chartreuse leaves and deep, emerald green veins. The effect is cool and calming.
+- **Summer**: The contrast between the veins and leaf field remains, giving the tree a textured, layered look.
+- **Fall**: Turns a luminous lemon-yellow to golden-orange.
+
+## Garden Use & Care
+Ideal for a calm, cool-toned shade garden. Its smaller size makes it perfect for courtyard gardens or as a high-texture specimen.
+
+### Maintenance Tips
+- **Sun Protection**: Like all Ghosts, it performs best in bright, indirect light or dappled shade.
+- **Minimal Pruning**: Naturally maintains a graceful, upright shape.
+
+> [!NOTE]
+> 'Sister Ghost' is often the favorite of those who find 'First Ghost' or 'Amber Ghost' too dramatic, offering a more refined and understated elegance.
+
+---
+
 # 'Summer Gold' Japanese Maple: The Solar-Powered Masterpiece
 
 | Attribute | Specification |
@@ -2264,6 +2409,16 @@ This reference guide provides detailed information on some of the most popular J
 
 ---
 
+### ['Amber Ghost'](japanese-maple-book/cultivars/amber-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Amber-Green / Gold-Red |
+| **Mature Habit** | Upright (10-12) |
+| **Sun Tolerance** | Low (Shade) |
+| **Best Feature** | Radiant amber spring color with dark veins. A standout in the Ghost series; requires deep shade. |
+
 ### ['Aoyagi'](japanese-maple-book/cultivars/aoyagi)
 
 | Attribute | Specification |
@@ -2333,6 +2488,36 @@ This reference guide provides detailed information on some of the most popular J
 | **Mature Habit** | Weeping (6-8) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
+
+### ['Emperor 1'](japanese-maple-book/cultivars/emperor-1)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Burgundy / Scarlet |
+| **Mature Habit** | Upright (15-2) |
+| **Sun Tolerance** | High |
+| **Best Feature** | Late bud break. Excellent for avoiding late spring frosts; has a more translucent red than 'Bloodgood'. |
+
+### ['Fireglow'](japanese-maple-book/cultivars/fireglow)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Red / Scarlet |
+| **Mature Habit** | Upright (12-15) |
+| **Sun Tolerance** | High |
+| **Best Feature** | Backlit "glow." Thinner, more translucent foliage than 'Bloodgood'; stays more compact. |
+
+### ['First Ghost'](japanese-maple-book/cultivars/first-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | White-Green / Yellow-Orange |
+| **Mature Habit** | Upright (8-1) |
+| **Sun Tolerance** | Low (Shade) |
+| **Best Feature** | High-contrast reticulation. Deep green veins on white-cream leaves; an ethereal collector's item. |
 
 ### ['Hime-shojo'](japanese-maple-book/cultivars/hime-shojo)
 
@@ -2484,6 +2669,16 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | "Lion's Head" crinkled foliage. Holds leaves very late into autumn; best used as a vertical architectural element. |
 
+### ['Sister Ghost'](japanese-maple-book/cultivars/sister-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Chartreuse-Green / Gold |
+| **Mature Habit** | Upright (8-1) |
+| **Sun Tolerance** | Low (Shade) |
+| **Best Feature** | Subtle chartreuse reticulation. Cooler and more refined than other Ghost series maples. |
+
 ### ['Summer Gold'](japanese-maple-book/cultivars/summer-gold)
 
 | Attribute | Specification |
@@ -2548,4 +2743,4 @@ This reference guide provides detailed information on some of the most popular J
 
 
 ## Note on Hardiness
-Almost all cultivars listed above are hardy to **USDA Zones 5-9**. However, for container-grown trees, remember the "2-Zone Rule" (see Chapter 6).
+Almost all cultivars listed above are hardy to **USDA Zones 5-9**. However, for container-grown trees, remember the "2-Zone Rule" (see Chapter ).

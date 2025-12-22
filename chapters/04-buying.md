@@ -96,7 +96,7 @@ When buying, don't buy height; buy **trunk caliper** (thickness). A thick trunk 
 
 When you find "The One," do not leave the nursery until you have checked these six boxes:
 
-1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 14).
+1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 13).
 2.  **Bark Integrity**: Ensure there is no damage from weed-whackers or mower-stings at the base.
 3.  **Drainage Test**: Look at the top of the soil. If it is covered in green moss or liverwort, the soil has been saturated for too long, indicating potential root rot.
 4.  **Variety Verification**: Does the leaf look like it should for this variety? If it's a 'Sango Kaku', are the twigs actually red?

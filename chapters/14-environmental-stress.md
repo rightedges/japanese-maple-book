@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "15. Environmental Stress"
+title: "14. Environmental Stress"
 nav_order: 16
-permalink: /chapters/15-environmental-stress.html
+permalink: /chapters/14-environmental-stress.html
 ---
 
 # Environmental Stress: Helping Your Tree Cope

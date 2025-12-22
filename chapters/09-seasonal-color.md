@@ -35,7 +35,7 @@ Often, a green cultivar (like 'Katsura' or 'Aoyagi') will emerge in spring with 
 *   **The UV Index Link**: Research indicates that trees grown at higher altitudes (or in higher UV areas) produce more intense spring reds as a direct defensive response. As the leaf matures and thickens, the green chlorophyll takes over, and the red "sunscreen" fades away.
 
 ### The "Ghost" Emergence
-Cultivars like 'First Ghost' or 'Amber Ghost' have a unique spring gimmick. They emerge with nearly white or cream leaves with dark green veins. This is a controlled form of "reticulated variegation." It is exceptionally beautiful but makes the tree very vulnerable to heat (see Chapter 15).
+Cultivars like 'First Ghost' or 'Amber Ghost' have a unique spring gimmick. They emerge with nearly white or cream leaves with dark green veins. This is a controlled form of "reticulated variegation." It is exceptionally beautiful but makes the tree very vulnerable to heat (see Chapter 14).
 
 ---
 

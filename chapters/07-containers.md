@@ -40,7 +40,7 @@ Water does not move easily from a fine-textured material (soil) to a coarse-text
 This is the most important rule of container maples.
 *   **The Physics**: A tree's roots are far more sensitive to cold than its branches. In the ground, the soil temperature rarely drops below 32°F (0°C). In a pot, the soil temperature can match the air temperature.
 *   **The Rule**: If a maple is rated for Zone 5 in the ground, in a pot it behaves as if it's in Zone 7. To survive a winter in a pot without protection, you must choose a tree that is **two zones hardier** than your current location.
-*   **The Protection**: If you live in Zone 6, you must wrap your Zone 6 maples in burlap or move them into an unheated garage (Chapter 16) once the temperature drops below 20°F (-7°C).
+*   **The Protection**: If you live in Zone 6, you must wrap your Zone 6 maples in burlap or move them into an unheated garage (Chapter 15) once the temperature drops below 20°F (-7°C).
 
 ---
 
