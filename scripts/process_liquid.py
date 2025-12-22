@@ -118,7 +118,7 @@ def process_file(filepath):
             
         # cultivars/xx -> #xx
         if path.startswith('cultivars/'):
-            target = path.replace('cultivars/', '')
+            target = path.replace('cultivars/', '').replace('.html', '')
             return f'{prefix}#{target}{suffix}'
             
         if path == '' or path == '/':
