@@ -74,11 +74,12 @@ def process_file(filepath):
         filename = 'the-japanese-maple-book'
 
     # 1. Add anchor to the FIRST H1 in the file
-    # This prevents breaking GitHub Pages while enabling EPUB anchors
+    # This happens only in the combined.md stream
     h1_match = re.search(r'^#\s+(.*)$', markdown_content, re.MULTILINE)
     if h1_match:
-        original_h1 = h1_match.group(0)
+        original_h1 = h1_match.group(0).strip()
         new_h1 = f"{original_h1} {{#{filename}}}"
+        # We replace only the first occurrence
         markdown_content = markdown_content.replace(original_h1, new_h1, 1)
 
     # 2. Replace {{ page.variable }}
@@ -128,24 +129,20 @@ def process_file(filepath):
             
         return f'{prefix}{path}{suffix}'
 
-    # Match ]( path )
+    # Match ]( path ) - be careful with greedy matching if multiple links on one line
+    # Using [^)]+ for path is usually okay as long as paths don't contain )
     processed = re.sub(r'(\]\()([^)]+)(\))', normalize_link, processed)
 
     # 6. Auto-link text references (Chapter X)
     def auto_link_refs(match):
-        inner_text = match.group(1)
+        inner_text = match.group(1).strip()
         if inner_text in REF_MAP:
             return f'([{inner_text}](#{REF_MAP[inner_text]}))'
         return match.group(0)
 
     processed = re.sub(r'\((Chapter \d+|Appendix [A-Z])\)', auto_link_refs, processed)
 
-    # 7. Final cleanup for Appendix A specific brokenness
-    # In Appendix A, we have ### ['Name'](#name)
-    # Pandoc might dislike the brackets inside the link text if they aren't parsed as a link correctly
-    # or if the path normalization missed something.
-    
-    # 8. Hide EPUB download from EPUB
+    # 7. Hide EPUB download from EPUB
     processed = re.sub(r'\[Download EPUB Version.*?\n', '', processed)
 
     return processed
