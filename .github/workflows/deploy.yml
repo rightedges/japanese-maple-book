@@ -47,9 +47,8 @@ jobs:
         run: ./scripts/generate_epub.sh
 
 
-      # Move EPUB to _site so it is published
-      - name: Move EPUB to site folder
-        run: mv book.epub _site/
+      - name: Copy EPUB to site folder
+        run: cp assets/the-japanese-maple-book.epub _site/assets/
 
 
       - name: Upload artifact
