@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-5-health.html
 ---
 
-# Part V: Health & Troubleshooting {#part-5-health}
+# Part V: Health & Troubleshooting
 
 Maintaining a resilient and healthy collection.
 

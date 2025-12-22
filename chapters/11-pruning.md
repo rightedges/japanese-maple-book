@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/11-pruning.html
 ---
 
-# Pruning Mastery: The Art of Revelation {#11-pruning}
+# Pruning Mastery: The Art of Revelation
 
 For most people, pruning is a chore used to keep a plant from getting too big. But for Japanese Maple lovers, pruning is like slow-motion sculpture. You aren't forcing the tree into a shape; you are gently helping it reveal its own beauty.
 

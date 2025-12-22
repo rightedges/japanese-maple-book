@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Baldsmith' Japanese Maple: The Multi-Colored Cascade {#baldsmith}
+# 'Baldsmith' Japanese Maple: The Multi-Colored Cascade
 
 | Attribute | Specification |
 | :--- | :--- |

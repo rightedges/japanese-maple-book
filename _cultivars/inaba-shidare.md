@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Inaba shidare' Japanese Maple: The Vigorous Purple Weeper {#inaba-shidare}
+# 'Inaba shidare' Japanese Maple: The Vigorous Purple Weeper
 
 | Attribute | Specification |
 | :--- | :--- |

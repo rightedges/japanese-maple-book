@@ -7,7 +7,7 @@ nav_order: 1
 permalink: /chapters/cultivar-library.html
 ---
 
-# Cultivar Library: The Genetic Heritage {#cultivar-library}
+# Cultivar Library: The Genetic Heritage
 
 Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide. Each profile contains history, care tips, and technical specifications to help you grow your best tree.
 

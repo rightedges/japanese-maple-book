@@ -8,7 +8,7 @@ sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 ---
 
-# 'Amber Ghost' Japanese Maple: The Glowing Apparition {#amber-ghost}
+# 'Amber Ghost' Japanese Maple: The Glowing Apparition
 
 | Attribute | Specification |
 | :--- | :--- |

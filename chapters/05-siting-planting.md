@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/05-siting-planting.html
 ---
 
-# Siting and Planting: Finding the Perfect Home {#05-siting-planting}
+# Siting and Planting: Finding the Perfect Home
 
 The most important decision you will make for your Japanese Maple happens before you even start digging. "Right Tree, Right Place" is the golden rule. A maple planted in the right spot will thrive for decades with very little help from you. A tree in the wrong spot will struggle no matter how much you care for it.
 

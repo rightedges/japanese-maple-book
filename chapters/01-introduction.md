@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/01-introduction.html
 ---
 
-# Introduction to *Acer palmatum* {#01-introduction}
+# Introduction to *Acer palmatum*
 
 ## The Quintessential Garden Aristocrat
 

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Process markdown files for EPUB generation.
-Extracts YAML front matter and replaces Liquid template variables.
+Extracts YAML front matter, replaces Liquid variables, and normalizes links.
+Automatically adds anchors to H1 headers for internal linking.
 """
 
 import re
@@ -12,7 +13,6 @@ import os
 BASEURL = 'japanese-maple-book'
 
 # Mapping of chapter/appendix text to anchor IDs
-# This helps convert "(Chapter X)" into actual links
 REF_MAP = {
     "Chapter 1": "01-introduction",
     "Chapter 2": "02-seven-groups",
@@ -52,7 +52,9 @@ def parse_simple_yaml(yaml_str):
     return data
 
 def process_file(filepath):
-    """Process a single markdown file, replacing Liquid variables and filters."""
+    """Process a single markdown file for EPUB."""
+    filename = os.path.basename(filepath).replace('.md', '')
+    
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
@@ -67,7 +69,19 @@ def process_file(filepath):
         front_matter = {}
         markdown_content = content
 
-    # 1. Replace {{ page.variable }} with actual values
+    # Special handling for index.md
+    if filename == 'index':
+        filename = 'the-japanese-maple-book'
+
+    # 1. Add anchor to the FIRST H1 in the file
+    # This prevents breaking GitHub Pages while enabling EPUB anchors
+    h1_match = re.search(r'^#\s+(.*)$', markdown_content, re.MULTILINE)
+    if h1_match:
+        original_h1 = h1_match.group(0)
+        new_h1 = f"{original_h1} {{#{filename}}}"
+        markdown_content = markdown_content.replace(original_h1, new_h1, 1)
+
+    # 2. Replace {{ page.variable }}
     def replace_page_var(match):
         var_name = match.group(1)
         if var_name in front_matter:
@@ -76,48 +90,62 @@ def process_file(filepath):
     
     processed = re.sub(r'\{\{\s*page\.(\w+)\s*\}\}', replace_page_var, markdown_content)
     
-    # 2. Replace {{ site.baseurl }} with empty string
+    # 3. Replace {{ site.baseurl }}
     processed = re.sub(r'\{\{\s*site\.baseurl\s*\}\}', '', processed)
 
-    # 3. Handle {{ 'path' | relative_url }}
+    # 4. Handle {{ 'path' | relative_url }}
     processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
 
-    # 4. Standardize Internal Links for Pandoc Anchors
+    # 5. Normalize Links
     def normalize_link(match):
         prefix = match.group(1) # ](
         path = match.group(2).strip()
         suffix = match.group(3) # )
         
-        # Remove leading slashes and baseurl
+        # Strip outer quotes if any
+        path = path.strip("'\"")
+        
+        # Strip leading slashes and baseurl
         path = path.lstrip('/')
         if path.startswith(BASEURL):
             path = path[len(BASEURL):].lstrip('/')
             
+        # /chapters/xx.html -> #xx
         if path.startswith('chapters/') and path.endswith('.html'):
             target = path.replace('chapters/', '').replace('.html', '')
             return f'{prefix}#{target}{suffix}'
+            
+        # cultivars/xx -> #xx
         if path.startswith('cultivars/'):
             target = path.replace('cultivars/', '')
             return f'{prefix}#{target}{suffix}'
+            
         if path == '' or path == '/':
             return f'{prefix}#the-japanese-maple-book{suffix}'
+            
         if path.startswith('images/'):
             return f'{prefix}assets/{path}{suffix}'
+            
         return f'{prefix}{path}{suffix}'
 
+    # Match ]( path )
     processed = re.sub(r'(\]\()([^)]+)(\))', normalize_link, processed)
 
-    # 5. Auto-link text references: (Chapter X) -> ([Chapter X](#xx-target))
+    # 6. Auto-link text references (Chapter X)
     def auto_link_refs(match):
-        full_text = match.group(0) # e.g. (Chapter 11)
-        inner_text = match.group(1) # e.g. Chapter 11
+        inner_text = match.group(1)
         if inner_text in REF_MAP:
             return f'([{inner_text}](#{REF_MAP[inner_text]}))'
-        return full_text
+        return match.group(0)
 
     processed = re.sub(r'\((Chapter \d+|Appendix [A-Z])\)', auto_link_refs, processed)
 
-    # 6. Remove the EPUB download link line from the EPUB content itself (index.md)
+    # 7. Final cleanup for Appendix A specific brokenness
+    # In Appendix A, we have ### ['Name'](#name)
+    # Pandoc might dislike the brackets inside the link text if they aren't parsed as a link correctly
+    # or if the path normalization missed something.
+    
+    # 8. Hide EPUB download from EPUB
     processed = re.sub(r'\[Download EPUB Version.*?\n', '', processed)
 
     return processed

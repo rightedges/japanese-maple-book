@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Aoyagi' Japanese Maple: The Green Bark Beauty {#aoyagi}
+# 'Aoyagi' Japanese Maple: The Green Bark Beauty
 
 | Attribute | Specification |
 | :--- | :--- |

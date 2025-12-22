@@ -8,7 +8,7 @@ sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 ---
 
-# 'Ukigumo' (Floating Cloud Maple): The Spectral Ghost of the Garden {#ukigumo}
+# 'Ukigumo' (Floating Cloud Maple): The Spectral Ghost of the Garden
 
 | Attribute | Specification |
 | :--- | :--- |

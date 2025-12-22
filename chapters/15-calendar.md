@@ -6,7 +6,7 @@ nav_order: 3
 permalink: /chapters/15-calendar.html
 ---
 
-# Maintenance Calendar: A Yearly Guide to Stewardship {#15-calendar}
+# Maintenance Calendar: A Yearly Guide to Stewardship
 
 To own a Japanese Maple is to participate in a 365-day conversation with nature. While these trees are resilient, their needs shift dramatically as they move through the cycle of dormancy, bud break, and senescence. A task performed in the wrong month—such as heavy nitrogen fertilization in August or major structural pruning in May—can have catastrophic consequences.
 

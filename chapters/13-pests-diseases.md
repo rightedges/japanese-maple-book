@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /chapters/13-pests-diseases.html
 ---
 
-# Pests and Diseases: A Simple Guide to Maple Health {#13-pests-diseases}
+# Pests and Diseases: A Simple Guide to Maple Health
 
 Japanese Maples are generally healthy trees. In their native homes in Japan and Korea, they live alongside many different bugs and fungi without any problems. Usually, a pest or a disease only attacks a tree that is already weak from something else, like being too thirsty or planted in poor soil.
 

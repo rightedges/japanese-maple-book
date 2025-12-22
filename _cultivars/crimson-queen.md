@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Crimson Queen' Japanese Maple: The Lace-Leaf Royalty {#crimson-queen}
+# 'Crimson Queen' Japanese Maple: The Lace-Leaf Royalty
 
 | Attribute | Specification |
 | :--- | :--- |

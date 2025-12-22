@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Peve Starfish' Japanese Maple: The Sculptural Marvel {#peve-starfish}
+# 'Peve Starfish' Japanese Maple: The Sculptural Marvel
 
 | Attribute | Specification |
 | :--- | :--- |

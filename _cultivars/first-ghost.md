@@ -8,7 +8,7 @@ sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 ---
 
-# 'First Ghost' Japanese Maple: The Spectral Beauty {#first-ghost}
+# 'First Ghost' Japanese Maple: The Spectral Beauty
 
 | Attribute | Specification |
 | :--- | :--- |

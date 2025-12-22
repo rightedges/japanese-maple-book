@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Scolopendrifolium' (Willow-Leaf Maple): The Airy Dancer {#scolopendrifolium}
+# 'Scolopendrifolium' (Willow-Leaf Maple): The Airy Dancer
 
 | Attribute | Specification |
 | :--- | :--- |

@@ -6,7 +6,7 @@ nav_order: 4
 permalink: /chapters/08-fertilization.html
 ---
 
-# Fertilization: The Technical Art of Restraint {#08-fertilization}
+# Fertilization: The Technical Art of Restraint
 
 If you take one thing from this chapter, let it be this: **Japanese Maples are not tomatoes.**
 

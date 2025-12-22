@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Seiryu' Japanese Maple: The Blue Dragon of the Sky {#seiryu}
+# 'Seiryu' Japanese Maple: The Blue Dragon of the Sky
 
 | Attribute | Specification |
 | :--- | :--- |

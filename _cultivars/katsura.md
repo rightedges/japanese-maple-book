@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Katsura' Japanese Maple: The Harbinger of Spring {#katsura}
+# 'Katsura' Japanese Maple: The Harbinger of Spring
 
 | Attribute | Specification |
 | :--- | :--- |

@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Jordan' (Full Moon Maple): The Neon Master of the Garden {#jordan}
+# 'Jordan' (Full Moon Maple): The Neon Master of the Garden
 
 | Attribute | Specification |
 | :--- | :--- |

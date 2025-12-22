@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Fireglow' Japanese Maple: The Glowing Specimen {#fireglow}
+# 'Fireglow' Japanese Maple: The Glowing Specimen
 
 | Attribute | Specification |
 | :--- | :--- |

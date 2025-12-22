@@ -6,7 +6,7 @@ nav_order: 2
 permalink: /chapters/06-watering.html
 ---
 
-# Watering and Mulching: Keep the Roots Happy {#06-watering}
+# Watering and Mulching: Keep the Roots Happy
 
 If light is the engine of a Japanese Maple, water is the fuel. Because maples have thin leaves and shallow roots, they don't have much of a "reserve" for dry days. While a big Oak tree can go weeks without rain, a Japanese Maple can be hurt by just one really hot, dry afternoon.
 

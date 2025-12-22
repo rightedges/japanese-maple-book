@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Villa Taranto' Japanese Maple: The Spider-Leaf Elegant {#villa-taranto}
+# 'Villa Taranto' Japanese Maple: The Spider-Leaf Elegant
 
 | Attribute | Specification |
 | :--- | :--- |

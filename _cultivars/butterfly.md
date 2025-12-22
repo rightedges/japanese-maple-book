@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Butterfly' Japanese Maple: The Resilient Painted Tree {#butterfly}
+# 'Butterfly' Japanese Maple: The Resilient Painted Tree
 
 | Attribute | Specification |
 | :--- | :--- |

@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Tamukeyama' Japanese Maple: The Iron Man of Dissectums {#tamukeyama}
+# 'Tamukeyama' Japanese Maple: The Iron Man of Dissectums
 
 | Attribute | Specification |
 | :--- | :--- |

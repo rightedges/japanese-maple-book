@@ -6,7 +6,7 @@ has_children: true
 permalink: /chapters/part-8-appendices.html
 ---
 
-# Part VIII: Appendices {#part-8-appendices}
+# Part VIII: Appendices
 
 Technical charts and supplementary material.
 

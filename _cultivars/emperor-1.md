@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Emperor 1' Japanese Maple: The Late-Blooming King {#emperor-1}
+# 'Emperor 1' Japanese Maple: The Late-Blooming King
 
 | Attribute | Specification |
 | :--- | :--- |

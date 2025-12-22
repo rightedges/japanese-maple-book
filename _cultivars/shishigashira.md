@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Shishigashira' (Lion's Head Maple): The Architectural Masterpiece {#shishigashira}
+# 'Shishigashira' (Lion's Head Maple): The Architectural Masterpiece
 
 | Attribute | Specification |
 | :--- | :--- |

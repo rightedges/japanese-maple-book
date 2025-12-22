@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Viridis' Japanese Maple: The Classic Green Lace-leaf {#viridis}
+# 'Viridis' Japanese Maple: The Classic Green Lace-leaf
 
 | Attribute | Specification |
 | :--- | :--- |

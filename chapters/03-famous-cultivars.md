@@ -6,7 +6,7 @@ nav_order: 3
 permalink: /chapters/03-famous-cultivars.html
 ---
 
-# Famous Cultivars Guide: The Icons and Specialists {#03-famous-cultivars}
+# Famous Cultivars Guide: The Icons and Specialists
 
 With over 1,000 named cultivars of *Acer palmatum*, choosing your first (or fifth) tree can be overwhelming. Some trees have stood the test of time due to their resilience, while others are prized for a singular, breathtaking feature. In this super-expanded guide, we move beyond the "catalog description" and explore the historical origins, color arcs, and specific maintenance requirements of the world's most famous maples.
 

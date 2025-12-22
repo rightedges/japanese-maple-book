@@ -8,7 +8,7 @@ sun_tolerance: "High"
 parent: "17. Cultivar Library"
 ---
 
-# 'Osakazuki' Japanese Maple: The Champion of Autumn {#osakazuki}
+# 'Osakazuki' Japanese Maple: The Champion of Autumn
 
 | Attribute | Specification |
 | :--- | :--- |

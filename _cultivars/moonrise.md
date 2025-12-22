@@ -8,7 +8,7 @@ sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 ---
 
-# 'Moonrise' Japanese Maple: The Luminous Hybrid {#moonrise}
+# 'Moonrise' Japanese Maple: The Luminous Hybrid
 
 | Attribute | Specification |
 | :--- | :--- |
