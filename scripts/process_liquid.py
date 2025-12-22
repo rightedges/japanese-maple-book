@@ -8,6 +8,9 @@ import re
 import sys
 import os
 
+# Configuration for site variables
+BASEURL = 'japanese-maple-book'
+
 # Mapping of chapter/appendix text to anchor IDs
 # This helps convert "(Chapter X)" into actual links
 REF_MAP = {
@@ -84,7 +87,12 @@ def process_file(filepath):
         prefix = match.group(1) # ](
         path = match.group(2).strip()
         suffix = match.group(3) # )
+        
+        # Remove leading slashes and baseurl
         path = path.lstrip('/')
+        if path.startswith(BASEURL):
+            path = path[len(BASEURL):].lstrip('/')
+            
         if path.startswith('chapters/') and path.endswith('.html'):
             target = path.replace('chapters/', '').replace('.html', '')
             return f'{prefix}#{target}{suffix}'
