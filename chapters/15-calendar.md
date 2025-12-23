@@ -18,15 +18,19 @@ This hyper-expanded master calendar serves as your technical roadmap. It integra
 
 In winter, the tree is dormant, but the gardener should be observant. This is the best time to see the "bones" of your tree and prepare for the sprint of spring.
 
-### January: The Major Cut
-*   **Structural Pruning**: Since the tree is leafless, you can see the architecture clearly. This is the month for "The Big Cuts"—removing primary branches that are crossing or rubbing.
+### January: The Structural Audit
+*   **Observation**: Since the tree is leafless, you can see the architecture clearly. Use this month to identify "misbehaving" branches—those crossing, rubbing, or growing inward.
 *   **Protection**: During extreme cold snaps (below 15°F / -9°C), move containerized trees into an unheated garage. Check the soil; if it is bone-dry, give it a small drink. A frozen tree that is also dry will suffer from "winter desiccation."
 *   **Pro-Tip**: Take photos of the bare structure. It is the best time to plan the "windows" you want to create in the summer canopy.
 
-### February: The Planning Phase
+### February: The Master’s Window (Optimal Pruning)
+*   **The Major Cut**: While you can prune any time in winter, **Late February to Early March** (just as buds begin to swell) is the gold standard. 
+*   **The "Why" of Timing**: 
+    1.  **Sap Flow Surgery**: As the tree wakes up, sap flow increases. While the tree may "bleed," this sap is rich in nutrients and hormones that act as a natural sealant.
+    2.  **Rapid Healing**: Wounds made now heal in **7-10 days**, compared to weeks or months if cut in deep December. This "Healing Sprint" minimizes the window for fungal infection.
+    3.  **Visual Precision**: You get the best of both worlds—clear visibility of the "bones" and the immediate regenerative energy of spring.
 *   **Dormant Spraying**: Apply "Dormant Oil" now to smother overwintering insect eggs.
 *   **Scion Collection**: If you plan to graft (Chapter 12), collect your scion wood now while the tree is fully dormant.
-*   **Nursery Orders**: The "Rare and Unique" cultivars go fast. Place your orders by February 15th to ensure May delivery.
 
 ---
 

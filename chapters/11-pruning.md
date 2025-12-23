@@ -43,8 +43,8 @@ A master-pruned Japanese Maple should look transparent. You should be able to lo
 
 ## 4. When to Prune
 
-*   **Winter (Best for Shape)**: When the leaves are gone, you can see exactly where to cut. This is the best time for "The Big Cuts."
-*   **Summer (Best for Maintenance)**: You can snap off the long, straight "sucker" shoots that grow vertically in June. Doing this with your fingers while they are soft prevents scars later.
+*   **Late Winter / Early Spring (The Gold Standard)**: The absolute best time is just as the buds begin to swell (often late February or early March). This allows for perfect visibility of the branch structure while leveraging the tree's spring "healing energy" to close wounds rapidly.
+*   **Summer (Maintenance)**: You can snap off the long, straight "sucker" shoots that grow vertically in June. Doing this with your fingers while they are soft prevents scars later.
 
 ---
 
