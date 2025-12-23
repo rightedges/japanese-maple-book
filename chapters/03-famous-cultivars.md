@@ -23,7 +23,7 @@ These are the trees that defined the species for the Western world. They are the
 *   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **['Emperor 1']({{ '/cultivars/emperor-1' | relative_url }})** (which leafes out two weeks later to avoid frost) and **['Fireglow']({{ '/cultivars/fireglow' | relative_url }})** (which stays shorter and has even more translucent, glowing red leaves).
 
 ### ['Osakazuki']({{ '/cultivars/osakazuki' | relative_url }}) (The Autumn Masterpiece)
-*   **Origin**: An ancient Japanese cultivar, буквально meaning "The Cup of Osaka." It has been documented for over 200 years.
+*   **Origin**: An ancient Japanese cultivar, literally meaning "Large Cup" (though often mistranslated as "The Cup of Osaka"). It has been documented for over 200 years.
 *   **The Color Arc**: Olive-Green (Spring/Summer) -> Fire-Engine Red (Fall).
 *   **Technical Note**: For 200 years, 'Osakazuki' has been considered the world's best tree for autumn color. Its thick, Amoenum-style leaves hold more sugar than other cultivars. This sugar-loading triggers an "incandescent" red that seems to glow in the dark, outperforming even the wild mountain maples.
 *   **Landscape Role**: Plant it as a specimen where it can be seen from a distance. Its summer green acts as a perfect "quiet" backdrop for other flowers until it "explodes" in October.

@@ -2,6 +2,7 @@ title: "The Japanese Maple Book"
 description: "A comprehensive guide to Japanese Maples."
 url: "https://rightedges.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/japanese-maple-book" # the subpath of your site, e.g. /blog
+google_analytics: "G-W8NK7SYEQR"
 theme: just-the-docs
 
 # Enable the detailed sidebar
