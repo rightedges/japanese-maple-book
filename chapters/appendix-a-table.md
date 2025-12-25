@@ -122,6 +122,16 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | High-contrast reticulation. Deep green veins on white-cream leaves; an ethereal collector's item. |
 
+### [Geisha Gone Wild](/japanese-maple-book/cultivars/geisha-gone-wild)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green-Cream / Hot Pink-Purple |
+| **Mature Habit** | Upright (6-10') |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | 2021 Maple of the Year. Exceptional tri-color variegation with intense pink spring and fall displays. |
+
 ### [Hime-shojo](/japanese-maple-book/cultivars/hime-shojo)
 
 | Attribute | Specification |

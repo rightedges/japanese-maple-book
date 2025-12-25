@@ -22,6 +22,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Emperor 1]({{ site.baseurl }}/cultivars/emperor-1.html)
 - [Fireglow]({{ site.baseurl }}/cultivars/fireglow.html)
 - [First Ghost]({{ site.baseurl }}/cultivars/first-ghost.html)
+- [Geisha Gone Wild]({{ site.baseurl }}/cultivars/geisha-gone-wild.html)
 - [Hime-shojo]({{ site.baseurl }}/cultivars/hime-shojo.html)
 - [Inaba shidare]({{ site.baseurl }}/cultivars/inaba-shidare.html)
 - [Jordan]({{ site.baseurl }}/cultivars/jordan.html)
