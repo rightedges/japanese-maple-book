@@ -24,7 +24,7 @@ In winter, the tree is dormant, but the gardener should be observant. This is th
 *   **Pro-Tip**: Take photos of the bare structure. It is the best time to plan the "windows" you want to create in the summer canopy.
 
 ### February: The Master’s Window (Optimal Pruning)
-*   **The Major Cut**: While you can prune any time in winter, **Late February to Early March** (just as buds begin to swell) is the gold standard. 
+*   **The Major Cut**: While you can prune any time in winter, **Late January to Early March** (just as buds begin to swell) is the gold standard for structural work. 
 *   **The "Why" of Timing**: 
     1.  **Sap Flow Surgery**: As the tree wakes up, sap flow increases. While the tree may "bleed," this sap is rich in nutrients and hormones that act as a natural sealant.
     2.  **Rapid Healing**: Wounds made now heal in **7-10 days**, compared to weeks or months if cut in deep December. This "Healing Sprint" minimizes the window for fungal infection.
@@ -61,8 +61,8 @@ Spring is the high-stakes season. Everything happens at once: sap moves, buds br
 
 Summer is about defense. Your goal is to keep the tree cool and the water pressure high.
 
-### June: The "Air-Conditioning" Pruning
-*   **Summer Thinning**: Perform "The Invisible Cut" (Chapter 11). Remove the dense, interior water sprouts to allow air to pass through the canopy.
+### June & July: The "Aesthetic" Pruning
+*   **Summer Thinning**: Once the spring growth has hardened off (usually June or July), perform "The Invisible Cut" (Chapter 11). This is the best time to thin out foliage and create airy layers.
 *   **Air Layering**: This is the peak month to start air layers (Chapter 12) while the sap is flowing strongly.
 
 ### July: Heatwave Management
@@ -82,6 +82,7 @@ Summer is about defense. Your goal is to keep the tree cool and the water pressu
 ### September: The Harvest
 *   **Air Layer Harvesting**: If you started air layers in June, check for roots now.
 *   **Hydration**: The chemistry of fall color requires the tree to be fully hydrated to pump sugars into the leaves. Do not let up on watering!
+*   **Pruning Warning**: Avoid major pruning now. Cutting triggers new growth that won't harden off before winter, leading to die-back.
 
 ### October: The Celebration
 *   **Fall Color Observation**: Visit nurseries now to choose trees based on their actual color performance in your area.

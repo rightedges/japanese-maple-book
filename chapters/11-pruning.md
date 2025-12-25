@@ -41,10 +41,33 @@ A master-pruned Japanese Maple should look transparent. You should be able to lo
 
 ---
 
-## 4. When to Prune
+## 4. When to Prune: A Best-Time Analysis
 
-*   **Late Winter / Early Spring (The Gold Standard)**: The absolute best time is just as the buds begin to swell (often late February or early March). This allows for perfect visibility of the branch structure while leveraging the tree's spring "healing energy" to close wounds rapidly.
-*   **Summer (Maintenance)**: You can snap off the long, straight "sucker" shoots that grow vertically in June. Doing this with your fingers while they are soft prevents scars later.
+The best time to prune a Japanese maple depends on your goal—whether you want to improve its structure or its overall "look." However, most experts agree on two primary windows:
+
+### 1. Late Winter (Best for Structure)
+**Timing**: Late January to early March
+This is the most common time for major pruning because the tree is dormant and the leaves are gone.
+*   **Why**: Without leaves, you can clearly see the "skeleton" of the tree. This makes it much easier to identify crossing branches, dead wood, or limbs that disrupt the natural shape.
+*   **Tip**: Try to finish before the buds begin to swell. If you prune too late in the spring, the tree may "bleed" sap. While this usually doesn't kill the tree, it can be messy and stress the plant.
+
+### 2. Early Summer (Best for Aesthetics)
+**Timing**: June or July
+Once the first flush of spring growth has hardened off, you can do "fine pruning."
+*   **Why**: This is the best time to thin out the foliage to create those classic, airy "cloud" layers. Summer pruning also tends to slow down the tree’s growth, which is helpful if you are trying to keep the tree at a specific size.
+*   **Benefit**: You can see exactly how the canopy looks with leaves on, ensuring you don't accidentally leave a giant "hole" in the foliage.
+
+### Timing to Avoid
+*   **Late Spring**: Avoid pruning when leaves are first emerging. The tree is putting all its energy into new growth and the sap is flowing heavily.
+*   **Autumn**: Avoid pruning in late fall. Cutting the tree right before winter can trigger a "flush" of new growth that won't have time to harden before the first frost, leading to winter die-back.
+
+### Summary of Pruning Goals
+
+| Task | Best Season | Why? |
+| :--- | :--- | :--- |
+| **Major Structural Changes** | Late Winter | Clear view of branches; tree is dormant. |
+| **Thinning & Shaping** | Early Summer | Best view of leaf density; reduces vigor. |
+| **Removing Dead Wood** | Anytime | Dead wood can be safely removed year-round. |
 
 ---
 
@@ -53,6 +76,14 @@ A master-pruned Japanese Maple should look transparent. You should be able to lo
 You don't need a toolbox full of gear—just two things:
 1.  **Hand Pruners**: Get the "Bypass" type (the ones that look like scissors). These make a clean cut that heals well.
 2.  **Alcohol**: Wipe your blades with rubbing alcohol after every tree to make sure you don't spread any germs between plants.
+
+---
+
+## 6. Pro-Tips for Success
+
+*   **The 20% Rule**: Never remove more than 20–25% of the total canopy in a single year. Japanese maples grow slowly and can be easily stressed.
+*   **Clean Tools**: Always sanitize your shears with rubbing alcohol before starting to prevent the spread of diseases like Verticillium wilt.
+*   **Hands Off Young Trees**: Avoid heavy pruning for the first 2–3 years after planting to let the tree establish its root system.
 
 ---
 
