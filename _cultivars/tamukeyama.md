@@ -21,7 +21,7 @@ parent: "17. Cultivar Library"
 'Tamukeyama' is the ultimate "no-excuses" red weeping maple, legendary for its 300-year history and incredible resilience. It handles heat, humidity, and wind better than almost any other dissectum, making it the #1 choice for challenging sunny spots in USDA Zones 7-9.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Emerge as deep crimson-purple with "leathery" leaves that resist scorching. It maintains a dark maroon-red even in 100°F August heat.
+- **Spring & Summer**: Emerge as deep crimson-purple with "leathery" leaves that resist scorching. It maintains a dark maroon-red even in 100°F (38°C) August heat.
 - **Autumn**: Transitions to a shocking scarlet, often as the "final fire" of the season.
 - **Form**: A powerful, arching "mushroom" habit with thick, sturdy structural branches.
 

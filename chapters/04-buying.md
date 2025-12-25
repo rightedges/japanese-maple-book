@@ -26,7 +26,7 @@ Local garden centers and hardware chains will often carry a generic selection: u
 ### The Specialist Nursery (The Gold Standard)
 For the true enthusiast, online specialist nurseries or dedicated local collectors are the only option.
 *   **Variety and Veracity**: A specialist will carry 200-500 different cultivars. More importantly, they guarantee the variety. They take their own scion wood from "mother trees" of known provenance.
-*   **Care and Knowledge**: Specialists understand the specific needs of different groups. They won't place a variegated 'Ukigumo' in a 100°F sun-exposed lot.
+*   **Care and Knowledge**: Specialists understand the specific needs of different groups. They won't place a variegated 'Ukigumo' in a 100°F (38°C) sun-exposed lot.
 *   **Shipping Realities**: When ordering online, you will likely receive a "1-gallon" or "3-gallon" tree. While it looks small, these young trees often establish faster and with less "transplant shock" than massive, expensive "Balled and Burlapped" (B&B) specimens.
 
 ---

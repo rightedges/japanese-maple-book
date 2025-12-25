@@ -22,7 +22,7 @@ parent: "17. Cultivar Library"
 
 ## Key Features & Seasonal Interest
 - **Spring**: Emerges as a deep, saturated carmine-purple "cloud" with dark reddish-purple wood.
-- **Summer**: Maintains a near-black burgundy color even in 90°F sun, thanks to thicker, glossy leaves that resist bleaching.
+- **Summer**: Maintains a near-black burgundy color even in 90°F (32°C) sun, thanks to thicker, glossy leaves that resist bleaching.
 - **Fall & Winter**: Explosive shift to burning scarlet in autumn. Its thick, flexible branches hold heavy snow better than more brittle varieties.
 
 ## Garden Use & Care

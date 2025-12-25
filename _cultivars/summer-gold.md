@@ -18,7 +18,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
 ## Overview
-'Summer Gold' is a horticultural breakthrough: a yellow-leaved maple that thrives in full sun. Unlike older varieties that burn in mid-July, this "solar-powered" masterpiece maintains its brilliant lemon-yellow color even in 90°F heat, bringing a permanent, high-luminosity glow to sunny landscapes.
+'Summer Gold' is a horticultural breakthrough: a yellow-leaved maple that thrives in full sun. Unlike older varieties that burn in mid-July, this "solar-powered" masterpiece maintains its brilliant lemon-yellow color even in 90°F (32°C) heat, bringing a permanent, high-luminosity glow to sunny landscapes.
 
 ## Key Features & Seasonal Interest
 - **Spring**: Emerges as an "illuminated" beacon of translucent lemon-yellow with subtle orange tips.
