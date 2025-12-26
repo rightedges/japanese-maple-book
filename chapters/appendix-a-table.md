@@ -30,6 +30,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Yellow |
 | **Mature Habit** | Upright (10-15') |
 | **Sun Tolerance** | High |
+| **Synonyms** | 'Ukon', 'Yukon', Green Bark Japanese Maple |
 | **Best Feature** | Bright green winter bark. The green-barked counterpart to 'Sango Kaku'; excellent for year-round interest. |
 
 ### [Baldsmith](/japanese-maple-book/cultivars/baldsmith)
@@ -60,6 +61,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Red-Green / Scarlet |
 | **Mature Habit** | Bushy (6-8') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | "Red Haired Dancing Girl" |
 | **Best Feature** | Brilliant "Red Dance" spring color. Needs protection from late spring frosts to protect first flush. |
 
 ### [Bloodgood](/japanese-maple-book/cultivars/bloodgood)
@@ -70,6 +72,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
 | **Mature Habit** | Upright (15-20') |
 | **Sun Tolerance** | High |
+| **Synonyms** | Bloodgood Maple, 'Atropurpureum' |
 | **Best Feature** | Remarkable color retention. Robust and sun-tolerant, but requires very well-drained soil. |
 
 ### [Butterfly](/japanese-maple-book/cultivars/butterfly)
@@ -80,6 +83,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | White-Green / Pink-Red |
 | **Mature Habit** | Upright (8-12') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
 | **Best Feature** | Best hardy variegated variety. More resilient than 'Ukigumo'; stays compact with light structural pruning. |
 
 ### [Crimson Queen](/japanese-maple-book/cultivars/crimson-queen)
@@ -90,6 +94,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Red |
 | **Mature Habit** | Weeping (6-8') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | Crimson Queen Laceleaf, Crimson Queen Weeping |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
 
 ### [Emperor 1](/japanese-maple-book/cultivars/emperor-1)
@@ -100,6 +105,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
 | **Mature Habit** | Upright (15-20') |
 | **Sun Tolerance** | High |
+| **Synonyms** | Red Emperor, 'Wolff', Emperor I |
 | **Best Feature** | Late bud break. Excellent for avoiding late spring frosts; has a more translucent red than 'Bloodgood'. |
 
 ### [Fireglow](/japanese-maple-book/cultivars/fireglow)
@@ -150,6 +156,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Deep Purple / Red |
 | **Mature Habit** | Weeping (6-8') |
 | **Sun Tolerance** | High |
+| **Synonyms** | 'Red Select', 'Inabe shidare' |
 | **Best Feature** | Exceptional vigor. Most sun-tolerant of the red lace-leafs; excellent for larger weeping specimens. |
 
 ### [Jordan](/japanese-maple-book/cultivars/jordan)
@@ -189,6 +196,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Orange |
 | **Mature Habit** | Dwarf (3-5') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | "Mikawa", "Eight Tufts" |
 | **Best Feature** | Unique shingled habit. Extremely slow-growing; ideal for containers and focal points in rock gardens. |
 
 ### [Moonrise](/japanese-maple-book/cultivars/moonrise)
@@ -229,6 +237,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Fire-Red |
 | **Mature Habit** | Upright (20-25') |
 | **Sun Tolerance** | High |
+| **Synonyms** | 'Taihai', 'Ohsakazuki', "Big Cup" |
 | **Best Feature** | World-class fall color. A "green giant" for 10 months, but becomes the garden star in November. |
 
 ### [Peve Starfish](/japanese-maple-book/cultivars/peve-starfish)
@@ -249,6 +258,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold |
 | **Mature Habit** | Upright (15-20') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | 'Senkaki', 'Ebi-no-hige', 'Cinnabarinum' |
 | **Best Feature** | Coral-red winter bark. Needs sun for red bark, but foliage is sensitive to hot afternoon sun and dry winds. |
 
 ### [Scolopendrifolium](/japanese-maple-book/cultivars/scolopendrifolium)
@@ -259,6 +269,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold |
 | **Mature Habit** | Upright (12-15') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | 'Shinobuga oka', 'Fingerleaf', 'Linearifolium' |
 | **Best Feature** | Dramatic "willow" look. Long, narrow lobes move beautifully in the wind; provides an airy light filter. |
 
 ### [Seiryu](/japanese-maple-book/cultivars/seiryu)
@@ -269,6 +280,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold-Red |
 | **Mature Habit** | Upright (10-15') |
 | **Sun Tolerance** | High |
+| **Synonyms** | "Blue Green Dragon", Lace-leaf Japanese Maple |
 | **Best Feature** | Elegant upright lace-leaf. Very vigorous for a dissectum; tolerates heat better than weeping varieties. |
 
 ### [Sekka Yatsubusa](/japanese-maple-book/cultivars/sekka-yatsubusa)
@@ -289,6 +301,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Deep Green / Orange |
 | **Mature Habit** | Upright (8-12') |
 | **Sun Tolerance** | High |
+| **Synonyms** | 'Lion's Mane', 'Lion's Head', 'Mejishi', 'Crispum' |
 | **Best Feature** | "Lion's Head" crinkled foliage. Holds leaves very late into autumn; best used as a vertical architectural element. |
 
 ### [Sister Ghost](/japanese-maple-book/cultivars/sister-ghost)
@@ -319,6 +332,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Purple-Red / Scarlet |
 | **Mature Habit** | Weeping (6-8') |
 | **Sun Tolerance** | High |
+| **Synonyms** | "Hands folded in prayer on the mountain", Laceleaf Maple |
 | **Best Feature** | Heat resilience master. The preferred red lace-leaf for the American South due to soil/heat tolerance. |
 
 ### [Tiny Stars](/japanese-maple-book/cultivars/tiny-stars)
@@ -339,6 +353,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | White-Green / Pink |
 | **Mature Habit** | Upright (8-10') |
 | **Sun Tolerance** | Low (Shade) |
+| **Synonyms** | 'Floating Clouds', 'Uki-gumo' |
 | **Best Feature** | Ethereal "floating cloud" look. Requires deep shade; white leaf portions burn instantly in direct sun. |
 
 ### [Villa Taranto](/japanese-maple-book/cultivars/villa-taranto)
@@ -359,6 +374,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold |
 | **Mature Habit** | Weeping (6-8') |
 | **Sun Tolerance** | Moderate |
+| **Synonyms** | Threadleaf Japanese Maple, Weeping Green |
 | **Best Feature** | The classic green lace-leaf. Forms a majestic, cascading dome of emerald green that turns brilliant gold in fall. |
 
 ---

@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
 
 ## Overview
 'Butterfly' is the most reliable variegated maple for the average gardener. It features small, elegant leaves with irregular creamy-white margins that wrap around a soft green center, providing a shimmering "fly-away" texture that handles environmental stress better than more delicate variegated relatives.

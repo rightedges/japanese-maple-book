@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Hands folded in prayer on the mountain", Laceleaf Maple |
 
 ## Overview
 'Tamukeyama' is the ultimate "no-excuses" red weeping maple, legendary for its 300-year history and incredible resilience. It handles heat, humidity, and wind better than almost any other dissectum, making it the #1 choice for challenging sunny spots in USDA Zones 7-9.

@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Ukon', 'Yukon', Green Bark Maple |
 
 ## Overview
 'Aoyagi' (meaning "Green Willow") is the green counterpart to the famous red-barked 'Sango Kaku'. It is prized for its bright pea-green bark, which provides stunning architectural interest in the winter landscape.

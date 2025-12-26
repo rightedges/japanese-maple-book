@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | Crimson Queen Laceleaf, Crimson Queen Weeping |
 
 ## Overview
 'Crimson Queen' is the gold standard for mounding, weeping lace-leaf maples. Prized for its exquisitely feathery texture and ability to hold a deep burgundy-red color through the hottest summer days, it bridges the gap between delicate collector plants and reliable garden workhorses.

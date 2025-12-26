@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Blue Green Dragon", Lace-leaf Japanese Maple |
 
 ## Overview
 'Seiryu' ("Blue Dragon") is a botanical marvel: the only widely available upright lace-leaf maple. It combines the delicate, feathery foliage of the **Dissectum** group with the vigorous, vase-like habit of **Palmatums**, offering lacey texture without the weeping footprint.

@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Floating Clouds', 'Uki-gumo' |
 
 ## Overview
 'Ukigumo' ("Floating Cloud") is the holy grail of variegated maples, known for its ethereal, snow-like appearance. Its leaves are so heavily flecked with white and soft pink that the tree appears as a "spectral ghost" or a floating cloud in the shaded garden corners.

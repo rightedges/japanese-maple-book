@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Taihai', 'Ohsakazuki', "Big Cup" |
 
 ## Overview
 'Osakazuki' is the world’s finest autumn-display maple, known for its incandescent scarlet transition that lasts for weeks. Belonging to the rugged **Amoenum** group, it features large, slightly concave leaves ("Wine Cups") and a vigorous, tree-like growth habit that is exceptionally resilient for novice gardeners.

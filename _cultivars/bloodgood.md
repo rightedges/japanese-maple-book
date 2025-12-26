@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | Bloodgood Maple, 'Atropurpureum' |
 
 ## Overview
 'Bloodgood' is the industry benchmark for red-leaved Japanese Maples. Originating from New York's Bloodgood Nursery, it is prized for its vigorous growth, architectural "V" shape, and its legendary ability to hold deep burgundy color even in high-heat summers.

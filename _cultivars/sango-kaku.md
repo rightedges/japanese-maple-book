@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Senkaki', 'Ebi-no-hige', 'Cinnabarinum' |
 
 ## Overview
 'Sango Kaku', or the "Coral Bark Maple," is primarily celebrated for its vibrant neon coral-pink winter bark. A member of the vigorous **Matsumurae** group, it provides a dramatic, year-round color shift, culminating in a hypnotic display against the grey winter landscape.

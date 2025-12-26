@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | Threadleaf Japanese Maple, Weeping Green |
 
 ## Overview
 'Viridis' is the quintessential green weeping lace-leaf maple. Known for its elegant, cascading habit and finely dissected foliage, it creates a soft, mounding presence in any garden setting.

@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Red Select', 'Inabe shidare' |
 
 ## Overview
 'Inaba shidare' is the "muscular" powerhouse of the red lace-leafs. Prized for its sheer vigor and extraordinary environmental resilience, it features larger, bolder lobes than other dissectums, allowing it to grow faster and withstand more sun and wind.

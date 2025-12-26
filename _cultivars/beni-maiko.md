@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Red Haired Dancing Girl" |
 
 ## Overview
 'Beni maiko' is a small, bushy "semi-dwarf" known for its intense, neon carmine-red spring flush. Its name, "The Red-Haired Dancing Girl," perfectly captures its flamboyant and constantly changing seasonal personality.

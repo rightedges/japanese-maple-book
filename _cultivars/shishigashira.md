@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Lion's Mane', 'Lion's Head', 'Mejishi', 'Crispum' |
 
 ## Overview
 'Shishigashira' ("Lion's Head") is a sculptural masterpiece known for its dense, crinkled foliage that resembles the mane of a mythical Japanese lion. A slow-growing upright with an ancient gravitas, it is prized for its structural power and unapologetic "thick" appearance.

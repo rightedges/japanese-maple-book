@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | Red Emperor, 'Wolff', Emperor I |
 
 ## Overview
 'Emperor 1' is often considered the "improved Bloodgood." It was selected for its ability to leaf out about two weeks later than 'Bloodgood', effectively avoiding the late spring frosts that can damage other red maples.

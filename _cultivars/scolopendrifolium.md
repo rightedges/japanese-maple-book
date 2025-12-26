@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | 'Shinobuga oka', 'Fingerleaf', 'Linearifolium' |
 
 ## Overview
 'Scolopendrifolium' is an elegant **Linearilobum** maple defined by its long, ribbon-like lobes that resemble willow fronds. It creates a "transparent," airy canopy that moves gracefully in the wind, providing filtered light and a unique "audible" experience for Zen gardens and minimalist spaces.

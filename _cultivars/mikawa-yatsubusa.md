@@ -16,6 +16,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Mikawa", "Eight Tufts" |
 
 ## Overview
 'Mikawa Yatsubusa' is the crown jewel of dwarf maples, often described as a "living sculpture." Its defining trait is its extremely short internodes, causing leaves to overlap like shingles or dragon scales, creating an ancient, gnarled appearance even in young saplings.
