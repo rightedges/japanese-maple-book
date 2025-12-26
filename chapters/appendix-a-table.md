@@ -53,6 +53,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Intense lipstick-red bark. Bred for heat tolerance; bark color remains vibrant even in southern climates. |
 
+### [Beni Chidori](/japanese-maple-book/cultivars/beni-chidori)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green / Orange-Gold |
+| **Mature Habit** | Bushy Dwarf (4-6') |
+| **Sun Tolerance** | High |
+| **Synonyms** | Red Plover |
+| **Best Feature** | Shrimp-pink spring color. A compact dwarf with brilliant spring display, often compared to 'Beni maiko'. |
+
 ### [Beni maiko](/japanese-maple-book/cultivars/beni-maiko)
 
 | Attribute | Specification |
