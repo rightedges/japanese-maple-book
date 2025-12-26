@@ -15,6 +15,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Aoyagi]({{ site.baseurl }}/cultivars/aoyagi.html)
 - [Baldsmith]({{ site.baseurl }}/cultivars/baldsmith.html)
 - [Baton Rouge]({{ site.baseurl }}/cultivars/baton-rouge.html)
+- [Beni Chidori]({{ site.baseurl }}/cultivars/beni-chidori.html)
 - [Beni maiko]({{ site.baseurl }}/cultivars/beni-maiko.html)
 - [Bloodgood]({{ site.baseurl }}/cultivars/bloodgood.html)
 - [Butterfly]({{ site.baseurl }}/cultivars/butterfly.html)
