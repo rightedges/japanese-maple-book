@@ -16,21 +16,21 @@ With over 1,000 named cultivars of *Acer palmatum*, choosing your first (or fift
 
 These are the trees that defined the species for the Western world. They are the most reliable, widely-planted, and historically significant cultivars in the world.
 
-### ['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }}) (The Crimson King) and its Legacy
+### [**Bloodgood**]({{ '/cultivars/bloodgood' | relative_url }}) (The Crimson King) and its Legacy
 *   **Origin**: Selected at the Bloodgood Nursery in Long Island, NY, in the early 20th century.
 *   **The Color Arc**: Deep burgundy-purple (Spring/Summer) -> Brilliant Scarlet (Fall).
-*   **Technical Note**: 'Bloodgood' is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 9) in the heat of July, 'Bloodgood' holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
-*   **The Evolution**: Because 'Bloodgood' can be somewhat upright and "airy," breeders created **['Emperor 1']({{ '/cultivars/emperor-1' | relative_url }})** (which leafes out two weeks later to avoid frost) and **['Fireglow']({{ '/cultivars/fireglow' | relative_url }})** (which stays shorter and has even more translucent, glowing red leaves).
+*   **Technical Note**: **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** is the "benchmark" for red maples. It is famous for its **High Heat Tolerance**. While other red maples "green out" (see Chapter 9) in the heat of July, **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** holds its dark pigment longer than almost any other variety due to a higher concentration of anthocyanin in the leaf cuticle.
+*   **The Evolution**: Because **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** can be somewhat upright and "airy," breeders created **['Emperor 1']({{ '/cultivars/emperor-1' | relative_url }})** (which leafes out two weeks later to avoid frost) and **['Fireglow']({{ '/cultivars/fireglow' | relative_url }})** (which stays shorter and has even more translucent, glowing red leaves).
 
-### ['Osakazuki']({{ '/cultivars/osakazuki' | relative_url }}) (The Autumn Masterpiece)
+### [**Osakazuki**]({{ '/cultivars/osakazuki' | relative_url }}) (The Autumn Masterpiece)
 *   **Origin**: An ancient Japanese cultivar, literally meaning "Large Cup" (though often mistranslated as "The Cup of Osaka"). It has been documented for over 200 years.
 *   **The Color Arc**: Olive-Green (Spring/Summer) -> Fire-Engine Red (Fall).
-*   **Technical Note**: For 200 years, 'Osakazuki' has been considered the world's best tree for autumn color. Its thick, Amoenum-style leaves hold more sugar than other cultivars. This sugar-loading triggers an "incandescent" red that seems to glow in the dark, outperforming even the wild mountain maples.
+*   **Technical Note**: For 200 years, **['Osakazuki']({{ '/cultivars/osakazuki' | relative_url }})** has been considered the world's best tree for autumn color. Its thick, Amoenum-style leaves hold more sugar than other cultivars. This sugar-loading triggers an "incandescent" red that seems to glow in the dark, outperforming even the wild mountain maples.
 *   **Landscape Role**: Plant it as a specimen where it can be seen from a distance. Its summer green acts as a perfect "quiet" backdrop for other flowers until it "explodes" in October.
 
-### ['Katsura']({{ '/cultivars/katsura' | relative_url }}) (The Harbinger of Spring)
+### [**Katsura**]({{ '/cultivars/katsura' | relative_url }}) (The Harbinger of Spring)
 *   **The Color Arc**: Bright Orange (Spring) -> Chartreuse Green (Summer) -> Bright Yellow-Orange (Fall).
-*   **Technical Note**: 'Katsura' is prized for its early-season "wow" factor. It is often the very first tree to leaf out in the garden. Its emergent leaves are so bright they look like flowers.
+*   **Technical Note**: **['Katsura']({{ '/cultivars/katsura' | relative_url }})** is prized for its early-season "wow" factor. It is often the very first tree to leaf out in the garden. Its emergent leaves are so bright they look like flowers.
 *   **Maintenance**: It is a "sprinter"—it uses all its energy in spring. It is prone to late frost damage because it wakes up so early. If a spring freeze is predicted, you **must** cover it with a frost cloth.
 
 ---
@@ -43,11 +43,11 @@ These are the mounding, weeping trees that define the modern ornamental garden.
 These are the two "Queens" of the red dissectums.
 *   **['Crimson Queen']({{ '/cultivars/crimson-queen' | relative_url }})**: Selected in 1965 in New Jersey, it is prized for its **retention**. It holds its red color until the very last leaf falls in November.
 *   **['Tamukeyama']({{ '/cultivars/tamukeyama' | relative_url }})**: The "Industrial Strength" weeper. It dates back to the 1700s in Japan. It is considered the most heat-tolerant red weeper, making it the #1 choice for the American South or South-Facing patios.
-*   **Pruning Strategy**: Both cultivars require "interior cleaning." Because they are so dense, old leaves and dead twigs get trapped inside the "mound," which can lead to fungal rot in humid climates. You should be able to sit "inside" a mature 'Tamukeyama' and see the branch structure clearly (Chapter 11).
+*   **Pruning Strategy**: Both cultivars require "interior cleaning." Because they are so dense, old leaves and dead twigs get trapped inside the "mound," which can lead to fungal rot in humid climates. You should be able to sit "inside" a mature **['Tamukeyama']({{ '/cultivars/tamukeyama' | relative_url }})** and see the branch structure clearly (Chapter 11).
 
 ### ['Seiryu']({{ '/cultivars/seiryu' | relative_url }}) (The Blue Dragon)
-*   **Technical Note**: 'Seiryu' is a botanical anomaly. It has the lacy, dissected leaf of a weeper, but it grows in a strong, **upright vase shape**.
-*   **Landscape Role**: It offers the texture of a 'Crimson Queen' but at human eye level (15-20 feet tall). It is one of the hardiest and most sun-tolerant maples in the entire guide. It is the perfect choice for a "narrow" space where you need height but want fine texture.
+*   **Technical Note**: **['Seiryu']({{ '/cultivars/seiryu' | relative_url }})** is a botanical anomaly. It has the lacy, dissected leaf of a weeper, but it grows in a strong, **upright vase shape**.
+*   **Landscape Role**: It offers the texture of a **['Crimson Queen']({{ '/cultivars/crimson-queen' | relative_url }})** but at human eye level (15-20 feet tall). It is one of the hardiest and most sun-tolerant maples in the entire guide. It is the perfect choice for a "narrow" space where you need height but want fine texture.
 
 ---
 
@@ -59,7 +59,7 @@ Maples that bring light or architectural "gravity" into the garden.
 *   **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})**: A breakthrough in breeding from Italy. Unlike older yellow maples that scorch in the sun, 'Summer Gold' actually gets **brighter** in direct sunlight, turning a brilliant, pale lemon-yellow.
 *   **['Jordan']({{ '/cultivars/jordan' | relative_url }})**: A Full Moon maple (*A. shirasawanum*). It features huge, round, neon-lime leaves. 
 *   **History**: Named after the son of the Fratelli Gilardelli nursery owner in Italy. 
-*   **Maintenance**: 'Jordan' needs protection from wind; its massive leaves act like sails and can "tatter" easily.
+*   **Maintenance**: **['Jordan']({{ '/cultivars/jordan' | relative_url }})** needs protection from wind; its massive leaves act like sails and can "tatter" easily.
 
 ### ['Mikawa Yatsubusa']({{ '/cultivars/mikawa-yatsubusa' | relative_url }}) (The Shingled Maple)
 *   **Aesthetic**: The leaves grow on extremely short branches (short internodes) and overlap like shingles on a roof. 
@@ -93,9 +93,9 @@ A relatively modern addition to the maple world, the "Ghost" series (developed b
 *   **Warning**: This is the most difficult maple in this guide. Too much sun burns the white leaves; too much shade makes them turn solid green. 
 *   **The "Reversion" Check**: You must prune out any solid green branches immediately. Because green leaves have more chlorophyll, they grow faster and will "choke out" the white parts of the tree within two seasons.
 
-### ['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }}) (The Coral Bark Maple)
+### [**Sango Kaku**]({{ '/cultivars/sango-kaku' | relative_url }}) (The Coral Bark Maple)
 *   **Technical Note**: While its summer leaves are a pleasant green, the "show" starts in winter. The bark on the young twigs turns a brilliant, glowing coral-red once the temperature drops.
-*   **Pruning**: The best bark color is always on the "new wood." To keep a 'Sango Kaku' looking bright, you should prune it regularly (thinning) to encourage a constant supply of juvenile twigs.
+*   **Pruning**: The best bark color is always on the "new wood." To keep a **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})** looking bright, you should prune it regularly (thinning) to encourage a constant supply of juvenile twigs.
 
 ---
 
@@ -118,8 +118,8 @@ A relatively modern addition to the maple world, the "Ghost" series (developed b
 ## Summary: Designing Your Collection
 
 When choosing your cultivars, think of your garden as a multi-season symphony.
-1.  **For the Soloists**: Pick one "Icon" like 'Bloodgood' to anchor the space.
-2.  **For the Textual Contrast**: Add a "Specialist" like 'Seiryu' for its unique lacy-but-upright form.
-3.  **For the Light**: Use 'Summer Gold' or 'Jordan' in a dark corner that needs brightening.
+1.  **For the Soloists**: Pick one "Icon" like **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** to anchor the space.
+2.  **For the Textual Contrast**: Add a "Specialist" like **['Seiryu']({{ '/cultivars/seiryu' | relative_url }})** for its unique lacy-but-upright form.
+3.  **For the Light**: Use **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})** or **['Jordan']({{ '/cultivars/jordan' | relative_url }})** in a dark corner that needs brightening.
 
 Every cultivar in this guide has been tested over decades of horticultural practice. While there are thousands of rarer maples available, these "Famous Cultivars" are famous for a reason: they combine aesthetic perfection with the genetic stamina to thrive in your garden for generations.

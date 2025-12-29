@@ -112,6 +112,6 @@ Propagating the tree is only half the battle. The first six months of a new plan
 
 Propagation is the antidote to the "instant gratification" of modern gardening. It forces you to slow down. It forces you to observe the subtle shifts in bark color, the swelling of a bud, and the moisture level of a handful of moss.
 
-If you succeed, you have a tree that shares your history. You have a "Bloodgood" that came from your grandfather's tree, or a "Sango Kaku" that was a gift from a friend's garden. These trees carry stories. And even if you fail—which you will, many times—you are learning the deepest secrets of *Acer palmatum*. You are learning what it takes to sustain life. 
+If you succeed, you have a tree that shares your history. You have a **["Bloodgood"]({{ '/cultivars/bloodgood' | relative_url }})** that came from your grandfather's tree, or a **["Sango Kaku"]({{ '/cultivars/sango-kaku' | relative_url }})** that was a gift from a friend's garden. These trees carry stories. And even if you fail—which you will, many times—you are learning the deepest secrets of *Acer palmatum*. You are learning what it takes to sustain life. 
 
 Start with **Air Layering** for a win, then move to **Seeds** for the adventure, and finally attempt **Cuttings** and **Grafting** once you have mastered the environmental controls. The forest is waiting.

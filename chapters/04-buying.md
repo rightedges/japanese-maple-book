@@ -20,7 +20,7 @@ The first decision—where to source your tree—is the most significant factor 
 
 ### The Big Box Store (The Gamble)
 Local garden centers and hardware chains will often carry a generic selection: usually **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})**, **['Crimson Queen']({{ '/cultivars/crimson-queen' | relative_url }})**, and standard green seedlings.
-*   **The Problem of "Identity Theft"**: Many big-box maples are mass-produced in "tree factories." They are often mislabeled; a "Bloodgood" at a discount store is frequently just a random red seedling. These seedlings may look red in May, but by July, they will "wash out" to a muddy green-bronze, lacking the genetic stability of the true cultivar.
+*   **The Problem of "Identity Theft"**: Many big-box maples are mass-produced in "tree factories." They are often mislabeled; a **["Bloodgood"]({{ '/cultivars/bloodgood' | relative_url }})** at a discount store is frequently just a random red seedling. These seedlings may look red in May, but by July, they will "wash out" to a muddy green-bronze, lacking the genetic stability of the true cultivar.
 *   **Logistics of Neglect**: Trees in big-box stores are often treated like hardware. They are frequently left in standing water (leading to root rot) or pushed out into a hot asphalt parking lot (causing sunscald before you even get them home).
 
 ### The Specialist Nursery (The Gold Standard)
