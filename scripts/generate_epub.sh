@@ -7,11 +7,15 @@ OUTPUT="assets/the-japanese-maple-book.epub"
 # Create a temporary file to hold the complete markdown content
 COMBINED_MD="combined.md"
 
+# Extract version from _config.yml
+VERSION=$(grep "^version:" _config.yml | awk '{print $2}' | tr -d '"' | tr -d "'")
+DATE=$(date +"%b %Y")
+
 # Add title block for Pandoc
 echo "% The Japanese Maple Book" > "$COMBINED_MD"
-echo "% v2.0 - Dec 2025" >> "$COMBINED_MD"
+echo "% $VERSION - $DATE" >> "$COMBINED_MD"
 echo "% Revised Digital Edition by rightedges with Gemini AI" >> "$COMBINED_MD"
-echo "% © 2025 rightedges with Gemini AI" >> "$COMBINED_MD"
+echo "% © $(date +"%Y") rightedges with Gemini AI" >> "$COMBINED_MD"
 echo "" >> "$COMBINED_MD"
 
 # Concatenate files in order based on navigation.yml

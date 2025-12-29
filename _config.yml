@@ -1,4 +1,5 @@
 title: "The Japanese Maple Book"
+version: "2.1"
 description: "A comprehensive guide to Japanese Maples."
 url: "https://rightedges.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/japanese-maple-book" # the subpath of your site, e.g. /blog

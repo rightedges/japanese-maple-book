@@ -9,9 +9,6 @@ import re
 import sys
 import os
 
-# Configuration for site variables
-BASEURL = 'japanese-maple-book'
-
 # Mapping of chapter/appendix text to anchor IDs
 REF_MAP = {
     "Chapter 1": "01-introduction",
@@ -50,6 +47,19 @@ def parse_simple_yaml(yaml_str):
                 value = value[1:-1]
             data[key] = value
     return data
+
+# Configuration for site variables
+BASEURL = 'japanese-maple-book'
+
+def get_site_config():
+    """Reads site configuration from _config.yml."""
+    config_path = os.path.join(os.getcwd(), '_config.yml')
+    if os.path.exists(config_path):
+        with open(config_path, 'r', encoding='utf-8') as f:
+            return parse_simple_yaml(f.read())
+    return {}
+
+SITE_CONFIG = get_site_config()
 
 def process_file(filepath):
     """Process a single markdown file for EPUB."""
@@ -91,8 +101,19 @@ def process_file(filepath):
     
     processed = re.sub(r'\{\{\s*page\.(\w+)\s*\}\}', replace_page_var, markdown_content)
     
-    # 3. Replace {{ site.baseurl }}
-    processed = re.sub(r'\{\{\s*site\.baseurl\s*\}\}', '', processed)
+    # 3. Replace {{ site.variable }}
+    def replace_site_var(match):
+        var_name = match.group(1)
+        if var_name == 'baseurl':
+            return ''
+        if var_name == 'time':
+            import datetime
+            return datetime.datetime.now().strftime("%b %Y")
+        if var_name in SITE_CONFIG:
+            return str(SITE_CONFIG[var_name])
+        return match.group(0)
+
+    processed = re.sub(r'\{\{\s*site\.(\w+)\s*\}\}', replace_site_var, processed)
 
     # 4. Handle {{ 'path' | relative_url }}
     processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
