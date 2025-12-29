@@ -39,7 +39,7 @@ These are the trees that defined the species for the Western world. They are the
 
 These are the mounding, weeping trees that define the modern ornamental garden.
 
-### 'Crimson Queen' / 'Tamukeyama'
+### **['Crimson Queen']({{ '/cultivars/crimson-queen' | relative_url }})** / **['Tamukeyama']({{ '/cultivars/tamukeyama' | relative_url }})**
 These are the two "Queens" of the red dissectums.
 *   **['Crimson Queen']({{ '/cultivars/crimson-queen' | relative_url }})**: Selected in 1965 in New Jersey, it is prized for its **retention**. It holds its red color until the very last leaf falls in November.
 *   **['Tamukeyama']({{ '/cultivars/tamukeyama' | relative_url }})**: The "Industrial Strength" weeper. It dates back to the 1700s in Japan. It is considered the most heat-tolerant red weeper, making it the #1 choice for the American South or South-Facing patios.
@@ -55,7 +55,7 @@ These are the two "Queens" of the red dissectums.
 
 Maples that bring light or architectural "gravity" into the garden.
 
-### 'Summer Gold' / 'Jordan'
+### **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})** / **['Jordan']({{ '/cultivars/jordan' | relative_url }})**
 *   **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})**: A breakthrough in breeding from Italy. Unlike older yellow maples that scorch in the sun, 'Summer Gold' actually gets **brighter** in direct sunlight, turning a brilliant, pale lemon-yellow.
 *   **['Jordan']({{ '/cultivars/jordan' | relative_url }})**: A Full Moon maple (*A. shirasawanum*). It features huge, round, neon-lime leaves. 
 *   **History**: Named after the son of the Fratelli Gilardelli nursery owner in Italy. 

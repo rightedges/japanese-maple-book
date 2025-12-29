@@ -19,14 +19,14 @@ Because these trees are long-lived (often exceeding a hundred years) and slow-gr
 The first decision—where to source your tree—is the most significant factor in your long-term success.
 
 ### The Big Box Store (The Gamble)
-Local garden centers and hardware chains will often carry a generic selection: usually 'Bloodgood', 'Crimson Queen', and standard green seedlings.
+Local garden centers and hardware chains will often carry a generic selection: usually **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})**, **['Crimson Queen']({{ '/cultivars/crimson-queen' | relative_url }})**, and standard green seedlings.
 *   **The Problem of "Identity Theft"**: Many big-box maples are mass-produced in "tree factories." They are often mislabeled; a "Bloodgood" at a discount store is frequently just a random red seedling. These seedlings may look red in May, but by July, they will "wash out" to a muddy green-bronze, lacking the genetic stability of the true cultivar.
 *   **Logistics of Neglect**: Trees in big-box stores are often treated like hardware. They are frequently left in standing water (leading to root rot) or pushed out into a hot asphalt parking lot (causing sunscald before you even get them home).
 
 ### The Specialist Nursery (The Gold Standard)
 For the true enthusiast, online specialist nurseries or dedicated local collectors are the only option.
 *   **Variety and Veracity**: A specialist will carry 200-500 different cultivars. More importantly, they guarantee the variety. They take their own scion wood from "mother trees" of known provenance.
-*   **Care and Knowledge**: Specialists understand the specific needs of different groups. They won't place a variegated 'Ukigumo' in a 100°F (38°C) sun-exposed lot.
+*   **Care and Knowledge**: Specialists understand the specific needs of different groups. They won't place a variegated **['Ukigumo']({{ '/cultivars/ukigumo' | relative_url }})** in a 100°F (38°C) sun-exposed lot.
 *   **Shipping Realities**: When ordering online, you will likely receive a "1-gallon" or "3-gallon" tree. While it looks small, these young trees often establish faster and with less "transplant shock" than massive, expensive "Balled and Burlapped" (B&B) specimens.
 
 ---
@@ -46,7 +46,7 @@ Ninety percent of named Japanese Maples are clones created through grafting.
 3.  **The "Dog-Leg"**: Avoid trees where the graft creates a sharp 45-degree kink. A high-quality grafter aligns the cambium layers so that the tree grows straight.
 
 ### The Stem and Leader
-For upright varieties ('Bloodgood', 'Sango Kaku'), look for a clear **central leader**. Avoid trees that have been "topped" in the nursery. If the main trunk has been cut, the tree will produce a chaotic cluster of weak "water sprouts" that will ruin the architectural structure of the mature tree.
+For upright varieties (**['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})**, **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})**), look for a clear **central leader**. Avoid trees that have been "topped" in the nursery. If the main trunk has been cut, the tree will produce a chaotic cluster of weak "water sprouts" that will ruin the architectural structure of the mature tree.
 
 ---
 
@@ -55,7 +55,7 @@ For upright varieties ('Bloodgood', 'Sango Kaku'), look for a clear **central le
 To understand your tree, you must understand its dual nature. A grafted maple is two different organisms living as one.
 
 ### Why We Graft
-Japanese Maples are genetically "unstable." If you plant a seed from a 'Bloodgood', the baby will be a generic *Acer palmatum*. It will not have the intense color or the heat tolerance of the parent. To get an exact "clone," we must take a cutting. However, many delicate cultivars have "weak" roots that rot easily or grow too slowly.
+Japanese Maples are genetically "unstable." If you plant a seed from a **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})**, the baby will be a generic *Acer palmatum*. It will not have the intense color or the heat tolerance of the parent. To get an exact "clone," we must take a cutting. However, many delicate cultivars have "weak" roots that rot easily or grow too slowly.
 **The Solution**: We take a vigorous seedling (the rootstock) and surgically attach the fancy cultivar (the scion) to it.
 
 ### Types of Grafts
@@ -100,7 +100,7 @@ When you find "The One," do not leave the nursery until you have checked these s
 1.  **Pest Check**: Look under the leaves for Aphids or Scale insects (see Chapter 13).
 2.  **Bark Integrity**: Ensure there is no damage from weed-whackers or mower-stings at the base.
 3.  **Drainage Test**: Look at the top of the soil. If it is covered in green moss or liverwort, the soil has been saturated for too long, indicating potential root rot.
-4.  **Variety Verification**: Does the leaf look like it should for this variety? If it's a 'Sango Kaku', are the twigs actually red?
+4.  **Variety Verification**: Does the leaf look like it should for this variety? If it's a **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})**, are the twigs actually red?
 5.  **Wind-Burn Check**: If the tree has "crunchy" leaf tips right now, it's not a dealbreaker, but it tells you the tree has been stressed. You should negotiate a discount or look for a fresher specimen.
 6.  **The "Wobble" Test**: Gently grab the trunk and wiggle it. If the whole tree pivots in the pot like a loose tooth, it hasn't established roots in that container yet. It is essentially a "freshly potted" tree and is more vulnerable.
 

@@ -55,6 +55,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | Golden Full Moon Maple |
 | **Best Feature** | Luminous golden foliage. Round, fan-like leaves that glow in the shade; very slow-growing and requires protection from afternoon sun. |
 
+### [Autumn Moon](/japanese-maple-book/cultivars/autumn-moon)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Shirasawanum |
+| **Foliage (Sum/Fall)** | Peach-Gold / Orange-Red |
+| **Mature Habit** | Upright (8-12') |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | *Acer shirasawanum* 'Autumn Moon' |
+| **Best Feature** | "Peach Moon" glow. A more sun-tolerant Shirasawanum that develops a stunning orange-peach blush in morning sun. |
+
 ### [Baldsmith](/japanese-maple-book/cultivars/baldsmith)
 
 | Attribute | Specification |

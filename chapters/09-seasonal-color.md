@@ -32,11 +32,11 @@ The color you see at any given moment is the result of the **ratio** of these pi
 Spring is the peak of the maple's "energetic" output. As the sap rises, the tree must push out new leaves as fast as possible to start feeding itself. 
 
 ### Anthocyanin as a Shield: The Physics of UV
-Often, a green cultivar (like 'Katsura' or 'Aoyagi') will emerge in spring with bright orange or red tips. This isn't just for show. The new leaves are translucent and thin; their photosynthetic machinery is vulnerable to the spring sun. The tree pumps **anthocyanins** into the new leaves to absorb excess UV light, acting as a biological shield. 
+Often, a green cultivar (like **['Katsura']({{ '/cultivars/katsura' | relative_url }})** or **['Aoyagi']({{ '/cultivars/aoyagi' | relative_url }})**) will emerge in spring with bright orange or red tips. This isn't just for show. The new leaves are translucent and thin; their photosynthetic machinery is vulnerable to the spring sun. The tree pumps **anthocyanins** into the new leaves to absorb excess UV light, acting as a biological shield. 
 *   **The UV Index Link**: Research indicates that trees grown at higher altitudes (or in higher UV areas) produce more intense spring reds as a direct defensive response. As the leaf matures and thickens, the green chlorophyll takes over, and the red "sunscreen" fades away.
 
 ### The "Ghost" Emergence
-Cultivars like 'First Ghost' or 'Amber Ghost' have a unique spring gimmick. They emerge with nearly white or cream leaves with dark green veins. This is a controlled form of "reticulated variegation." It is exceptionally beautiful but makes the tree very vulnerable to heat (see Chapter 14).
+Cultivars like **['First Ghost']({{ '/cultivars/first-ghost' | relative_url }})** or **['Amber Ghost']({{ '/cultivars/amber-ghost' | relative_url }})** have a unique spring gimmick. They emerge with nearly white or cream leaves with dark green veins. This is a controlled form of "reticulated variegation." It is exceptionally beautiful but makes the tree very vulnerable to heat (see Chapter 14).
 
 ---
 
@@ -60,7 +60,7 @@ The transition from summer to fall is a chemical "shutdown" of the leaf.
 As day length shrinks, the tree stops producing new chlorophyll. The existing green pigment breaks down and is reabsorbed by the tree. As the green masks disappear, the yellow **carotenoids** and **xanthophylls** that were there all summer are finally revealed. 
 
 ### The Sugar-Color Link: The Physics of Intense Red
-The most intense reds (like 'Osakazuki') require a specific weather pattern: **Sunny days and cold nights (above freezing).**
+The most intense reds (like **['Osakazuki']({{ '/cultivars/osakazuki' | relative_url }})**) require a specific weather pattern: **Sunny days and cold nights (above freezing).**
 *   **Day**: Sunlight allows leaves to continue producing sugar.
 *   **Night**: Cold prevents sugar from moving out of leaves into the trunk.
 *   **The Chemistry**: The "trapped" sugar reacts with sunlight to produce a massive burst of new anthocyanins. This is what creates the "incandescent" neon-reds.
@@ -73,7 +73,7 @@ Biolgists wonder: why expend energy on color just before the leaf dies? One theo
 ## 5. Act IV: Winter (The Architecture of the Bark)
 
 ### The Winter Twig Bloom: Suberin and Pigments
-In many cultivars, the winter color of the bark is a response to cold. In the **'Sango Kaku'** (Coral Bark Maple), the young twigs turn a brilliant coral-pink.
+In many cultivars, the winter color of the bark is a response to cold. In the **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})** (Coral Bark Maple), the young twigs turn a brilliant coral-pink.
 *   **The Physics**: This is caused by the accumulation of pigments in the **phelloderm** (outer bark layers). The tree produces these pigments to protect its delicate vascular tissue from the drying effects of winter winds and high-altitude "snow-glare" UV levels.
 *   **Maintenance**: The most intense bark color is found on the "growth of the year." Pruning (Chapter 11) is essential for winter interest to encourage a constant supply of juvenile twigs.
 
@@ -81,12 +81,12 @@ In many cultivars, the winter color of the bark is a response to cold. In the **
 
 ## 6. Detailed Color Profiles
 
-### The 'Katsura' Arc
+### The **['Katsura']({{ '/cultivars/katsura' | relative_url }})** Arc
 *   **Spring**: Neon Orange with red margins.
 *   **Summer**: Bright Chartreuse Green (highly susceptible to sunscald).
 *   **Autumn**: Pure Golden-Yellow with orange highlights.
 
-### The 'Deshojo' Arc
+### The **['Deshojo']({{ '/cultivars/deshojo' | relative_url }})** Arc
 *   **Spring**: Shocking Magenta/Red. One of the brightest in the world.
 *   **Summer**: Soft, matte Green.
 *   **Autumn**: Orange-Red.
@@ -96,8 +96,8 @@ In many cultivars, the winter color of the bark is a response to cold. In the **
 ## Summary: Designing Your Collection
 
 When choosing your cultivars, think of your garden as a multi-season symphony.
-1.  **For the Soloists**: Pick one "Icon" like 'Bloodgood' to anchor the space.
-2.  **For the Textual Contrast**: Add a "Specialist" like 'Seiryu' for its unique lacy-but-upright form.
-3.  **For the Light**: Use 'Summer Gold' or 'Jordan' in a dark corner that needs brightening.
+1.  **For the Soloists**: Pick one "Icon" like **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** to anchor the space.
+2.  **For the Textual Contrast**: Add a "Specialist" like **['Seiryu']({{ '/cultivars/seiryu' | relative_url }})** for its unique lacy-but-upright form.
+3.  **For the Light**: Use **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})** or **['Jordan']({{ '/cultivars/jordan' | relative_url }})** in a dark corner that needs brightening.
 
 Every cultivar in this guide has been tested over decades. Seasonal color is a conversation between your tree and the environment. By observing these changes, you connect more deeply with the natural rhythm of the seasons. You aren't just looking at a plant; you are witnessing a chemical performance that has been perfected over millions of years of evolution.

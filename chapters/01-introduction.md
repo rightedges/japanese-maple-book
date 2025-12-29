@@ -18,7 +18,7 @@ The Japanese maple belongs to the genus *Acer* (*maples*) and the section *Palma
 
 While often grouped together, it is distinct from its relatives:
 *   ***Acer japonicum*** (**Fullmoon Maple**): Larger leaves with more lobes (9-13) and a rounder appearance.
-*   ***Acer shirasawanum***: Prized for hardiness and fan-like foliage (e.g., 'Autumn Moon').
+*   ***Acer shirasawanum***: Prized for hardiness and fan-like foliage (e.g., **['Autumn Moon']({{ '/cultivars/autumn-moon' | relative_url }})**).
 *   ***Acer sieboldianum***: A hardy mountain species similar to *palmatum*.
 
 The defining trait of *Acer palmatum* is its **genetic instability**. This natural propensity for mutation allows the species to produce endless variations in color, shape, and habit, which is why thousands of unique cultivars exist today.
@@ -40,7 +40,7 @@ The leaf is the tree's primary identifier.
 *   **Autumn**: The grand finale. As chlorophyll fades, masked red (anthocyanin) and orange (carotenoid) pigments create the species' iconic fiery display.
 
 ### The Structure and Bark
-*Acer palmatum* naturally creates a sympodial branching pattern—dividing frequently to form a sinuous, layered "cloud" of branches. Some cultivars also feature ornamental bark, such as the coral-red of 'Sango kaku' or the rough, corky texture of 'Arakawa'.
+*Acer palmatum* naturally creates a sympodial branching pattern—dividing frequently to form a sinuous, layered "cloud" of branches. Some cultivars also feature ornamental bark, such as the coral-red of **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})** or the rough, corky texture of **['Arakawa']({{ '/cultivars/arakawa' | relative_url }})**.
 
 ### Samaras (Whirlybirds)
 The iconic winged seeds, or **samaras**, are designed to spin. This allows the wind to carry them away from the parent tree's shade toward potential pockets of light.

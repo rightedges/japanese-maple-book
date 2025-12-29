@@ -19,7 +19,7 @@ However, a word of advice for the beginner: set your expectations low. Japanese 
 Growing maples from seed is the "slow" way, but it is the most accessible. As we mentioned in Chapter 4 and 12, the most important rule of maple seeds is that **they do not come true to the parent.** 
 
 ### Why Seeds Matter
-If you take a seed from a 'Bloodgood', you will get a "plain" green or reddish *Acer palmatum* seedling. So why do it?
+If you take a seed from a **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})**, you will get a "plain" green or reddish *Acer palmatum* seedling. So why do it?
 1.  **Rootstock**: Every grafted specialty tree needs a strong "mother" root system. Growing your own seedlings is the first step to becoming a master grafter.
 2.  **Discovery**: Once in a thousand seeds, a mutation occurs. You might find a new dwarf form, a unique leaf shape, or a spectacular new color. This is how almost every cultivar in this book was originally found.
 
@@ -67,7 +67,7 @@ When you remove a ring of bark from a branch, you disrupt the **phloem**—the o
 
 ## 4. Grafting: The Clinical Precision
 
-This is how almost every 'Bloodgood' or 'Coral Bark' in the world was created. It is the marriage of two different trees: a strong, wild rootstock and a beautiful, specialty scion.
+This is how almost every **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** or **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})** in the world was created. It is the marriage of two different trees: a strong, wild rootstock and a beautiful, specialty scion.
 
 ### Why Graft?
 Specialty maples often have "weak" root systems. They are divas. By putting a diva's top on a "workhorse" seedling's bottom, you get a tree that is both beautiful and hardy.

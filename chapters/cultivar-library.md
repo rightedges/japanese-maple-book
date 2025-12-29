@@ -15,6 +15,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Aoyagi]({{ site.baseurl }}/cultivars/aoyagi.html)
 - [Arakawa]({{ site.baseurl }}/cultivars/arakawa.html)
 - [Aureum]({{ site.baseurl }}/cultivars/aureum.html)
+- [Autumn Moon]({{ site.baseurl }}/cultivars/autumn-moon.html)
 - [Baldsmith]({{ site.baseurl }}/cultivars/baldsmith.html)
 - [Baton Rouge]({{ site.baseurl }}/cultivars/baton-rouge.html)
 - [Beni Chidori]({{ site.baseurl }}/cultivars/beni-chidori.html)

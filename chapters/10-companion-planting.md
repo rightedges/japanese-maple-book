@@ -34,7 +34,7 @@ In design, a "foil" is a plant that highlights the features of another by being 
 ### Bold vs. Fine: The Visual Tension
 If you plant a fine-leafed maple next to a fine-leafed shrub (like a Spiraea), the eye gets confused. The two plants "blur" together into a fuzzy mess. 
 *   **The Contrast Solution**: Pair the maple with **Hostas** or **Bergenia**. The massive, solid, heart-shaped leaves of a Hosta act as a solid "ground" against which the "figure" of the maple can be seen. This contrast makes the maple look even more delicate and the Hosta look even more powerful. 
-*   **Color Counterpoints**: Use chartreuse-colored Hostas (like 'Sum and Substance') to sit beneath a burgundy 'Bloodgood'. The neon-yellow light reflected from the Hostas will "light up" the dark canopy of the maple from below.
+*   **Color Counterpoints**: Use chartreuse-colored Hostas (like 'Sum and Substance') to sit beneath a burgundy **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})**. The neon-yellow light reflected from the Hostas will "light up" the dark canopy of the maple from below.
 
 ---
 
@@ -54,7 +54,7 @@ This is the "perfect marriage" of the garden.
 
 ### 3. Ferns (The Understory Soul)
 Ferns like the **Japanese Painted Fern** (*Athyrium niponicum*) are the most evocative companions.
-*   **Color Synergy**: The silver and burgundy colors of the Painted Fern mirror the red and white variegated maples (like 'Ukigumo') perfectly. 
+*   **Color Synergy**: The silver and burgundy colors of the Painted Fern mirror the red and white variegated maples (like **['Ukigumo']({{ '/cultivars/ukigumo' | relative_url }})**) perfectly. 
 *   **Hydraulics**: Ferns grow best in the exact same dappled light that protects maples from sunscald.
 
 ### 4. Pines (The Structural Weight)
