@@ -75,6 +75,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | "Red Haired Dancing Girl" |
 | **Best Feature** | Brilliant "Red Dance" spring color. Needs protection from late spring frosts to protect first flush. |
 
+### [Bihou](/japanese-maple-book/cultivars/bihou)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Yellow-Green / Yellow-Orange |
+| **Mature Habit** | Upright (10-15') |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | 'Bi Hoo', 'Bi Hou' |
+| **Best Feature** | Golden yellow winter bark. Stunning contrast to 'Sango Kaku'; susceptible to dieback, so keep pruning tools sterile. |
+
 ### [Bloodgood](/japanese-maple-book/cultivars/bloodgood)
 
 | Attribute | Specification |
