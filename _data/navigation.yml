@@ -85,6 +85,10 @@
           file: _cultivars/amber-ghost.md
         - title: "Aoyagi"
           file: _cultivars/aoyagi.md
+        - title: "Arakawa"
+          file: _cultivars/arakawa.md
+        - title: "Aureum"
+          file: _cultivars/aureum.md
         - title: "Baldsmith"
           file: _cultivars/baldsmith.md
         - title: "Baton Rouge"
@@ -93,6 +97,8 @@
           file: _cultivars/beni-chidori.md
         - title: "Beni maiko"
           file: _cultivars/beni-maiko.md
+        - title: "Beni otake"
+          file: _cultivars/beni-otake.md
         - title: "Bihou"
           file: _cultivars/bihou.md
         - title: "Bloodgood"
@@ -101,6 +107,8 @@
           file: _cultivars/butterfly.md
         - title: "Crimson Queen"
           file: _cultivars/crimson-queen.md
+        - title: "Deshojo"
+          file: _cultivars/deshojo.md
         - title: "Emperor 1"
           file: _cultivars/emperor-1.md
         - title: "Fireglow"
@@ -111,6 +119,8 @@
           file: _cultivars/geisha-gone-wild.md
         - title: "Hime-shojo"
           file: _cultivars/hime-shojo.md
+        - title: "Higasayama"
+          file: _cultivars/higasayama.md
         - title: "Inaba shidare"
           file: _cultivars/inaba-shidare.md
         - title: "Jordan"
@@ -127,6 +137,8 @@
           file: _cultivars/murasaki-kiyohime.md
         - title: "Orange Dream"
           file: _cultivars/orange-dream.md
+        - title: "Omure yama"
+          file: _cultivars/omure-yama.md
         - title: "Osakazuki"
           file: _cultivars/osakazuki.md
         - title: "Peve Starfish"

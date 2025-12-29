@@ -33,6 +33,28 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | 'Ukon', 'Yukon', Green Bark Japanese Maple |
 | **Best Feature** | Bright green winter bark. The green-barked counterpart to 'Sango Kaku'; excellent for year-round interest. |
 
+### [Arakawa](/japanese-maple-book/cultivars/arakawa)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green / Gold-Red |
+| **Mature Habit** | Upright (15-20') |
+| **Sun Tolerance** | High |
+| **Synonyms** | "Rough Skin Maple", "Cork-bark Maple" |
+| **Best Feature** | "Rough Skin" corky bark. Bark fissures start after 4-5 years; provides instant aged look for bonsai and winter gardens. |
+
+### [Aureum](/japanese-maple-book/cultivars/aureum)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Shirasawanum |
+| **Foliage (Sum/Fall)** | Chartreuse-Gold / Orange-Red |
+| **Mature Habit** | Upright (15-20') |
+| **Sun Tolerance** | Low (Shade) |
+| **Synonyms** | Golden Full Moon Maple |
+| **Best Feature** | Luminous golden foliage. Round, fan-like leaves that glow in the shade; very slow-growing and requires protection from afternoon sun. |
+
 ### [Baldsmith](/japanese-maple-book/cultivars/baldsmith)
 
 | Attribute | Specification |
@@ -74,6 +96,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | "Red Haired Dancing Girl" |
 | **Best Feature** | Brilliant "Red Dance" spring color. Needs protection from late spring frosts to protect first flush. |
+
+### [Beni otake](/japanese-maple-book/cultivars/beni-otake)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Linearilobum |
+| **Foliage (Sum/Fall)** | Deep Red / Crimson |
+| **Mature Habit** | Upright (12-15') |
+| **Sun Tolerance** | High |
+| **Synonyms** | "Red Bamboo" |
+| **Best Feature** | "Red Bamboo" foliage. Long strap-like lobes that flutter in wind; very heat tolerant and vigorous for its group. |
 
 ### [Bihou](/japanese-maple-book/cultivars/bihou)
 
@@ -118,6 +151,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | Crimson Queen Laceleaf, Crimson Queen Weeping |
 | **Best Feature** | Fine lacy texture. Requires shelter from prevailing winds and dappled shade to prevent tip burn. |
+
+### [Deshojo](/japanese-maple-book/cultivars/deshojo)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Carmine-Red / Scarlet |
+| **Mature Habit** | Upright (8-10') |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | 'Shin deshojo' |
+| **Best Feature** | Fluorescent carmine spring red. Perhaps the most famous cultivar for bonsai; spring growth is an impossible, shocking red. |
 
 ### [Emperor 1](/japanese-maple-book/cultivars/emperor-1)
 
@@ -169,6 +213,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Mature Habit** | Dwarf (3-6') |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Intense cherry color. Maintains its maroon-red better through summer heat than most small cultivars. |
+
+### [Higasayama](/japanese-maple-book/cultivars/higasayama)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | White-Pink-Green / Yellow-Red |
+| **Mature Habit** | Upright (15-20') |
+| **Sun Tolerance** | High |
+| **Synonyms** | "The Opening Bud" |
+| **Best Feature** | Popcorn-like spring buds. Leaves unfold with tight pleats and white/pink margins; handles full sun remarkably well. |
 
 ### [Inaba shidare](/japanese-maple-book/cultivars/inaba-shidare)
 
@@ -261,6 +316,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Mature Habit** | Upright (8-10') |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | "Sunrise" spring growth. Emerging orange-gold transitions to a luminous chartreuse in summer. |
+
+### [Omure yama](/japanese-maple-book/cultivars/omure-yama)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Matsumurae |
+| **Foliage (Sum/Fall)** | Green / Fire-Orange |
+| **Mature Habit** | Weeping (10-15') |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | "The Willow Maple" |
+| **Best Feature** | Graceful weeping fountain form. Long, slender branches cascade like a willow; unmatched fire-orange autumn display. |
 
 ### [Osakazuki](/japanese-maple-book/cultivars/osakazuki)
 
