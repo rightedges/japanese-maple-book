@@ -221,6 +221,17 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | "Mikawa", "Eight Tufts" |
 | **Best Feature** | Unique shingled habit. Extremely slow-growing; ideal for containers and focal points in rock gardens. |
 
+### [Koto no ito](/japanese-maple-book/cultivars/koto-no-ito)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Linearilobum |
+| **Foliage (Sum/Fall)** | Green / Gold-Yellow |
+| **Mature Habit** | Upright Vase (6-9') |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | "Harp Strings" |
+| **Best Feature** | "Harp String" foliage. Finest texture of the Linearilobums; leaves become more thread-like in summer. |
+
 ### [Moonrise](/japanese-maple-book/cultivars/moonrise)
 
 | Attribute | Specification |
