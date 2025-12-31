@@ -1,4 +1,4 @@
-# The Japanese Maple Book
+# Japanese Maple
 
 A comprehensive digital guide to *Acer palmatum*, available as a modern website and a downloadable EPUB.
 

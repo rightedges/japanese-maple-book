@@ -1,14 +1,15 @@
 ---
 layout: default
-title: Home
+title: "Japanese Maple"
 nav_order: 1
+has_children: true
 ---
 
-# The Japanese Maple Book
+# Japanese Maple {#japanese-maple}
 
-![Japanese Maple Book Cover]({{ 'assets/images/cover.jpg' | relative_url }})
+![Japanese Maple Cover]({{ 'assets/images/cover.jpg' | relative_url }})
 
-Welcome to the digital edition of *The Japanese Maple Book*. This guide explores the history, varieties, and care of *Acer palmatum*.
+Welcome to the digital edition of *Japanese Maple*. This guide explores the history, varieties, and care of *Acer palmatum*.
 
 ## Table of Contents
 
@@ -21,7 +22,7 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 ### Part II: Cultivation & Care
 *   [5. Siting and Planting]({{ site.baseurl }}/chapters/05-siting-planting.html)
 *   [6. Watering and Mulching]({{ site.baseurl }}/chapters/06-watering.html)
-*   [7. Container Culture]({{ site.baseurl }}/chapters/07-containers.html)
+*   [7. Container Gardening]({{ site.baseurl }}/chapters/07-containers.html)
 *   [8. Fertilization Basics]({{ site.baseurl }}/chapters/08-fertilization.html)
 
 ### Part III: Design & Aesthetics
@@ -30,7 +31,7 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 
 ### Part IV: Advanced Techniques
 *   [11. Pruning Mastery]({{ site.baseurl }}/chapters/11-pruning.html)
-*   [12. Propagation]({{ site.baseurl }}/chapters/12-propagation.html)
+*   [12. Propagation Methods]({{ site.baseurl }}/chapters/12-propagation.html)
 
 ### Part V: Health & Troubleshooting
 *   [13. Pests and Diseases]({{ site.baseurl }}/chapters/13-pests-diseases.html)
@@ -48,7 +49,7 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 
 Please use the navigation sidebar or the links above to browse the chapters.
 
-[Download EPUB Version ({{ site.version }} - {{ site.time | date: "%Y-%m-%d" }})]({{ site.baseurl }}/assets/the-japanese-maple-book.epub)
+[Download EPUB Version ({{ site.version }} - {{ site.time | date: "%Y-%m-%d" }})]({{ site.baseurl }}/assets/japanese-maple.epub)
 
 ---
 
