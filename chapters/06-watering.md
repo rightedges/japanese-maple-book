@@ -59,3 +59,7 @@ Even in the winter, a tree can get thirsty.
 ## Summary: A Little Attention Goes a Long Way
 
 Watering a Japanese Maple is the best way to bond with it. By spending five minutes checking the soil once or twice a week, you'll learn exactly what your tree needs. A happy, hydrated tree will have beautiful leaves and the most spectacular fall colors.
+
+---
+
+[← Previous: 5. Siting]({{ site.baseurl }}/chapters/05-siting-planting.html) | [Next: 7. Containers →]({{ site.baseurl }}/chapters/07-containers.html)

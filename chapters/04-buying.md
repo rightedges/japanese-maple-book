@@ -111,3 +111,7 @@ When you find "The One," do not leave the nursery until you have checked these s
 Buying a Japanese Maple is not like buying a flat of petunias. You are bringing home a living heirloom. If you choose a tree with a solid root flare, a clean graft, and a strong central leader, you are setting the stage for a century of beauty. 
 
 Take your time. Visit multiple nurseries. Ask the grower how they propagation their trees. A good grower loves to talk about their "babies." If the salesperson doesn't know the difference between a Palmatum and a Matsumurae, walk away. Your garden deserves the best genetics and the cleanest structure you can find. Remember: the cheap tree you buy today will cost you ten times as much in disappointment five years from now.
+
+---
+
+[← Previous: 3. Famous Cultivars]({{ site.baseurl }}/chapters/03-famous-cultivars.html) | [Next: 5. Siting and Planting →]({{ site.baseurl }}/chapters/05-siting-planting.html)

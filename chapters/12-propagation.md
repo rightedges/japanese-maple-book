@@ -115,3 +115,7 @@ Propagation is the antidote to the "instant gratification" of modern gardening. 
 If you succeed, you have a tree that shares your history. You have a **["Bloodgood"]({{ '/cultivars/bloodgood' | relative_url }})** that came from your grandfather's tree, or a **["Sango Kaku"]({{ '/cultivars/sango-kaku' | relative_url }})** that was a gift from a friend's garden. These trees carry stories. And even if you fail—which you will, many times—you are learning the deepest secrets of *Acer palmatum*. You are learning what it takes to sustain life. 
 
 Start with **Air Layering** for a win, then move to **Seeds** for the adventure, and finally attempt **Cuttings** and **Grafting** once you have mastered the environmental controls. The forest is waiting.
+
+---
+
+[← Previous: 11. Pruning]({{ site.baseurl }}/chapters/11-pruning.html) | [Next: 13. Pests →]({{ site.baseurl }}/chapters/13-pests-diseases.html)

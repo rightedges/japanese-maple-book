@@ -90,3 +90,7 @@ You don't need a toolbox full of gear—just two things:
 ## Summary: A Slow Conversation
 
 Pruning is a life-long conversation between you and your tree. Don't be afraid to take your time. If you aren't sure about a cut, wait until next year! A well-pruned maple is a legacy that will look better every single season.
+
+---
+
+[← Previous: 10. Companions]({{ site.baseurl }}/chapters/10-companion-planting.html) | [Next: 12. Propagation →]({{ site.baseurl }}/chapters/12-propagation.html)

@@ -51,3 +51,7 @@ When you are ready to plant, follow these simple steps:
 ## Summary: Think Like a Tree
 
 Before you plant, spend a day watching the sun and wind in your garden. Look for a spot that feels cool, protected, and has good drainage. If you build a solid foundation today, your Japanese Maple will reward you with a lifetime of effortless, spectacular beauty.
+
+---
+
+[← Previous: 4. Buying]({{ site.baseurl }}/chapters/04-buying.html) | [Next: 6. Watering →]({{ site.baseurl }}/chapters/06-watering.html)

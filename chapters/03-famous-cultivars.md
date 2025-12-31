@@ -123,3 +123,7 @@ When choosing your cultivars, think of your garden as a multi-season symphony.
 3.  **For the Light**: Use **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})** or **['Jordan']({{ '/cultivars/jordan' | relative_url }})** in a dark corner that needs brightening.
 
 Every cultivar in this guide has been tested over decades of horticultural practice. While there are thousands of rarer maples available, these "Famous Cultivars" are famous for a reason: they combine aesthetic perfection with the genetic stamina to thrive in your garden for generations.
+
+---
+
+[← Previous: 2. The 8 Groups]({{ site.baseurl }}/chapters/02-seven-groups.html) | [Next: 4. Buying Your First Tree →]({{ site.baseurl }}/chapters/04-buying.html)

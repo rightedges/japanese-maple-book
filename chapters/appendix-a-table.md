@@ -492,3 +492,7 @@ This reference guide provides detailed information on some of the most popular J
 
 ## Note on Hardiness
 Almost all cultivars listed above are hardy to **USDA Zones 5-9**. However, for container-grown trees, remember the "2-Zone Rule" (see Chapter 7).
+
+---
+
+[← Previous: 17. Library]({{ site.baseurl }}/chapters/cultivar-library.html)

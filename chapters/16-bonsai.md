@@ -56,3 +56,7 @@ Because the pot is so small, the roots will eventually fill every inch of space.
 ## Summary: A Life-Long Hobby
 
 Bonsai is a "slow art." You can't rush a tree to grow, but that's part of the fun. It teaches you to slow down and notice the small changes in the seasons. To own a maple bonsai is to have a tiny piece of the forest in your home—a living legacy that you can pass down for generations.
+
+---
+
+[← Previous: 15. Calendar]({{ site.baseurl }}/chapters/15-calendar.html) | [Next: 17. Library →]({{ site.baseurl }}/chapters/cultivar-library.html)

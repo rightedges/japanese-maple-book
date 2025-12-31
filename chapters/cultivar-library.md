@@ -56,3 +56,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Ukigumo]({{ site.baseurl }}/cultivars/ukigumo.html)
 - [Villa Taranto]({{ site.baseurl }}/cultivars/villa-taranto.html)
 - [Viridis]({{ site.baseurl }}/cultivars/viridis.html)
+
+---
+
+[← Previous: 16. Bonsai]({{ site.baseurl }}/chapters/16-bonsai.html) | [Next: Appendix A →]({{ site.baseurl }}/chapters/appendix-a-table.html)

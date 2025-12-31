@@ -160,3 +160,7 @@ The most famous member is **['Aureum']({{ '/cultivars/aureum' | relative_url }})
 | **Dwarf** | Rocks / Containers | High (usually) | **['Mikawa Yatsubusa']({{ '/cultivars/mikawa-yatsubusa' | relative_url }})** |
 | **Variegated** | Collector "WOW" factor | Very Low | **['Ukigumo']({{ '/cultivars/ukigumo' | relative_url }})** |
 | **Shirasawanum** | Shady "Glow" | Very Low | **['Aureum']({{ '/cultivars/aureum' | relative_url }})** |
+
+---
+
+[← Previous: 1. Introduction]({{ site.baseurl }}/chapters/01-introduction.html) | [Next: 3. Famous Cultivars →]({{ site.baseurl }}/chapters/03-famous-cultivars.html)

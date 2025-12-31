@@ -66,3 +66,7 @@ If your tree looks rough in August, don't give up! Follow these steps to help it
 ## Summary: Stability is Key
 
 Japanese Maples don't need a perfect world; they just need a stable one. By understanding how heat and wind affect your tree, you can move from "guessing" to truly helping. Keep them protected from the harshest afternoon sun and drying winds, and they will reward you with years of effortless beauty.
+
+---
+
+[← Previous: 13. Pests]({{ site.baseurl }}/chapters/13-pests-diseases.html) | [Next: 15. Calendar →]({{ site.baseurl }}/chapters/15-calendar.html)

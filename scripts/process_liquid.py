@@ -101,19 +101,29 @@ def process_file(filepath):
     
     processed = re.sub(r'\{\{\s*page\.(\w+)\s*\}\}', replace_page_var, markdown_content)
     
-    # 3. Replace {{ site.variable }}
+    # 3. Replace {{ site.variable | filter }}
     def replace_site_var(match):
         var_name = match.group(1)
+        filter_str = match.group(2)
+        
+        val = match.group(0)
         if var_name == 'baseurl':
-            return ''
-        if var_name == 'time':
+            val = ''
+        elif var_name == 'time':
             import datetime
-            return datetime.datetime.now().strftime("%b %Y")
-        if var_name in SITE_CONFIG:
-            return str(SITE_CONFIG[var_name])
-        return match.group(0)
+            val = datetime.datetime.now().strftime("%Y-%m-%d") # Default to clean format
+        elif var_name in SITE_CONFIG:
+            val = str(SITE_CONFIG[var_name])
+            
+        # Basic filter handling (specifically for date)
+        if filter_str and 'date:' in filter_str:
+            # We don't implement full Liquid, just enough to not break
+            # For site.time, it's already YYYY-MM-DD
+            pass
+            
+        return val
 
-    processed = re.sub(r'\{\{\s*site\.(\w+)\s*\}\}', replace_site_var, processed)
+    processed = re.sub(r'\{\{\s*site\.(\w+)\s*(\|[^}]+)?\}\}', replace_site_var, processed)
 
     # 4. Handle {{ 'path' | relative_url }}
     processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
@@ -163,8 +173,9 @@ def process_file(filepath):
 
     processed = re.sub(r'\((Chapter \d+|Appendix [A-Z])\)', auto_link_refs, processed)
 
-    # 7. Hide EPUB download from EPUB
+    # 7. Hide EPUB download and Web Navigation from EPUB
     processed = re.sub(r'\[Download EPUB Version.*?\n', '', processed)
+    processed = re.sub(r'\n---\n\n\[(← Home|← Previous:).*?\n', '', processed)
 
     return processed
 

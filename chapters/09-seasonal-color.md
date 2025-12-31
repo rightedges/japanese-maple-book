@@ -101,3 +101,7 @@ When choosing your cultivars, think of your garden as a multi-season symphony.
 3.  **For the Light**: Use **['Summer Gold']({{ '/cultivars/summer-gold' | relative_url }})** or **['Jordan']({{ '/cultivars/jordan' | relative_url }})** in a dark corner that needs brightening.
 
 Every cultivar in this guide has been tested over decades. Seasonal color is a conversation between your tree and the environment. By observing these changes, you connect more deeply with the natural rhythm of the seasons. You aren't just looking at a plant; you are witnessing a chemical performance that has been perfected over millions of years of evolution.
+
+---
+
+[← Previous: 8. Fertilization]({{ site.baseurl }}/chapters/08-fertilization.html) | [Next: 10. Companion Planting →]({{ site.baseurl }}/chapters/10-companion-planting.html)

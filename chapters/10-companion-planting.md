@@ -105,3 +105,7 @@ The layer of plant material traps a pocket of air between the frozen ground and 
 Companion planting is the final step in moving from "owning a tree" to "curating a garden." By choosing neighbors that act as thermal buffers, humidity wells, and aesthetic foils, you are creating a resilient community. 
 
 Think about the year-long arc. Use bulbs for late winter interest, Azaleas for spring, Hostas for summer contrast, and evergreens to hold the structure when the maple stands bare in winter. When these layers work together, the Japanese Maple becomes the "conductor" of an orchestra, rather than a soloist in an empty room. You aren't just planting a landscape; you are building a life-support system that will sustain your tree for a century.
+
+---
+
+[← Previous: 9. Color]({{ site.baseurl }}/chapters/09-seasonal-color.html) | [Next: 11. Pruning →]({{ site.baseurl }}/chapters/11-pruning.html)

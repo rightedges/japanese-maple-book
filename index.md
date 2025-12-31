@@ -48,4 +48,8 @@ Welcome to the digital edition of *The Japanese Maple Book*. This guide explores
 
 Please use the navigation sidebar or the links above to browse the chapters.
 
-[Download EPUB Version ({{ site.version }} - {{ site.time }})]({{ site.baseurl }}/assets/the-japanese-maple-book.epub)
+[Download EPUB Version ({{ site.version }} - {{ site.time | date: "%Y-%m-%d" }})]({{ site.baseurl }}/assets/the-japanese-maple-book.epub)
+
+---
+
+[Next: 1. Introduction to Acer palmatum →]({{ site.baseurl }}/chapters/01-introduction.html)

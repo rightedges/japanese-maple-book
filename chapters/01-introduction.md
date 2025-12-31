@@ -45,6 +45,8 @@ The leaf is the tree's primary identifier.
 ### Samaras (Whirlybirds)
 The iconic winged seeds, or **samaras**, are designed to spin. This allows the wind to carry them away from the parent tree's shade toward potential pockets of light.
 
+
+
 ## A Cultural History
 
 In Japan, the maple is celebrated as *momiji* (crimson leaves). 
@@ -56,3 +58,7 @@ The West discovered these treasures in the 19th century through botanists like v
 ## Summary
 
 The Japanese Maple is more than a decoration; it is a living organism with an evolutionary memory of the forest understory. Success comes from respecting that memory—providing the cool, sheltered environment its ancestors enjoyed. In the following chapters, we will learn how to choose, plant, and care for these spectacular trees.
+
+---
+
+[← Home]({{ site.baseurl }}/) | [Next: 2. The 8 Groups →]({{ site.baseurl }}/chapters/02-seven-groups.html)

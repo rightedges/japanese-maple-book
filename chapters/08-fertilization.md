@@ -108,3 +108,7 @@ In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen
 The most successful maple growers are those who focus on **soil health** rather than "feeding" the plant. By providing a 3-inch layer of quality wood-chip mulch (see Chapter 6), you are providing a slow-release, perfectly balanced fertilizer that mimics the Japanese mountain forest.
 
 If you must intervene, do so with the "Bonsai Mindset." Use organic, low-nitrogen sources. Use half the dose the label suggests. Your job is not to "pump it up," but to provide a stable, nutrient-clean environment where it can slowly, gracefully, reveal its character. Build the soil, and the tree will follow.
+
+---
+
+[← Previous: 7. Containers]({{ site.baseurl }}/chapters/07-containers.html) | [Next: 9. Seasonal Color →]({{ site.baseurl }}/chapters/09-seasonal-color.html)

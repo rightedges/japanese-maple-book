@@ -71,3 +71,7 @@ If you think your tree is sick, try these steps first:
 ## Summary: Don't Panic!
 
 Most problems with Japanese Maples look worse than they are. By being a "clinical observer"—just watching your tree and acting quickly when you see something new—you can keep your collection healthy for a lifetime. Remember: a happy tree is its own best doctor.
+
+---
+
+[← Previous: 12. Propagation]({{ site.baseurl }}/chapters/12-propagation.html) | [Next: 14. Stress →]({{ site.baseurl }}/chapters/14-environmental-stress.html)

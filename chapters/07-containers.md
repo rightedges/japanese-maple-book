@@ -92,3 +92,7 @@ A pot is the "frame" for your living painting.
 Growing a Japanese Maple in a container is a higher level of stewardship. You are the tree's rain, its soil, and its shield. By understanding the physics of the perched water table and the thermodynamics of pot materials, you take the "luck" out of the process.
 
 A properly managed container maple can live for 50 to 100 years. It is a legacy that moves with you, a companion that changes with the seasons, and a constant reminder that with a little technical knowledge, the beauty of the Japanese mountains can thrive on even the smallest city balcony.
+
+---
+
+[← Previous: 6. Watering]({{ site.baseurl }}/chapters/06-watering.html) | [Next: 8. Fertilization →]({{ site.baseurl }}/chapters/08-fertilization.html)

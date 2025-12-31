@@ -118,3 +118,7 @@ Summer is about defense. Your goal is to keep the tree cool and the water pressu
 By following this calendar, you aren't just performing chores; you are synchronizing your life with the lifecycle of the maple. You are providing the right intervention at the precise moment it is needed. 
 
 Consistency is the secret to maple mastery. Ten minutes of observation every weekend is more valuable than ten hours of work once a year. Stay curious, watch the buds, and respect the seasons. Your Japanese Maple will reward your rhythmic attention with a century of spectacular, ever-changing beauty.
+
+---
+
+[← Previous: 14. Stress]({{ site.baseurl }}/chapters/14-environmental-stress.html) | [Next: 16. Bonsai →]({{ site.baseurl }}/chapters/16-bonsai.html)
