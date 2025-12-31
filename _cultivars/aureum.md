@@ -6,6 +6,7 @@ foliage_sum_fall: "Chartreuse-Gold / Orange-Red"
 habit: "Upright (15-20')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
+growth_rate: "Slow (3-6\"/yr)"
 ---
 
 # 'Aureum' (Golden Full Moon Maple): The Lantern in the Woods
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | *Acer shirasawanum* 'Aureum' |
 
 ## Overview

@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Fire-Red"
 habit: "Upright (20-25')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast (12-24\"/yr)"
 ---
 
 # 'Osakazuki' Japanese Maple: The Champion of Autumn
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Taihai', 'Ohsakazuki', "Big Cup" |
 
 ## Overview

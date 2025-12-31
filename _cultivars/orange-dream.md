@@ -6,6 +6,7 @@ foliage_sum_fall: "Orange / Yellow-Gold"
 habit: "Upright (8-10')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Orange Dream' Japanese Maple: The Golden Sunrise
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Orange Dream' is celebrated for its hypnotic seasonal color shifts, emerging in spring with vibrant orange-to-gold foliage. A bushy, slow-growing upright (8-10ft), it has earned the RHS Award of Garden Merit for its reliable performance and luminous chartreuse summer display.

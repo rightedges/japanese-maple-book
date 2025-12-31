@@ -6,6 +6,7 @@ foliage_sum_fall: "Golden Yellow / Gold"
 habit: "Upright (8-10')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Summer Gold' Japanese Maple: The Solar-Powered Masterpiece
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Summer Gold' is a horticultural breakthrough: a yellow-leaved maple that thrives in full sun. Unlike older varieties that burn in mid-July, this "solar-powered" masterpiece maintains its brilliant lemon-yellow color even in 90°F (32°C) heat, bringing a permanent, high-luminosity glow to sunny landscapes.

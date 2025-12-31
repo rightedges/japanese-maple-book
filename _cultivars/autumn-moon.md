@@ -6,6 +6,7 @@ foliage_sum_fall: "Peach-Gold / Orange-Red"
 habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Slow to Moderate"
 ---
 
 # 'Autumn Moon': The Peach of the Moon
@@ -16,6 +17,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
 | **Synonyms** | *Acer shirasawanum* 'Autumn Moon' |
 
 ## Overview

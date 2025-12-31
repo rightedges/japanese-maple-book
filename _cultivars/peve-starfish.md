@@ -6,6 +6,7 @@ foliage_sum_fall: "Burgundy / Scarlet"
 habit: "Upright (8-10')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Peve Starfish' Japanese Maple: The Sculptural Marvel
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Peve Starfish' is a unique and relatively new cultivar known for its unusual leaf shape. The lobes of the leaves curl downward at the margins, resembling the legs of a starfish, which gives the entire tree a distinct, textured appearance.

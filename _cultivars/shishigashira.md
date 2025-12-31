@@ -6,6 +6,7 @@ foliage_sum_fall: "Deep Green / Orange"
 habit: "Upright (8-12')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Slow (3-6\"/yr)"
 ---
 
 # 'Shishigashira' (Lion's Head Maple): The Architectural Masterpiece
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Lion's Mane', 'Lion's Head', 'Mejishi', 'Crispum' |
 
 ## Overview

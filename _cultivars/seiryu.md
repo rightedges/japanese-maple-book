@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Gold-Red"
 habit: "Upright (10-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast (12-20\"/yr)"
 ---
 
 # 'Seiryu' Japanese Maple: The Blue Dragon of the Sky
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Blue Green Dragon", Lace-leaf Japanese Maple |
 
 ## Overview

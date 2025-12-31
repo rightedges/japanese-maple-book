@@ -6,6 +6,7 @@ foliage_sum_fall: "White-Pink-Green / Yellow-Red"
 habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast"
 ---
 
 # 'Higasayama' (The Opening Bud): An Unfolding Mystery
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Higasa yama" |
 
 ## Overview

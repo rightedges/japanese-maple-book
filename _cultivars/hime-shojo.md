@@ -6,6 +6,7 @@ foliage_sum_fall: "Cherry Red / Bright Red"
 habit: "Dwarf (3-6')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Slow (3-5\"/yr)"
 ---
 
 # 'Hime-shojo' Japanese Maple: The Crimson Gem
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Hime-shojo' is a stunning dwarf cultivar prized for its intense cherry-red foliage and compact, shrubby habit. Unlike many red maples that fade to bronze in summer, this "little girl" maintains a vibrant maroon-red through the heat, consistently pushing new bright-red growth flushes.

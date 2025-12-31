@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Yellow"
 habit: "Upright (10-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast (12-24\"/yr)"
 ---
 
 # 'Baton Rouge' Japanese Maple: The Texas Fire-Stick
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Baton Rouge' is a mid-sized coral bark maple (10-15ft) specifically bred for extreme heat and humidity tolerance. While similar to 'Sango Kaku', 'Baton Rouge' is famed for its even more intense "lipstick-red" winter bark and its ability to thrive in full sun in southern climates.

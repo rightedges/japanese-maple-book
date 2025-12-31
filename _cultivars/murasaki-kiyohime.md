@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Yellow-Orange"
 habit: "Dwarf Mounding (2-6')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Murasaki Kiyohime' (Purple Princess): The Royal Carpet
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Murasaki Kiyohime' ("Purple Princess") is a vigorous dwarf maple known for its low, mounding spread and tiny, purple-edged leaves. Typically growing wider than it is tall (2-6ft), it creates a luxurious "carpet" of green and purple that is exceptionally durable compared to more delicate dwarfs.

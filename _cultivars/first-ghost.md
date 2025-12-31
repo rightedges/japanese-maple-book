@@ -6,6 +6,7 @@ foliage_sum_fall: "White-Green / Yellow-Orange"
 habit: "Upright (8-10')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
+growth_rate: "Slow to Moderate"
 ---
 
 # 'First Ghost' Japanese Maple: The Spectral Beauty
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'First Ghost' is the original and perhaps most famous of the "Ghost" series developed by Buchholz & Buchholz. It is prized for its dramatic reticulated variegation, where the veins are a stark, dark green against a much lighter leaf field.

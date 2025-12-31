@@ -6,6 +6,7 @@ foliage_sum_fall: "Deep Red / Crimson"
 habit: "Upright (12-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast"
 ---
 
 # 'Beni otake' (Red Bamboo): The Vertical Stroke
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Big Red Bamboo" |
 
 ## Overview

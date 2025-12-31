@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Gold-Yellow"
 habit: "Upright Vase (6-9')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Koto no ito' (Harp Strings): The Elegant Weaver
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Harp Strings", "Old Harp" |
 
 ## Overview

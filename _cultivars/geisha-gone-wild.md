@@ -6,6 +6,7 @@ foliage_sum_fall: "Green with Cream / Hot Pink & Purple"
 habit: "Upright (6-10')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Geisha Gone Wild' Japanese Maple: A Riot of Variegation
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Geisha Gone Wild' is a spectacular variegated cultivar that lives up to its name with a "wild" display of shifting colors. Arising as a sport of 'Geisha', it was honored as the Maple Tree of the Year in 2021 by the Maple Society of North America. It is prized by collectors for its dramatic multi-colored leaves and graceful, upright habit.

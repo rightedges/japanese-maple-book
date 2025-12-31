@@ -6,6 +6,7 @@ foliage_sum_fall: "Chartreuse / Orange"
 habit: "Upright (10-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Katsura' Japanese Maple: The Harbinger of Spring
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Katsura' is the ultimate "harbinger of spring," often waking up weeks before other cultivars. It is celebrated for its enthusiastic display of translucent apricot-orange and chartreuse, providing an "illuminated" signal that winter has ended.

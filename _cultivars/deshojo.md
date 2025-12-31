@@ -6,6 +6,7 @@ foliage_sum_fall: "Carmine-Red / Scarlet"
 habit: "Upright (8-10')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Deshojo' (The Spring Cardinal): A Bonsai Icon
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Shin deshojo' (an improved strain) |
 
 ## Overview

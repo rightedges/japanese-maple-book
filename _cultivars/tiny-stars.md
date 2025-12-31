@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Orange-Red"
 habit: "Dwarf Mounding (2-4')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Slow (1-3\"/yr)"
 ---
 
 # 'Tiny Stars' Japanese Maple: The Miniature Jewel
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Tiny Stars' is an extremely small, dwarf cultivar that produces leaves no larger than a thumbnail. It is a slow-growing plant that forms a dense, compact mound of green stars.

@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Yellow-Red"
 habit: "Upright (10-12')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Slow"
 ---
 
 # 'Sekka Yatsubusa' Japanese Maple: The Sculpted Curiosity
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Sekka Yatsubusa' is a unique cultivar defined by its tufted leaf arrangement and occasional "fasciation" (flattened stems with congested growth). Growing into a dense, upright tree (10-12ft), it offers a fascinating architectural texture that becomes more pronounced and "sculptural" as the tree ages.

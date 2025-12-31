@@ -6,6 +6,7 @@ foliage_sum_fall: "Deep Purple / Red"
 habit: "Weeping (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast"
 ---
 
 # 'Inaba shidare' Japanese Maple: The Vigorous Purple Weeper
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Red Select', 'Inabe shidare' |
 
 ## Overview

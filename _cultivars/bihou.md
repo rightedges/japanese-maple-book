@@ -6,6 +6,7 @@ foliage_sum_fall: "Yellow-Green / Yellow-Orange"
 habit: "Upright (10-15')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate to Fast"
 ---
 
 # 'Bihou' (Beautiful Phoenix): The Golden Counterpart
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Bi Hoo', 'Bi Hou' |
 
 ## Overview

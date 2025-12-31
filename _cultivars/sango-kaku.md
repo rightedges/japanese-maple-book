@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Gold"
 habit: "Upright (15-20')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Fast (12-18\"/yr)"
 ---
 
 # 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Senkaki', 'Ebi-no-hige', 'Cinnabarinum' |
 
 ## Overview

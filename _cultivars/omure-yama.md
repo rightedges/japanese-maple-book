@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Fire-Orange"
 habit: "Weeping (10-15')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Fast"
 ---
 
 # 'Omure yama': The Willow of Maples
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Omurayama" |
 
 ## Overview

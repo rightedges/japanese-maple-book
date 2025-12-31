@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Orange-Gold"
 habit: "Bushy Dwarf (4-6')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Beni Chidori' Japanese Maple: The Red Plover
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | Red Plover |
 
 ## Overview

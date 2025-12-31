@@ -6,6 +6,7 @@ foliage_sum_fall: "Chartreuse-Green / Gold"
 habit: "Upright (8-10')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Sister Ghost' Japanese Maple: The Subtle Spirit
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Sister Ghost' offers a more subtle but no less beautiful version of the reticulated Ghost variegation. Its colors are cooler, focusing on chartreuse and soft greens.

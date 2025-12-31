@@ -6,6 +6,7 @@ foliage_sum_fall: "Coral-Red / Yellow-Orange"
 habit: "Weeping (4-6')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Baldsmith' Japanese Maple: The Multi-Colored Cascade
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Baldsmith' is a unique weeping dissectum known for its complex, shifting color palette. Forming a cascading dome (4-6ft), it offers a rare multi-colored effect where spring's coral-red hues transition into a light green-and-pink summer tapestry.

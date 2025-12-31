@@ -6,6 +6,7 @@ foliage_sum_fall: "White-Green / Pink-Red"
 habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Butterfly' Japanese Maple: The Resilient Painted Tree
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
 
 ## Overview

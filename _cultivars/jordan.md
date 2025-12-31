@@ -6,6 +6,7 @@ foliage_sum_fall: "Neon Yellow / Orange"
 habit: "Upright (10-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Jordan' (Full Moon Maple): The Neon Master of the Garden
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Jordan' is a spectacular Full Moon Maple (*Acer shirasawanum*) known for its extraordinary luminosity and vigorous growth. It features massive, rounded, pleated leaves that resemble hand-fans, providing a tropical, neon-bright chartreuse texture that thrives far better than older yellow varieties like 'Aureum'.

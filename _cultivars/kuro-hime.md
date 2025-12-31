@@ -6,6 +6,7 @@ foliage_sum_fall: "Green-Pink / Red"
 habit: "Dwarf Mounding (3-5')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Slow"
 ---
 
 # 'Kuro hime' Japanese Maple: The Black-Red Princess
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Kuro hime' (translating to "Black-Red Princess") is a captivating dwarf variety known for its intense spring color and compact habit. Ideally suited for small gardens and containers, it offers big impact in a small package.

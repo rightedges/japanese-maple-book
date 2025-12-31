@@ -6,6 +6,7 @@ foliage_sum_fall: "Purple-Red / Scarlet"
 habit: "Weeping (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate to Fast"
 ---
 
 # 'Tamukeyama' Japanese Maple: The Iron Man of Dissectums
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Hands folded in prayer on the mountain", Laceleaf Maple |
 
 ## Overview

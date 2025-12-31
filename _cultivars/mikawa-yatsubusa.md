@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Orange"
 habit: "Dwarf (3-5')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Slow (2-4\"/yr)"
 ---
 
 # 'Mikawa Yatsubusa' Japanese Maple: Living Sculpture
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | "Mikawa", "Eight Tufts" |
 
 ## Overview

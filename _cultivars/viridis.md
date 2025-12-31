@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Gold"
 habit: "Weeping (6-8')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Viridis' Japanese Maple: The Classic Green Lace-leaf
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | Threadleaf Japanese Maple, Weeping Green |
 
 ## Overview

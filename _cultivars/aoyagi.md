@@ -6,6 +6,7 @@ foliage_sum_fall: "Green / Yellow"
 habit: "Upright (10-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast (12-18\"/yr)"
 ---
 
 # 'Aoyagi' Japanese Maple: The Green Bark Beauty
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | 'Ukon', 'Yukon', Green Bark Maple |
 
 ## Overview

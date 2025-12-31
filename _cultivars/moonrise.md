@@ -6,6 +6,7 @@ foliage_sum_fall: "Chartreuse / Orange"
 habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Moonrise' Japanese Maple: The Luminous Hybrid
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Moonrise' is a spectacular *Acer shirasawanum* hybrid that offers the beauty of the "Full Moon" maple with significantly improved resilience. It is famous for its glowing chartreuse spring leaves that emerge with a distinct orange-red blush.

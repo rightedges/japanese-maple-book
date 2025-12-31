@@ -6,6 +6,7 @@ foliage_sum_fall: "Burgundy / Scarlet"
 habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Fast (12-18\"/yr)"
 ---
 
 # 'Bloodgood' Japanese Maple: The Perpetual Standard
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 | **Synonyms** | Bloodgood Maple, 'Atropurpureum' |
 
 ## Overview

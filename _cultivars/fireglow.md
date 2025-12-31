@@ -6,6 +6,7 @@ foliage_sum_fall: "Red / Scarlet"
 habit: "Upright (12-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate to Fast"
 ---
 
 # 'Fireglow' Japanese Maple: The Glowing Specimen
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Fireglow' is named for its incredible ability to "glow" when backlit by the sun. It is a more compact and slower-growing alternative to 'Bloodgood', making it ideal for smaller gardens.

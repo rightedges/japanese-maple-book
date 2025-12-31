@@ -6,6 +6,7 @@ foliage_sum_fall: "Amber-Green / Gold-Red"
 habit: "Upright (10-12')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate (6-10\"/yr)"
 ---
 
 # 'Amber Ghost' Japanese Maple: The Glowing Apparition
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Amber Ghost' is a standout in the "Ghost" series, featuring rich amber and coral tones in the spring that contrast sharply with deep green veins. It offers a warmth that is unique among reticulated variegated maples.

@@ -6,6 +6,7 @@ foliage_sum_fall: "Red-Green / Gold"
 habit: "Upright Vase (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+growth_rate: "Moderate"
 ---
 
 # 'Villa Taranto' Japanese Maple: The Spider-Leaf Elegant
@@ -16,6 +17,8 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Growth Rate** | {{ page.growth_rate }} |
+
 
 ## Overview
 'Villa Taranto' is one of the most refined cultivars in the Linearilobum group. Its extremely narrow, willow-like lobes give it an airy, transparent quality that is highly sought after by collectors.
