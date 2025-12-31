@@ -48,7 +48,7 @@ jobs:
 
 
       - name: Copy EPUB to site folder
-        run: cp assets/the-japanese-maple-book.epub _site/assets/
+        run: cp assets/japanese-maple.epub _site/assets/
 
 
       - name: Upload artifact
