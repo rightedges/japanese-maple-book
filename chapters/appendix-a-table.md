@@ -440,6 +440,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Sculptural tufted growth. Features unique fasciated (flattened) stems and layered leaf pads. |
 
+### [Sensu](/japanese-maple-book/cultivars/sensu)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Shirasawanum |
+| **Foliage (Sum/Fall)** | Green with Blush / Coppery Orange-Crimson |
+| **Mature Habit** | Upright (8-12') |
+| **Growth Rate** | Moderate (8-12"/yr) |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | 'Moving Fan', Acer shirasawanum 'Sensu' |
+| **Best Feature** | "Moving Fan" foliage. Graceful, pendulous branches that move elegantly in the breeze; outstanding coppery fall colors. |
+
 ### [Shishigashira](/japanese-maple-book/cultivars/shishigashira)
 
 | Attribute | Specification |

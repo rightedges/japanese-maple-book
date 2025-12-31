@@ -48,6 +48,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Scolopendrifolium]({{ site.baseurl }}/cultivars/scolopendrifolium.html)
 - [Seiryu]({{ site.baseurl }}/cultivars/seiryu.html)
 - [Sekka Yatsubusa]({{ site.baseurl }}/cultivars/sekka-yatsubusa.html)
+- [Sensu]({{ site.baseurl }}/cultivars/sensu.html)
 - [Shishigashira]({{ site.baseurl }}/cultivars/shishigashira.html)
 - [Sister Ghost]({{ site.baseurl }}/cultivars/sister-ghost.html)
 - [Summer Gold]({{ site.baseurl }}/cultivars/summer-gold.html)
