@@ -7,7 +7,7 @@ habit: "Weeping (6-8')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Late"
+budding: "Late-season"
 ---
 
 # 'Crimson Queen' Japanese Maple: The Lace-Leaf Royalty

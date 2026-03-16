@@ -7,7 +7,7 @@ habit: "Upright (10-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Early"
+budding: "Early-season"
 ---
 
 # 'Katsura' Japanese Maple: The Harbinger of Spring

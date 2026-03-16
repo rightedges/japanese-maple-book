@@ -7,7 +7,7 @@ habit: "Bushy (6-8')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Early"
+budding: "Early-season"
 ---
 
 # 'Beni maiko' Japanese Maple: The Red-Haired Dancing Girl

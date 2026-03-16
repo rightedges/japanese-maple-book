@@ -7,7 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-18\"/yr)"
-budding: "Late"
+budding: "Late-season"
 ---
 
 # 'Bloodgood' Japanese Maple: The Perpetual Standard

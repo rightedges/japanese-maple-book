@@ -7,7 +7,7 @@ habit: "Upright (10-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-18\"/yr)"
-budding: "Early"
+budding: "Early-season"
 ---
 
 # 'Aoyagi' Japanese Maple: The Green Bark Beauty

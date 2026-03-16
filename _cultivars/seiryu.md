@@ -7,7 +7,7 @@ habit: "Upright (10-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-20\"/yr)"
-budding: "Late"
+budding: "Late-season"
 ---
 
 # 'Seiryu' Japanese Maple: The Blue Dragon of the Sky

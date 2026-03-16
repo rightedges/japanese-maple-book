@@ -7,7 +7,7 @@ habit: "Upright (8-12')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Slow (3-6\"/yr)"
-budding: "Early"
+budding: "Early-season"
 ---
 
 # 'Shishigashira' (Lion's Head Maple): The Architectural Masterpiece

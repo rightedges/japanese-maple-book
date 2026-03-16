@@ -7,7 +7,7 @@ habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Slow to Moderate"
-budding: "Late"
+budding: "Late-season"
 ---
 
 # 'Autumn Moon': The Peach of the Moon

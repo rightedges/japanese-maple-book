@@ -7,7 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast"
-budding: "Early"
+budding: "Early-season"
 ---
 
 # 'Higasayama' (The Opening Bud): An Unfolding Mystery

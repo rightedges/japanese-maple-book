@@ -7,7 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-24\"/yr)"
-budding: "Late"
+budding: "Late-season"
 ---
 
 # 'Emperor 1' Japanese Maple: The Late-Blooming King

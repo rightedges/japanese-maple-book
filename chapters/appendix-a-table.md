@@ -33,7 +33,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Yellow |
 | **Mature Habit** | Upright (10-15') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Fast (12-18"/yr) |
 | **Sun Tolerance** | High |
 | **Synonyms** | 'Ukon', 'Yukon', Green Bark Japanese Maple |
@@ -75,7 +75,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Peach-Gold / Orange-Red |
 | **Mature Habit** | Upright (8-12') |
 | **Growth Rate** |
-| **Budding** | Late |
+| **Budding** | Late-season |
  Slow to Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | *Acer shirasawanum* 'Autumn Moon' |
@@ -102,7 +102,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Yellow |
 | **Mature Habit** | Upright (10-15') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Fast (12-24"/yr) |
 | **Sun Tolerance** | High |
 | **Best Feature** | Intense lipstick-red bark. Bred for heat tolerance; bark color remains vibrant even in southern climates. |
@@ -115,7 +115,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Orange-Gold |
 | **Mature Habit** | Bushy Dwarf (4-6') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Moderate |
 | **Sun Tolerance** | High |
 | **Synonyms** | Red Plover |
@@ -129,7 +129,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Red-Green / Scarlet |
 | **Mature Habit** | Bushy (6-8') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | "Red Haired Dancing Girl" |
@@ -157,7 +157,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Yellow-Green / Yellow-Orange |
 | **Mature Habit** | Upright (10-15') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Moderate to Fast |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Bi Hoo', 'Bi Hou' |
@@ -171,7 +171,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
 | **Mature Habit** | Upright (15-20') |
 | **Growth Rate** |
-| **Budding** | Late |
+| **Budding** | Late-season |
  Fast (12-18"/yr) |
 | **Sun Tolerance** | High |
 | **Synonyms** | Bloodgood Maple, 'Atropurpureum' |
@@ -199,7 +199,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Red |
 | **Mature Habit** | Weeping (6-8') |
 | **Growth Rate** |
-| **Budding** | Late |
+| **Budding** | Late-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | Crimson Queen Laceleaf, Crimson Queen Weeping |
@@ -213,7 +213,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Carmine-Red / Scarlet |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Shin deshojo' |
@@ -227,7 +227,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
 | **Mature Habit** | Upright (15-20') |
 | **Growth Rate** |
-| **Budding** | Late |
+| **Budding** | Late-season |
  Fast (12-24"/yr) |
 | **Sun Tolerance** | High |
 | **Synonyms** | Red Emperor, 'Wolff', Emperor I |
@@ -293,7 +293,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | White-Pink-Green / Yellow-Red |
 | **Mature Habit** | Upright (15-20') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Fast |
 | **Sun Tolerance** | High |
 | **Synonyms** | "The Opening Bud" |
@@ -334,7 +334,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Chartreuse / Orange |
 | **Mature Habit** | Upright (10-12') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Stunning orange spring growth. Forms a dense, tiered structure; prune for air circulation to prevent mildew. |
@@ -387,7 +387,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Chartreuse / Orange |
 | **Mature Habit** | Upright (8-12') |
 | **Growth Rate** |
-| **Budding** | Late |
+| **Budding** | Late-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Luminous neon-green foliage. Emerges with a spectacular orange-pink blush; much hardier than other shirasawanums. |
@@ -413,7 +413,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Orange / Yellow-Gold |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | "Sunrise" spring growth. Emerging orange-gold transitions to a luminous chartreuse in summer. |
@@ -467,7 +467,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold |
 | **Mature Habit** | Upright (15-20') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Fast (12-18"/yr) |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Senkaki', 'Ebi-no-hige', 'Cinnabarinum' |
@@ -495,7 +495,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold-Red |
 | **Mature Habit** | Upright (10-15') |
 | **Growth Rate** |
-| **Budding** | Late |
+| **Budding** | Late-season |
  Fast (12-20"/yr) |
 | **Sun Tolerance** | High |
 | **Synonyms** | "Blue Green Dragon", Lace-leaf Japanese Maple |
@@ -536,7 +536,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Deep Green / Orange |
 | **Mature Habit** | Upright (8-12') |
 | **Growth Rate** |
-| **Budding** | Early |
+| **Budding** | Early-season |
  Slow (3-6"/yr) |
 | **Sun Tolerance** | High |
 | **Synonyms** | 'Lion's Mane', 'Lion's Head', 'Mejishi', 'Crispum' |

@@ -7,7 +7,7 @@ habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Late"
+budding: "Late-season"
 ---
 
 # 'Moonrise' Japanese Maple: The Luminous Hybrid

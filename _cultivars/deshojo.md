@@ -7,7 +7,7 @@ habit: "Upright (8-10')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Early"
+budding: "Early-season"
 ---
 
 # 'Deshojo' (The Spring Cardinal): A Bonsai Icon
