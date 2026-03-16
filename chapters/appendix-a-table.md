@@ -20,7 +20,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Amber-Green / Gold-Red |
 | **Mature Habit** | Upright (10-12') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate (6-10"/yr) |
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | Radiant amber spring color with dark veins. A standout in the Ghost series; requires deep shade. |
@@ -47,7 +47,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold-Red |
 | **Mature Habit** | Upright (15-20') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate to Fast |
 | **Sun Tolerance** | High |
 | **Synonyms** | "Rough Skin Maple", "Cork-bark Maple" |
@@ -61,7 +61,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Chartreuse-Gold / Orange-Red |
 | **Mature Habit** | Upright (15-20') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow (3-6"/yr) |
 | **Sun Tolerance** | Low (Shade) |
 | **Synonyms** | Golden Full Moon Maple |
@@ -89,7 +89,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Coral-Red / Yellow-Orange |
 | **Mature Habit** | Weeping (4-6') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Shifting multi-colors. Coral-pink spring foliage matures into a green-and-pink summer tapestry. |
@@ -143,7 +143,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Deep Red / Crimson |
 | **Mature Habit** | Upright (12-15') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Fast |
 | **Sun Tolerance** | High |
 | **Synonyms** | "Red Bamboo" |
@@ -185,7 +185,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | White-Green / Pink-Red |
 | **Mature Habit** | Upright (8-12') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
@@ -241,7 +241,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Red / Scarlet |
 | **Mature Habit** | Upright (12-15') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate to Fast |
 | **Sun Tolerance** | High |
 | **Best Feature** | Backlit "glow." Thinner, more translucent foliage than 'Bloodgood'; stays more compact. |
@@ -254,7 +254,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | White-Green / Yellow-Orange |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow to Moderate |
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | High-contrast reticulation. Deep green veins on white-cream leaves; an ethereal collector's item. |
@@ -267,7 +267,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green-Cream / Hot Pink-Purple |
 | **Mature Habit** | Upright (6-10') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | 2021 Maple of the Year. Exceptional tri-color variegation with intense pink spring and fall displays. |
@@ -280,7 +280,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Cherry Red / Bright Red |
 | **Mature Habit** | Dwarf (3-6') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow (3-5"/yr) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Intense cherry color. Maintains its maroon-red better through summer heat than most small cultivars. |
@@ -307,7 +307,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Deep Purple / Red |
 | **Mature Habit** | Weeping (6-8') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Fast |
 | **Sun Tolerance** | High |
 | **Synonyms** | 'Red Select', 'Inabe shidare' |
@@ -321,7 +321,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Neon Yellow / Orange |
 | **Mature Habit** | Upright (10-12') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Pastel neon foliage. Needs morning sun for best color, but afternoon shade is critical in hot regions. |
@@ -347,7 +347,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green-Pink / Red |
 | **Mature Habit** | Dwarf Mounding (3-5') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | "Black-Red Princess". Dwarf habit with intense spring color and vibrant red fall display. |
@@ -359,7 +359,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Orange |
 | **Mature Habit** | Dwarf (3-5') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow (2-4"/yr) |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | "Mikawa", "Eight Tufts" |
@@ -373,7 +373,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold-Yellow |
 | **Mature Habit** | Upright Vase (6-9') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | "Harp Strings" |
@@ -400,7 +400,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Yellow-Orange |
 | **Mature Habit** | Dwarf Mounding (2-6') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | High |
 | **Best Feature** | Purple-tipped foliage. A vigorous, low-mounding dwarf that is extremely durable and bonsai-friendly. |
@@ -426,7 +426,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Fire-Orange |
 | **Mature Habit** | Weeping (10-15') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Fast |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | "The Willow Maple" |
@@ -440,7 +440,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Fire-Red |
 | **Mature Habit** | Upright (20-25') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Fast (12-24"/yr) |
 | **Sun Tolerance** | High |
 | **Synonyms** | 'Taihai', 'Ohsakazuki', "Big Cup" |
@@ -454,7 +454,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Burgundy / Scarlet |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | High |
 | **Best Feature** | Downward-curling leaf margins. Unique sculptural foliage that holds intense red color even in high humidity and heat. |
@@ -481,7 +481,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold |
 | **Mature Habit** | Upright (12-15') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Fast |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Shinobuga oka', 'Fingerleaf', 'Linearifolium' |
@@ -509,7 +509,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Yellow-Red |
 | **Mature Habit** | Upright (10-12') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow |
 | **Sun Tolerance** | High |
 | **Best Feature** | Sculptural tufted growth. Features unique fasciated (flattened) stems and layered leaf pads. |
@@ -522,7 +522,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green with Blush / Coppery Orange-Crimson |
 | **Mature Habit** | Upright (8-12') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate (8-12"/yr) |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Moving Fan', Acer shirasawanum 'Sensu' |
@@ -550,7 +550,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Chartreuse-Green / Gold |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Low (Shade) |
 | **Best Feature** | Subtle chartreuse reticulation. Cooler and more refined than other Ghost series maples. |
@@ -563,7 +563,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Golden Yellow / Gold |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | High |
 | **Best Feature** | Vibrant yellow focal point. Retains its golden-yellow color even in the full sun of July and August. |
@@ -576,7 +576,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Purple-Red / Scarlet |
 | **Mature Habit** | Weeping (6-8') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate to Fast |
 | **Sun Tolerance** | High |
 | **Synonyms** | "Hands folded in prayer on the mountain", Laceleaf Maple |
@@ -590,7 +590,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Orange-Red |
 | **Mature Habit** | Dwarf Mounding (2-4') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow (1-3"/yr) |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | Thumbnail-sized leaves. An extremely slow-growing miniature that is perfect for bonsai and trough gardens. |
@@ -603,7 +603,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | White-Green / Pink |
 | **Mature Habit** | Upright (8-10') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Slow to Moderate |
 | **Sun Tolerance** | Low (Shade) |
 | **Synonyms** | 'Floating Clouds', 'Uki-gumo' |
@@ -617,7 +617,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Red-Green / Gold |
 | **Mature Habit** | Upright Vase (6-8') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | High |
 | **Best Feature** | Elegant "spider" foliage. Offers a delicate, transparent texture with surprisingly good sun and heat tolerance. |
@@ -630,7 +630,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Foliage (Sum/Fall)** | Green / Gold |
 | **Mature Habit** | Weeping (6-8') |
 | **Growth Rate** |
-| **Budding** | Medium |
+| **Budding** | Mid-season |
  Moderate |
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | Threadleaf Japanese Maple, Weeping Green |

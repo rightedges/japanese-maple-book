@@ -7,7 +7,7 @@ habit: "Upright (12-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Beni otake' (Red Bamboo): The Vertical Stroke

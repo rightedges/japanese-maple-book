@@ -7,7 +7,7 @@ habit: "Upright (8-12')"
 growth_rate: "Moderate (8-12\"/yr)"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Sensu' Japanese Maple: The Moving Fan

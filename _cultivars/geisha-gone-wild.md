@@ -7,7 +7,7 @@ habit: "Upright (6-10')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Geisha Gone Wild' Japanese Maple: A Riot of Variegation

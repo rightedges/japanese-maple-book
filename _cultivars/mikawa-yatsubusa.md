@@ -7,7 +7,7 @@ habit: "Dwarf (3-5')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Slow (2-4\"/yr)"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Mikawa Yatsubusa' Japanese Maple: Living Sculpture

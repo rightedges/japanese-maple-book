@@ -7,7 +7,7 @@ habit: "Upright (12-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate to Fast"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Fireglow' Japanese Maple: The Glowing Specimen

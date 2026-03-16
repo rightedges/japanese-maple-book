@@ -7,7 +7,7 @@ habit: "Weeping (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Inaba shidare' Japanese Maple: The Vigorous Purple Weeper

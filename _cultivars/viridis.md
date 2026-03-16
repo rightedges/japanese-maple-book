@@ -7,7 +7,7 @@ habit: "Weeping (6-8')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Viridis' Japanese Maple: The Classic Green Lace-leaf

@@ -7,7 +7,7 @@ habit: "Upright (8-10')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 growth_rate: "Slow to Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Ukigumo' (Floating Cloud Maple): The Spectral Ghost of the Garden

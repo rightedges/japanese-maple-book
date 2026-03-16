@@ -7,7 +7,7 @@ habit: "Weeping (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate to Fast"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Tamukeyama' Japanese Maple: The Iron Man of Dissectums

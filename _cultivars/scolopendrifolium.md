@@ -7,7 +7,7 @@ habit: "Upright (12-15')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Fast"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Scolopendrifolium' (Willow-Leaf Maple): The Airy Dancer

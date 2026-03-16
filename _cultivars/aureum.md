@@ -7,7 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 growth_rate: "Slow (3-6\"/yr)"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Aureum' (Golden Full Moon Maple): The Lantern in the Woods

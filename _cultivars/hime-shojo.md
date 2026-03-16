@@ -7,7 +7,7 @@ habit: "Dwarf (3-6')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Slow (3-5\"/yr)"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Hime-shojo' Japanese Maple: The Crimson Gem

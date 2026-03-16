@@ -7,7 +7,7 @@ habit: "Upright Vase (6-9')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Koto no ito' (Harp Strings): The Elegant Weaver

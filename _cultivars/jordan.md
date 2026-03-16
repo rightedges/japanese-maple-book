@@ -7,7 +7,7 @@ habit: "Upright (10-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Jordan' (Full Moon Maple): The Neon Master of the Garden

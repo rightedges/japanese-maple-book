@@ -7,7 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate to Fast"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Arakawa' (Rough Bark): The Aged Giant

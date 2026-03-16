@@ -7,7 +7,7 @@ habit: "Dwarf Mounding (3-5')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Slow"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Kuro hime' Japanese Maple: The Black-Red Princess

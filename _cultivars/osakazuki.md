@@ -7,7 +7,7 @@ habit: "Upright (20-25')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-24\"/yr)"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Osakazuki' Japanese Maple: The Champion of Autumn

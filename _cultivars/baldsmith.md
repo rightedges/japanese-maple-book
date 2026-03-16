@@ -7,7 +7,7 @@ habit: "Weeping (4-6')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Baldsmith' Japanese Maple: The Multi-Colored Cascade

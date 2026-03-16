@@ -7,7 +7,7 @@ habit: "Dwarf Mounding (2-6')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
-budding: "Medium"
+budding: "Mid-season"
 ---
 
 # 'Murasaki Kiyohime' (Purple Princess): The Royal Carpet
