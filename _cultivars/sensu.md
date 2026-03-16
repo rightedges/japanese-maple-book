@@ -7,6 +7,7 @@ habit: "Upright (8-12')"
 growth_rate: "Moderate (8-12\"/yr)"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+budding: "Medium"
 ---
 
 # 'Sensu' Japanese Maple: The Moving Fan
@@ -17,6 +18,7 @@ parent: "17. Cultivar Library"
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | 'Moving Fan', Acer shirasawanum 'Sensu' |
 

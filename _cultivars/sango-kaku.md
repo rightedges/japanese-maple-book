@@ -7,6 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-18\"/yr)"
+budding: "Early"
 ---
 
 # 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
@@ -18,6 +19,7 @@ growth_rate: "Fast (12-18\"/yr)"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | 'Senkaki', 'Ebi-no-hige', 'Cinnabarinum' |
 

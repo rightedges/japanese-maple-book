@@ -7,6 +7,7 @@ habit: "Dwarf Mounding (2-4')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Slow (1-3\"/yr)"
+budding: "Medium"
 ---
 
 # 'Tiny Stars' Japanese Maple: The Miniature Jewel
@@ -18,6 +19,7 @@ growth_rate: "Slow (1-3\"/yr)"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 
 ## Overview

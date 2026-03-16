@@ -7,6 +7,7 @@ habit: "Upright (8-10')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
+budding: "Medium"
 ---
 
 # 'Sister Ghost' Japanese Maple: The Subtle Spirit
@@ -18,6 +19,7 @@ growth_rate: "Moderate"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 
 ## Overview

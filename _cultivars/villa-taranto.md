@@ -7,6 +7,7 @@ habit: "Upright Vase (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
+budding: "Medium"
 ---
 
 # 'Villa Taranto' Japanese Maple: The Spider-Leaf Elegant
@@ -18,6 +19,7 @@ growth_rate: "Moderate"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 
 ## Overview

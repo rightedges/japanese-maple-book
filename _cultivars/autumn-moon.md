@@ -7,6 +7,7 @@ habit: "Upright (8-12')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Slow to Moderate"
+budding: "Late"
 ---
 
 # 'Autumn Moon': The Peach of the Moon
@@ -18,6 +19,7 @@ growth_rate: "Slow to Moderate"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 | **Synonyms** | *Acer shirasawanum* 'Autumn Moon' |
 
 ## Overview

@@ -7,6 +7,7 @@ habit: "Bushy Dwarf (4-6')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
+budding: "Early"
 ---
 
 # 'Beni Chidori' Japanese Maple: The Red Plover
@@ -18,6 +19,7 @@ growth_rate: "Moderate"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | Red Plover |
 

@@ -7,6 +7,7 @@ habit: "Upright (10-15')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate to Fast"
+budding: "Early"
 ---
 
 # 'Bihou' (Beautiful Phoenix): The Golden Counterpart
@@ -18,6 +19,7 @@ growth_rate: "Moderate to Fast"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | 'Bi Hoo', 'Bi Hou' |
 

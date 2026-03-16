@@ -7,6 +7,7 @@ habit: "Upright (10-12')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate (6-10\"/yr)"
+budding: "Medium"
 ---
 
 # 'Amber Ghost' Japanese Maple: The Glowing Apparition
@@ -18,6 +19,7 @@ growth_rate: "Moderate (6-10\"/yr)"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 
 ## Overview

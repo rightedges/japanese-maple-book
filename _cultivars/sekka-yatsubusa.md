@@ -7,6 +7,7 @@ habit: "Upright (10-12')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Slow"
+budding: "Medium"
 ---
 
 # 'Sekka Yatsubusa' Japanese Maple: The Sculpted Curiosity
@@ -18,6 +19,7 @@ growth_rate: "Slow"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 
 ## Overview

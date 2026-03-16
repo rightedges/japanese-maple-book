@@ -7,6 +7,7 @@ habit: "Weeping (6-8')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate to Fast"
+budding: "Medium"
 ---
 
 # 'Tamukeyama' Japanese Maple: The Iron Man of Dissectums
@@ -18,6 +19,7 @@ growth_rate: "Moderate to Fast"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | "Hands folded in prayer on the mountain", Laceleaf Maple |
 

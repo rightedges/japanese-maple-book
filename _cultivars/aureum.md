@@ -7,6 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "Low (Shade)"
 parent: "17. Cultivar Library"
 growth_rate: "Slow (3-6\"/yr)"
+budding: "Medium"
 ---
 
 # 'Aureum' (Golden Full Moon Maple): The Lantern in the Woods
@@ -18,6 +19,7 @@ growth_rate: "Slow (3-6\"/yr)"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | *Acer shirasawanum* 'Aureum' |
 

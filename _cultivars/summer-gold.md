@@ -7,6 +7,7 @@ habit: "Upright (8-10')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
+budding: "Medium"
 ---
 
 # 'Summer Gold' Japanese Maple: The Solar-Powered Masterpiece
@@ -18,6 +19,7 @@ growth_rate: "Moderate"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 
 ## Overview

@@ -7,6 +7,7 @@ habit: "Upright Vase (6-9')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate"
+budding: "Medium"
 ---
 
 # 'Koto no ito' (Harp Strings): The Elegant Weaver
@@ -18,6 +19,7 @@ growth_rate: "Moderate"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | "Harp Strings", "Old Harp" |
 

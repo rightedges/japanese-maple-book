@@ -7,6 +7,7 @@ habit: "Upright (10-15')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Fast (12-18\"/yr)"
+budding: "Early"
 ---
 
 # 'Aoyagi' Japanese Maple: The Green Bark Beauty
@@ -18,6 +19,7 @@ growth_rate: "Fast (12-18\"/yr)"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | 'Ukon', 'Yukon', Green Bark Maple |
 

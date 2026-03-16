@@ -7,6 +7,7 @@ habit: "Upright (15-20')"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
 growth_rate: "Moderate to Fast"
+budding: "Medium"
 ---
 
 # 'Arakawa' (Rough Bark): The Aged Giant
@@ -18,6 +19,7 @@ growth_rate: "Moderate to Fast"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | "Rough Skin Maple", "Cork-bark Maple" |
 

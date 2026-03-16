@@ -7,6 +7,7 @@ habit: "Upright (12-15')"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
 growth_rate: "Fast"
+budding: "Medium"
 ---
 
 # 'Scolopendrifolium' (Willow-Leaf Maple): The Airy Dancer
@@ -18,6 +19,7 @@ growth_rate: "Fast"
 | **Mature Habit** | {{ page.habit }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
+| **Budding** | {{ page.budding }} |
 
 | **Synonyms** | 'Shinobuga oka', 'Fingerleaf', 'Linearifolium' |
 
