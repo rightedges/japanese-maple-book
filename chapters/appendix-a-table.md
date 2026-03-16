@@ -326,6 +326,7 @@ This reference guide provides detailed information on some of the most popular J
 | **Budding** | Mid-season |
 | **Sun Tolerance** | Moderate |
 | **Best Feature** | "Black-Red Princess". Dwarf habit with intense spring color and vibrant red fall display. |
+
 ### [Mikawa Yatsubusa](/japanese-maple-book/cultivars/mikawa-yatsubusa)
 
 | Attribute | Specification |
