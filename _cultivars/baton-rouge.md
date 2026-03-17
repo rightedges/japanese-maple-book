@@ -39,4 +39,3 @@ An essential choice for southern landscapes (Zones 7-9) where other coral bark m
 
 > [!IMPORTANT]
 > To keep the red color vibrant, prune the oldest wood every 3-4 years to encourage a flush of new "fire-stick" growth, which holds the most intense pigment.
-助

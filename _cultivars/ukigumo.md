@@ -40,4 +40,3 @@ The ultimate shadow-beacon for lighting up dark garden corners. **It must be pla
 
 > [!CAUTION]
 > White leaves have **zero UV protection**. Deep, dappled shade is a non-negotiable requirement to prevent brown, oxidation-induced papery crisping within hours.
-助

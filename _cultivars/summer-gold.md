@@ -39,4 +39,3 @@ The #1 choice for a sunny mixed border. For maximum impact, plant in front of a 
 
 > [!TIP]
 > Planting a 'Summer Gold' is the horticultural equivalent of turning on a 500-watt light bulb that never burns out in a "dark" corner of your sunny garden.
-助

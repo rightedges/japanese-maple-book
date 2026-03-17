@@ -40,4 +40,3 @@ Functions as a perfect "entryway sentinel" or a standalone focal point for minim
 
 > [!TIP]
 > At 10 years old, 'Shishigashira' becomes a true lifetime investment and the most talked-about architectural element in any garden.
-助

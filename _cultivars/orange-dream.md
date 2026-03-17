@@ -39,4 +39,3 @@ Ideal for adding a splash of high-luminosity color to small gardens or as a pati
 
 > [!IMPORTANT]
 > To maintain the best orange-gold spring color, ensure it receives morning sun; too much shade will cause the tree to stay a flat green.
-助

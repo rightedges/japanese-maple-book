@@ -39,4 +39,3 @@ An exceptional choice for enthusiasts looking for a "conversation piece." Its ad
 
 > [!TIP]
 > To emphasize the tree's unique bark and fasciated stems, use uplighting at night to cast dramatic shadows through the layered canopy.
-助

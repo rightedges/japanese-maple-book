@@ -39,4 +39,3 @@ A perfect focal point for rock gardens or as a specimen near a pond where its ca
 
 > [!TIP]
 > Plant 'Baldsmith' where you can view it from above, such as near a deck or a retaining wall, to fully appreciate its weeping structure and color shifts.
-助

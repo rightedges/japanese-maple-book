@@ -39,4 +39,3 @@ A premier choice for planting at the base of larger trees, in rock gardens, or a
 
 > [!TIP]
 > Plant along a stone walkway where the low, mounding habit can soften the hard edges of the masonry and guests can appreciate the tiny, purple-tipped leaves.
-助
