@@ -38,6 +38,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 - [Koto no ito]({{ site.baseurl }}/cultivars/koto-no-ito.html)
 - [Kuro hime]({{ site.baseurl }}/cultivars/kuro-hime.html)
 - [Mikawa Yatsubusa]({{ site.baseurl }}/cultivars/mikawa-yatsubusa.html)
+- [Mikazuki]({{ site.baseurl }}/cultivars/mikazuki.html)
 - [Moonrise]({{ site.baseurl }}/cultivars/moonrise.html)
 - [Murasaki Kiyohime]({{ site.baseurl }}/cultivars/murasaki-kiyohime.html)
 - [Orange Dream]({{ site.baseurl }}/cultivars/orange-dream.html)

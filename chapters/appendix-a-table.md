@@ -340,6 +340,19 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | "Mikawa", "Eight Tufts" |
 | **Best Feature** | Unique shingled habit. Extremely slow-growing; ideal for containers and focal points in rock gardens. |
 
+### [Mikazuki](/japanese-maple-book/cultivars/mikazuki)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Green-Cream with Dark Veins / Golden-Orange |
+| **Mature Habit** | Upright (8-10') |
+| **Growth Rate** | Moderate |
+| **Budding** | Early-season |
+| **Sun Tolerance** | Moderate |
+| **Synonyms** | Crescent Moon |
+| **Best Feature** | "Crescent Moon" reticulation. Striking pink spring foliage with dark green veins; elegant narrow lobes. |
+
 ### [Koto no ito](/japanese-maple-book/cultivars/koto-no-ito)
 
 | Attribute | Specification |
