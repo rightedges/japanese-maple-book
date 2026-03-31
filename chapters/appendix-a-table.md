@@ -165,6 +165,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | Bloodgood Maple, 'Atropurpureum' |
 | **Best Feature** | Remarkable color retention. Robust and sun-tolerant, but requires very well-drained soil. |
 
+### [Bonfire](/japanese-maple-book/cultivars/bonfire)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Pinkish-Red / Green / Crimson |
+| **Mature Habit** | Upright-Rounded (6-10') |
+| **Growth Rate** | Slow |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Fiery" color shifts. Intense pink-orange spring and scarlet-crimson fall displays. |
+
 ### [Butterfly](/japanese-maple-book/cultivars/butterfly)
 
 | Attribute | Specification |
@@ -177,6 +189,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
 | **Best Feature** | Best hardy variegated variety. More resilient than 'Ukigumo'; stays compact with light structural pruning. |
+
+### [Coonara Pygmy](/japanese-maple-book/cultivars/coonara-pygmy)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Dwarf |
+| **Foliage (Sum/Fall)** | Pink-Gold / Green / Scarlet |
+| **Mature Habit** | Dense Rounded (3-6') |
+| **Growth Rate** | Slow |
+| **Budding** | Early-season |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | Dense globe-like habit. Small-leaved Australian dwarf with spectacular tri-color spring emergence. |
 
 ### [Crimson Queen](/japanese-maple-book/cultivars/crimson-queen)
 
