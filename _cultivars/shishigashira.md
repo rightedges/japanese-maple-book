@@ -1,42 +1,46 @@
 ---
 layout: default
 title: "Shishigashira"
-group: "Palmatum"
-foliage_sum_fall: "Deep Green / Orange"
-habit: "Upright (8-12')"
+group: "Dwarf"
+foliage_sum_fall: "Green / Gold-Red"
+habit: "Sculptural Dwarf (8-12')"
+growth_rate: "Very Slow"
+budding: "Late-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
-growth_rate: "Slow (3-6\"/yr)"
-budding: "Early-season"
 ---
 
-# 'Shishigashira' (Lion's Head Maple): The Architectural Masterpiece
+# 'Shishigashira' Japanese Maple: The Lion's Head Maple
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Lion's Head", 'Meijishi' |
 
-| **Synonyms** | 'Lion's Mane', 'Lion's Head', 'Mejishi', 'Crispum' |
 
 ## Overview
-'Shishigashira' ("Lion's Head") is a sculptural masterpiece known for its dense, crinkled foliage that resembles the mane of a mythical Japanese lion. A slow-growing upright with an ancient gravitas, it is prized for its structural power and unapologetic "thick" appearance.
+'Shishigashira', which translates to "Lion's Head" (referencing the curled mane of the mythical Japanese lion dance), is one of the most distinctive and highly prized cultivars in the world. It is legendary for its extraordinarily curled, crinkled, and densely packed leaves that cluster tightly along the branches. It is an extremely slow grower, but unlike many dwarfs, it eventually matures into a substantial, upright tree reaching 8-12 feet over many decades.
+
+The tree has a rugged, "ancient" appearance from a very young age. It is a certified conversation piece and the target of almost every Japanese maple collector.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Bright apple-green emergence matures into a deep, leathery green. Its dense nodes create "thick ropes" of foliage that are remarkably heat-resistant.
-- **Fall & Winter**: One of the last to change, turning a glowing golden-orange in late November. Winter reveals a stiff, muscular grey bark structure that looks like modern bronze sculpture.
-- **Urban Utility**: Its rugged nature makes it equally at home in high-maintenance bonsai pots or as a multi-story specimen in public parks.
+- **Spring**: A late-season budder. New leaves emerge later than most maples, protecting them from spring frosts. The foliage is a brilliant, deep emerald-green and immediately shows its unique "crinkled" texture.
+- **Summer**: Outstanding leaf health. 'Shishigashira' maintains its saturated green color flawlessly through the height of summer. The leaves are thick and waxy, resisting heat and pests better than almost any other cultivar.
+- **Fall**: A world-class finale. It is one of the last maples to turn, transitioning into a brilliant display of golden yellow, burnt orange, and often saturated crimson. The fall color is exceptionally vivid and can remain on the tree for weeks.
+- **Architecture**: The rugged, short-jointed branches provide a stunning winter silhouette that looks like a natural-born bonsai.
 
 ## Garden Use & Care
-Functions as a perfect "entryway sentinel" or a standalone focal point for minimalist modern gardens. Pair with soft-textured **Mexican Feather Grass** for a stunning textural counterpoint.
+'Shishigashira' is the premier choice for a focal point near a path, a patio, or a stone feature. Its sculptural habit and slow growth also make it the absolute "gold standard" for bonsai practitioners worldwide. It should be planted where its unique "Lion's Head" texture can be appreciated up close.
 
 ### Maintenance Tips
-- **Aphid Management**: Crinkled leaves are a hotspot for pests; use a high-pressure water nozzle to rinse the interior of clumps monthly in spring.
-- **Branch Care**: Branches are "stiff" rather than flexible; keep away from roof-lines where falling ice or heavy snow could cause snapping.
+- **Sun Tolerance**: This is one of the most sun-tolerant cultivars in existence. In most climates (Zones 5-8), it can handle full sun with ease, provided it has consistent moisture.
+- **Minimal Pruning**: Very little pruning is required. Its naturally rugged, short-jointed habit is self-maintaining. Focus on removing any interior deadwood in late winter to maintain air circulation through the dense foliage.
+- **Feeding**: This is a "greedy" tree; despite its slow growth, it benefits from an annual application of balanced organic fertilizer in early spring to support its dense canopy.
 
 > [!TIP]
-> At 10 years old, 'Shishigashira' becomes a true lifetime investment and the most talked-about architectural element in any garden.
+> think of 'Shishigashira' as a "legacy tree." It grows slowly, but its character only increases with age. It is a tree that marks the true arrival of a "mature" garden.

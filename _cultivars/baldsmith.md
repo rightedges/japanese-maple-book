@@ -4,38 +4,41 @@ title: "Baldsmith"
 group: "Dissectum"
 foliage_sum_fall: "Coral-Red / Yellow-Orange"
 habit: "Weeping (4-6')"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
 growth_rate: "Moderate"
 budding: "Mid-season"
+sun_tolerance: "Moderate"
+parent: "17. Cultivar Library"
 ---
 
-# 'Baldsmith' Japanese Maple: The Multi-Colored Cascade
+# 'Baldsmith' Japanese Maple: The Color Shifter
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 
 
 ## Overview
-'Baldsmith' is a unique weeping dissectum known for its complex, shifting color palette. Forming a cascading dome (4-6ft), it offers a rare multi-colored effect where spring's coral-red hues transition into a light green-and-pink summer tapestry.
+'Baldsmith' is a remarkable lace-leaf (dissectum) cultivar known for its complex and ever-changing foliage colors. Unlike many red or green dissectums that maintain a single dominant hue, 'Baldsmith' is a "color shifter," blending shades of coral, orange, pink, and green throughout the growing season. It has a graceful, weeping habit that creates a soft, mounding presence in the landscape.
+
+The tree is moderately vigorous for a dissectum and develops a dense, finely textured canopy. It is particularly valued by collectors who appreciate the subtle, tapestry-like effect of its multi-colored leaves.
 
 ## Key Features & Seasonal Interest
-- **Spring Flush**: Finely dissected leaves emerge a vibrant coral pink to bright orange-red, creating a striking early-season display.
-- **Summer Tapestry**: Matures to a soft light green with prominent pink or red margins, giving the tree a constantly shifting, multi-colored appearance.
-- **Fall Transition**: Turns brilliant shades of yellow, orange, and red, often displaying all three colors simultaneously on the same branch.
+- **Spring**: One of the most vibrant phases. New leaves emerge in a bright, shocking coral-red or orange-pink. The finely dissected lobes are narrow and delicate, giving the tree an airy, ethereal quality.
+- **Summer**: The foliage settles into a sophisticated blend of light green and peach, often with persistent pink or orange highlights on the newer growth at the tips of the branches. This "mottled" effect provides a beautiful, soft contrast to solid-colored garden companions.
+- **Fall**: A stunning transition into shades of bright yellow, burnt orange, and often a soft, warm red. The fall display is multi-toned and provides a long-lasting show of warm colors.
 
 ## Garden Use & Care
-A perfect focal point for rock gardens or as a specimen near a pond where its cascading form can be appreciated. Its dome-shaped habit makes it ideal for large, wide containers.
+'Baldsmith' is an ideal specimen for a rock garden, a small residential entrance, or as a focal point near a water feature where its weeping form can be reflected. Its fine texture and shifting colors also make it a premier choice for large containers on a patio or deck.
 
 ### Maintenance Tips
-- **Consistent Moisture**: Like most dissectums, it requires consistently moist, well-drained soil; don't let the root ball dry out completely in summer.
-- **Internal Pruning**: Clean out small dead interior twigs in winter to maintain the health of the cascading "skirt."
+- **Light Requirements**: Performs best in morning sun with afternoon shade. While it can handle more sun in cooler regions, the best color "shifting" occurs when it receives high-quality filtered light.
+- **Watering**: Like all lace-leaf maples, it is sensitive to drought. Maintain consistent moisture, particularly during the hot summer months. A layer of organic mulch will help protect the shallow root system.
+- **Pruning**: Minimal pruning is required to maintain its mounding form. However, occasional thinning of the interior "twiggy" growth in late winter will improve air circulation and reveal the graceful branching structure.
 
 > [!TIP]
-> Plant 'Baldsmith' where you can view it from above, such as near a deck or a retaining wall, to fully appreciate its weeping structure and color shifts.
+> Plant 'Baldsmith' near a path or seating area where you can observe its color transitions up close. The way the coral spring tips mingle with the lime-green summer leaves is truly a highlight of the garden.

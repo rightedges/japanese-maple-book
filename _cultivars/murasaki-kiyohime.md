@@ -1,41 +1,46 @@
 ---
 layout: default
 title: "Murasaki Kiyohime"
-group: "Palmatum"
-foliage_sum_fall: "Green / Yellow-Orange"
-habit: "Dwarf Mounding (2-6')"
-sun_tolerance: "High"
+group: "Dwarf"
+foliage_sum_fall: "Purple-Green / Orange-Red"
+habit: "Spreading Dwarf (3-4')"
+growth_rate: "Slow to Moderate"
+budding: "Early-season"
+sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
-growth_rate: "Moderate"
-budding: "Mid-season"
 ---
 
-# 'Murasaki Kiyohime' (Purple Princess): The Royal Carpet
+# 'Murasaki Kiyohime' Japanese Maple: The Purple Princess
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Purple Kiyohime" |
 
 
 ## Overview
-'Murasaki Kiyohime' ("Purple Princess") is a vigorous dwarf maple known for its low, mounding spread and tiny, purple-edged leaves. Typically growing wider than it is tall (2-6ft), it creates a luxurious "carpet" of green and purple that is exceptionally durable compared to more delicate dwarfs.
+'Murasaki Kiyohime' is one of the most distinctive and highly prized dwarf cultivars in the world. It is famous for its extraordinarily wide, spreading habit—it grows much wider than it does tall, eventually forming a low, architectural mound of dense foliage. It is prized for its "purple-edged" spring emergence, which gives the entire tree a soft, smoky appearance early in the season.
+
+The tree has an exceptionally refined texture, with small, star-shaped leaves that are held in dense clusters. It is a slow to moderate grower, making it a "treasure" for rock gardens and bonsai enthusiasts.
 
 ## Key Features & Seasonal Interest
-- **Spring Flush**: Small, bright green leaves emerge with striking deep purple-red edges and tips, providing a refined, "dipped" appearance.
-- **Summer Stability**: Matures to a glossy dark green, often retaining subtle hints of its purple margins. Its dense, twiggy habit provides excellent coverage.
-- **Fall Finish**: Transitions through bright bronze-yellows to rich oranges. New growth in autumn often repeats the purple-tipped spring effect.
+- **Spring**: A horticultural gem. New leaves emerge in a bright chartreuse color, but each leaf is delicately outlined with a saturated purple-red margin. This "purple princess" effect gives the dense mound a shimmering, two-toned look in early spring.
+- **Summer**: The purple margins recede, maturing into a solid, healthy mid-green. The tree maintains its dense, low-spreading habit, providing a solid "mass" of foliage that holds its color well through the summer heat.
+- **Fall**: A reliable finale. The foliage transitions into a beautiful tapestry of golden yellow, burnt orange, and soft red. The fall display is multi-toned and echoes the warm tones of its group.
+- **Form**: Develops a dense, twiggy, and wide-spreading habit that provides excellent winter architecture after the leaves have fallen.
 
 ## Garden Use & Care
-A premier choice for planting at the base of larger trees, in rock gardens, or as a low-maintenance container specimen. Its strength and small leaf size make it the #1 choice for "shohin" (miniature) bonsai.
+Due to its low-spreading habit (3-4 feet tall, often 6-8 feet wide), 'Murasaki Kiyohime' is the premier choice for rock gardens, low foundation plantings, or as a "skirt" around a larger specimen tree. It is also an exceptional candidate for bonsai, as its small leaves and wide-spreading branches are easily trained into impressive, ancient-looking forms.
 
 ### Maintenance Tips
-- **Air Circulation**: Because of its dense, ground-hugging habit, ensure it’s not smothered by heavy mulch; leave a 2-inch gap around the main stems to prevent rot.
-- **Structural Pruning**: Every few years, thin out the interior twigs to reveal the delicate, multi-stemmed structure beneath the "princess" canopy.
+- **Space Management**: Ensure you give it enough horizontal space to grow into its naturally wide-spreading habit. Avoid crowding it with other large shrubs that might obscure its architectural form.
+- **Soil & Drainage**: Requires well-draining, slightly acidic soil. Like most dwarf cultivars, it is sensitive to "wet feet," so ensure the planting site is naturally well-drained.
+- **Pruning**: Very little pruning is required to maintain its shape. However, a light thinning of the interior in late winter can help maintain air circulation.
 
 > [!TIP]
-> Plant along a stone walkway where the low, mounding habit can soften the hard edges of the masonry and guests can appreciate the tiny, purple-tipped leaves.
+> Use 'Murasaki Kiyohime' as a "living carpet" of texture. Plant it at the base of a tall, upright red maple like 'Bloodgood' to create a stunning contrast in both color and form.

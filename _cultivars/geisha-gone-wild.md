@@ -1,42 +1,44 @@
 ---
 layout: default
 title: "Geisha Gone Wild"
-group: "Palmatum"
-foliage_sum_fall: "Green with Cream / Hot Pink & Purple"
-habit: "Upright (6-10')"
+group: "Variegated"
+foliage_sum_fall: "Pink-Green / Red-Purple"
+habit: "Upright (8-10')"
+growth_rate: "Slow to Moderate"
+budding: "Mid-season"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
-growth_rate: "Moderate"
-budding: "Mid-season"
 ---
 
-# 'Geisha Gone Wild' Japanese Maple: A Riot of Variegation
+# 'Geisha Gone Wild' Japanese Maple: The Flamboyant Rebel
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 
 
 ## Overview
-'Geisha Gone Wild' is a spectacular variegated cultivar that lives up to its name with a "wild" display of shifting colors. Arising as a sport of 'Geisha', it was honored as the Maple Tree of the Year in 2021 by the Maple Society of North America. It is prized by collectors for its dramatic multi-colored leaves and graceful, upright habit.
+'Geisha Gone Wild' is a spectacular and relatively new variegated cultivar that is noted for its "wild" and unpredictable color patterns. It is an improved version of the older 'Geisha', offering better vigor and more consistent, high-impact variegation. The leaves are a riot of pink, magenta, and green, often appearing slightly twisted or curled, which adds to the tree's flamboyant and rebellious character.
+
+The tree has a graceful, upright, and somewhat bushy habit. It is a slow to moderate grower, eventually forming a dense, architectural specimen that is a certified conversation piece in any garden collection.
 
 ## Key Features & Seasonal Interest
-- **Spring**: Emerges with a stunning explosion of maroon and bright pink. The leaves are often curled, adding a unique texture to the vibrant display.
-- **Summer**: The foliage matures to a deep green with irregular margins of cream, white, and occasionally lingering pink.
-- **Fall**: Provides a dramatic finale with leaves turning brilliant shades of hot pink, purple, orange, and even bright yellow.
+- **Spring**: A horticultural riot. New leaves emerge in a brilliant tapestry of hot pink, magenta, and soft cream, all mingled with splashes of healthy green. The color is exceptionally intense and stays vibrant for several weeks.
+- **Summer**: The hot pink recedes, maturing into a sophisticated mix of cream-on-green variegation, though pink highlights often persist on the newer growth at the tips. The foliage maintains its "wild" appearance even as the colors settle.
+- **Fall**: A dramatic grand finale. The foliage transitions into a brilliant display of purple-red, orange, and saturated pink. The fall colors are exceptionally long-lasting and provide a high-impact show.
 
 ## Garden Use & Care
-Ideal as a focal point in a small garden, courtyard, or large container. Its compact size and upright, vase-shaped habit make it versatile for tight spaces where a splash of seasonal color is needed.
+'Geisha Gone Wild' is an ideal specimen for a medium-sized garden, a focal point in a mixed border, or as a structural element near a patio where its "wild" colors can be appreciated up close. It is also an exceptional candidate for container gardening, where its manageable size and high-intensity color make it a perfect mobile specimen.
 
 ### Maintenance Tips
-- **Sun Protection**: To maintain the best variegation and prevent leaf scorch, provide morning sun and afternoon shade. In cooler climates, it can tolerate more sun if kept well-watered.
-- **Soil Health**: Prefers well-drained, slightly acidic soil. Use an organic mulch to keep the root zone cool and moist.
-- **Minimal Pruning**: Naturally grows into a pleasing shape, so only structural pruning or removal of dead wood is typically required.
+- **Light Requirements**: Finding the "Goldilocks" zone is key. It needs high-quality light to develop its best pink colors, but direct afternoon sun in hot climates can cause the variegated sections to scorch. Morning sun followed by afternoon shade is ideal.
+- **Consistency**: To maintain the best variegation, ensure the tree has consistent moisture. Drought stress can sometimes lead to smaller leaves or more muted color patterns.
+- **Pruning**: Minimal pruning is required. However, occasional thinning of the interior in late winter can help maintain air circulation and emphasize its unique branching habit.
 
 > [!TIP]
-> 'Geisha Gone Wild' is best planted where its intricate leaf patterns can be appreciated up close, such as near a patio or along a primary garden path.
+> This geisha truly is "gone wild." Plant it where it can take center stage—it doesn't play well with others that want attention! It pairs beautifully with quiet, dark green groundcovers that let its "riot" of color stand out.

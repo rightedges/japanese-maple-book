@@ -2,42 +2,45 @@
 layout: default
 title: "Koto no ito"
 group: "Linearilobum"
-foliage_sum_fall: "Green / Gold-Yellow"
-habit: "Upright Vase (6-9')"
+foliage_sum_fall: "Green / Yellow-Orange"
+habit: "Upright-Wavy (6-10')"
+growth_rate: "Moderate (6-10\"/yr)"
+budding: "Mid-season"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
-growth_rate: "Moderate"
-budding: "Mid-season"
 ---
 
-# 'Koto no ito' (Harp Strings): The Elegant Weaver
+# 'Koto no ito' Japanese Maple: Harp Strings
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Harp Strings" |
 
-| **Synonyms** | "Harp Strings", "Old Harp" |
 
 ## Overview
-'Koto no ito' lives up to its name, which translates to "Harp Strings." It features some of the finest, most thread-like foliage of any Acer palmatum. The leaves emerge broadly in spring but thin out to delicate filaments in summer, creating an incredibly soft, bamboo-like texture.
+'Koto no ito', which translates to "Harp Strings," is one of the most elegant and sought-after members of the Linearilobum group. It is prized for its extraordinarily narrow, thread-like leaf lobes that sway rhythmically in the wind, resembling the delicate strings of a Japanese koto (harp). It has a unique, "wavy" upright habit that matures into a soft, airy specimen reaching 6-10 feet.
+
+The tree offers an unparalleled level of texture and transparency in the garden. Its "feathered" appearance provides a cooling visual effect while maintaining a sophisticated, high-quality look that is unmatched by more traditional maples.
 
 ## Key Features & Seasonal Interest
-- **Spring**: New growth is a light green with crimson tones on the leaf tips. The lobes are slightly broader at this stage.
-- **Summer**: Foliage matures to a deep, reliable green. The lobes narrow significantly, resembling fine strings.
-- **Fall**: A spectacular display of golden-yellow mixed with apricot-orange.
-- **Form**: Develops a graceful, upright vase shape that widens with age.
+- **Spring**: New leaves emerge in a soft chartreuse or light lime-green, often with subtle pink highlights on the tips. The long, thread-like lobes unfold with a graceful, "unraveling" quality that is fascinating to observe up close.
+- **Summer**: The foliage matures into a healthy mid-green. The tree maintains its airy, light-filled structure, providing a dappled-light effect for the plants growing beneath it. The "Harp Strings" texture is at its peak during the mid-summer months.
+- **Fall**: A reliable and beautiful display of bright yellow, burnt gold, and sometimes soft orange. The narrow lobes turn color sequentially, often creating a multi-toned, "brushed" appearance across the canopy.
+- **Bark**: Small, young twigs often have a polished, greenish appearance that adds to the tree's delicate winter aesthetic.
 
 ## Garden Use & Care
-A perfect choice for small courtyards, Asian-themed gardens, or containers where its subtle texture can be viewed up close. It contrasts beautifully with broad-leaved hostas or dark evergreens.
+'Koto no ito' should be used as a focal point near a path, a patio, or a seating area where its unique "feathered" texture and movement can be appreciated. It is an exceptional candidate for container gardening, where its airy habit and slow growth rate make it a perfect, long-term mobile specimen. It pairs beautifully with broader-leaved maples or structural perennials like *Hosta*.
 
 ### Maintenance Tips
-- **Sun/Shade**: Prefers morning sun and afternoon shade. While reasonably heat tolerant, the fine leaves can scorch in harsh, hot winds.
-- **Pruning**: Requires very little pruning. Remove any strong, reverting branches that have broad leaves to maintain the "harp string" character.
+- **Wind Protection**: The thread-like lobes are extremely delicate and can be sensitive to strong, drying winds which can cause "leaf shredding." Plant in a sheltered location with good air circulation.
+- **Watering**: Requires consistent, even moisture. Its narrow lobes have very little surface area to hold moisture, making the tree more sensitive to drought stress than most standard Palmatums.
+- **Pruning**: Minimal pruning is required to maintain its airy, wavy form. However, a light structural thinning in late winter can help reveal the elegant branching pattern and improve the tree's overall "transparency."
 
 > [!TIP]
-> This cultivar is renowned for its changing leaf shape. Don't be alarmed if spring leaves look different from summer leaves; this dimorphism is part of its charm.
+> Think of 'Koto no ito' as "movement in the garden." Plant it where it can catch the gentlest breeze, and the rhythmic swaying of its "harp string" leaves will add a calming, musical quality to your landscape.

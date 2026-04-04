@@ -4,38 +4,42 @@ title: "Baton Rouge"
 group: "Palmatum"
 foliage_sum_fall: "Green / Yellow"
 habit: "Upright (10-15')"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
 growth_rate: "Fast (12-24\"/yr)"
 budding: "Early-season"
+sun_tolerance: "High"
+parent: "17. Cultivar Library"
 ---
 
-# 'Baton Rouge' Japanese Maple: The Texas Fire-Stick
+# 'Baton Rouge' Japanese Maple: The Lipstick Bark Maple
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 
 
 ## Overview
-'Baton Rouge' is a mid-sized coral bark maple (10-15ft) specifically bred for extreme heat and humidity tolerance. While similar to 'Sango Kaku', 'Baton Rouge' is famed for its even more intense "lipstick-red" winter bark and its ability to thrive in full sun in southern climates.
+'Baton Rouge', which translates to "Red Stick," is a relatively newer introduction celebrated for its extraordinary bark color. While 'Sango Kaku' is the traditional red-bark standard, 'Baton Rouge' was bred for superior heat tolerance and even more intense "lipstick-red" bark that remains vibrant even in warmer climates where other red-bark varieties might fade to a duller orange.
+
+The tree has a strong, upright, and somewhat spreading habit. It is exceptionally vigorous and resilient, making it a "workhorse" cultivar that provides year-round interest with very little effort from the gardener.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Emerging green with occasional red tipping, the leaves settle into a soft, cooling green. The tree maintains a vigorous, upright vase shape throughout the growing season.
-- **Fall Finale**: Foliage turns a bright, clean yellow with occasional red and orange flashes as the weather cools.
-- **Winter Peak**: Once the leaves drop, the young stems glow with a searing, fluorescent red that is often considered the brightest in the coral bark group.
+- **Spring**: New leaves emerge in a bright, clean chartreuse or lime-green. The fresh green foliage provides a stark and beautiful contrast to the red branches that carry them.
+- **Summer**: The leaves mature into a solid, healthy mid-green. The tree forms a dense, reliable canopy that provides excellent shade. Even in high heat, 'Baton Rouge' maintains its vigor better than many other cultivars.
+- **Fall**: A dependable display of bright, clear yellow. The yellow leaves against the vibrant red bark create a stunning "primary color" combination that is one of the highlights of the autumn garden.
+- **Winter**: The bark is the true star. After the leaves fall, the entire tree—from the main trunk to the smallest twigs—glows in an intense, saturated red. The color is most vibrant in the dormant season, providing a critical architectural element in the winter landscape.
 
 ## Garden Use & Care
-An essential choice for southern landscapes (Zones 7-9) where other coral bark maples might struggle with heat stress. Excellent as a winter specimen against grey skies or as a high-contrast companion for winter-blooming shrubs.
+'Baton Rouge' should be used as a focal point where its winter bark can be appreciated against a dark background or snow. Its fast growth and dense habit also make it an excellent choice for a tall hedge, a privacy screen, or as a structural element in a large mixed border.
 
 ### Maintenance Tips
-- **Sun Strategy**: To get the brightest winter bark, plant in full sun. The intense UV exposure "tans" the bark into that legendary lipstick-red.
-- **Drainage First**: Despite its heat tolerance, it still requires well-drained soil; wet, soggy roots will lead to twig die-back and reduced bark color.
+- **Encouraging New Wood**: The brightest red color is found on the newest growth. To keep the tree "shining" in winter, perform occasional thinning or heading back of older branches to stimulate fresh, vibrant red shoots.
+- **Sun Exposure**: While it handles sun well, the best winter bark color is often developed on trees that receive significant direct light during the growing season.
+- **Vigor**: This is a fast-growing tree. Ensure it has enough space to reach its 10-15 foot potential without crowding neighboring plants.
 
-> [!IMPORTANT]
-> To keep the red color vibrant, prune the oldest wood every 3-4 years to encourage a flush of new "fire-stick" growth, which holds the most intense pigment.
+> [!TIP]
+> Group 'Baton Rouge' with evergreen shrubs like Boxwood or Yew. The intense red bark against the dark green winter foliage is a classic, high-impact garden combination.

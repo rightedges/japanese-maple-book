@@ -2,42 +2,45 @@
 layout: default
 title: "Inaba shidare"
 group: "Dissectum"
-foliage_sum_fall: "Deep Purple / Red"
+foliage_sum_fall: "Deep Purple / Crimson"
 habit: "Weeping (6-8')"
+growth_rate: "Fast for a Dissectum"
+budding: "Mid-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
-growth_rate: "Fast"
-budding: "Mid-season"
 ---
 
-# 'Inaba shidare' Japanese Maple: The Vigorous Purple Weeper
+# 'Inaba shidare' Japanese Maple: The Rice Leaf Maple
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Leaves Like Rice Plants" |
 
-| **Synonyms** | 'Red Select', 'Inabe shidare' |
 
 ## Overview
-'Inaba shidare' is the "muscular" powerhouse of the red lace-leafs. Prized for its sheer vigor and extraordinary environmental resilience, it features larger, bolder lobes than other dissectums, allowing it to grow faster and withstand more sun and wind.
+'Inaba shidare' is one of the most robust and high-impact lace-leaf (dissectum) cultivars in existence. The name translates to "Leaves Like Rice Plants," referencing the long, narrow, and graceful lobes of its foliage. It is prized for its exceptional vigor—it grows faster and matures into a larger specimen than most other dissectums—and its ability to maintain a deep, saturated purple-black color even in high heat and humidity.
+
+The tree has a strong, upright-weeping habit, often forming a large, mushroom-shaped mound that can reach 8 feet in height and 10 feet in width over time. It is a durable and resilient cultivar that provides a powerful, architectural presence in the landscape.
 
 ## Key Features & Seasonal Interest
-- **Spring**: Emerges as a deep, saturated carmine-purple "cloud" with dark reddish-purple wood.
-- **Summer**: Maintains a near-black burgundy color even in 90°F (32°C) sun, thanks to thicker, glossy leaves that resist bleaching.
-- **Fall & Winter**: Explosive shift to burning scarlet in autumn. Its thick, flexible branches hold heavy snow better than more brittle varieties.
+- **Spring**: New leaves emerge in a deep, saturated maroon or "purple-black" hue. The foliage is relatively large for a dissectum, featuring bold, deeply cut lobes that give the tree a rugged, high-contrast appearance.
+- **Summer**: Superior color retention. 'Inaba shidare' is famous for holding its dark purple color flawlessly through the heat of summer, rarely "bronzing" or turning green even in full sun settings.
+- **Fall**: A spectacular transition into a brilliant, translucent crimson or electric red. The autumn color is exceptionally bright and long-lasting, providing a high-impact show that is one of the highlights of the season.
+- **Architecture**: Develops heavy, structural branches that provide a stunning, "ancient" weeping habit that is visible even in the winter dormant season.
 
 ## Garden Use & Care
-Ideal for large landscape focal points or as a "purple waterfall" pouring over slopes and retaining walls. Pair with gold-leaved trees like **'Summer Gold'** for high-contrast drama.
+'Inaba shidare' is a premier specimen for a large garden bed, a lawn centerpiece, or as a focal point near a large stone feature. Because of its vigor and size, it is also a good choice for those who want a significant "instant" presence in their landscape. It pairs beautifully with yellow-leaved companions or light-colored stone work that emphasizes its dark purple foliage.
 
 ### Maintenance Tips
-- **Thinning cuts**: Use summer thinning cuts to prevent "bottom-heavy" growth and redirect energy to the top of the canopy.
-- **Mulching**: In Zone 9, use 4 inches of mulch to keep the root zone cool and prevent "bronzing" of the heat-absorbent purple leaves.
+- **Sun Tolerance**: This is one of the most sun-tolerant dissectums. In most climates (Zones 5-8), it can handle full sun with ease, provided it has consistent moisture.
+- **Soil & Drainage**: Requires rich, well-draining, slightly acidic soil. Like all dissectums, it is sensitive to "wet feet," so ensure the planting site is naturally well-drained or slightly mounded.
+- **Structural Pruning**: Because it is vigorous, perform "umbrella pruning" in late winter to thin out the interior and emphasize its heavy, cascading branches. This will also improve air circulation through the dense canopy.
 
 > [!TIP]
-> If a more delicate 'Crimson Queen' is struggling in your yard, 'Inaba shidare' is the robust "Plan B" that almost always succeeds.
-
+> If you have a larger space that needs a "statement" weeping tree, 'Inaba shidare' is the correct choice. Its bold texture and dark color provide a level of "visual weight" that smaller dissectums cannot match.

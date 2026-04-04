@@ -1,43 +1,46 @@
 ---
 layout: default
 title: "Osakazuki"
-group: "Amoenum"
-foliage_sum_fall: "Green / Fire-Red"
-habit: "Upright (20-25')"
+group: "Palmatum"
+foliage_sum_fall: "Green / Crimson"
+habit: "Upright (15-20')"
+growth_rate: "Fast"
+budding: "Early-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
-growth_rate: "Fast (12-24\"/yr)"
-budding: "Mid-season"
 ---
 
-# 'Osakazuki' Japanese Maple: The Champion of Autumn
+# 'Osakazuki' Japanese Maple: The Saki Cup Maple
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Saki Cup" |
 
-| **Synonyms** | 'Taihai', 'Ohsakazuki', "Big Cup" |
 
 ## Overview
-'Osakazuki' is the world’s finest autumn-display maple, known for its incandescent scarlet transition that lasts for weeks. Belonging to the rugged **Amoenum** group, it features large, slightly concave leaves ("Wine Cups") and a vigorous, tree-like growth habit that is exceptionally resilient for novice gardeners.
+'Osakazuki' is an ancient and legendary cultivar that is widely considered to have the best fall color of any Japanese maple. The name translates roughly to "Saki Cup," referencing the large, saucer-shaped leaves that are exceptionally healthy and robust. It is a vigorous, upright tree that eventually forms a massive, rounded specimen reaching 15-20 feet, making it a true centerpiece for the larger landscape.
+
+The tree is exceptionally resilient and sun-tolerant, holding its foliage with a pristine, deep-green quality through the most punishing summer heat before igniting in its famous autumn display.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Understated dusty bronze-green emergence matures into a deep, glossy forest green. Thick leaf cuticles provide superior resistance to sun and wind "tip burn."
-- **Autumn**: Transforms into a searing, fluorescent scarlet wall of fire. This intense display is triggered by sunlight, requiring at least 5-6 hours of exposure for the full effect.
-- **Winter**: Forms a powerful architectural presence with a strong, thick trunk and a broad rounded crown.
+- **Spring**: New leaves emerge in a bright, clean chartreuse or light green. The foliage is unusually large and healthy, quickly forming a dense, cooling canopy.
+- **Summer**: Superior leaf health. 'Osakazuki' maintains its dark, emerald-green color flawlessly through the heat of summer. The leaves have a durable, waxy texture that resists pests and environmental stress better than most.
+- **Fall**: The "World Champion" phase. The entire tree transitions into a brilliant, translucent fire-engine red. The fall color is so intense and long-lasting that it is often the metric by which all other autumn maples are judged.
+- **Architecture**: Develops a well-balanced, multi-stemmed structure that provides a powerful silhouette in the winter dormant season.
 
 ## Garden Use & Care
-An ideal property anchor or privacy screen due to its 20-25 foot height. Pair with golden **Ginkgo biloba** for the ultimate autumn color combination.
+'Osakazuki' is a premier specimen for a large garden, a lawn centerpiece, or as a structural element at the end of a long path where its fall color can act as a "beacon." Because of its size and vigor, it is also a good choice for those who want a significant "ancient" presence in their landscape quickly.
 
 ### Maintenance Tips
-- **Thinning cuts**: Use winter thinning cuts to manage its vigorous, "whip-like" branches and maintain a tidy rounded crown.
-- **Drought Protection**: Due to its large leaf surface area, it requires deep weekly soaking during dry periods to prevent stress.
+- **Space Management**: Give this tree plenty of vertical and horizontal room. Its large leaves and vigor mean it will eventually command a significant amount of space.
+- **Sun Tolerance**: This is one of the most sun-tolerant green cultivars in existence. It handles full sun in most climates (Zones 5-8) with ease, provided it has consistent moisture.
+- **Minimal Pruning**: Its natural form is strong and well-balanced. Very little structural pruning is required, though a light thinning in late winter can help maintain air circulation.
 
 > [!TIP]
-> Plant in a loose triangle with 15-foot spacing to create a massive, unified fire-red canopy as the trees mature.
-
+> If you have a larger garden and can only plant one tree for fall color, 'Osakazuki' is the absolute champion. Nothing beats its saturated, "neon" red autumn display.

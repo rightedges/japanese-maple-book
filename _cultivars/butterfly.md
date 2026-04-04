@@ -4,40 +4,42 @@ title: "Butterfly"
 group: "Variegated"
 foliage_sum_fall: "White-Green / Pink-Red"
 habit: "Upright (8-12')"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
 growth_rate: "Moderate"
 budding: "Mid-season"
+sun_tolerance: "Moderate"
+parent: "17. Cultivar Library"
 ---
 
-# 'Butterfly' Japanese Maple: The Resilient Painted Tree
+# 'Butterfly' Japanese Maple: The Painted Variegated
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
-
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
 
+
 ## Overview
-'Butterfly' is the most reliable variegated maple for the average gardener. It features small, elegant leaves with irregular creamy-white margins that wrap around a soft green center, providing a shimmering "fly-away" texture that handles environmental stress better than more delicate variegated relatives.
+'Butterfly', historically known as 'Kochō-no-mai', is one of the most resilient and reliable variegated cultivars in the *Acer palmatum* family. It is prized for its spectacular cream-on-green variegation, where the margins of each leaf are "painted" with a sophisticated creamy white. Unlike many high-contrast variegated maples that are fragile, 'Butterfly' is relatively robust and maintains its structure and color well through the growing season.
+
+The tree has a graceful, upright, and somewhat irregular habit that gives it a unique, airy appearance. Over many years, it matures into a tall, multi-stemmed specimen that appears to "shimmer" in the light as the wind moves through its bi-colored leaves.
 
 ## Key Features & Seasonal Interest
-- **Spring**: Emerges as a cloud of neon pink, with margined magenta edges that eventually recede to white.
-- **Summer**: Transitions to a crisp cream-on-emerald palette. The cup-shaped leaves create a multifaceted shimmering effect in the wind.
-- **Fall**: White margins turn a saturated magenta or "painted" red, creating a unique, brushed-on glow.
+- **Spring**: A spectacular emergence. New leaves burst forth in a cloud of neon pink and cream. The pink tones are most intense on the margins, giving the entire tree a "glowing" magenta hue from a distance.
+- **Summer**: The pink recedes, maturing into a crisp, high-contrast palette of creamy white margins on an emerald-green center. The cup-shaped leaves catch the light and create a multifaceted, shimmering effect that is unique to this cultivar.
+- **Fall**: A sophisticated grand finale. The creamy margins transition into a saturated magenta or "painted" red, while the green centers turn a rich scarlet or orange. The contrast during fall is truly spectacular and provides a long-lasting show.
 
 ## Garden Use & Care
-Ideal as a patio pillar or a soft privacy screen. Its slow growth and 8-12 foot maturity make it a top container choice. Pair with **Black Mondo Grass** or dark-leaved **Heucheras** for maximum contrast.
+'Butterfly' is ideal as a patio specimen, a pillar in a mixed border, or as a soft privacy screen. Its slow growth and 8-12 foot maturity also make it a premiere choice for container gardening, where its "shimmering" quality can be appreciated up close. It pairs exceptionally well with dark-leaved plants like Black Mondo Grass or deep purple *Heucheras*, which emphasize its high-contrast variegation.
 
 ### Maintenance Tips
-- **Reversion Monitoring**: Prune out any solid green branches immediately to maintain the variegated genetics.
-- **Shearing**: Responds well to light "cloud pruning" or hedging in late summer to encourage a thicker, more "butterfly-like" habit.
+- **Reversion Monitoring**: All variegated maples can occasionally produce solid green branches (a reversion to the parent genetics). Prune these out immediately to maintain the tree's health and beauty; if left, the faster-growing green branches can eventually outcompete the variegated sections.
+- **Light Shielding**: Morning sun and afternoon shade is the secret to success. While 'Butterfly' is more sun-tolerant than some of its kin, direct afternoon sun in hot climates can cause the white margins to "crisp" or brown.
+- **Pruning**: Responds well to light "cloud pruning" or structural thinning. Its naturally irregular habit is charming, but a light structural thinning in late winter can help maintain its airy, vertical form.
 
 > [!TIP]
-> Morning sun and afternoon shade is the secret to keeping 'Butterfly' leaf margins pristine and preventing tip scorch in hotter zones.
-
+> Think of 'Butterfly' as a "shimmering pillar" for your garden corner. Plant it where it can catch the early morning light, and it will appear to come alive with movement and color.

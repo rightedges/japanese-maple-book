@@ -2,40 +2,44 @@
 layout: default
 title: "Orange Dream"
 group: "Palmatum"
-foliage_sum_fall: "Orange / Yellow-Gold"
-habit: "Upright (8-10')"
+foliage_sum_fall: "Orange-Gold / Green / Yellow"
+habit: "Upright (10-15')"
+growth_rate: "Fast (12-18\"/yr)"
+budding: "Early-season"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
-growth_rate: "Moderate"
-budding: "Early-season"
 ---
 
-# 'Orange Dream' Japanese Maple: The Golden Sunrise
+# 'Orange Dream' Japanese Maple: The Apricot Sunrise
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 
 
 ## Overview
-'Orange Dream' is celebrated for its hypnotic seasonal color shifts, emerging in spring with vibrant orange-to-gold foliage. A bushy, slow-growing upright (8-10ft), it has earned the RHS Award of Garden Merit for its reliable performance and luminous chartreuse summer display.
+'Orange Dream' is a spectacular and relatively modern cultivar that has quickly become a garden favorite. It is legendary for its vibrant "apricot-orange" spring emergence, which is one of the brightest and most warm-toned displays in the maple world. It has a graceful, upright, and somewhat spreading habit that matures into a well-structured tree reaching 10-15 feet.
+
+The tree features clean, healthy Palmatum-style foliage that maintains excellent luminosity through the growing season. It is more vigorous and faster-growing than many of its gold-leaf cousins, making it an accessible choice for high-impact color.
 
 ## Key Features & Seasonal Interest
-- **Spring Emergence**: Fresh golden-yellow leaves with distinct pinkish-orange margins create a "sunrise" effect.
-- **Summer Maturation**: Transitions to a cooling lemon yellow or chartreuse. Bright green bark adds a second layer of visual interest to the internal canopy.
-- **Fall Peak**: Concludes the season with a brilliant display of yellow-gold to crimson, depending on sun exposure.
+- **Spring**: A spectacular emergence. New leaves burst forth in a brilliant tapestry of pale orange, gold, and apricot, often with soft pink highlights on the tips. The emerging foliage appears "neon" in the early spring light.
+- **Summer**: The intense orange recedes, maturing into a bright, pleasant lime-green or chartreuse. The tree maintains a dense, reliable canopy that provides excellent shade and a cooling visual effect.
+- **Fall**: A reliable grand finale. The foliage transitions into a brilliant display of bright yellow and soft orange, echoing the warm tones of its spring display.
+- **Bark**: Small, young twigs often have a polished, greenish appearance that adds to the tree's winter aesthetic.
 
 ## Garden Use & Care
-Ideal for adding a splash of high-luminosity color to small gardens or as a patio specimen in large containers. Pair with dark evergreens to make the gold foliage "glow."
+'Orange Dream' is an ideal specimen for a mid-sized garden, a focal point in a mixed border, or as a structural element near a patio. Its fast growth rate (up to 12-18 inches/year) and vibrant color make it an excellent choice for a tall specimen or as a background for darker-leaved cultivars like 'Bloodgood'.
 
 ### Maintenance Tips
-- **Light Filter**: Thrives in dappled sunlight; full afternoon sun can scorch the delicate yellow margins during mid-summer heatwaves.
-- **Winter Interest**: The green bark provides a refreshing vertical contrast in dormant winter landscapes.
+- **The Light Balance**: Finding the "Goldilocks" zone of light is key. To get the best orange-apricot spring colors, provide several hours of morning sun. However, avoid intense late-afternoon sun in hot climates to prevent leaf scorch on the chartreuse summer leaves.
+- **Soil & Drainage**: Requires well-draining, slightly acidic soil. Like all Palmatums, it is sensitive to "wet feet," so ensure the planting site is naturally well-drained.
+- **Vigor**: This is a robust tree; benefits from a steady moisture regime and an annual application of balanced organic fertilizer in early spring to support its fast growth rate.
 
-> [!IMPORTANT]
-> To maintain the best orange-gold spring color, ensure it receives morning sun; too much shade will cause the tree to stay a flat green.
+> [!TIP]
+> Plant 'Orange Dream' where it can catch the very early morning light. The way the sun illuminates the apricot-orange leaves creates a "glowing" effect that is one of the most beautiful sights in the spring garden.

@@ -4,37 +4,42 @@ title: "Beni Chidori"
 group: "Palmatum"
 foliage_sum_fall: "Green / Orange-Gold"
 habit: "Bushy Dwarf (4-6')"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
 growth_rate: "Moderate"
 budding: "Early-season"
+sun_tolerance: "High"
+parent: "17. Cultivar Library"
 ---
 
-# 'Beni Chidori' Japanese Maple: The Red Plover
+# 'Beni Chidori' Japanese Maple: The Crimson Plover
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
-
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | Red Plover |
 
+
 ## Overview
-'Beni Chidori', translating to "Red Plover" (a type of shorebird), is a stunning dwarf variety often compared to 'Beni maiko' but distinct in its growth habit and subtle color variations. It is prized for its spectacular spring display of shrimp-pink to orange-red foliage that seems to glow in the garden.
+'Beni Chidori' is a beloved dwarf cultivar known for its extraordinary spring display. The name translates to "Red Plover" (a type of bird), referencing the way the small, vibrant leaves seem to "flock" along the branches. It is prized for its "shrimp-pink" or carmine-red spring emergence, which is one of the most unique and intense colors in the maple world.
+
+The tree has a compact, bushy, and naturally rounded habit. It is slow to moderate in growth, eventually forming a dense, architectural mound that fits perfectly into small gardens or specialized collections.
 
 ## Key Features & Seasonal Interest
-- **Spring**: Emerges with brilliant shrimp-pink to crimson-orange leaves. The color is incredibly vivid and lasts for several weeks.
-- **Summer**: The foliage matures to a bronze-green or completely green, often retaining red tones on new growth or tips.
-- **Fall**: Transforms into a mix of golds and oranges, providing a warm autumn display.
+- **Spring**: The primary attraction. Leaves emerge in a shocking, translucent carmine or "shrimp-pink." The foliage is small and delicate, creating an airy, light-filled appearance that signals the peak of spring.
+- **Summer**: The intense pink slowly recedes, transitioning into a healthy, mid-green with subtle red or pink highlights on the newer growth. The tree maintains a dense, bushy form that remains attractive throughout the summer heat.
+- **Fall**: A reliable finale. The foliage turns into a beautiful array of orange, gold, and soft red. The multi-toned fall color is exceptionally warm and provides a sophisticated contrast to the bright spring display.
 
 ## Garden Use & Care
-Its compact, shrub-like habit makes 'Beni Chidori' an excellent choice for smaller gardens, courtyards, or containers. It works closely well as a foreground plant in a layered border.
+Due to its small size (4-6 feet) and intense spring color, 'Beni Chidori' is a premier choice for rock gardens, small residential courtyards, or as a focal point in a mixed border. It is also an exceptional candidate for bonsai and long-term container gardening, where its naturally compact habit is easily maintained.
 
 ### Maintenance Tips
-- **Pruning**: Requires minimal pruning. Remove dead or crossing branches in late winter.
-- **Sun/Partial Shade**: While it tolerates sun, protection from the harsh midday sun in hotter climates will prolong the intensity of the spring color and prevent leaf scorch.
-- **Soil**: Thrives in moist, well-draining, slightly acidic soil.
+- **Light Shielding**: While it is relatively sun-tolerant, the best "pink" color is preserved by providing some afternoon shade. Intense direct sun in very hot climates may cause the delicate pink to fade more quickly to green.
+- **Soil & Drainage**: Requires well-draining, slightly acidic soil. Like most dwarf cultivars, it is sensitive to "wet feet," so ensure the planting site is naturally well-drained.
+- **Pruning**: Very little pruning is required. Its naturally rounded habit is self-maintaining, but a light thinning of the interior in late winter can help maintain air circulation.
+
+> [!TIP]
+> Plant 'Beni Chidori' near a path where you can appreciate the minute details of its "Crimson Plover" leaves. It pairs beautifully with small, blue-foliaged perennials or silver-leaved groundcovers.

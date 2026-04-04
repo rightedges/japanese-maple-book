@@ -2,7 +2,7 @@
 layout: default
 title: "Mikazuki"
 group: "Palmatum"
-foliage_sum_fall: "Green-Cream with Dark Veins / Golden-Orange"
+foliage_sum_fall: "Green-Cream / Gold-Orange"
 habit: "Upright (8-10')"
 growth_rate: "Moderate"
 budding: "Early-season"
@@ -22,21 +22,24 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | Crescent Moon |
 
+
 ## Overview
-'Mikazuki', which translates to "Crescent Moon," is one of the most remarkable variegated cultivars in the *Acer palmatum* family. It is prized for its reticulated foliage—where the leaf veins remain a contrasting deep green against a lighter background. This cultivar offers a multi-layered color experience that shifts dramatically through the seasons.
+'Mikazuki', which translates to "Crescent Moon," is a spectacular reticulated cultivar that belongs to the same prestigious group as 'Aureum' and 'Autumn Moon' for sheer visual impact. It is prized for its extraordinary variegated foliage, featuring long, narrow lobes with high-contrast dark green veins overlaid on a ground color of cream and soft pink. It has a graceful, upright habit that matures into an elegant specimen reaching 8-10 feet.
+
+The tree offers a level of airy transparency and ethereal beauty that is unmatched. Its "Crescent Moon" name likely refers to the way the delicate, curved leaf lobes catch the light, appearing like shimmering celestial slivers in the garden.
 
 ## Key Features & Seasonal Interest
-- **Spring**: The peak of its display. New leaves emerge in a brilliant, shocking pink with dark green "spider-web" veining. The lobes are narrow and often undulated, giving the entire tree a delicate, airy appearance.
-- **Summer**: As the heat increases, the pink fades into a sophisticated creamy white or light green-cream, while the dark green veins remain prominent, creating a ghost-like effect.
-- **Fall**: The foliage retires in a warm, glowing display of bright golden yellow and oranges, often with the green veining still visible as a subtle undercurrent.
+- **Spring**: A breathtaking emergence. New leaves burst forth in a complex tapestry of pink and cream, with a stark network of dark green veins. This reticulation is at its most intense in the first month of growth, making the tree appear to "glow" from within.
+- **Summer**: The pink recedes, maturing into a sophisticated palette of creamy white or pale yellow on a green center. The dark veins remain highly visible, providing continued interest and a "stained-glass" effect when backlit by the sun.
+- **Fall**: A dramatic finale in shades of burnished gold and saturated orange. The fall colors are exceptionally warm and echo the unique "moon-like" glow of the cultivar.
 
 ## Garden Use & Care
-Reaching 8-10 feet with an upright, bushy habit, 'Mikazuki' is a perfect mid-sized focal point. Its reticulated patterns are best appreciated up close, making it an excellent candidate for a courtyard, a large container, or placed near a walkway.
+'Mikazuki' should be used as a focal point in a woodland garden or a protected courtyard where its intricate leaf patterns can be appreciated up close. It is particularly effective when planted where it can be backlit by the morning or afternoon sun, which highlights the translucent quality of the reticulated leaves. It is also an exceptional candidate for container gardening.
 
 ### Maintenance Tips
-- **Light Shielding**: 'Mikazuki' requires protection from the harsh afternoon sun, which can "bleach" the delicate spring pinks or scorch the white summer margins. Dappled shade or a site with morning sun and afternoon shade is ideal.
-- **Soil Health**: Like most variegated maples, it thrives in well-draining, slightly acidic soil. Consistent moisture is key to preventing leaf edge crisping, especially in mid-summer.
-- **Pruning**: Minimal pruning is needed. Focus on maintaining its natural upright form and removing any deadwood in late winter.
+- **Light Shielding**: Morning sun and afternoon shade is the ideal balance. While it is more resilient than 'Aureum', the delicate variegated sections can be sensitive to direct, harsh afternoon sun in hot climates.
+- **Soil & Drainage**: Requires perfectly draining, slightly acidic soil. It is sensitive to "wet feet," so ensure the planting site is naturally well-drained or slightly mounded.
+- **Vigor**: Moderate growth rate; benefits from a steady moisture regime and an annual application of balanced organic fertilizer in early spring.
 
 > [!TIP]
-> Plant 'Mikazuki' where it can be viewed from a window or porch. The way the light filters through its translucent pink spring leaves is truly one of nature's greatest light shows.
+> Think of 'Mikazuki' as "celestial light in the shade." Plant it near a path or a seating area where you can appreciate the unique "Crescent Moon" curve of its lobes as they shimmer in the dappled light.

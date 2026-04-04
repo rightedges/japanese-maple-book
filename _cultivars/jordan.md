@@ -2,41 +2,43 @@
 layout: default
 title: "Jordan"
 group: "Shirasawanum"
-foliage_sum_fall: "Neon Yellow / Orange"
-habit: "Upright (10-12')"
+foliage_sum_fall: "Ghost-Gold / Orange-Red"
+habit: "Upright (10-15')"
+growth_rate: "Moderate"
+budding: "Late-season"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
-growth_rate: "Moderate"
-budding: "Mid-season"
 ---
 
-# 'Jordan' (Full Moon Maple): The Neon Master of the Garden
+# 'Jordan' Japanese Maple: The Luminous Gold Full Moon
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
 
 
 ## Overview
-'Jordan' is a spectacular Full Moon Maple (*Acer shirasawanum*) known for its extraordinary luminosity and vigorous growth. It features massive, rounded, pleated leaves that resemble hand-fans, providing a tropical, neon-bright chartreuse texture that thrives far better than older yellow varieties like 'Aureum'.
+'Jordan' is widely considered one of the most successful and resilient selections from the *Acer shirasawanum* group. Introduced from Italy, it was bred as a more sun-tolerant and vigorous alternative to the famous but delicate 'Aureum'. It is prized for its luminous, "ghost-gold" foliage, which appears to capture and hold the light, glowing even on overcast days. It has a graceful, upright habit that matures into a well-structured tree reaching 10-15 feet.
+
+The tree has the classic fan-like leaves of the *Shirasawanum* group, with 9 to 11 lobes. It is more robust than many of its kin, making it a more accessible choice for gardeners who want the high-impact yellow-gold look without the extreme sensitivity to sun and wind.
 
 ## Key Features & Seasonal Interest
-- **Spring**: Emerge as neon lemon-lime fans, often brushed with soft apricot-orange at the margins.
-- **Summer**: Maintains a saturated chartreuse with striking red upright seeds ("samaras") providing a stunning contrast.
-- **Fall & Winter**: Transitions through a "halo" effect to fiery orange and gold. Pale grey bark and tiered horizontal branching define its winter presence.
+- **Spring**: A spectacular emergence. New leaves burst forth in a soft, bright chartreuse or lemon-yellow, often with a subtle pink or orange blush on the margins. The emerging foliage is exceptionally fresh and clean.
+- **Summer**: In moderate sun, the foliage develops into a solid, saturated gold that appears to "emit" light. In deeper shade, it settles into a bright, pleasant lime-green. The tree maintains its luminous quality throughout the mid-summer heat better than most gold cultivars.
+- **Fall**: A dramatic transition into shades of electric orange and brilliant scarlet-red. The fall color is exceptionally vivid and provides a long-lasting show of warm, glowing tones.
 
 ## Garden Use & Care
-Functions as a "visual spotlight" in shaded or wooded areas. Its tropical texture makes it a perfect bridge plant for gardens featuring palms or large ferns. Pair with **Blue Hostas** for a classic high-design look.
+'Jordan' is a versatile centerpiece. It works beautifully as a specimen plant, providing a warm, illuminated focal point in morning sun settings. It is also an excellent choice for a large container or as a component of a tall mixed border. Its luminous gold foliage pairs exceptionally well with purple-leaved cultivars like 'Bloodgood' or deep blue conifers.
 
 ### Maintenance Tips
-- **Wind Protection**: Large fan-like leaves can "shred" in high winds; always plant in a sheltered location.
-- **Watering**: Because of its high surface area, it requires significantly more water than fine-leafed cultivars during establishment.
+- **The Light Balance**: Finding the "Goldilocks" zone of light is key. To get the best golden color, provide several hours of morning sun. While more sun-tolerant than 'Aureum', avoid intense late-afternoon sun in hot climates to prevent leaf scorch.
+- **Soil & Drainage**: Requires well-draining, slightly acidic soil. Like all *Shirasawanums*, it is sensitive to "wet feet," so ensure the planting site is naturally well-drained or slightly mounded.
+- **Feeding**: Responds well to a steady moisture regime and an annual application of balanced organic fertilizer in early spring to support its moderate growth rate.
 
 > [!TIP]
-> Ensure at least 3-4 hours of morning sun to trigger the vibrant red color in the seeds, which is the tree's most underrated feature.
-
+> Think of 'Jordan' as a "more reliable Aureum." If you have struggled with Golden Full Moon maples burning in the past, 'Jordan' provides that same luminous gold look with much greater resilience.

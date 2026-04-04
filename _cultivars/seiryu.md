@@ -3,41 +3,43 @@ layout: default
 title: "Seiryu"
 group: "Dissectum"
 foliage_sum_fall: "Green / Gold-Red"
-habit: "Upright (10-15')"
+habit: "Upright Vase (10-15')"
+growth_rate: "Fast"
+budding: "Mid-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
-growth_rate: "Fast (12-20\"/yr)"
-budding: "Late-season"
 ---
 
-# 'Seiryu' Japanese Maple: The Blue Dragon of the Sky
+# 'Seiryu' Japanese Maple: The Blue Dragon
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Blue Dragon" |
 
-| **Synonyms** | "Blue Green Dragon", Lace-leaf Japanese Maple |
 
 ## Overview
-'Seiryu' ("Blue Dragon") is a botanical marvel: the only widely available upright lace-leaf maple. It combines the delicate, feathery foliage of the **Dissectum** group with the vigorous, vase-like habit of **Palmatums**, offering lacey texture without the weeping footprint.
+'Seiryu', which translates to "Blue Dragon," is a unique and revolutionary member of the Dissectum (lace-leaf) group. Historically, almost all lace-leaf maples have a weeping, mounding habit. 'Seiryu' is the only common lace-leaf that grows strictly upright, forming a graceful vase-shaped tree reaching 10-15 feet. It is prized for its delicate, feathery foliage and its extraordinary vigor and resilience.
+
+The tree offers the same airy transparency and fine texture as the weeping dissectums but in a vertical package. Its "Blue Dragon" name likely refers to the way the delicate green leaves appear to "flutter" or "fly" in the wind.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Bright chartreuse ribbons emerge with pinkish-bronze tips, maturing into a crisp emerald emerald green that moves like a "flurry of feathers."
-- **Fall & Winter**: Legendary patchwork show of gold, orange, and deep red. Winter reveals a strong "V" architectural element, ideal for narrow spaces.
-- **Resilience**: Highly heat-tolerant with a surprisingly high limit for transpiration, making it ideal for sun-baked suburban yards.
+- **Spring**: New leaves emerge in a bright, clean chartreuse or light green, often with subtle red highlights on the tips. The foliage is finely dissected into narrow, delicate lobes, giving the tree a soft, feathery appearance early in the season.
+- **Summer**: Superior leaf health. 'Seiryu' maintains its bright emerald-green color flawlessly through the heat of summer. The tree forms a dense, airy canopy that provides excellent translucent light for plants growing beneath it.
+- **Fall**: A breathtaking grand finale. The foliage transitions into a brilliant display of golden yellow, burnt orange, and often a saturated scarlet-red. Because the leaves are so fine, the fall colors appear in a sophisticated, multi-toned "wash" across the canopy.
 
 ## Garden Use & Care
-Perfect for narrow side-yards or creating sheltered seating areas with a high, "feathery" screen. Its vertical dominance allows for underplanting with **Japanese Forest Grass** or **Bleeding Hearts**.
+'Seiryu' is a versatile centerpiece. It works beautifully as a specimen plant, providing a soft, feathery focal point in a lawn or near a patio. Its upright habit and high sun tolerance also make it an excellent choice for a tall mixed border or as a structural background for smaller, more delicate cultivars. It is also an exceptional candidate for large containers.
 
 ### Maintenance Tips
-- **Internal Thinning**: Prune out small, crossing twigs inside the "V" to allow light and air to reach the interior and prevent die-back.
-- **Reaction Wood**: Avoid staking too tightly; allowing the trunk to move in the wind builds a stronger, more stable tree.
+- **Sun Tolerance**: This is one of the most sun-tolerant dissectums. In most climates (Zones 5-8), it can handle full sun without significant leaf burn, provided it has consistent moisture.
+- **Minimal Pruning**: Its natural vase shape is strong and well-balanced. Very little structural pruning is required, though a light structural thinning in late winter can help maintain its airy, vertical form.
+- **Vigor**: This is a robust tree; benefits from a steady moisture regime and an annual application of balanced organic fertilizer in early spring.
 
 > [!TIP]
-> 'Seiryu' is a premier candidate for **Niwaki** (cloud pruning), where its vigor allows you to create large "pads" of lacey foliage that look like floating green clouds.
-
+> If you love the feathery look of lace-leaf maples but need a vertical specimen to fit a specific space, 'Seiryu' is the absolute champion of the genre.

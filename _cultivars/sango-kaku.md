@@ -1,42 +1,46 @@
 ---
 layout: default
-title: "Sango Kaku"
-group: "Matsumurae"
-foliage_sum_fall: "Green / Gold"
-habit: "Upright (15-20')"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
-growth_rate: "Fast (12-18\"/yr)"
+title: "Sango kaku"
+group: "Palmatum"
+foliage_sum_fall: "Green / Yellow-Gold"
+habit: "Upright Vase (15-20')"
+growth_rate: "Fast"
 budding: "Early-season"
+sun_tolerance: "High"
+parent: "17. Cultivar Library"
 ---
 
-# 'Sango Kaku' (Coral Bark Maple): A Four-Season Symphony
+# 'Sango kaku' Japanese Maple: The Coral Bark Maple
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | Coral Bark Japanese Maple |
 
-| **Synonyms** | 'Senkaki', 'Ebi-no-hige', 'Cinnabarinum' |
 
 ## Overview
-'Sango Kaku', or the "Coral Bark Maple," is primarily celebrated for its vibrant neon coral-pink winter bark. A member of the vigorous **Matsumurae** group, it provides a dramatic, year-round color shift, culminating in a hypnotic display against the grey winter landscape.
+'Sango kaku', which translates to "Coral Tower," is one of the most famous and widely planted Japanese maples in the world. It is legendary for its extraordinary winter bark, which glows in a saturated coral-pink or "carmine-red" after the leaves have fallen. It has a strong, upright, and somewhat vase-shaped habit that matures into a large, well-structured tree reaching 15-20 feet.
+
+The tree is prized for its multi-season interest—offering fresh green leaves in spring, a cooling canopy in summer, golden-yellow foliage in fall, and the legendary coral bark in winter. It is a "workhorse" cultivar that provides a critical architectural element to any landscape.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Chartreuse leaves with reddish margins emerge, maturing into a bright, glossy green with an airy canopy.
-- **Fall & Winter**: Transitions through apricot-gold to a complete bareness that triggers the fluorescent coral-red bark intensification.
-- **Bark Care**: The intense color is most prominent on 1-2 year old growth ("twigs"). Proper pruning is essential to encourage the regular production of this juvenile wood.
+- **Spring**: New leaves emerge in a bright, clean chartreuse or light lemon-yellow, often with subtle pink highlights on the tips. The fresh green foliage provides a stark and beautiful contrast to the coral-red branches that carry them.
+- **Summer**: The leaves mature into a solid, healthy mid-green. The tree forms a dense, airy canopy that provides excellent shade and a cooling visual effect.
+- **Fall**: A dependable display of bright, clear yellow and soft orange. The golden leaves against the vibrant coral bark create a stunning "primary color" combination.
+- **Winter**: The bark is the true star. After the leaves fall, the entire tree—from the main trunk to the smallest twigs—glows in an intense, saturated coral-pink. The color is most vibrant in the dormant season, especially when highlighted by snow or a dark background.
 
 ## Garden Use & Care
-An ideal "window specimen" near kitchens or living rooms to brighten winter views. Pair with yellow-barked **Dogwoods** for a high-impact "fire and ice" effect.
+'Sango kaku' should be used as a focal point where its winter bark can be appreciated. It is often planted as a lawn specimen or as a high-impact element in a large mixed border. Its upright, vase-like habit also makes it an excellent choice for a tall privacy screen or as a structural element near a house entrance.
 
 ### Maintenance Tips
-- **Avoid Winter Pruning**: To prevent **Bacterial Blight** (twig blackening), wait until the dry heat of mid-summer to make cuts.
-- **Drainage**: Requires perfect drainage; heavy, water-logged clay can cause rapid die-back.
+- **Encouraging New Wood**: The brightest coral color is found on the newest growth. To keep the tree "shining" in winter, perform occasional thinning of older branches to stimulate fresh, vibrant coral shoots.
+- **Sun Exposure**: Handles sun better than most. To get the best winter bark color, provide significant direct light during the growing season.
+- **Fungal Awareness**: Like many colored-bark maples, 'Sango kaku' can be susceptible to *Pseudomonas* tip blight in wet, cool springs. Plant in a spot with excellent air circulation and avoid overhead watering.
 
-> [!WARNING]
-> Avoid high-nitrogen fertilizers. "Fast" growth is "soft" growth, which is significantly more vulnerable to winter kill and bacterial infection.
+> [!TIP]
+> Plant 'Sango kaku' against a dark background, such as a yew hedge or a charcoal-colored wall. The contrast will make the coral bark "pop" with even more intensity in the winter landscape.

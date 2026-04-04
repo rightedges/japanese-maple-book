@@ -2,42 +2,45 @@
 layout: default
 title: "Tamukeyama"
 group: "Dissectum"
-foliage_sum_fall: "Purple-Red / Scarlet"
+foliage_sum_fall: "Deep Purple / Crimson"
 habit: "Weeping (6-8')"
+growth_rate: "Moderate"
+budding: "Mid-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
-growth_rate: "Moderate to Fast"
-budding: "Mid-season"
 ---
 
-# 'Tamukeyama' Japanese Maple: The Iron Man of Dissectums
+# 'Tamukeyama' Japanese Maple: The Hands-Off Heirloom
 
 | Attribute | Specification |
 | :--- | :--- |
 | **Group** | {{ page.group }} |
 | **Foliage (Sum/Fall)** | {{ page.foliage_sum_fall }} |
 | **Mature Habit** | {{ page.habit }} |
-| **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Growth Rate** | {{ page.growth_rate }} |
 | **Budding** | {{ page.budding }} |
+| **Sun Tolerance** | {{ page.sun_tolerance }} |
+| **Synonyms** | "Folding Hands on the Mountain" |
 
-| **Synonyms** | "Hands folded in prayer on the mountain", Laceleaf Maple |
 
 ## Overview
-'Tamukeyama' is the ultimate "no-excuses" red weeping maple, legendary for its 300-year history and incredible resilience. It handles heat, humidity, and wind better than almost any other dissectum, making it the #1 choice for challenging sunny spots in USDA Zones 7-9.
+'Tamukeyama' is one of the oldest and most successful lace-leaf (dissectum) cultivars in history, with records dating back to 1710. It is the "gold standard" for resilience in the red dissectum group, prized for its extraordinary ability to maintain its deep, saturated purple-red color through the most punishing summer heat and humidity. It develops a graceful, cascading, and mounding habit that eventually forms a wide, arching canopy of fine foliage.
+
+The tree is remarkably vigorous for a dissectum and develops a strong, architectural structure. It is a long-lived and reliable cultivar that provides a classic Japanese garden aesthetic with very little effort from the gardener.
 
 ## Key Features & Seasonal Interest
-- **Spring & Summer**: Emerge as deep crimson-purple with "leathery" leaves that resist scorching. It maintains a dark maroon-red even in 100°F (38°C) August heat.
-- **Autumn**: Transitions to a shocking scarlet, often as the "final fire" of the season.
-- **Form**: A powerful, arching "mushroom" habit with thick, sturdy structural branches.
+- **Spring**: New leaves emerge in a brilliant, shocking crimson or scarlet-red. The foliage is finely dissected into narrow, delicate lobes, giving the tree a soft, feathery appearance.
+- **Summer**: Superior color retention. While many red dissectums fade to bronze or green in high heat, 'Tamukeyama' holds its rich burgundy or dark red color flawlessly. It is often cited as the best red dissectum for the hot, humid climates of the American Southeast.
+- **Fall**: A breathtaking transition into a brilliant, translucent fire-engine red. The autumn color is exceptionally bright and provides a high-impact show that is one of the highlights of the garden year.
+- **Architecture**: Develops a well-balanced, cascading habit that provides a stunning "mound" of texture even in the winter dormant season.
 
 ## Garden Use & Care
-Ideally suited for sunny slopes or as a reliable courtyard focal point. Pair with gold-leaved plants like **Aureum Dogwood** or structural companions like **Blue Star Juniper**.
+'Tamukeyama' is an ideal specimen for a central position in a garden bed, a lawn centerpiece, or as a graceful element leaning over a pond or stone feature. Its weeping form and fine texture make it a perfect companion for larger-leaved maples or structural evergreens. It is also a premier choice for large, low containers.
 
 ### Maintenance Tips
-- **Skirt Lifting**: Prune the lower branches every 2-3 years to keep them 6 inches above the mulch, preventing "bottom-heavy" growth and fungal issues.
-- **Root Management**: Tease out roots thoroughly when planting to prevent late-stage root girdling.
+- **Sun Tolerance**: This is one of the most sun-tolerant red dissectums. In most climates (Zones 5-8), it can handle full sun without significant leaf burn, provided it has consistent moisture.
+- **Minimal Pruning**: Its natural form is strong and well-balanced. To maintain the cascading effect, perform light "umbrella pruning" in late winter to thin out the interior and allow the arching branches to take center stage.
+- **Soil & Drainage**: Requires well-draining, slightly acidic soil. Like all dissectums, it is sensitive to "wet feet," so ensure the planting site is naturally well-drained.
 
-> [!IMPORTANT]
-> To maintain the iconic "weeping" look, do not allow branches to rest on the ground. Proper air flow around the trunk is essential for long-term health.
-
+> [!TIP]
+> If you live in a hot climate and have failed with other red weeping maples, 'Tamukeyama' is your best bet. It is the definition of "reliability" in the dissectum world.
