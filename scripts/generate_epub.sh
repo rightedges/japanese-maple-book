@@ -7,8 +7,24 @@ OUTPUT="assets/japanese-maple.epub"
 # Create a temporary file to hold the complete markdown content
 COMBINED_MD="combined.md"
 
-# Extract version from _config.yml
-VERSION=$(grep "^version:" _config.yml | awk '{print $2}' | tr -d '"' | tr -d "'")
+# Increment version in _config.yml automatically
+echo "Incrementing version..."
+VERSION=$(python3 -c "
+import re
+with open('_config.yml', 'r') as f:
+    content = f.read()
+match = re.search(r'version: \"(.*)\"', content)
+if match:
+    v = match.group(1)
+    parts = v.split('.')
+    parts[-1] = str(int(parts[-1]) + 1)
+    new_v = '.'.join(parts)
+    new_content = re.sub(r'version: \".*\"', f'version: \"{new_v}\"', content)
+    with open('_config.yml', 'w') as f:
+        f.write(new_content)
+    print(new_v)
+")
+
 DATE=$(date +"%b %Y")
 
 # Add title block for Pandoc
