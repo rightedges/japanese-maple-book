@@ -40,9 +40,10 @@ Welcome to the digital edition of *Japanese Maple*. This guide explores the hist
 
 ### Part VI: Specialized Interests
 *   [16. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/16-bonsai.html)
+*   [17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html)
 
 ### Part VII: Reference
-*   [17. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
+*   [18. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
 
 ### Part VIII: Appendices
 *   [Appendix A: Cultivar Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
