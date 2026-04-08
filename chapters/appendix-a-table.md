@@ -253,6 +253,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Best Feature** | Backlit "glow." Thinner, more translucent foliage than 'Bloodgood'; stays more compact. |
 
+### [Firefly](/japanese-maple-book/cultivars/firefly)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Pink-Rose / Fire Red |
+| **Mature Habit** | Upright (8-12') |
+| **Growth Rate** | Moderate |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Botanical neon." Hot pink spring emergence with intense lime-green reticulation. |
+
 ### [First Ghost](/japanese-maple-book/cultivars/first-ghost)
 
 | Attribute | Specification |
@@ -377,6 +389,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | Crescent Moon |
 | **Best Feature** | "Crescent Moon" reticulation. Striking pink spring foliage with dark green veins; elegant narrow lobes. |
 
+### [Mila](/japanese-maple-book/cultivars/mila)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Palmatum |
+| **Foliage (Sum/Fall)** | Pink-Red / Orange-Red |
+| **Mature Habit** | Upright Vase (10-15') |
+| **Growth Rate** | Vigorous (8-18"/yr) |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | High |
+| **Best Feature** | "Dutch Ruby." Produces constant flushes of vibrant red and pink growth all summer long. |
+
 ### [Koto no ito](/japanese-maple-book/cultivars/koto-no-ito)
 
 | Attribute | Specification |
@@ -451,6 +475,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | High |
 | **Synonyms** | 'Taihai', 'Ohsakazuki', "Big Cup" |
 | **Best Feature** | World-class fall color. A "green giant" for 10 months, but becomes the garden star in November. |
+
+### [Peaches and Cream](/japanese-maple-book/cultivars/peaches-and-cream)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Dwarf |
+| **Foliage (Sum/Fall)** | Peach-Cream / Yellow-Orange |
+| **Mature Habit** | Compact Upright (7-10') |
+| **Growth Rate** | Slow to Moderate |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Pastel Jewel." Striking peachy-pink reticulation on a creamy base; glows in the shade. |
 
 ### [Peve Starfish](/japanese-maple-book/cultivars/peve-starfish)
 
