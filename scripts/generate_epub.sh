@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+export PATH="/usr/local/bin:/opt/homebrew/bin:$PATH"
 
 # Output file
 OUTPUT="assets/japanese-maple.epub"

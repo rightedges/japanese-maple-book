@@ -76,6 +76,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | *Acer shirasawanum* 'Autumn Moon' |
 | **Best Feature** | "Peach Moon" glow. A more sun-tolerant Shirasawanum that develops a stunning orange-peach blush in morning sun. |
 
+### [Baby Ghost](/japanese-maple-book/cultivars/baby-ghost)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Variegated |
+| **Foliage (Sum/Fall)** | Amber-Pink / Bright Orange |
+| **Mature Habit** | Small Upright (6-10') |
+| **Growth Rate** | Slow to Moderate |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Personality in a small package." The most compact member of the Ghost series, offering intense amber-red reticulation. |
+
 ### [Baldsmith](/japanese-maple-book/cultivars/baldsmith)
 
 | Attribute | Specification |
@@ -463,6 +475,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Synonyms** | "The Willow Maple" |
 | **Best Feature** | Graceful weeping fountain form. Long, slender branches cascade like a willow; unmatched fire-orange autumn display. |
 
+### [Olsen’s Frosted Strawberry](/japanese-maple-book/cultivars/olsens-frosted-strawberry)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Dwarf |
+| **Foliage (Sum/Fall)** | Frosted-Pink / Fiery Orange |
+| **Mature Habit** | Rounded Dwarf (4-8') |
+| **Growth Rate** | Slow |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | Moderate |
+| **Best Feature** | "Cool Fire." Radiant strawberry-pink spring growth transitions to a frosted, shimmering white in summer. |
+
 ### [Osakazuki](/japanese-maple-book/cultivars/osakazuki)
 
 | Attribute | Specification |
@@ -563,6 +587,18 @@ This reference guide provides detailed information on some of the most popular J
 | **Sun Tolerance** | Moderate |
 | **Synonyms** | 'Moving Fan', Acer shirasawanum 'Sensu' |
 | **Best Feature** | "Moving Fan" foliage. Graceful, pendulous branches that move elegantly in the breeze; outstanding coppery fall colors. |
+
+### [Sharp’s Pygmy](/japanese-maple-book/cultivars/sharps-pygmy)
+
+| Attribute | Specification |
+| :--- | :--- |
+| **Group** | Dwarf |
+| **Foliage (Sum/Fall)** | Lime-Green / Orange-Scarlet |
+| **Mature Habit** | Dense Globe Dwarf (2-4') |
+| **Growth Rate** | Slow (1-3"/yr) |
+| **Budding** | Mid-season |
+| **Sun Tolerance** | High |
+| **Best Feature** | "Instant Age." The ultimate "natural bonsai" with a perfectly globe-like habit and spectacular fall color. |
 
 ### [Shishigashira](/japanese-maple-book/cultivars/shishigashira)
 
