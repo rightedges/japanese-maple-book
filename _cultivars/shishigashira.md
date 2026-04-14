@@ -28,6 +28,9 @@ parent: "17. Cultivar Library"
 
 The tree has a rugged, "ancient" appearance from a very young age. It is a certified conversation piece and the target of almost every Japanese maple collector.
 
+![Spring 'Shishigashira']({{ site.baseurl }}/assets/images/shishigashira-spring.jpg)
+*Typical spring emergence of 'Shishigashira', showing the brilliant emerald-green and characteristic curled texture.*
+
 ## Key Features & Seasonal Interest
 - **Spring**: A late-season budder. New leaves emerge later than most maples, protecting them from spring frosts. The foliage is a brilliant, deep emerald-green and immediately shows its unique "crinkled" texture.
 - **Summer**: Outstanding leaf health. 'Shishigashira' maintains its saturated green color flawlessly through the height of summer. The leaves are thick and waxy, resisting heat and pests better than almost any other cultivar.
