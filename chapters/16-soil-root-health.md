@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "18. The Subterranean Audit"
+title: "16. The Subterranean Audit"
 parent: "Part V: Health & Troubleshooting"
-nav_order: 3
-permalink: /chapters/18-soil-root-health.html
+nav_order: 4
+permalink: /chapters/16-soil-root-health.html
 ---
 
 # The Subterranean Audit: Diagnosing Soil and Root Health
@@ -79,4 +79,4 @@ The health of your Japanese Maple begins six inches below the surface.
 
 ---
 
-[← Previous: 17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html) | [Next: Appendix A →]({{ site.baseurl }}/chapters/appendix-a-table.html)
+[← Previous: 15. Calendar]({{ site.baseurl }}/chapters/15-calendar.html) | [Next: 17. Bonsai →]({{ site.baseurl }}/chapters/17-bonsai.html)

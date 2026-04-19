@@ -62,7 +62,7 @@ If your tree looks rough in August, don't give up! Follow these steps to help it
 4.  **Be Patient**: A maple will often drop its ugly leaves and grow a new, fresh set once the weather cools down in the fall.
 
 > [!CAUTION]
-> **The Thirst Illusion**: If your tree looks thirsty but the soil is damp, **do not add more water**. You are likely seeing the symptoms of root rot, not drought. See [Chapter 18]({{ site.baseurl }}/chapters/18-soil-root-health.html) for how to tell the difference.
+> **The Thirst Illusion**: If your tree looks thirsty but the soil is damp, **do not add more water**. You are likely seeing the symptoms of root rot, not drought. See [Chapter 16]({{ site.baseurl }}/chapters/16-soil-root-health.html) for how to tell the difference.
 
 ---
 

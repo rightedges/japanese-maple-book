@@ -66,21 +66,24 @@
     - title: "15. Maintenance Calendar"
       url: /chapters/15-calendar.html
       file: chapters/15-calendar.md
-    - title: "18. The Subterranean Audit"
-      url: /chapters/18-soil-root-health.html
-      file: chapters/18-soil-root-health.md
+    - title: "16. The Subterranean Audit"
+      url: /chapters/16-soil-root-health.html
+      file: chapters/16-soil-root-health.md
 
 - title: "Part VI: Specialized Interests"
   file: chapters/part-6-specialized.md
   children:
-    - title: "16. Maple Bonsai Introduction"
-      url: /chapters/16-bonsai.html
-      file: chapters/16-bonsai.md
+    - title: "17. Maple Bonsai Introduction"
+      url: /chapters/17-bonsai.html
+      file: chapters/17-bonsai.md
+    - title: "18. Staking and Training"
+      url: /chapters/18-staking-training.html
+      file: chapters/18-staking-training.md
 
 - title: "Part VII: Reference"
   file: chapters/part-7-reference.md
   children:
-    - title: "17. Cultivar Library"
+    - title: "19. Cultivar Library"
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
       children:

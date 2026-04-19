@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "16. Maple Bonsai Introduction"
+title: "17. Maple Bonsai Introduction"
 parent: "Part VI: Specialized Interests"
 nav_order: 1
-permalink: /chapters/16-bonsai.html
+permalink: /chapters/17-bonsai.html
 ---
 
 # Maple Bonsai: The Mountain Distilled

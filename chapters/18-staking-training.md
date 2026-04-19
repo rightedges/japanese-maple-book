@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "17. Staking and Training"
+title: "18. Staking and Training"
 parent: "Part VI: Specialized Interests"
 nav_order: 2
-permalink: /chapters/17-staking-training.html
+permalink: /chapters/18-staking-training.html
 ---
 
 # Staking and Training: Sculpture in Motion

@@ -56,7 +56,7 @@ Do not use "Garden Soil" or cheap "Potting Mix."
 *   **The Lifecycle**: Organic components break down over 2-3 years. You must refresh the soil periodically to prevent it from becoming a "compacted muck" that suffocates roots.
 
 > [!TIP]
-> **The Pro Audit**: If your container tree isn't growing as expected, don't wait for the 3-year repotting cycle. Perform a "Subterranean Audit" as described in [Chapter 18]({{ site.baseurl }}/chapters/18-soil-root-health.html) to check for anaerobic soil conditions.
+> **The Pro Audit**: If your container tree isn't growing as expected, don't wait for the 3-year repotting cycle. Perform a "Subterranean Audit" as described in [Chapter 16]({{ site.baseurl }}/chapters/16-soil-root-health.html) to check for anaerobic soil conditions.
 
 ---
 
