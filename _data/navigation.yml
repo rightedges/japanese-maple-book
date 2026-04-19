@@ -66,6 +66,9 @@
     - title: "15. Maintenance Calendar"
       url: /chapters/15-calendar.html
       file: chapters/15-calendar.md
+    - title: "18. The Subterranean Audit"
+      url: /chapters/18-soil-root-health.html
+      file: chapters/18-soil-root-health.md
 
 - title: "Part VI: Specialized Interests"
   file: chapters/part-6-specialized.md

@@ -33,6 +33,9 @@ This happens when a tree sits in soaking wet soil for too long.
 *   **The Sign**: The tree looks thirsty and starts to wilt, even though the ground is wet.
 *   **The Fix**: Improve the drainage! If the tree is in a pot, make sure it has plenty of holes. If it's in the ground, you might need to move it to a higher spot or a mound.
 
+> [!IMPORTANT]
+> **Don't guess—check the roots.** Before treating for thirst or pests, perform an **Extraction Exam** to see if the soil is the problem. See [Chapter 18: The Subterranean Audit]({{ site.baseurl }}/chapters/18-soil-root-health.html) for the full guide.
+
 ---
 
 ## 2. Common Pests: Tiny Neighbors
