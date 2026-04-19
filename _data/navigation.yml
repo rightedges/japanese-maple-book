@@ -27,12 +27,12 @@
     - title: "6. Watering and Mulching"
       url: /chapters/06-watering.html
       file: chapters/06-watering.md
-    - title: "7. Container Culture"
-      url: /chapters/07-containers.html
-      file: chapters/07-containers.md
-    - title: "8. Fertilization Basics"
-      url: /chapters/08-fertilization.html
-      file: chapters/08-fertilization.md
+    - title: "7. Fertilization Basics"
+      url: /chapters/07-fertilization.html
+      file: chapters/07-fertilization.md
+    - title: "8. Container Culture"
+      url: /chapters/08-containers.html
+      file: chapters/08-containers.md
 
 - title: "Part III: Design & Aesthetics"
   file: chapters/part-3-design.md
@@ -57,28 +57,28 @@
 - title: "Part V: Health & Troubleshooting"
   file: chapters/part-5-health.md
   children:
-    - title: "13. Pests and Diseases"
-      url: /chapters/13-pests-diseases.html
-      file: chapters/13-pests-diseases.md
-    - title: "14. Environmental Stress"
-      url: /chapters/14-environmental-stress.html
-      file: chapters/14-environmental-stress.md
-    - title: "15. Maintenance Calendar"
-      url: /chapters/15-calendar.html
-      file: chapters/15-calendar.md
-    - title: "16. The Subterranean Audit"
-      url: /chapters/16-soil-root-health.html
-      file: chapters/16-soil-root-health.md
+    - title: "13. Environmental Stress"
+      url: /chapters/13-environmental-stress.html
+      file: chapters/13-environmental-stress.md
+    - title: "14. The Subterranean Audit"
+      url: /chapters/14-soil-root-health.html
+      file: chapters/14-soil-root-health.md
+    - title: "15. Pests and Diseases"
+      url: /chapters/15-pests-diseases.html
+      file: chapters/15-pests-diseases.md
+    - title: "16. Maintenance Calendar"
+      url: /chapters/16-calendar.html
+      file: chapters/16-calendar.md
 
 - title: "Part VI: Specialized Interests"
   file: chapters/part-6-specialized.md
   children:
-    - title: "17. Maple Bonsai Introduction"
-      url: /chapters/17-bonsai.html
-      file: chapters/17-bonsai.md
-    - title: "18. Staking and Training"
-      url: /chapters/18-staking-training.html
-      file: chapters/18-staking-training.md
+    - title: "17. Staking and Training"
+      url: /chapters/17-staking-training.html
+      file: chapters/17-staking-training.md
+    - title: "18. Maple Bonsai Introduction"
+      url: /chapters/18-bonsai.html
+      file: chapters/18-bonsai.md
 
 - title: "Part VII: Reference"
   file: chapters/part-7-reference.md

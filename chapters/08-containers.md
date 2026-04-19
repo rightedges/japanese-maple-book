@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "7. Container Culture"
+title: "8. Container Culture"
 parent: "Part II: Cultivation & Care"
-nav_order: 3
-permalink: /chapters/07-containers.html
+nav_order: 4
+permalink: /chapters/08-containers.html
 ---
 
 # Container Culture: The Mobile Masterpiece
@@ -41,7 +41,7 @@ Water does not move easily from a fine-textured material (soil) to a coarse-text
 This is the most important rule of container maples.
 *   **The Physics**: A tree's roots are far more sensitive to cold than its branches. In the ground, the soil temperature rarely drops below 32°F (0°C). In a pot, the soil temperature can match the air temperature.
 *   **The Rule**: If a maple is rated for Zone 5 in the ground, in a pot it behaves as if it's in Zone 7. To survive a winter in a pot without protection, you must choose a tree that is **two zones hardier** than your current location.
-*   **The Protection**: If you live in Zone 6, you must wrap your Zone 6 maples in burlap or move them into an unheated garage (Chapter 15) once the temperature drops below 20°F (-7°C).
+*   **The Protection**: If you live in Zone 6, you must wrap your Zone 6 maples in burlap or move them into an unheated garage (Chapter 16) once the temperature drops below 20°F (-7°C).
 
 ---
 
@@ -55,8 +55,7 @@ Do not use "Garden Soil" or cheap "Potting Mix."
     *   **30% High-quality Peat or Compost**: Provides water retention.
 *   **The Lifecycle**: Organic components break down over 2-3 years. You must refresh the soil periodically to prevent it from becoming a "compacted muck" that suffocates roots.
 
-> [!TIP]
-> **The Pro Audit**: If your container tree isn't growing as expected, don't wait for the 3-year repotting cycle. Perform a "Subterranean Audit" as described in [Chapter 16]({{ site.baseurl }}/chapters/16-soil-root-health.html) to check for anaerobic soil conditions.
+> **The Pro Audit**: If your container tree isn't growing as expected, don't wait for the 3-year repotting cycle. Perform a "Subterranean Audit" as described in [Chapter 14]({{ site.baseurl }}/chapters/14-soil-root-health.html) to check for anaerobic soil conditions.
 
 ---
 
@@ -98,4 +97,4 @@ A properly managed container maple can live for 50 to 100 years. It is a legacy 
 
 ---
 
-[← Previous: 6. Watering]({{ site.baseurl }}/chapters/06-watering.html) | [Next: 8. Fertilization →]({{ site.baseurl }}/chapters/08-fertilization.html)
+[← Previous: 7. Fertilization Basics]({{ site.baseurl }}/chapters/07-fertilization.html) | [Next: 9. Seasonal Color →]({{ site.baseurl }}/chapters/09-seasonal-color.html)

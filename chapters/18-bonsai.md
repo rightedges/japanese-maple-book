@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "17. Maple Bonsai Introduction"
+title: "18. Maple Bonsai Introduction"
 parent: "Part VI: Specialized Interests"
-nav_order: 1
-permalink: /chapters/17-bonsai.html
+nav_order: 2
+permalink: /chapters/18-bonsai.html
 ---
 
 # Maple Bonsai: The Mountain Distilled
@@ -59,4 +59,4 @@ Bonsai is a "slow art." You can't rush a tree to grow, but that's part of the fu
 
 ---
 
-[← Previous: 15. Calendar]({{ site.baseurl }}/chapters/15-calendar.html) | [Next: 17. Library →]({{ site.baseurl }}/chapters/cultivar-library.html)
+[← Previous: 17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html) | [Next: 19. Cultivar Library →]({{ site.baseurl }}/chapters/cultivar-library.html)

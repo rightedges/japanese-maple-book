@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "18. Staking and Training"
+title: "17. Staking and Training"
 parent: "Part VI: Specialized Interests"
-nav_order: 2
-permalink: /chapters/18-staking-training.html
+nav_order: 1
+permalink: /chapters/17-staking-training.html
 ---
 
 # Staking and Training: Sculpture in Motion
@@ -73,4 +73,4 @@ You don't need expensive equipment to stake like a professional:
 
 ---
 
-[← Previous: 16. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/16-bonsai.html) | [Next: 18. Cultivar Library →]({{ site.baseurl }}/chapters/cultivar-library.html)
+[← Previous: 16. Maintenance Calendar]({{ site.baseurl }}/chapters/16-calendar.html) | [Next: 18. Maple Bonsai Introduction →]({{ site.baseurl }}/chapters/18-bonsai.html)

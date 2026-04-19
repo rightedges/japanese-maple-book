@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "14. Environmental Stress"
+title: "13. Environmental Stress"
 parent: "Part V: Health & Troubleshooting"
-nav_order: 2
-permalink: /chapters/14-environmental-stress.html
+nav_order: 1
+permalink: /chapters/13-environmental-stress.html
 ---
 
 # Environmental Stress: Helping Your Tree Cope
@@ -62,7 +62,7 @@ If your tree looks rough in August, don't give up! Follow these steps to help it
 4.  **Be Patient**: A maple will often drop its ugly leaves and grow a new, fresh set once the weather cools down in the fall.
 
 > [!CAUTION]
-> **The Thirst Illusion**: If your tree looks thirsty but the soil is damp, **do not add more water**. You are likely seeing the symptoms of root rot, not drought. See [Chapter 16]({{ site.baseurl }}/chapters/16-soil-root-health.html) for how to tell the difference.
+> **The Thirst Illusion**: If your tree looks thirsty but the soil is damp, **do not add more water**. You are likely seeing the symptoms of root rot, not drought. See [Chapter 14]({{ site.baseurl }}/chapters/14-soil-root-health.html) for how to tell the difference.
 
 ---
 
@@ -72,4 +72,4 @@ Japanese Maples don't need a perfect world; they just need a stable one. By unde
 
 ---
 
-[← Previous: 13. Pests]({{ site.baseurl }}/chapters/13-pests-diseases.html) | [Next: 15. Calendar →]({{ site.baseurl }}/chapters/15-calendar.html)
+[← Previous: 12. Propagation]({{ site.baseurl }}/chapters/12-propagation.html) | [Next: 14. The Audit →]({{ site.baseurl }}/chapters/14-soil-root-health.html)

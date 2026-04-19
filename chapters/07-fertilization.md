@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "8. Fertilization Basics"
+title: "7. Fertilization Basics"
 parent: "Part II: Cultivation & Care"
-nav_order: 4
-permalink: /chapters/08-fertilization.html
+nav_order: 3
+permalink: /chapters/07-fertilization.html
 ---
 
 # Fertilization: The Technical Art of Restraint
@@ -99,7 +99,7 @@ For container trees, you may continue light liquid feeding (Fish Emulsion) throu
 
 ### The Autumn Prohibition (REALLY IMPORTANT)
 **Do not fertilize after July.** 
-In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 13).
+In late summer, a Japanese Maple is shifting its metabolism. If you add Nitrogen in August, you "confuse" the tree. It will push out tender, succulent new red shoots in September. These shoots will have zero frost resistance. When the first freeze hits, the water in those tender shoots will expand, bursting the cell walls and allowing **Pseudomonas** bacteria to enter the tree (see Chapter 15).
 
 ---
 
@@ -111,4 +111,4 @@ If you must intervene, do so with the "Bonsai Mindset." Use organic, low-nitroge
 
 ---
 
-[← Previous: 7. Containers]({{ site.baseurl }}/chapters/07-containers.html) | [Next: 9. Seasonal Color →]({{ site.baseurl }}/chapters/09-seasonal-color.html)
+[← Previous: 6. Watering]({{ site.baseurl }}/chapters/06-watering.html) | [Next: 8. Container Culture →]({{ site.baseurl }}/chapters/08-containers.html)

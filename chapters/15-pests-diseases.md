@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "13. Pests and Diseases"
+title: "15. Pests and Diseases"
 parent: "Part V: Health & Troubleshooting"
-nav_order: 1
-permalink: /chapters/13-pests-diseases.html
+nav_order: 3
+permalink: /chapters/15-pests-diseases.html
 ---
 
 # Pests and Diseases: A Simple Guide to Maple Health
@@ -34,7 +34,7 @@ This happens when a tree sits in soaking wet soil for too long.
 *   **The Fix**: Improve the drainage! If the tree is in a pot, make sure it has plenty of holes. If it's in the ground, you might need to move it to a higher spot or a mound.
 
 > [!IMPORTANT]
-> **Don't guess—check the roots.** Before treating for thirst or pests, perform an **Extraction Exam** to see if the soil is the problem. See [Chapter 16: The Subterranean Audit]({{ site.baseurl }}/chapters/16-soil-root-health.html) for the full guide.
+> **Don't guess—check the roots.** Before treating for thirst or pests, perform an **Extraction Exam** to see if the soil is the problem. See [Chapter 14: The Subterranean Audit]({{ site.baseurl }}/chapters/14-soil-root-health.html) for the full guide.
 
 ---
 
@@ -77,4 +77,4 @@ Most problems with Japanese Maples look worse than they are. By being a "clinica
 
 ---
 
-[← Previous: 12. Propagation]({{ site.baseurl }}/chapters/12-propagation.html) | [Next: 14. Stress →]({{ site.baseurl }}/chapters/14-environmental-stress.html)
+[← Previous: 14. The Audit]({{ site.baseurl }}/chapters/14-soil-root-health.html) | [Next: 16. Calendar →]({{ site.baseurl }}/chapters/16-calendar.html)

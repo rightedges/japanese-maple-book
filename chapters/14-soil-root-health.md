@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "16. The Subterranean Audit"
+title: "14. The Subterranean Audit"
 parent: "Part V: Health & Troubleshooting"
-nav_order: 4
-permalink: /chapters/16-soil-root-health.html
+nav_order: 2
+permalink: /chapters/14-soil-root-health.html
 ---
 
 # The Subterranean Audit: Diagnosing Soil and Root Health
@@ -62,7 +62,7 @@ If you find heavy, anaerobic soil or rotting roots, you must act quickly.
 If the tree is dormant, you can perform a full soil swap:
 1.  **Bare-Rooting**: Gently wash away the old, heavy soil with a hose until the roots are clean.
 2.  **Pruning**: Use sterilized shears to cut away any black, mushy roots.
-3.  **The New Mix**: Repot in a high-aeration mix (Chapter 7) using plenty of pumice, perlite, and pine bark. 
+3.  **The New Mix**: Repot in a high-aeration mix (Chapter 8) using plenty of pumice, perlite, and pine bark. 
 
 ### The "Mound Rescue" (For In-Ground Trees)
 If a tree is struggling in heavy clay soil in the ground:
@@ -79,4 +79,4 @@ The health of your Japanese Maple begins six inches below the surface.
 
 ---
 
-[← Previous: 15. Calendar]({{ site.baseurl }}/chapters/15-calendar.html) | [Next: 17. Bonsai →]({{ site.baseurl }}/chapters/17-bonsai.html)
+[← Previous: 13. Environmental Stress]({{ site.baseurl }}/chapters/13-environmental-stress.html) | [Next: 15. Pests and Diseases →]({{ site.baseurl }}/chapters/15-pests-diseases.html)

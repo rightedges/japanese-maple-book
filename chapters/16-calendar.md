@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "15. Maintenance Calendar"
+title: "16. Maintenance Calendar"
 parent: "Part V: Health & Troubleshooting"
-nav_order: 3
-permalink: /chapters/15-calendar.html
+nav_order: 4
+permalink: /chapters/16-calendar.html
 ---
 
 # Maintenance Calendar: A Yearly Guide to Stewardship
@@ -67,7 +67,7 @@ Summer is about defense. Your goal is to keep the tree cool and the water pressu
 
 ### July: Heatwave Management
 *   **The Hydration Marathon**: Check pots every morning and evening. For trees in the sun, use "shading the pot" with a board to prevent root-cooking.
-*   **Morning Misting**: Misting the foliage in the morning (6 AM) can lower the local VPD (Chapter 14) and help the tree manage the day's heat.
+*   **Morning Misting**: Misting the foliage in the morning (6 AM) can lower the local VPD (Chapter 13) and help the tree manage the day's heat.
 *   **Fertilization**: **STOP ALL FEEDING** by July 4th.
 
 ### August: The Hardening Off
@@ -121,4 +121,4 @@ Consistency is the secret to maple mastery. Ten minutes of observation every wee
 
 ---
 
-[← Previous: 14. Stress]({{ site.baseurl }}/chapters/14-environmental-stress.html) | [Next: 16. Bonsai →]({{ site.baseurl }}/chapters/16-bonsai.html)
+[← Previous: 15. Pests]({{ site.baseurl }}/chapters/15-pests-diseases.html) | [Next: 17. Staking →]({{ site.baseurl }}/chapters/17-staking-training.html)

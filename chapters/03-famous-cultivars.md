@@ -63,14 +63,14 @@ Maples that bring light or architectural "gravity" into the garden.
 
 ### ['Mikawa Yatsubusa']({{ '/cultivars/mikawa-yatsubusa' | relative_url }}) (The Shingled Maple)
 *   **Aesthetic**: The leaves grow on extremely short branches (short internodes) and overlap like shingles on a roof. 
-*   **Why it's famous**: It naturally creates a "tiered" or "pagoda-like" appearance without any pruning. It is widely considered the best Japanese Maple for container culture (Chapter 7).
+*   **Why it's famous**: It naturally creates a "tiered" or "pagoda-like" appearance without any pruning. It is widely considered the best Japanese Maple for container culture (Chapter 8).
 *   **Technical Note**: It is an "Amoenum" type dwarf, meaning it is tougher than it looks. It can handle full sun in many climates if well-watered.
 
 ### ['Shishigashira']({{ '/cultivars/shishigashira' | relative_url }}) (The Lion's Head)
 *   **The Color Arc**: Deep Green (Summer) -> Golden Orange (Extremely Late Fall).
 *   **Physical Trait**: Tightly crinkled, bunched-up foliage that looks like the mane of a lion. 
 *   **History**: A very old cultivar, often featured in Japanese woodblock prints.
-*   **Landscape Role**: It is the "sturdy" maple—its wood is extremely hard and it is very resistant to wind damage. It is also one of the best subjects for bonsai (Chapter 16).
+*   **Landscape Role**: It is the "sturdy" maple—its wood is extremely hard and it is very resistant to wind damage. It is also one of the best subjects for bonsai (Chapter 18).
 
 ---
 
