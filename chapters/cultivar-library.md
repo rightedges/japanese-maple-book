@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "19. Cultivar Library"
+title: "20. Cultivar Library"
 parent: "Part VII: Reference"
 has_children: true
 nav_order: 1
@@ -69,4 +69,4 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 ---
 
-[← Previous: 17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html) | [Next: Appendix A →]({{ site.baseurl }}/chapters/appendix-a-table.html)
+[← Previous: 19. The Full Moon Cousins]({{ site.baseurl }}/chapters/19-big-leaf-cousins.html) | [Next: Appendix A →]({{ site.baseurl }}/chapters/appendix-a-table.html)

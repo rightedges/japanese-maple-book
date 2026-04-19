@@ -22,8 +22,8 @@ Welcome to the digital edition of *Japanese Maple*. This guide explores the hist
 ### Part II: Cultivation & Care
 *   [5. Siting and Planting]({{ site.baseurl }}/chapters/05-siting-planting.html)
 *   [6. Watering and Mulching]({{ site.baseurl }}/chapters/06-watering.html)
-*   [7. Container Gardening]({{ site.baseurl }}/chapters/07-containers.html)
-*   [8. Fertilization Basics]({{ site.baseurl }}/chapters/08-fertilization.html)
+*   [7. Fertilization Basics]({{ site.baseurl }}/chapters/07-fertilization.html)
+*   [8. Container Culture]({{ site.baseurl }}/chapters/08-containers.html)
 
 ### Part III: Design & Aesthetics
 *   [9. Seasonal Color Palette]({{ site.baseurl }}/chapters/09-seasonal-color.html)
@@ -34,19 +34,22 @@ Welcome to the digital edition of *Japanese Maple*. This guide explores the hist
 *   [12. Propagation Methods]({{ site.baseurl }}/chapters/12-propagation.html)
 
 ### Part V: Health & Troubleshooting
-*   [13. Pests and Diseases]({{ site.baseurl }}/chapters/13-pests-diseases.html)
-*   [14. Environmental Stress]({{ site.baseurl }}/chapters/14-environmental-stress.html)
-*   [15. Maintenance Calendar]({{ site.baseurl }}/chapters/15-calendar.html)
+*   [13. Environmental Stress]({{ site.baseurl }}/chapters/13-environmental-stress.html)
+*   [14. The Subterranean Audit]({{ site.baseurl }}/chapters/14-soil-root-health.html)
+*   [15. Pests and Diseases]({{ site.baseurl }}/chapters/15-pests-diseases.html)
+*   [16. Maintenance Calendar]({{ site.baseurl }}/chapters/16-calendar.html)
 
 ### Part VI: Specialized Interests
-*   [16. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/16-bonsai.html)
 *   [17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html)
+*   [18. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/18-bonsai.html)
+*   [19. The Full Moon Cousins]({{ site.baseurl }}/chapters/19-big-leaf-cousins.html)
 
 ### Part VII: Reference
-*   [18. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
+*   [20. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
 
 ### Part VIII: Appendices
-*   [Appendix A: Cultivar Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
+*   [Appendix A: Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
+*   [Appendix B: The Specialist's Kit]({{ site.baseurl }}/chapters/appendix-b-kit.html)
 
 Please use the navigation sidebar or the links above to browse the chapters.
 
