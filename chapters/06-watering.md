@@ -22,6 +22,9 @@ The biggest mistake people make is watering on a schedule (like "every Monday").
     *   If it feels dry and dusty, give it a long, slow soak.
     *   If it feels like mud, you are watering too much. Stop and let it dry out!
 
+### Species-Specific Hydration
+While all maples need water, the "Big Leaf" species (**japonicum** and **shirasawanum**) have zero tolerance for drought. Because their leaves have a much larger surface area, they lose moisture much faster through transpiration. If a *palmatum* wilts, it might recover; if a *shirasawanum* dries out completely, it often suffers permanent tip die-back. These species require a consistently damp (but never soggy) soil profile.
+
 ---
 
 ## 2. Rainwater is Best

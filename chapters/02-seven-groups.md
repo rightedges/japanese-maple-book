@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "2. The 8 Groups"
+title: "2. The 9 Groups"
 parent: "Part I: Discovery & Selection"
 nav_order: 2
 permalink: /chapters/02-seven-groups.html
 ---
 
-# The 8 Groups of Japanese Maples: A Framework for Beauty
+# The 9 Groups of Japanese Maples: A Framework for Beauty
 
-For the novice gardener, the sheer variety of *Acer palmatum* can be paralyzing. With over 1,000 named cultivars—ranging from 30-foot shade trees to 12-inch bonsai subjects, and from "bamboo-leafed" red spears to "lace-leafed" emerald mounds—the species seems to defy categorization. However, botanists and dedicated enthusiasts have historically organized these into eight distinct groups. 
+For the novice gardener, the sheer variety of Japanese Maples can be paralyzing. With over 1,000 named cultivars—ranging from 30-foot shade trees to 12-inch bonsai subjects, and from "bamboo-leafed" red spears to "lace-leafed" emerald mounds—the family seems to defy categorization. However, botanists and dedicated enthusiasts have historically organized these into nine distinct groups. 
 
 This classification system is not merely academic; it is the most powerful tool you have for garden design. By knowing which group a tree belongs to, you can instantly predict its growth rate, its ultimate size, its sunlight requirements, and its textural impact on your landscape. In this chapter, we go deep into the botanical markers, historical context, and horticultural nuances of each group.
 
@@ -137,7 +137,7 @@ Because the white parts of the leaf don't produce food, the tree is under consta
 
 ![Acer shirasawanum - 'Aureum']({{ '/assets/images/chapter2/aureum.jpg' | relative_url }})
 
-While technically a different species, *Acer shirasawanum* (the Full Moon Maple) and its hybrids are now so integrated into the Japanese Maple world that they are formally treated as an eighth group. These are the "jewels" of the shaded garden.
+The **Shirasawanum** group represents the *Acer shirasawanum* species and its hybrids. These are the "jewels" of the shaded garden, prized for their exceptional clarity of color and elegant, fan-like foliage.
 
 ### Botanical Markers
 *   **Leaf Shape**: Rounder and more "fan-like" than *palmatum*.
@@ -147,6 +147,24 @@ While technically a different species, *Acer shirasawanum* (the Full Moon Maple)
 
 ### The "Aureum" Standard
 The most famous member is **['Aureum']({{ '/cultivars/aureum' | relative_url }})** (Golden Full Moon Maple). Its translucent, chartreuse-to-yellow leaves offer zero protection from UV rays, meaning they require almost constant shade. In the right spot, they glow as if illuminated from within.
+
+---
+
+## 9. Japonicum Group (The Downy / Fern-leaf Maples)
+
+![Acer japonicum - 'Aconitifolium']({{ '/assets/images/chapter2/aconitifolium.png' | relative_url }})
+
+The **Japonicum** group consists of cultivars of *Acer japonicum*. These are robust, mountain-dwelling maples often referred to as "the Downy Maple" due to the soft fuzz found on their new shoots.
+
+### Botanical Markers
+*   **Leaf Shape**: Large and broad, often the size of a dinner plate.
+*   **Flower**: Produces the most spectacular flowers of all Japanese Maples—deep purple-red clusters that hang like jewels in early spring.
+*   **Color**: Legendary for their autumn display. They frequently transition through every shade of yellow, orange, and scarlet on a single leaf.
+
+### The "Peacock" Standard
+The definitive cultivar of this group is **['Aconitifolium']({{ '/cultivars/aconitifolium' | relative_url }})** (The Dancing Peacock). Its leaves are deeply divided and toothed, resembling a fern or a peacock's tail. It is widely considered to have the best fall color of any tree in the temperate world.
+
+---
 
 ## Summary Table: Group Selection Matrix
 
@@ -160,6 +178,7 @@ The most famous member is **['Aureum']({{ '/cultivars/aureum' | relative_url }})
 | **Dwarf** | Rocks / Containers | High (usually) | **['Mikawa Yatsubusa']({{ '/cultivars/mikawa-yatsubusa' | relative_url }})** |
 | **Variegated** | Collector "WOW" factor | Very Low | **['Ukigumo']({{ '/cultivars/ukigumo' | relative_url }})** |
 | **Shirasawanum** | Shady "Glow" | Very Low | **['Aureum']({{ '/cultivars/aureum' | relative_url }})** |
+| **Japonicum** | Autumn Fire / Flowers | Medium-Low | **['Aconitifolium']({{ '/cultivars/aconitifolium' | relative_url }})** |
 
 ---
 

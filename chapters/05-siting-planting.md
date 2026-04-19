@@ -31,7 +31,16 @@ Japanese Maples have very thin leaves that can dry out quickly in the wind.
 
 ---
 
-## 3. Drainage: No "Wet Feet"
+## 3. The Species Selection Factor
+
+Your choice of species dictates how much protection you need to provide.
+
+*   ***Acer palmatum***: These are the "generalists." While they prefer protection, many upright green and red cultivars can handle a full day of sun if they are well-watered.
+*   ***Acer japonicum* & *shirasawanum***: These "Big Leaf" species are significantly more sensitive. Because their leaves are so large, they act like solar panels and wind sails. They **must** be sited in deep, filtered shade or a northern exposure, and they require a "dead-calm" pocket of the garden to prevent their broad leaves from tattering.
+
+---
+
+## 4. Drainage: No "Wet Feet"
 
 More Japanese Maples are killed by too much water than by too little. They hate having their roots sitting in a puddle of water.
 *   **The Test**: Dig a small hole and fill it with water. If the water is still there an hour later, your soil drains too slowly.

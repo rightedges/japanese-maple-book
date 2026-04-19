@@ -61,7 +61,8 @@ For the serious collector, "Siting" is just the beginning. To grow perfect, unbu
 ### The Physics of VPD (Vapor Pressure Deficit)
 VPD is the difference between the moisture in the air and how much moisture the air *could* hold when saturated.
 *   **The Conflict**: On a dry, hot day, the VPD is high. The air acts like a sponge, "pulling" water out of the leaves. If the pull is faster than the roots can drink, the leaves burn.
-*   **The Pro-Solution**: Install a high-pressure **misting system** that runs for 60 seconds every hour during peak heat (1 PM - 4 PM). This raises the local humidity, lowers the VPD, and allows the tree to keep its pores open even in 100°F heat.
+*   **The Species Factor**: Species with large, broad leaves like ***Acer shirasawanum*** and ***Acer japonicum*** are the "canaries in the coal mine." Their massive surface area makes them exceptionally vulnerable to high VPD.
+*   **The Pro-Solution**: Install a high-pressure **misting system** that runs for 60 seconds every hour during peak heat (1 PM - 4 PM). This raises the local humidity, lowers the VPD, and allows even the most sensitive "Big Leaf" maples to keep their pores open.
 
 ### Water Chemistry: The Rainwater Advantage
 If you use hard municipal water, you are slowly "poisoning" your maple's foliage.

@@ -79,14 +79,11 @@
     - title: "18. Maple Bonsai Introduction"
       url: /chapters/18-bonsai.html
       file: chapters/18-bonsai.md
-    - title: "19. The Full Moon Cousins"
-      url: /chapters/19-big-leaf-cousins.html
-      file: chapters/19-big-leaf-cousins.md
 
 - title: "Part VII: Reference"
   file: chapters/part-7-reference.md
   children:
-    - title: "20. Cultivar Library"
+    - title: "19. Cultivar Library"
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
       children:

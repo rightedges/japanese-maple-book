@@ -5,17 +5,17 @@ nav_order: 1
 has_children: true
 ---
 
-# Japanese Maple {#japanese-maple}
+# Japanese Maples {#japanese-maples}
 
-![Japanese Maple Cover]({{ 'assets/images/cover.jpg' | relative_url }})
+![Japanese Maples Cover]({{ 'assets/images/cover.jpg' | relative_url }})
 
-Welcome to the digital edition of *Japanese Maple*. This guide explores the history, varieties, and care of *Acer palmatum*.
+Welcome to the digital edition of *Japanese Maples*. This guide explores the history, varieties, and care of the core species that define the Japanese maple family: *Acer palmatum*, *Acer japonicum*, and *Acer shirasawanum*.
 
 ## Table of Contents
 
 ### Part I: Discovery & Selection
-*   [1. Introduction to Acer palmatum]({{ site.baseurl }}/chapters/01-introduction.html)
-*   [2. The 8 Groups]({{ site.baseurl }}/chapters/02-seven-groups.html)
+*   [1. The World of Japanese Maples]({{ site.baseurl }}/chapters/01-introduction.html)
+*   [2. The 9 Groups]({{ site.baseurl }}/chapters/02-seven-groups.html)
 *   [3. Famous Cultivars Guide]({{ site.baseurl }}/chapters/03-famous-cultivars.html)
 *   [4. Buying Your First Tree]({{ site.baseurl }}/chapters/04-buying.html)
 
@@ -42,10 +42,9 @@ Welcome to the digital edition of *Japanese Maple*. This guide explores the hist
 ### Part VI: Specialized Interests
 *   [17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html)
 *   [18. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/18-bonsai.html)
-*   [19. The Full Moon Cousins]({{ site.baseurl }}/chapters/19-big-leaf-cousins.html)
 
 ### Part VII: Reference
-*   [20. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
+*   [19. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
 
 ### Part VIII: Appendices
 *   [Appendix A: Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
@@ -57,4 +56,4 @@ Please use the navigation sidebar or the links above to browse the chapters.
 
 ---
 
-[Next: 1. Introduction to Acer palmatum →]({{ site.baseurl }}/chapters/01-introduction.html)
+[Next: 1. The World of Japanese Maples →]({{ site.baseurl }}/chapters/01-introduction.html)
