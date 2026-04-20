@@ -47,6 +47,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 *   [Baldsmith]({{ site.baseurl }}/cultivars/baldsmith.html)
 *   [Crimson Queen]({{ site.baseurl }}/cultivars/crimson-queen.html)
 *   [Inaba shidare]({{ site.baseurl }}/cultivars/inaba-shidare.html)
+*   [Orangeola]({{ site.baseurl }}/cultivars/orangeola.html)
 *   [Seiryu]({{ site.baseurl }}/cultivars/seiryu.html)
 *   [Tamukeyama]({{ site.baseurl }}/cultivars/tamukeyama.html)
 *   [Viridis]({{ site.baseurl }}/cultivars/viridis.html)
