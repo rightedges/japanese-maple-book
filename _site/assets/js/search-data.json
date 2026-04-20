@@ -1198,116 +1198,179 @@
   },"171": {
     "doc": "19. Cultivar Library",
     "title": "Cultivar Library: The Genetic Heritage",
-    "content": "Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide. Each profile contains history, care tips, and technical specifications to help you grow your best tree. | Amber Ghost | Aoyagi | Arakawa | Aureum | Autumn Moon | Baby Ghost | Baldsmith | Baton Rouge | Beni Chidori | Beni maiko | Beni otake | Bihou | Bloodgood | Bonfire | Butterfly | Coonara Pygmy | Crimson Queen | Deshojo | Emperor 1 | Fireglow | Firefly | First Ghost | Geisha Gone Wild | Hime-shojo | Higasayama | Inaba shidare | Jordan | Katsura | Koto no ito | Kuro hime | Mikawa Yatsubusa | Mikazuki | Mila | Moonrise | Murasaki Kiyohime | Orange Dream | Omure yama | Olsen’s Frosted Strawberry | Osakazuki | Peaches and Cream | Peve Starfish | Sango Kaku | Scolopendrifolium | Seiryu | Sekka Yatsubusa | Sensu | Sharp’s Pygmy | Shishigashira | Sister Ghost | Summer Gold | Tamukeyama | Tiny Stars | Ukigumo | Villa Taranto | Viridis | . | ← Previous: 18. Maple Bonsai Introduction | Next: Appendix A → | . ",
+    "content": "Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide, organized by their botanical groupings as defined in the Group Selection Matrix. ",
     "url": "/japanese-maple-book/chapters/cultivar-library.html#cultivar-library-the-genetic-heritage",
     
     "relUrl": "/chapters/cultivar-library.html#cultivar-library-the-genetic-heritage"
   },"172": {
+    "doc": "19. Cultivar Library",
+    "title": "1. Palmatum Group (The Genetic Standard)",
+    "content": ". | Aoyagi | Arakawa | Baton Rouge | Beni Chidori | Beni maiko | Bihou | Bloodgood | Bonfire | Deshojo | Emperor 1 | Fireglow | Katsura | Mila | Orange Dream | Peve Starfish | Ryusen | Sensu | Summer Gold | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#1-palmatum-group-the-genetic-standard",
+    
+    "relUrl": "/chapters/cultivar-library.html#1-palmatum-group-the-genetic-standard"
+  },"173": {
+    "doc": "19. Cultivar Library",
+    "title": "2. Amoenum Group (Broad-Leafed Elegance)",
+    "content": ". | Mikazuki | Olsen’s Frosted Strawberry | Osakazuki | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#2-amoenum-group-broad-leafed-elegance",
+    
+    "relUrl": "/chapters/cultivar-library.html#2-amoenum-group-broad-leafed-elegance"
+  },"174": {
+    "doc": "19. Cultivar Library",
+    "title": "3. Matsumurae Group (The Textural Deep-Cut)",
+    "content": ". | Omure yama | Sango kaku | Trompenburg | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#3-matsumurae-group-the-textural-deep-cut",
+    
+    "relUrl": "/chapters/cultivar-library.html#3-matsumurae-group-the-textural-deep-cut"
+  },"175": {
+    "doc": "19. Cultivar Library",
+    "title": "4. Dissectum Group (The Lace-leaf Maples)",
+    "content": ". | Baldsmith | Crimson Queen | Inaba shidare | Seiryu | Tamukeyama | Viridis | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#4-dissectum-group-the-lace-leaf-maples",
+    
+    "relUrl": "/chapters/cultivar-library.html#4-dissectum-group-the-lace-leaf-maples"
+  },"176": {
+    "doc": "19. Cultivar Library",
+    "title": "5. Linearilobum Group (The Bamboo Maples)",
+    "content": ". | Beni otake | Koto no ito | Scolopendrifolium | Villa Taranto | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#5-linearilobum-group-the-bamboo-maples",
+    
+    "relUrl": "/chapters/cultivar-library.html#5-linearilobum-group-the-bamboo-maples"
+  },"177": {
+    "doc": "19. Cultivar Library",
+    "title": "6. Dwarf Group (Small-Space Heroes)",
+    "content": ". | Coonara Pygmy | Hime-shojo | Kuro hime | Mikawa Yatsubusa | Murasaki Kiyohime | Pixie | Rhode Island Red | Sekka Yatsubusa | Shaina | Sharp’s Pygmy | Shishigashira | Skeeter’s Broom | Tiny Stars | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#6-dwarf-group-small-space-heroes",
+    
+    "relUrl": "/chapters/cultivar-library.html#6-dwarf-group-small-space-heroes"
+  },"178": {
+    "doc": "19. Cultivar Library",
+    "title": "7. Variegated Group (The Spotted Divas)",
+    "content": ". | Amber Ghost | Baby Ghost | Butterfly | Firefly | First Ghost | Geisha Gone Wild | Higasayama | Peaches and Cream | Purple Ghost | Sister Ghost | Ukigumo | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#7-variegated-group-the-spotted-divas",
+    
+    "relUrl": "/chapters/cultivar-library.html#7-variegated-group-the-spotted-divas"
+  },"179": {
+    "doc": "19. Cultivar Library",
+    "title": "8. Shirasawanum Group (The Golden Full Moons)",
+    "content": ". | Aureum | Autumn Moon | Jordan | Moonrise | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#8-shirasawanum-group-the-golden-full-moons",
+    
+    "relUrl": "/chapters/cultivar-library.html#8-shirasawanum-group-the-golden-full-moons"
+  },"180": {
+    "doc": "19. Cultivar Library",
+    "title": "9. Japonicum Group (The Downy Maples)",
+    "content": ". | Aconitifolium | . | ← Previous: 18. Maple Bonsai Introduction | Next: Appendix A → | . ",
+    "url": "/japanese-maple-book/chapters/cultivar-library.html#9-japonicum-group-the-downy-maples",
+    
+    "relUrl": "/chapters/cultivar-library.html#9-japonicum-group-the-downy-maples"
+  },"181": {
     "doc": "19. Cultivar Library",
     "title": "19. Cultivar Library",
     "content": " ",
     "url": "/japanese-maple-book/chapters/cultivar-library.html",
     
     "relUrl": "/chapters/cultivar-library.html"
-  },"173": {
+  },"182": {
     "doc": "Japanese Maple",
     "title": "Japanese Maples",
     "content": ". Welcome to the digital edition of Japanese Maples. This guide explores the history, varieties, and care of the core species that define the Japanese maple family: Acer palmatum, Acer japonicum, and Acer shirasawanum. ",
     "url": "/japanese-maple-book/#japanese-maples",
     
     "relUrl": "/#japanese-maples"
-  },"174": {
+  },"183": {
     "doc": "Japanese Maple",
     "title": "Table of Contents",
-    "content": "Part I: Discovery &amp; Selection . | 1. The World of Japanese Maples | 2. The 9 Groups | 3. Famous Cultivars Guide | 4. Buying Your First Tree | . Part II: Cultivation &amp; Care . | 5. Siting and Planting | 6. Watering and Mulching | 7. Fertilization Basics | 8. Container Culture | . Part III: Design &amp; Aesthetics . | 9. Seasonal Color Palette | 10. Companion Planting | . Part IV: Advanced Techniques . | 11. Pruning Mastery | 12. Propagation Methods | . Part V: Health &amp; Troubleshooting . | 13. Environmental Stress | 14. The Subterranean Audit | 15. Pests and Diseases | 16. Maintenance Calendar | . Part VI: Specialized Interests . | 17. Staking and Training | 18. Maple Bonsai Introduction | . Part VII: Reference . | 19. Cultivar Library | . Part VIII: Appendices . | Appendix A: Quick Reference | Appendix B: The Specialist’s Kit | . Please use the navigation sidebar or the links above to browse the chapters. Download EPUB Version (2.9.3 - 2026-04-19) . Next: 1. The World of Japanese Maples → . ",
+    "content": "Part I: Discovery &amp; Selection . | 1. The World of Japanese Maples | 2. The 9 Groups | 3. Famous Cultivars Guide | 4. Buying Your First Tree | . Part II: Cultivation &amp; Care . | 5. Siting and Planting | 6. Watering and Mulching | 7. Fertilization Basics | 8. Container Culture | . Part III: Design &amp; Aesthetics . | 9. Seasonal Color Palette | 10. Companion Planting | . Part IV: Advanced Techniques . | 11. Pruning Mastery | 12. Propagation Methods | . Part V: Health &amp; Troubleshooting . | 13. Environmental Stress | 14. The Subterranean Audit | 15. Pests and Diseases | 16. Maintenance Calendar | . Part VI: Specialized Interests . | 17. Staking and Training | 18. Maple Bonsai Introduction | . Part VII: Reference . | 19. Cultivar Library | . Part VIII: Appendices . | Appendix A: Quick Reference | Appendix B: The Specialist’s Kit | . Please use the navigation sidebar or the links above to browse the chapters. Download EPUB Version (2.9.4 - 2026-04-19) . Next: 1. The World of Japanese Maples → . ",
     "url": "/japanese-maple-book/#table-of-contents",
     
     "relUrl": "/#table-of-contents"
-  },"175": {
+  },"184": {
     "doc": "Japanese Maple",
     "title": "Japanese Maple",
     "content": " ",
     "url": "/japanese-maple-book/",
     
     "relUrl": "/"
-  },"176": {
+  },"185": {
     "doc": "Part I: Discovery & Selection",
     "title": "Part I: Discovery &amp; Selection",
     "content": "This section explores the history, categorization, and acquisition of Japanese Maples. ",
     "url": "/japanese-maple-book/chapters/part-1-discovery.html#part-i-discovery--selection",
     
     "relUrl": "/chapters/part-1-discovery.html#part-i-discovery--selection"
-  },"177": {
+  },"186": {
     "doc": "Part I: Discovery & Selection",
     "title": "Part I: Discovery & Selection",
     "content": " ",
     "url": "/japanese-maple-book/chapters/part-1-discovery.html",
     
     "relUrl": "/chapters/part-1-discovery.html"
-  },"178": {
+  },"187": {
     "doc": "Part II: Cultivation & Care",
     "title": "Part II: Cultivation &amp; Care",
     "content": "The essential fundamentals of maple stewardship. ",
     "url": "/japanese-maple-book/chapters/part-2-care.html#part-ii-cultivation--care",
     
     "relUrl": "/chapters/part-2-care.html#part-ii-cultivation--care"
-  },"179": {
+  },"188": {
     "doc": "Part II: Cultivation & Care",
     "title": "Part II: Cultivation & Care",
     "content": " ",
     "url": "/japanese-maple-book/chapters/part-2-care.html",
     
     "relUrl": "/chapters/part-2-care.html"
-  },"180": {
+  },"189": {
     "doc": "Part III: Design & Aesthetics",
     "title": "Part III: Design &amp; Aesthetics",
     "content": "Creating beauty and harmony in the landscape. ",
     "url": "/japanese-maple-book/chapters/part-3-design.html#part-iii-design--aesthetics",
     
     "relUrl": "/chapters/part-3-design.html#part-iii-design--aesthetics"
-  },"181": {
+  },"190": {
     "doc": "Part III: Design & Aesthetics",
     "title": "Part III: Design & Aesthetics",
     "content": " ",
     "url": "/japanese-maple-book/chapters/part-3-design.html",
     
     "relUrl": "/chapters/part-3-design.html"
-  },"182": {
+  },"191": {
     "doc": "Part IV: Advanced Techniques",
     "title": "Part IV: Advanced Techniques",
     "content": "Techniques for the dedicated enthusiast. ",
     "url": "/japanese-maple-book/chapters/part-4-advanced.html",
     
     "relUrl": "/chapters/part-4-advanced.html"
-  },"183": {
+  },"192": {
     "doc": "Part V: Health & Troubleshooting",
     "title": "Part V: Health &amp; Troubleshooting",
     "content": "Maintaining a resilient and healthy collection. ",
     "url": "/japanese-maple-book/chapters/part-5-health.html#part-v-health--troubleshooting",
     
     "relUrl": "/chapters/part-5-health.html#part-v-health--troubleshooting"
-  },"184": {
+  },"193": {
     "doc": "Part V: Health & Troubleshooting",
     "title": "Part V: Health & Troubleshooting",
     "content": " ",
     "url": "/japanese-maple-book/chapters/part-5-health.html",
     
     "relUrl": "/chapters/part-5-health.html"
-  },"185": {
+  },"194": {
     "doc": "Part VI: Specialized Interests",
     "title": "Part VI: Specialized Interests",
     "content": "Deep dives into specific maple hobbies. ",
     "url": "/japanese-maple-book/chapters/part-6-specialized.html",
     
     "relUrl": "/chapters/part-6-specialized.html"
-  },"186": {
+  },"195": {
     "doc": "Part VII: Reference",
     "title": "Part VII: Reference",
     "content": "Comprehensive data for the avid collector. ",
     "url": "/japanese-maple-book/chapters/part-7-reference.html",
     
     "relUrl": "/chapters/part-7-reference.html"
-  },"187": {
+  },"196": {
     "doc": "Part VIII: Appendices",
     "title": "Part VIII: Appendices",
     "content": "Technical charts and supplementary material. ",

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Trompenburg"
-group: "Palmatum"
+group: "Matsumurae"
 foliage_sum_fall: "Deep Purple / Crimson"
 habit: "Upright Vase (15-20')"
 growth_rate: "Fast"

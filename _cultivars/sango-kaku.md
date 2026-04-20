@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Sango kaku"
-group: "Palmatum"
+group: "Matsumurae"
 foliage_sum_fall: "Green / Yellow-Gold"
 habit: "Upright Vase (15-20')"
 growth_rate: "Fast"

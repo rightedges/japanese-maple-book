@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Omure yama"
-group: "Palmatum"
+group: "Matsumurae"
 foliage_sum_fall: "Green / Gold-Red"
 habit: "Weeping Upright (12-15')"
 growth_rate: "Fast"

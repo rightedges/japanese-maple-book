@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Mikazuki"
-group: "Palmatum"
+group: "Amoenum"
 foliage_sum_fall: "Green-Cream / Gold-Orange"
 habit: "Upright (8-10')"
 growth_rate: "Moderate"

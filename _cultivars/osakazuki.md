@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Osakazuki"
-group: "Palmatum"
+group: "Amoenum"
 foliage_sum_fall: "Green / Crimson"
 habit: "Upright (15-20')"
 growth_rate: "Fast"

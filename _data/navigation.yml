@@ -87,102 +87,150 @@
       url: /chapters/cultivar-library.html
       file: chapters/cultivar-library.md
       children:
-        - title: "Amber Ghost"
-          file: _cultivars/amber-ghost.md
-        - title: "Aoyagi"
-          file: _cultivars/aoyagi.md
-        - title: "Arakawa"
-          file: _cultivars/arakawa.md
-        - title: "Aureum"
-          file: _cultivars/aureum.md
-        - title: "Autumn Moon"
-          file: _cultivars/autumn-moon.md
-        - title: "Baldsmith"
-          file: _cultivars/baldsmith.md
-        - title: "Baton Rouge"
-          file: _cultivars/baton-rouge.md
-        - title: "Beni Chidori"
-          file: _cultivars/beni-chidori.md
-        - title: "Beni maiko"
-          file: _cultivars/beni-maiko.md
-        - title: "Beni otake"
-          file: _cultivars/beni-otake.md
-        - title: "Bihou"
-          file: _cultivars/bihou.md
-        - title: "Bloodgood"
-          file: _cultivars/bloodgood.md
-        - title: "Bonfire"
-          file: _cultivars/bonfire.md
-        - title: "Butterfly"
-          file: _cultivars/butterfly.md
-        - title: "Coonara Pygmy"
-          file: _cultivars/coonara-pygmy.md
-        - title: "Crimson Queen"
-          file: _cultivars/crimson-queen.md
-        - title: "Deshojo"
-          file: _cultivars/deshojo.md
-        - title: "Emperor 1"
-          file: _cultivars/emperor-1.md
-        - title: "Fireglow"
-          file: _cultivars/fireglow.md
-        - title: "First Ghost"
-          file: _cultivars/first-ghost.md
-        - title: "Geisha Gone Wild"
-          file: _cultivars/geisha-gone-wild.md
-        - title: "Hime-shojo"
-          file: _cultivars/hime-shojo.md
-        - title: "Higasayama"
-          file: _cultivars/higasayama.md
-        - title: "Inaba shidare"
-          file: _cultivars/inaba-shidare.md
-        - title: "Jordan"
-          file: _cultivars/jordan.md
-        - title: "Katsura"
-          file: _cultivars/katsura.md
-        - title: "Koto no ito"
-          file: _cultivars/koto-no-ito.md
-        - title: "Mikawa Yatsubusa"
-          file: _cultivars/mikawa-yatsubusa.md
-        - title: "Mikazuki"
-          file: _cultivars/mikazuki.md
-        - title: "Moonrise"
-          file: _cultivars/moonrise.md
-        - title: "Murasaki Kiyohime"
-          file: _cultivars/murasaki-kiyohime.md
-        - title: "Orange Dream"
-          file: _cultivars/orange-dream.md
-        - title: "Omure yama"
-          file: _cultivars/omure-yama.md
-        - title: "Osakazuki"
-          file: _cultivars/osakazuki.md
-        - title: "Peve Starfish"
-          file: _cultivars/peve-starfish.md
-        - title: "Sango Kaku"
-          file: _cultivars/sango-kaku.md
-        - title: "Scolopendrifolium"
-          file: _cultivars/scolopendrifolium.md
-        - title: "Seiryu"
-          file: _cultivars/seiryu.md
-        - title: "Sekka Yatsubusa"
-          file: _cultivars/sekka-yatsubusa.md
-        - title: "Sensu"
-          file: _cultivars/sensu.md
-        - title: "Shishigashira"
-          file: _cultivars/shishigashira.md
-        - title: "Sister Ghost"
-          file: _cultivars/sister-ghost.md
-        - title: "Summer Gold"
-          file: _cultivars/summer-gold.md
-        - title: "Tamukeyama"
-          file: _cultivars/tamukeyama.md
-        - title: "Tiny Stars"
-          file: _cultivars/tiny-stars.md
-        - title: "Ukigumo"
-          file: _cultivars/ukigumo.md
-        - title: "Villa Taranto"
-          file: _cultivars/villa-taranto.md
-        - title: "Viridis"
-          file: _cultivars/viridis.md
+        - title: "1. Palmatum Group"
+          children:
+            - title: "Aoyagi"
+              file: _cultivars/aoyagi.md
+            - title: "Arakawa"
+              file: _cultivars/arakawa.md
+            - title: "Baton Rouge"
+              file: _cultivars/baton-rouge.md
+            - title: "Beni Chidori"
+              file: _cultivars/beni-chidori.md
+            - title: "Beni maiko"
+              file: _cultivars/beni-maiko.md
+            - title: "Bihou"
+              file: _cultivars/bihou.md
+            - title: "Bloodgood"
+              file: _cultivars/bloodgood.md
+            - title: "Bonfire"
+              file: _cultivars/bonfire.md
+            - title: "Deshojo"
+              file: _cultivars/deshojo.md
+            - title: "Emperor 1"
+              file: _cultivars/emperor-1.md
+            - title: "Fireglow"
+              file: _cultivars/fireglow.md
+            - title: "Katsura"
+              file: _cultivars/katsura.md
+            - title: "Mila"
+              file: _cultivars/mila.md
+            - title: "Orange Dream"
+              file: _cultivars/orange-dream.md
+            - title: "Peve Starfish"
+              file: _cultivars/peve-starfish.md
+            - title: "Ryusen"
+              file: _cultivars/ryusen.md
+            - title: "Sensu"
+              file: _cultivars/sensu.md
+            - title: "Summer Gold"
+              file: _cultivars/summer-gold.md
+        - title: "2. Amoenum Group"
+          children:
+            - title: "Mikazuki"
+              file: _cultivars/mikazuki.md
+            - title: "Olsen’s Frosted Strawberry"
+              file: _cultivars/olsens-frosted-strawberry.md
+            - title: "Osakazuki"
+              file: _cultivars/osakazuki.md
+        - title: "3. Matsumurae Group"
+          children:
+            - title: "Omure yama"
+              file: _cultivars/omure-yama.md
+            - title: "Sango Kaku"
+              file: _cultivars/sango-kaku.md
+            - title: "Trompenburg"
+              file: _cultivars/trompenburg.md
+        - title: "4. Dissectum Group"
+          children:
+            - title: "Baldsmith"
+              file: _cultivars/baldsmith.md
+            - title: "Crimson Queen"
+              file: _cultivars/crimson-queen.md
+            - title: "Inaba shidare"
+              file: _cultivars/inaba-shidare.md
+            - title: "Seiryu"
+              file: _cultivars/seiryu.md
+            - title: "Tamukeyama"
+              file: _cultivars/tamukeyama.md
+            - title: "Viridis"
+              file: _cultivars/viridis.md
+        - title: "5. Linearilobum Group"
+          children:
+            - title: "Beni otake"
+              file: _cultivars/beni-otake.md
+            - title: "Koto no ito"
+              file: _cultivars/koto-no-ito.md
+            - title: "Scolopendrifolium"
+              file: _cultivars/scolopendrifolium.md
+            - title: "Villa Taranto"
+              file: _cultivars/villa-taranto.md
+        - title: "6. Dwarf Group"
+          children:
+            - title: "Coonara Pygmy"
+              file: _cultivars/coonara-pygmy.md
+            - title: "Hime-shojo"
+              file: _cultivars/hime-shojo.md
+            - title: "Kuro hime"
+              file: _cultivars/kuro-hime.md
+            - title: "Mikawa Yatsubusa"
+              file: _cultivars/mikawa-yatsubusa.md
+            - title: "Murasaki Kiyohime"
+              file: _cultivars/murasaki-kiyohime.md
+            - title: "Pixie"
+              file: _cultivars/pixie.md
+            - title: "Rhode Island Red"
+              file: _cultivars/rhode-island-red.md
+            - title: "Sekka Yatsubusa"
+              file: _cultivars/sekka-yatsubusa.md
+            - title: "Shaina"
+              file: _cultivars/shaina.md
+            - title: "Sharp’s Pygmy"
+              file: _cultivars/sharps-pygmy.md
+            - title: "Shishigashira"
+              file: _cultivars/shishigashira.md
+            - title: "Skeeter’s Broom"
+              file: _cultivars/skeeters-broom.md
+            - title: "Tiny Stars"
+              file: _cultivars/tiny-stars.md
+        - title: "7. Variegated Group"
+          children:
+            - title: "Amber Ghost"
+              file: _cultivars/amber-ghost.md
+            - title: "Baby Ghost"
+              file: _cultivars/baby-ghost.md
+            - title: "Butterfly"
+              file: _cultivars/butterfly.md
+            - title: "Firefly"
+              file: _cultivars/firefly.md
+            - title: "First Ghost"
+              file: _cultivars/first-ghost.md
+            - title: "Geisha Gone Wild"
+              file: _cultivars/geisha-gone-wild.md
+            - title: "Higasayama"
+              file: _cultivars/higasayama.md
+            - title: "Peaches and Cream"
+              file: _cultivars/peaches-and-cream.md
+            - title: "Purple Ghost"
+              file: _cultivars/purple-ghost.md
+            - title: "Sister Ghost"
+              file: _cultivars/sister-ghost.md
+            - title: "Ukigumo"
+              file: _cultivars/ukigumo.md
+        - title: "8. Shirasawanum Group"
+          children:
+            - title: "Aureum"
+              file: _cultivars/aureum.md
+            - title: "Autumn Moon"
+              file: _cultivars/autumn-moon.md
+            - title: "Jordan"
+              file: _cultivars/jordan.md
+            - title: "Moonrise"
+              file: _cultivars/moonrise.md
+        - title: "9. Japonicum Group"
+          children:
+            - title: "Aconitifolium"
+              file: _cultivars/aconitifolium.md
 
 - title: "Part VIII: Appendices"
   file: chapters/part-8-appendices.md
