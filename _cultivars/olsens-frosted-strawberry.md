@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Olsen’s Frosted Strawberry"
-group: "Amoenum"
+group: "Variegated"
 foliage_sum_fall: "Frosted-Pink / Fiery Orange"
 habit: "Rounded Dwarf (4-8')"
 growth_rate: "Slow"

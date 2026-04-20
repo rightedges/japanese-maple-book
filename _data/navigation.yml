@@ -127,10 +127,6 @@
               file: _cultivars/summer-gold.md
         - title: "2. Amoenum Group"
           children:
-            - title: "Mikazuki"
-              file: _cultivars/mikazuki.md
-            - title: "Olsen’s Frosted Strawberry"
-              file: _cultivars/olsens-frosted-strawberry.md
             - title: "Osakazuki"
               file: _cultivars/osakazuki.md
         - title: "3. Matsumurae Group"
@@ -211,6 +207,10 @@
               file: _cultivars/geisha-gone-wild.md
             - title: "Higasayama"
               file: _cultivars/higasayama.md
+            - title: "Mikazuki"
+              file: _cultivars/mikazuki.md
+            - title: "Olsen’s Frosted Strawberry"
+              file: _cultivars/olsens-frosted-strawberry.md
             - title: "Peaches and Cream"
               file: _cultivars/peaches-and-cream.md
             - title: "Purple Ghost"

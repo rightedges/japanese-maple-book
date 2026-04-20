@@ -34,8 +34,6 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 *   [Summer Gold]({{ site.baseurl }}/cultivars/summer-gold.html)
 
 ## 2. Amoenum Group (Broad-Leafed Elegance)
-*   [Mikazuki]({{ site.baseurl }}/cultivars/mikazuki.html)
-*   [Olsen’s Frosted Strawberry]({{ site.baseurl }}/cultivars/olsens-frosted-strawberry.html)
 *   [Osakazuki]({{ site.baseurl }}/cultivars/osakazuki.html)
 
 ## 3. Matsumurae Group (The Textural Deep-Cut)
@@ -81,6 +79,8 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 *   [First Ghost]({{ site.baseurl }}/cultivars/first-ghost.html)
 *   [Geisha Gone Wild]({{ site.baseurl }}/cultivars/geisha-gone-wild.html)
 *   [Higasayama]({{ site.baseurl }}/cultivars/higasayama.html)
+*   [Mikazuki]({{ site.baseurl }}/cultivars/mikazuki.html)
+*   [Olsen’s Frosted Strawberry]({{ site.baseurl }}/cultivars/olsens-frosted-strawberry.html)
 *   [Peaches and Cream]({{ site.baseurl }}/cultivars/peaches-and-cream.html)
 *   [Purple Ghost]({{ site.baseurl }}/cultivars/purple-ghost.html)
 *   [Sister Ghost]({{ site.baseurl }}/cultivars/sister-ghost.html)

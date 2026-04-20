@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Peaches and Cream"
-group: "Dwarf"
+group: "Variegated"
 foliage_sum_fall: "Peach-Cream / Yellow-Orange"
 habit: "Compact Upright (7-10')"
 growth_rate: "Slow to Moderate"
