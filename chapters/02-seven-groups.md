@@ -152,7 +152,7 @@ The most famous member is **['Aureum']({{ '/cultivars/aureum' | relative_url }})
 
 ## 9. Japonicum Group (The Downy / Fern-leaf Maples)
 
-![Acer japonicum - 'Aconitifolium']({{ '/assets/images/chapter2/aconitifolium.png' | relative_url }})
+![Acer japonicum - 'Aconitifolium' Botanical Illustration]({{ '/assets/images/chapter2/aconitifolium_illustration.jpg' | relative_url }})
 
 The **Japonicum** group consists of cultivars of *Acer japonicum*. These are robust, mountain-dwelling maples often referred to as "the Downy Maple" due to the soft fuzz found on their new shoots.
 

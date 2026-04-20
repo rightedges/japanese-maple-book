@@ -22,6 +22,8 @@ parent: "19. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | Dancing Peacock, Fern-leaf Maple |
 
+![Acer japonicum - 'Aconitifolium' Botanical Illustration]({{ '/assets/images/chapter2/aconitifolium_illustration.jpg' | relative_url }})
+
 ## Overview
 'Aconitifolium' is the crown jewel of the *Acer japonicum* species. Known colloquially as the "Dancing Peacock" or the "Fern-leaf Maple," it is legendary for its deeply cut, fern-form leaves that provide a textural intensity unmatched by standard maples. It develops into a broad, multi-stemmed tree with a layered, architectural habit that creates a majestic presence in the garden.
 
