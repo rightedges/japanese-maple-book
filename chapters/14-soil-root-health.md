@@ -27,6 +27,9 @@ When soil is "heavy" (high clay content) and "wet" (poor drainage), the air spac
 ## 2. The Extraction Exam: How to Audit Your Tree
 If your tree looks sick—wilting, dropping leaves prematurely, or showing branch dieback—you must look at the roots. If the tree is in a container, you have a distinct advantage.
 
+![How to Examine the Soil and Root Health]({{ '/assets/images/chapter14/root_health_exam.jpg' | relative_url }})
+
+
 ### Step-by-Step Extraction
 1.  **Stop Watering**: Let the pot dry out for a day so the root ball is firm.
 2.  **The Gentle Pull**: Lay the pot on its side. Grasp the trunk firmly at the base and gently wiggle it while pulling the pot away. **Never pull by the branches.**
