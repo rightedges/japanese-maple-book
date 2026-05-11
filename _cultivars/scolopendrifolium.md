@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | "Fern-Leaf Willow" |
 
+![Scolopendrifolium in May]({{ '/assets/images/cultivars/scolopendrifolium.jpg' | relative_url }})
 
 ## Overview
 'Scolopendrifolium' is one of the most elegant and unique members of the Linearilobum group. It is named for the *Scolopendrium* fern (Hart's Tongue Fern), referencing the long, narrow, and unlobed appearance of its leaf segments. It is prized for its extraordinary "willow-leaf" texture, where the lobes are so narrow that they sway rhythmically in the wind, providing a cooling and transparent presence in the garden.

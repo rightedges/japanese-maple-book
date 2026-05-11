@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Villa Taranto in May]({{ '/assets/images/cultivars/villa-taranto.jpg' | relative_url }})
 
 ## Overview
 'Villa Taranto' is one of the most elegant and sought-after members of the Linearilobum group. It is prized for its extraordinarily narrow, "spider-like" leaf lobes that unfold with a soft reddish-pink tint before maturing into a sophisticated mix of green and bronze. It has a graceful, vase-shaped habit that matures into an airy, transparent specimen reaching 6-10 feet.
