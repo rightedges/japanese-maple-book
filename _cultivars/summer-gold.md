@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Summer Gold in May]({{ '/assets/images/cultivars/summer-gold.jpg' | relative_url }})
 
 ## Overview
 'Summer Gold' is a revolutionary cultivar that has finally solved the "yellow leaf" problem. Historically, yellow-leaved maples like 'Aureum' were extremely fragile and required deep shade. 'Summer Gold' is the first yellow-leaved Palmatum that can handle full sun with ease, maintaining a shocking, luminous lemon-yellow color even in the height of summer. It is prized for its extraordinary durability and its ability to act as a "500-watt light bulb" in the garden.
