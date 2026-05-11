@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Tiny Stars in May]({{ '/assets/images/cultivars/tiny-star.jpg' | relative_url }})
 
 ## Overview
 'Tiny Stars' is a rare and highly prized dwarf cultivar that is noted for its extraordinarily small, star-shaped leaves and dense, "twiggy" habit. It is an extremely slow grower, but unlike many dwarfs, it develops a rugged, architectural form that looks hundreds of years old even when small. It is a certified conversation piece and the target of almost every Japanese maple collector.

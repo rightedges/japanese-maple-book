@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Jordan in May]({{ '/assets/images/cultivars/jordan.jpg' | relative_url }})
 
 ## Overview
 'Jordan' is widely considered one of the most successful and resilient selections from the *Acer shirasawanum* group. Introduced from Italy, it was bred as a more sun-tolerant and vigorous alternative to the famous but delicate 'Aureum'. It is prized for its luminous, "ghost-gold" foliage, which appears to capture and hold the light, glowing even on overcast days. It has a graceful, upright habit that matures into a well-structured tree reaching 10-15 feet.
