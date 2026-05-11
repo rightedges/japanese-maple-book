@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | Crescent Moon |
 
+![Mikazuki in May]({{ '/assets/images/cultivars/mikazuki.jpg' | relative_url }})
 
 ## Overview
 'Mikazuki', which translates to "Crescent Moon," is a spectacular reticulated cultivar that is widely considered one of the most beautiful variegated maples in cultivation. It is prized for its extraordinary foliage, featuring long, narrow lobes with high-contrast dark green veins overlaid on a ground color of cream and soft pink. It has a graceful, upright habit that matures into an elegant specimen reaching 8-10 feet.
