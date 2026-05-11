@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | "Floating Cloud", 'Uki gumo' |
 
+![Ukigumo in May]({{ '/assets/images/cultivars/ukigumo.jpg' | relative_url }})
 
 ## Overview
 'Ukigumo', which translates to "Floating Cloud," is one of the most spectacular and highly sought-after variegated cultivars in the world. It is legendary for its extraordinarily white foliage, where many leaves are almost entirely devoid of chlorophyll, appearing like misty white clouds in the garden. It is a tree of immense delicacy and beauty, requiring specific conditions to maintain its high-contrast variegation.
