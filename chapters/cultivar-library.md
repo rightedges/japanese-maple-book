@@ -32,6 +32,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 *   [Ryusen]({{ site.baseurl }}/cultivars/ryusen.html)
 *   [Sensu]({{ site.baseurl }}/cultivars/sensu.html)
 *   [Summer Gold]({{ site.baseurl }}/cultivars/summer-gold.html)
+*   [Twombly's Red Sentinel]({{ site.baseurl }}/cultivars/twomblys-red-sentinel.html)
 
 ## 2. Amoenum Group (Broad-Leafed Elegance)
 *   [Osakazuki]({{ site.baseurl }}/cultivars/osakazuki.html)
