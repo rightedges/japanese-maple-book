@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | "Purple Kiyohime" |
 
+![Murasaki Kiyohime in May]({{ '/assets/images/cultivars/murasaki-kiyohime.jpg' | relative_url }})
 
 ## Overview
 'Murasaki Kiyohime' is one of the most distinctive and highly prized dwarf cultivars in the world. It is famous for its extraordinarily wide, spreading habit—it grows much wider than it does tall, eventually forming a low, architectural mound of dense foliage. It is prized for its "purple-edged" spring emergence, which gives the entire tree a soft, smoky appearance early in the season.
