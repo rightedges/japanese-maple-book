@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Baldsmith in May]({{ '/assets/images/cultivars/baldsmith.jpg' | relative_url }})
 
 ## Overview
 'Baldsmith' is a remarkable lace-leaf (dissectum) cultivar known for its complex and ever-changing foliage colors. Unlike many red or green dissectums that maintain a single dominant hue, 'Baldsmith' is a "color shifter," blending shades of coral, orange, pink, and green throughout the growing season. It has a graceful, weeping habit that creates a soft, mounding presence in the landscape.
