@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | 'Kochō-no-mai', Japanese Butterfly Maple |
 
+![Butterfly in May]({{ '/assets/images/cultivars/butterfly.jpg' | relative_url }})
 
 ## Overview
 'Butterfly', historically known as 'Kochō-no-mai', is one of the most resilient and reliable variegated cultivars in the *Acer palmatum* family. It is prized for its spectacular cream-on-green variegation, where the margins of each leaf are "painted" with a sophisticated creamy white. Unlike many high-contrast variegated maples that are fragile, 'Butterfly' is relatively robust and maintains its structure and color well through the growing season.

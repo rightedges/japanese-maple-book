@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | "Folding Fan", 'Senzu' |
 
+![Sensu in May]({{ '/assets/images/cultivars/sensu.jpg' | relative_url }})
 
 ## Overview
 'Sensu', which translates to "Folding Fan," is a spectacular and relatively rare cultivar prized for its extraordinary leaf shape and exceptional fall color. The leaves are deeply cut with many lobes, often 9 to 11, giving them a broad, fan-like appearance that bridges the gap between the Palmatum and Shirasawanum groups. It is a vigorous, upright tree reaching 10-15 feet, making it a true centerpiece for any landscape.

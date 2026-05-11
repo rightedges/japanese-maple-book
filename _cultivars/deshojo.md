@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | 'Shin deshojo' |
 
+![Deshojo in May]({{ '/assets/images/cultivars/deshojo.jpg' | relative_url }})
 
 ## Overview
 'Deshojo' is legendary for having what many consider the most intense and shocking spring color of any Japanese maple. The name translates roughly to "Red-Faced Monk," referencing the fluorescent carmine or lipstick-red that the leaves display upon emergence. This color is so saturated that it practically glows, often appearing "impossible" to those seeing it for the first time.

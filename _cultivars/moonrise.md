@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | *Acer shirasawanum* 'Moonrise' |
 
+![Moonrise in May]({{ '/assets/images/cultivars/moonrise.jpg' | relative_url }})
 
 ## Overview
 'Moonrise' is widely considered the "holy grail" of the *Acer shirasawanum* group. Introduced as a more sun-tolerant and vigorous alternative to the famous 'Aureum', it offers a spectacular and unique color profile. It is prized for its "burning" red emergence, which transitions through a series of luminous chartreuse and sunset-orange tones. It has a graceful, upright-rounded habit that matures into a well-structured tree reaching 8-12 feet.
@@ -29,7 +30,7 @@ parent: "17. Cultivar Library"
 The tree features the classic, fan-like leaves of the *Shirasawanum* group, with 11 to 13 lobes. It is more robust and faster-growing than many of its kin, making it a "must-have" for any serious maple collection.
 
 ## Key Features & Seasonal Interest
-- **Spring**: A spectacular emergence. New leaves burst forth in a brilliant, shocking arrangement of burnt orange and carmine-red. As they unfold, they reveal a luminous chartreuse center, creating a stunning "rising sun" effect.
+- **Spring**: A spectacular emergence. New leaves burst forth in a brilliant, shocking arrangement of burnt orange and carmine-red. As they unfold, they reveal a luminous chartreuse center, creating a stunning "rising sun" effect. Throughout the spring, new leaves continue to emerge in a brilliant red, creating a striking contrast against the maturing chartreuse foliage below.
 - **Summer**: Outstanding color stability. The foliage matures into a solid, healthy chartreuse or lemon-yellow, often with a persistent orange blush on the upper leaves that receive more light. The tree maintains its glowing quality even through the mid-summer heat.
 - **Fall**: A dramatic finale in shades of burnished gold, electric orange, and saturated scarlet-red. The fall colors are exceptionally long-lasting and provide a high-impact show.
 
