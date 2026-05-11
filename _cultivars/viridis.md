@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Viridis in May]({{ '/assets/images/cultivars/viridis.jpg' | relative_url }})
 
 ## Overview
 'Viridis' is one of the oldest and most reliably beautiful green lace-leaf (dissectum) cultivars in existence. It is the "standard" by which all other green weeping maples are judged, prized for its exceptional leaf health and its ability to maintain a bright, luminous emerald-green color through the height of summer. It develops a graceful, cascading, and mounding habit that eventually forms a wide, arching canopy of fine foliage.
