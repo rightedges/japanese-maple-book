@@ -22,6 +22,7 @@ parent: "17. Cultivar Library"
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 | **Synonyms** | "Folding Hands on the Mountain" |
 
+![Tamukeyama in May]({{ '/assets/images/cultivars/tamukeyama.jpg' | relative_url }})
 
 ## Overview
 'Tamukeyama' is one of the oldest and most successful lace-leaf (dissectum) cultivars in history, with records dating back to 1710. It is the "gold standard" for resilience in the red dissectum group, prized for its extraordinary ability to maintain its deep, saturated purple-red color through the most punishing summer heat and humidity. It develops a graceful, cascading, and mounding habit that eventually forms a wide, arching canopy of fine foliage.
