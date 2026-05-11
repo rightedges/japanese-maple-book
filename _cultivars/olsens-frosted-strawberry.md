@@ -21,6 +21,7 @@ parent: "18. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Olsen's Frosted Strawberry in May]({{ '/assets/images/cultivars/olsens-frosted-strawberry.jpg' | relative_url }})
 
 ## Overview
 'Olsen’s Frosted Strawberry' is one of the most celebrated members of the reticulated variegated group, discovered by nurseryman Harry Olsen as a seedling of 'Aka shigitatsu sawa'. It is prized for its high-contrast "frosted" appearance and its compact, graceful form. The tree stays manageable, usually forming a broad, rounded canopy that settles at about 6 feet, making it an ideal choice for urban landscapes, rock gardens, and high-end container culture.
