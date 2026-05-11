@@ -21,6 +21,7 @@ parent: "17. Cultivar Library"
 | **Budding** | {{ page.budding }} |
 | **Sun Tolerance** | {{ page.sun_tolerance }} |
 
+![Peve Starfish in May]({{ '/assets/images/cultivars/peve-starfish.jpg' | relative_url }})
 
 ## Overview
 'Peve Starfish' is a unique and spectacular relatively new cultivar known for its extraordinarily "curled" leaf lobes. Each lobe of the palmate leaf curves downward and inward, resembling the legs of a starfish or a refined set of ruby claws. This creates a dense, architectural texture that is unlike any other upright red maple. It is a moderate grower, eventually forming a sturdy, upright-bushy specimen reaching 8-10 feet.
