@@ -12,6 +12,8 @@ If light is the engine of a Japanese Maple, water is the fuel. Because maples ha
 
 However, "Watering" doesn't mean just spraying the tree with a hose every day. This chapter explains the simple science of watering and how to use mulch to keep your tree healthy.
 
+![Watering Guide]({{ '/assets/images/watering-guide.jpg' | relative_url }})
+
 ---
 
 ## 1. The Simple Test: Use Your Finger
