@@ -14,6 +14,8 @@ Tomatoes are hungry, fast-growing annuals that crave high concentrations of nitr
 
 Over-fertilization is far more dangerous than under-fertilization. In this super-expanded chapter, we explore the molecular roles of nutrients, the "bonsai secrets" of internode management, the hidden world of humic acids, and the physics of fertilizer-induced root trauma.
 
+![Fertilization Guide]({{ '/assets/images/fertilization-guide.png' | relative_url }})
+
 ---
 
 ## 1. The N-P-K Code: A Maple Perspective
