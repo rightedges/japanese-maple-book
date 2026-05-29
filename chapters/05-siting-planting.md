@@ -12,6 +12,8 @@ The most important decision you will make for your Japanese Maple happens before
 
 This chapter helps you find that perfect spot and shows you how to plant your tree correctly from day one.
 
+![Siting and Planting Guide]({{ '/assets/images/siting-planting.jpg' | relative_url }})
+
 ---
 
 ## 1. Sunlight: The Morning Friend and Afternoon Foe
@@ -48,7 +50,7 @@ More Japanese Maples are killed by too much water than by too little. They hate 
 
 ---
 
-## 4. How to Plant: The "Donut" Technique
+## 5. How to Plant: The "Donut" Technique
 
 When you are ready to plant, follow these simple steps:
 1.  **Don't Dig Too Deep**: The hole should be wide, but keep it shallow. You want the "flare" (where the trunk becomes roots) to be visible above the ground.
