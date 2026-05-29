@@ -14,6 +14,9 @@ This chapter explains the simple rules of pruning and how to make your tree look
 
 ---
 
+
+![Pruning Guide]({{ '/assets/images/pruning-guide.png' | relative_url }})
+
 ---
 
 ## 1. Designing the Form: Aesthetic Mastery

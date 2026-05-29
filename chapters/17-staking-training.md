@@ -10,6 +10,9 @@ permalink: /chapters/17-staking-training.html
 
 While Japanese Maples are celebrated for their natural, self-supporting forms, professional growers often use "staking" as a powerful tool to guide a tree's destiny. Whether you are stabilizing a newly planted specimen against the wind or training a weeping variety to reach new heights, proper technique is the difference between a thriving sculpture and a damaged tree.
 
+
+![Staking and Training Guide]({{ '/assets/images/staking-training.png' | relative_url }})
+
 ---
 
 ## 1. The Two Goals of Staking

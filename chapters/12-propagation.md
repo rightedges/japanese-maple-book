@@ -12,6 +12,9 @@ There is a profound, almost mystical satisfaction in creating a new life from a 
 
 However, a word of advice for the beginner: set your expectations low. Japanese Maples are famously resistant to being "cloned." Their success rates are significantly lower than those of many other landscape plants. This is why a well-grown 5-gallon maple is so expensive—you are paying for the high "mortality rate" that the nursery had to overcome. In this expanded chapter, we go deep into the four primary methods of propagation, providing the technical details necessary to tip the scales in your favor.
 
+
+![Propagation Guide]({{ '/assets/images/propagation-guide.png' | relative_url }})
+
 ---
 
 ## 1. Seeds (The Genetic Lottery and Rootstock Factory)

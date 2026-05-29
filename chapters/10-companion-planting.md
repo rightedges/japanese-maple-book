@@ -12,6 +12,9 @@ No tree is an island. In nature, the Japanese Maple exists as part of a complex,
 
 **Companion planting** is the art and science of selecting plant neighbors that share the maple's cultural requirements (soil, water, light) while providing either ecological benefits or visceral textural contrast. In this super-expanded chapter, we move beyond the simple "look-good" pairings and explore the hydraulics of the root zone, the theory of the "Aesthetic Foil," the fascinating topic of allelopathy, and the hidden world of soil microbiology.
 
+
+![Companion Planting Guide]({{ '/assets/images/companion-planting.png' | relative_url }})
+
 ---
 
 ## 1. The Root Zone Synergy: Hydraulics and Allelopathy

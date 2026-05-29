@@ -12,6 +12,9 @@ While bugs and fungi are easy to spot, the most common problems for Japanese Map
 
 Japanese Maples are mountain trees. They love cool, misty air and the protection of larger trees. When we plant them in a hot, windy yard or next to a concrete driveway, they can get "stressed." This chapter explains how to spot these invisible problems and how to help your tree recover.
 
+
+![Environmental Stress Guide]({{ '/assets/images/environmental-stress.png' | relative_url }})
+
 ---
 
 ## 1. Why Leaves Turn Brown: The "Air Dryness" Problem

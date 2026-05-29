@@ -12,6 +12,9 @@ Japanese Maples are generally healthy trees. In their native homes in Japan and 
 
 Think of pests and diseases as "opportunists." If you keep your tree healthy and happy, you will rarely have to deal with them. This chapter helps you identify the most common problems and gives you simple, practical ways to fix them.
 
+
+![Pests and Diseases Guide]({{ '/assets/images/pests-diseases.png' | relative_url }})
+
 ---
 
 ## 1. Common Diseases: What to Look For
