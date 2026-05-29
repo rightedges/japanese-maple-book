@@ -12,6 +12,9 @@ To own a Japanese Maple is to own a living kaleidoscope. Unlike many landscape t
 
 The color of a maple is not a superficial coat of paint; it is a complex, active biochemical response to light, temperature, nutrition, and day length. Understanding these shifts will help you appreciate the subtle transitions in your tree and manage your expectations as the year progresses. In this super-expanded chapter, we dive into the pigments of life, the evolutionary "Coevolution Hypothesis," the physics of UV-shielding, and the chemistry of winter bark.
 
+
+![Seasonal Color Transition]({{ '/assets/images/seasonal-color.png' | relative_url }})
+
 ---
 
 ## 1. The Pigment Trinity: The Chemistry of the Leaf

@@ -8,6 +8,9 @@ permalink: /chapters/01-introduction.html
 
 # The World of Japanese Maples
 
+![Japanese Garden Setting]({{ '/assets/images/intro-garden.png' | relative_url }})
+
+
 ## The Quintessential Garden Aristocrats
 
 Few trees command the reverence of the Japanese Maple family. While often referred to as a single entity, "Japanese Maples" are actually a collection of three primary species: *Acer palmatum*, *Acer japonicum*, and *Acer shirasawanum*. Together, they represent a unique synthesis of architectural grace, seasonal dynamism, and botanical diversity. 

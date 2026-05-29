@@ -12,6 +12,9 @@ Japanese Maples are perhaps the most ideal trees in the world for container cult
 
 However, growing a tree in a pot is an act of defiance against nature. You are removing the tree from the buffering power of the Earth and placing it in a "synthetic" environment. In this hyper-expanded chapter, we explore the physics of **Pot Thermodynamics**, the **Myth of the Drainage Layer**, the **2-Zone Penalty** for winter hardiness, and the technical art of container irrigation and root pruning.
 
+
+![Container Cross Section]({{ '/assets/images/containers-guide.png' | relative_url }})
+
 ---
 
 ## 1. Pot Thermodynamics: Material Science

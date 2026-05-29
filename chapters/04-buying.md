@@ -12,6 +12,9 @@ Embarking on the journey of Japanese Maple stewardship begins with a single, cru
 
 Because these trees are long-lived (often exceeding a hundred years) and slow-growing, mistakes made at the nursery can take a decade to haunt you. A poorly placed graft or a girdled root is a "time bomb." In this expanded chapter, we go beyond the surface aesthetics of leaf color and dive into the technical and logistical realities of sourcing high-quality maples.
 
+
+![Buying Guide Infographic]({{ '/assets/images/buying-guide.png' | relative_url }})
+
 ---
 
 ## 1. Where to Shop: The Specialist vs. The Chain
