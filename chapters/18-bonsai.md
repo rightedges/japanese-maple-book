@@ -12,6 +12,9 @@ A Japanese Maple isn't just a tree in the world of bonsai; it's a star. While we
 
 Growing a Japanese Maple as a bonsai is different than growing one in the yard. In the garden, you are a helper; in bonsai, you are the tree's entire life support. This chapter introduces you to the simple basics of keeping a tiny maple happy.
 
+
+![Japanese Maple Bonsai]({{ '/assets/images/bonsai-guide.png' | relative_url }})
+
 ---
 
 ## 1. The Challenge of the Tiny Pot

@@ -12,6 +12,9 @@ To own a Japanese Maple is to participate in a 365-day conversation with nature.
 
 This hyper-expanded master calendar serves as your technical roadmap. It integrates the lessons from the previous fifteen chapters into a month-by-month checklist, augmented with a **Regional Adjustment Matrix**, **Vacation Survival Guides**, and **Emergency Freeze Protocols**.
 
+
+![Seasonal Calendar Wheel]({{ '/assets/images/calendar-wheel.png' | relative_url }})
+
 ---
 
 ## Part 1: Winter (The Season of Structure)
