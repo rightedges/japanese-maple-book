@@ -27,7 +27,7 @@ When soil is "heavy" (high clay content) and "wet" (poor drainage), the air spac
 ## 2. The Extraction Exam: How to Audit Your Tree
 If your tree looks sick—wilting, dropping leaves prematurely, or showing branch dieback—you must look at the roots. If the tree is in a container, you have a distinct advantage.
 
-![How to Examine the Soil and Root Health]({{ '/assets/images/chapter14/root_health_exam.jpg' | relative_url }})
+![How to Examine the Soil and Root Health]({{ '/assets/images/soil-root-health.png' | relative_url }})
 
 
 ### Step-by-Step Extraction
