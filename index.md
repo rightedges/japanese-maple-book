@@ -7,7 +7,7 @@ has_children: true
 
 # Japanese Maples {#japanese-maples}
 
-![Japanese Maples Cover]({{ 'assets/images/cover.jpg' | relative_url }})
+![Japanese Maples Cover]({{ 'assets/images/cover.png' | relative_url }})
 
 Welcome to the digital edition of *Japanese Maples*. This guide explores the history, varieties, and care of the core species that define the Japanese maple family: *Acer palmatum*, *Acer japonicum*, and *Acer shirasawanum*.
 

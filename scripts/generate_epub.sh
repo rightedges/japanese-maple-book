@@ -75,6 +75,6 @@ done
 
 echo "Generating EPUB..."
 # Using gfm as input format to ensure header IDs are correctly parsed if specified as {#id}
-pandoc "$COMBINED_MD" -f markdown+header_attributes -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.jpg
+pandoc "$COMBINED_MD" -f markdown+header_attributes -o "$OUTPUT" --toc --css epub.css --metadata ibooks:specified-fonts=true --epub-cover-image=assets/images/cover.png
 
 echo "Done: $OUTPUT"
