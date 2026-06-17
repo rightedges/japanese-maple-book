@@ -103,6 +103,39 @@ The layer of plant material traps a pocket of air between the frozen ground and 
 
 ---
 
+## 8. Garden Design "Case Studies"
+
+To see how these companion concepts come together, let's look at three distinct aesthetic themes.
+
+### Case Study 1: The Zen Garden
+
+![The Zen Garden]({{ '/assets/images/zen-garden.png' | relative_url }})
+
+The traditional Japanese garden aesthetic focuses on minimalism, tranquility, and the passage of time. 
+*   **The Maple:** A weeping *Dissectum* like **['Crimson Queen']({{ site.baseurl }}/cultivars/crimson-queen.html)** or a sculptural upright like **['Bloodgood']({{ site.baseurl }}/cultivars/bloodgood.html)**.
+*   **The Companions:** Moss (or Irish Moss in drier climates) serves as a seamless groundcover. Large, smooth river rocks anchor the scene, providing permanence against the changing deciduous leaves. A structural pine tree (like a Japanese Black Pine) sits in the background to provide the essential "Yang" to the maple's "Yin."
+*   **The Goal:** Restraint. The eye should rest on the form of the maple and the texture of the stone.
+
+### Case Study 2: The Woodland Edge
+
+![The Woodland Edge]({{ '/assets/images/woodland-edge.png' | relative_url }})
+
+For a lush, naturalistic setting, the goal is to mimic the understory of a wild, high-canopy forest.
+*   **The Maple:** An upright green *Amoenum* like **['Osakazuki']({{ site.baseurl }}/cultivars/osakazuki.html)** or a subtle variegated variety like **['Ukigumo']({{ site.baseurl }}/cultivars/ukigumo.html)**.
+*   **The Companions:** Large, bold-leafed Hostas (like 'Elegans' or 'Sum and Substance') provide the perfect aesthetic foil to the fine maple leaves. Drifts of Japanese Painted Ferns add a silvery texture, while evergreen Azaleas offer a burst of spring color and solid winter structure.
+*   **The Goal:** Abundance. This dense planting creates a "humidity well" that protects the delicate maple leaves from summer scorch.
+
+### Case Study 3: The Modern Courtyard
+
+![The Modern Courtyard]({{ '/assets/images/modern-courtyard.png' | relative_url }})
+
+In contemporary urban spaces, maples act as living sculptures.
+*   **The Maple:** A striking winter-bark variety like **['Sango-kaku']({{ site.baseurl }}/cultivars/sango-kaku.html)** (Coral Bark) or **['Bihou']({{ site.baseurl }}/cultivars/bihou.html)**.
+*   **The Companions:** A sleek, dark-colored geometric container. The dark backdrop of a modern courtyard wall makes the vivid bark "pop" visually. A simple, low-growing groundcover like black Mondo Grass (*Ophiopogon planiscapus* 'Nigrescens') in the pot finishes the look.
+*   **The Goal:** Architectural contrast. The organic, chaotic branching of the tree softens the hard lines of the urban architecture.
+
+---
+
 ## Summary: Designing the Ecosystem
 
 Companion planting is the final step in moving from "owning a tree" to "curating a garden." By choosing neighbors that act as thermal buffers, humidity wells, and aesthetic foils, you are creating a resilient community. 
