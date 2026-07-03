@@ -17,7 +17,15 @@ However, growing a tree in a pot is an act of defiance against nature. You are r
 
 ---
 
-## 1. Pot Thermodynamics: Material Science
+## 1. Selecting the Right Tree and Pot Size
+
+While any Japanese Maple can be grown in a pot, **dwarf and semi-dwarf cultivars** (such as 'Butterfly', 'Pixie', or 'Waterfall') are the easiest to manage, as they won't outgrow their containers as quickly. 
+
+When selecting your container, a critical rule is to **choose a pot that is only about twice the size of the current root ball**. Avoid placing a small tree in a massive pot; the excess soil will retain too much moisture, leading to root rot before the tree has a chance to establish itself. Ensure the pot has excellent drainage holes.
+
+---
+
+## 2. Pot Thermodynamics: Material Science
 
 The material of your pot isn't just an aesthetic choice; it is a life-support decision.
 *   **Terra Cotta (The Breathable)**: These are porous, allowing air to reach the roots from all sides. However, they also allow water to evaporate from the sides, cooling the pot through evaporation. 
@@ -28,7 +36,7 @@ The material of your pot isn't just an aesthetic choice; it is a life-support de
 
 ---
 
-## 2. The Drainage Layer Myth: Physics vs. Tradition
+## 3. The Drainage Layer Myth: Physics vs. Tradition
 
 For decades, gardeners were told to put a layer of gravel or broken "crocks" at the bottom of a pot to "improve drainage." Modern soil physics (specifically the study of **Perched Water Tables**) has proven this is a mistake.
 
@@ -39,7 +47,7 @@ Water does not move easily from a fine-textured material (soil) to a coarse-text
 
 ---
 
-## 3. The "2-Zone Penalty" for Winter Hardiness
+## 4. The "2-Zone Penalty" for Winter Hardiness
 
 This is the most important rule of container maples.
 *   **The Physics**: A tree's roots are far more sensitive to cold than its branches. In the ground, the soil temperature rarely drops below 32°F (0°C). In a pot, the soil temperature can match the air temperature.
@@ -48,7 +56,7 @@ This is the most important rule of container maples.
 
 ---
 
-## 4. The Soil Recipe: Logic of the Mix
+## 5. The Soil Recipe: Logic of the Mix
 
 Do not use "Garden Soil" or cheap "Potting Mix."
 *   **The Goal**: 40% Aeration / 40% Moisture Retention / 20% Drainage.
@@ -62,7 +70,7 @@ Do not use "Garden Soil" or cheap "Potting Mix."
 
 ---
 
-## 5. Root Pruning: The Fountain of Youth
+## 6. Root Pruning: The Fountain of Youth
 
 Since the pot is the limit, you must eventually prune the roots to keep the tree small and healthy. 
 1.  **The Extraction**: Every 2-3 years, remove the tree from the pot in early spring (Bud Swell).
@@ -72,7 +80,7 @@ Since the pot is the limit, you must eventually prune the roots to keep the tree
 
 ---
 
-## 6. Vacation Irrigation for Pots
+## 7. Vacation Irrigation for Pots
 
 When you go away in summer, your container maples are at risk.
 *   **The Wick Method**: Place a bucket of water higher than the pot. Run an absorbent cotton rope from the bucket into the soil of the pot. Capillary action will "draw" water into the soil as it dries.
@@ -81,7 +89,7 @@ When you go away in summer, your container maples are at risk.
 
 ---
 
-## 7. Aesthetics: Choosing the Frame
+## 8. Aesthetics: Choosing the Frame
 
 A pot is the "frame" for your living painting.
 *   **The Rule of 3**: The width of the pot should be about 1/3 the height of the tree.

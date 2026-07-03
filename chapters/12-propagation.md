@@ -15,6 +15,9 @@ However, a word of advice for the beginner: set your expectations low. Japanese 
 
 ![Propagation Guide]({{ '/assets/images/propagation-guide.png' | relative_url }})
 
+
+![Side-Veneer Grafting Technique](<{{ '/assets/images/propagation-grafting.jpg' | relative_url }}>)
+
 ---
 
 ## 1. Seeds (The Genetic Lottery and Rootstock Factory)
