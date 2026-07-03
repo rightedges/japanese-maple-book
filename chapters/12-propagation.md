@@ -16,10 +16,8 @@ However, a word of advice for the beginner: set your expectations low. Japanese 
 ![Propagation Guide]({{ '/assets/images/propagation-guide.png' | relative_url }})
 
 
-![Side-Veneer Grafting Technique](<{{ 'assets/images/propagation-grafting.jpg' | relative_url }}>)
 
 
-![Side-Veneer Grafting Technique](<{{ 'assets/images/propagation-grafting.jpg' | relative_url }}>)
 
 ---
 
@@ -75,6 +73,8 @@ When you remove a ring of bark from a branch, you disrupt the **phloem**—the o
 ---
 
 ## 4. Grafting: The Clinical Precision
+
+![Side-Veneer Grafting Technique](<{{ 'assets/images/propagation-grafting.jpg' | relative_url }}>)
 
 This is how almost every **['Bloodgood']({{ '/cultivars/bloodgood' | relative_url }})** or **['Sango Kaku']({{ '/cultivars/sango-kaku' | relative_url }})** in the world was created. It is the marriage of two different trees: a strong, wild rootstock and a beautiful, specialty scion.
 
