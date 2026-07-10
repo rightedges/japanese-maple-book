@@ -98,6 +98,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 *   [Moonrise]({{ site.baseurl }}/cultivars/moonrise.html)
 
 ## 9. Japonicum Group (The Downy Maples)
+*   [Abby's Weeping]({{ site.baseurl }}/cultivars/abbys-weeping.html)
 *   [Aconitifolium]({{ site.baseurl }}/cultivars/aconitifolium.html)
 
 ---
