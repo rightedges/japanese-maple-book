@@ -49,6 +49,7 @@ Welcome to the digital edition of *Japanese Maples*. This guide explores the his
 ### Part VIII: Appendices
 *   [Appendix A: Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
 *   [Appendix B: The Specialist's Kit]({{ site.baseurl }}/chapters/appendix-b-kit.html)
+*   [Appendix C: Comparison Chart]({{ site.baseurl }}/chapters/appendix-c-comparison-chart.html)
 
 Please use the navigation sidebar or the links above to browse the chapters.
 

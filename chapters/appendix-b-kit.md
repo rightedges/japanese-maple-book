@@ -36,4 +36,4 @@ To move from basic gardening to advanced stewardship, you need more than a stand
 
 ---
 
-[← Previous: Appendix A]({{ site.baseurl }}/chapters/appendix-a-table.html) | [Home]({{ site.baseurl }}/)
+[← Previous: Appendix A]({{ site.baseurl }}/chapters/appendix-a-table.html) | [Next: Appendix C →]({{ site.baseurl }}/chapters/appendix-c-comparison-chart.html)
