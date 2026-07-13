@@ -2,6 +2,9 @@ require 'yaml'
 require 'fileutils'
 
 CULTIVARS_DIR = File.join(__dir__, '..', '_cultivars')
+ASSETS_DIR = File.join(__dir__, '..', 'assets', 'images')
+FileUtils.mkdir_p(ASSETS_DIR)
+SVG_FILE = File.join(ASSETS_DIR, 'comparison-chart.svg')
 OUTPUT_FILE = File.join(__dir__, '..', 'chapters', 'appendix-c-comparison-chart.md')
 
 def parse_growth(growth_str)
@@ -49,191 +52,84 @@ Dir.glob(File.join(CULTIVARS_DIR, '*.md')).each do |file|
     
     cultivars << {
       title: frontmatter['title'],
-      url: "/japanese-maple-book/cultivars/#{File.basename(file, '.md')}",
-      budding: frontmatter['budding'].to_s.strip,
       size: size_ft,
       color: extract_color(frontmatter['foliage_sum_fall'].to_s)
     }
   end
 end
 
-groups = {
-  "Early-season" => [],
-  "Mid-season" => [],
-  "Late-season" => []
-}
+# Sort by height as requested
+cultivars.sort_by! { |c| c[:size] }
 
-cultivars.each do |c|
-  b = c[:budding]
-  b = "Mid-season" unless groups.key?(b)
-  groups[b] << c
-end
+max_size = 20.0 # Fixed scale max for consistency
+items_per_row = 12
+rows = cultivars.each_slice(items_per_row).to_a
 
-groups.values.each do |group|
-  group.sort_by! { |c| c[:size] }
-end
+# SVG dimensions
+row_width = 800
+chart_height = 250
+label_area = 150
+row_height_total = chart_height + label_area
+total_height = rows.length * row_height_total + 50
+left_margin = 50
+right_margin = 20
+item_spacing = (row_width - left_margin - right_margin) / items_per_row.to_f
+max_chart_y = chart_height - 20 # 20px padding top
 
-max_size = cultivars.map { |c| c[:size] }.max || 20.0
-max_scale = ((max_size / 2.0).ceil * 2)
+svg = <<-SVG
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 #{row_width} #{total_height}" width="100%" height="100%">
+  <defs>
+    <style>
+      .label { font-family: sans-serif; font-size: 11px; fill: #333; }
+      .tick { font-family: sans-serif; font-size: 10px; fill: #666; text-anchor: end; }
+      .axis { stroke: #ccc; stroke-width: 1; }
+      .grid { stroke: #eee; stroke-width: 1; stroke-dasharray: 4,4; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="white" />
+SVG
 
-html = <<-HTML
-<style>
-.chart-wrapper {
-  position: relative;
-  width: 100%;
-  font-family: sans-serif;
-  margin-top: 20px;
-}
-.chart-header {
-  display: flex;
-  margin-bottom: 10px;
-}
-.chart-group-title {
-  flex: 1;
-  text-align: center;
-  font-weight: bold;
-  color: #666;
-  padding: 5px;
-}
-.chart-scroll-area {
-  overflow-x: auto;
-  width: 100%;
-  padding-bottom: 20px;
-}
-.chart-body {
-  display: flex;
-  position: relative;
-  min-width: 1200px; /* ensure enough width to avoid squishing */
-}
-.chart-y-axis {
-  position: absolute;
-  right: 0;
-  top: 0;
-  height: 400px;
-  width: 40px;
-  border-left: 1px solid #ccc;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  background: white; /* overlay on top if scrolled */
-  z-index: 10;
-}
-.y-tick {
-  position: relative;
-  width: 100%;
-  border-top: 1px solid #ccc;
-  height: 0;
-}
-.y-tick span {
-  position: absolute;
-  right: -25px;
-  top: -8px;
-  font-size: 12px;
-  color: #666;
-  background: white;
-  padding-left: 5px;
-}
-.chart-grid {
-  display: flex;
-  flex: 1;
-  margin-right: 40px; /* space for fixed y-axis */
-}
-.chart-section {
-  flex: 1;
-  position: relative;
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-evenly;
-  border-right: 1px dashed #ccc;
-  border-bottom: 2px solid #ccc;
-  padding: 0 10px;
-  height: 400px;
-}
-.chart-section:last-child {
-  border-right: none;
-}
-.plant-item {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin: 0 5px;
-}
-a.plant-link {
-  text-decoration: none;
-  color: inherit;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.plant-shape {
-  border-radius: 40% 40% 15% 15%;
-  box-shadow: inset -5px -5px 10px rgba(0,0,0,0.2);
-  transition: transform 0.2s;
-  margin-bottom: 0;
-}
-.plant-shape:hover {
-  transform: scale(1.1);
-}
-.plant-label-container {
-  height: 120px;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
-  margin-top: 10px;
-}
-.plant-label {
-  font-size: 11px;
-  writing-mode: vertical-rl;
-  text-orientation: mixed;
-  transform: rotate(180deg);
-  color: #555;
-  white-space: nowrap;
-}
-</style>
-
-<div class="chart-wrapper">
-  <div class="chart-scroll-area">
-    <div class="chart-header" style="min-width: 1200px; margin-right: 40px;">
-      <div class="chart-group-title">EARLY SEASON</div>
-      <div class="chart-group-title">MID SEASON</div>
-      <div class="chart-group-title">LATE SEASON</div>
-    </div>
-    
-    <div class="chart-body">
-      <div class="chart-grid">
-HTML
-
-["Early-season", "Mid-season", "Late-season"].each do |g|
-  html += "        <div class=\"chart-section\">\n"
-  groups[g].each do |c|
-    height_px = (c[:size] / max_scale.to_f) * 380
-    width_px = [height_px * 0.45, 20].max
-    html += <<-ITEM
-          <div class="plant-item">
-            <a href="#{c[:url]}" class="plant-link" title="#{c[:title]} (10-yr size: #{c[:size].round(1)}')">
-              <div class="plant-shape" style="height: #{height_px}px; width: #{width_px}px; background: #{c[:color]};"></div>
-              <div class="plant-label-container">
-                <div class="plant-label">#{c[:title]}</div>
-              </div>
-            </a>
-          </div>
-ITEM
+rows.each_with_index do |row, row_idx|
+  y_offset = row_idx * row_height_total + 20
+  baseline_y = y_offset + max_chart_y
+  
+  # Draw Y axis
+  svg += "  <line x1=\"#{left_margin}\" y1=\"#{y_offset}\" x2=\"#{left_margin}\" y2=\"#{baseline_y}\" class=\"axis\" />\n"
+  # Draw Baseline
+  svg += "  <line x1=\"#{left_margin}\" y1=\"#{baseline_y}\" x2=\"#{row_width - right_margin}\" y2=\"#{baseline_y}\" class=\"axis\" />\n"
+  
+  # Draw ticks and grid lines (0, 5, 10, 15, 20 feet)
+  (0..20).step(5).each do |tick|
+    tick_y = baseline_y - (tick / max_size) * max_chart_y
+    svg += "  <line x1=\"#{left_margin - 5}\" y1=\"#{tick_y}\" x2=\"#{row_width - right_margin}\" y2=\"#{tick_y}\" class=\"grid\" />\n"
+    svg += "  <text x=\"#{left_margin - 10}\" y=\"#{tick_y + 4}\" class=\"tick\">#{tick}'</text>\n"
   end
-  html += "        </div>\n"
+  
+  row.each_with_index do |c, i|
+    x_center = left_margin + (i + 0.5) * item_spacing
+    item_h = (c[:size] / max_size) * max_chart_y
+    item_w = [item_h * 0.4, 15].max
+    item_w = [item_w, item_spacing * 0.8].min # cap width
+    
+    x_left = x_center - item_w / 2.0
+    x_right = x_center + item_w / 2.0
+    y_top = baseline_y - item_h
+    r = item_w / 2.0
+    
+    # Path for a shape with rounded top
+    path_d = "M #{x_left} #{baseline_y} L #{x_left} #{y_top + r} A #{r} #{r} 0 0 1 #{x_right} #{y_top + r} L #{x_right} #{baseline_y} Z"
+    
+    svg += "  <!-- #{c[:title]} -->\n"
+    svg += "  <path d=\"#{path_d}\" fill=\"#{c[:color]}\" />\n"
+    
+    # Label
+    svg += "  <text x=\"#{x_center + 4}\" y=\"#{baseline_y + 10}\" class=\"label\" transform=\"rotate(90, #{x_center + 4}, #{baseline_y + 10})\">#{c[:title]}</text>\n"
+  end
 end
 
-html += "      </div>\n"
-html += "      <div class=\"chart-y-axis\">\n"
-
-ticks = (0..max_scale).step(2).to_a.reverse
-ticks.each do |t|
-  html += "        <div class=\"y-tick\"><span>#{t}'</span></div>\n"
-end
-
-html += "      </div>\n"
-html += "    </div>\n"
-html += "  </div>\n"
-html += "</div>\n"
+svg += "</svg>\n"
+File.write(SVG_FILE, svg)
+puts "SVG chart generated at #{SVG_FILE}"
 
 markdown = <<-MD
 ---
@@ -244,11 +140,11 @@ nav_order: 3
 permalink: /chapters/appendix-c-comparison-chart.html
 ---
 
-# Appendix C: 10-Year Size & Budding Comparison Chart
+# Appendix C: 10-Year Size Comparison Chart
 
-This chart visualizes the approximate 10-year sizes and budding times of the Japanese Maples in our library. The colors represent their typical summer/fall foliage hues.
+This chart visualizes the approximate 10-year sizes of the Japanese Maples in our library, sorted from smallest to tallest. The colors represent their typical summer/fall foliage hues.
 
-#{html}
+![Comparison Chart]({{ 'assets/images/comparison-chart.svg' | relative_url }})
 
 > **Note:** Sizes are estimates based on average growth rates. Actual sizes will vary depending on climate, soil, and care.
 
@@ -258,4 +154,4 @@ This chart visualizes the approximate 10-year sizes and budding times of the Jap
 MD
 
 File.write(OUTPUT_FILE, markdown)
-puts "Chart generated successfully at #{OUTPUT_FILE}"
+puts "Markdown generated at #{OUTPUT_FILE}"
