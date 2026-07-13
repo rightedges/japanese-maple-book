@@ -20,6 +20,15 @@ def parse_growth(growth_str)
   8.0
 end
 
+def parse_mature_size(habit_str)
+  if habit_str =~ /\((\d+(?:\.\d+)?)-(\d+(?:\.\d+)?)'\)/
+    return ($1.to_f + $2.to_f) / 2.0
+  elsif habit_str =~ /\((\d+(?:\.\d+)?)'\)/
+    return $1.to_f
+  end
+  nil
+end
+
 def extract_color(color_str)
   str = color_str.downcase
   if str.include?('burgundy') || str.include?('purple') || str.include?('dark red')
@@ -49,6 +58,12 @@ Dir.glob(File.join(CULTIVARS_DIR, '*.md')).each do |file|
     frontmatter = YAML.safe_load($1)
     inches_per_yr = parse_growth(frontmatter['growth_rate'].to_s)
     size_ft = (inches_per_yr * 10) / 12.0
+    
+    # Extract mature size to act as a cap
+    mature_size_ft = parse_mature_size(frontmatter['habit'].to_s)
+    if mature_size_ft && size_ft > mature_size_ft
+      size_ft = mature_size_ft
+    end
     
     cultivars << {
       title: frontmatter['title'],
@@ -146,7 +161,7 @@ This chart visualizes the approximate 10-year sizes of the Japanese Maples in ou
 
 ![Comparison Chart]({{ 'assets/images/comparison-chart.svg' | relative_url }})
 
-> **Note:** Sizes are estimates based on average growth rates. Actual sizes will vary depending on climate, soil, and care.
+> **Note:** Sizes are estimates based on average growth rates. For dwarf varieties, the 10-year size is capped at their maximum mature height. Actual sizes will vary depending on climate, soil, and care.
 
 ---
 

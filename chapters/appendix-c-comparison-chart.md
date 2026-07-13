@@ -12,7 +12,7 @@ This chart visualizes the approximate 10-year sizes of the Japanese Maples in ou
 
 ![Comparison Chart]({{ 'assets/images/comparison-chart.svg' | relative_url }})
 
-> **Note:** Sizes are estimates based on average growth rates. Actual sizes will vary depending on climate, soil, and care.
+> **Note:** Sizes are estimates based on average growth rates. For dwarf varieties, the 10-year size is capped at their maximum mature height. Actual sizes will vary depending on climate, soil, and care.
 
 ---
 
