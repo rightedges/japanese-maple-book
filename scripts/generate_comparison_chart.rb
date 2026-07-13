@@ -4,7 +4,7 @@ require 'fileutils'
 CULTIVARS_DIR = File.join(__dir__, '..', '_cultivars')
 ASSETS_DIR = File.join(__dir__, '..', 'assets', 'images')
 FileUtils.mkdir_p(ASSETS_DIR)
-SVG_FILE = File.join(ASSETS_DIR, 'comparison-chart.svg')
+SVG_FILE = File.join(ASSETS_DIR, 'comparison-chart-v2.svg')
 OUTPUT_FILE = File.join(__dir__, '..', 'chapters', 'appendix-c-comparison-chart.md')
 
 def parse_growth(growth_str)
@@ -66,7 +66,7 @@ Dir.glob(File.join(CULTIVARS_DIR, '*.md')).each do |file|
     end
     
     cultivars << {
-      title: frontmatter['title'],
+      title: frontmatter['title'], mature_size: mature_size_ft, orig_size: (inches_per_yr * 10 / 12.0),
       size: size_ft,
       color: extract_color(frontmatter['foliage_sum_fall'].to_s)
     }
@@ -159,7 +159,7 @@ permalink: /chapters/appendix-c-comparison-chart.html
 
 This chart visualizes the approximate 10-year sizes of the Japanese Maples in our library, sorted from smallest to tallest. The colors represent their typical summer/fall foliage hues.
 
-![Comparison Chart]({{ 'assets/images/comparison-chart.svg' | relative_url }})
+![Comparison Chart]({{ 'assets/images/comparison-chart-v2.svg' | relative_url }})
 
 > **Note:** Sizes are estimates based on average growth rates. For dwarf varieties, the 10-year size is capped at their maximum mature height. Actual sizes will vary depending on climate, soil, and care.
 

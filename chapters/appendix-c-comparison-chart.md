@@ -10,7 +10,7 @@ permalink: /chapters/appendix-c-comparison-chart.html
 
 This chart visualizes the approximate 10-year sizes of the Japanese Maples in our library, sorted from smallest to tallest. The colors represent their typical summer/fall foliage hues.
 
-![Comparison Chart]({{ 'assets/images/comparison-chart.svg' | relative_url }})
+![Comparison Chart]({{ 'assets/images/comparison-chart-v2.svg' | relative_url }})
 
 > **Note:** Sizes are estimates based on average growth rates. For dwarf varieties, the 10-year size is capped at their maximum mature height. Actual sizes will vary depending on climate, soil, and care.
 
