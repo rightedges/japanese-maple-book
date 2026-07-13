@@ -4,21 +4,8 @@ require 'fileutils'
 CULTIVARS_DIR = File.join(__dir__, '..', '_cultivars')
 ASSETS_DIR = File.join(__dir__, '..', 'assets', 'images')
 FileUtils.mkdir_p(ASSETS_DIR)
-SVG_FILE = File.join(ASSETS_DIR, 'comparison-chart-v2.svg')
+SVG_FILE = File.join(ASSETS_DIR, 'comparison-chart-v3.svg')
 OUTPUT_FILE = File.join(__dir__, '..', 'chapters', 'appendix-c-comparison-chart.md')
-
-def parse_growth(growth_str)
-  if growth_str =~ /(\d+)-(\d+)/
-    return ($1.to_f + $2.to_f) / 2.0
-  elsif growth_str =~ /Fast/i
-    return 15.0
-  elsif growth_str =~ /Moderate/i
-    return 8.0
-  elsif growth_str =~ /Slow/i
-    return 4.0
-  end
-  8.0
-end
 
 def parse_mature_size(habit_str)
   if habit_str =~ /\((\d+(?:\.\d+)?)-(\d+(?:\.\d+)?)'\)/
@@ -26,7 +13,7 @@ def parse_mature_size(habit_str)
   elsif habit_str =~ /\((\d+(?:\.\d+)?)'\)/
     return $1.to_f
   end
-  nil
+  10.0 # Default if no size found
 end
 
 def extract_color(color_str)
@@ -56,17 +43,12 @@ Dir.glob(File.join(CULTIVARS_DIR, '*.md')).each do |file|
   content = File.read(file, encoding: 'UTF-8')
   if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
     frontmatter = YAML.safe_load($1)
-    inches_per_yr = parse_growth(frontmatter['growth_rate'].to_s)
-    size_ft = (inches_per_yr * 10) / 12.0
     
-    # Extract mature size to act as a cap
-    mature_size_ft = parse_mature_size(frontmatter['habit'].to_s)
-    if mature_size_ft && size_ft > mature_size_ft
-      size_ft = mature_size_ft
-    end
+    # Use mature size directly instead of 10-year calculations
+    size_ft = parse_mature_size(frontmatter['habit'].to_s)
     
     cultivars << {
-      title: frontmatter['title'], mature_size: mature_size_ft, orig_size: (inches_per_yr * 10 / 12.0),
+      title: frontmatter['title'],
       size: size_ft,
       color: extract_color(frontmatter['foliage_sum_fall'].to_s)
     }
@@ -76,7 +58,7 @@ end
 # Sort by height as requested
 cultivars.sort_by! { |c| c[:size] }
 
-max_size = 20.0 # Fixed scale max for consistency
+max_size = 25.0 # Max size is now 25 since some hit 20-25'
 items_per_row = 12
 rows = cultivars.each_slice(items_per_row).to_a
 
@@ -113,8 +95,8 @@ rows.each_with_index do |row, row_idx|
   # Draw Baseline
   svg += "  <line x1=\"#{left_margin}\" y1=\"#{baseline_y}\" x2=\"#{row_width - right_margin}\" y2=\"#{baseline_y}\" class=\"axis\" />\n"
   
-  # Draw ticks and grid lines (0, 5, 10, 15, 20 feet)
-  (0..20).step(5).each do |tick|
+  # Draw ticks and grid lines (0, 5, 10, 15, 20, 25 feet)
+  (0..25).step(5).each do |tick|
     tick_y = baseline_y - (tick / max_size) * max_chart_y
     svg += "  <line x1=\"#{left_margin - 5}\" y1=\"#{tick_y}\" x2=\"#{row_width - right_margin}\" y2=\"#{tick_y}\" class=\"grid\" />\n"
     svg += "  <text x=\"#{left_margin - 10}\" y=\"#{tick_y + 4}\" class=\"tick\">#{tick}'</text>\n"
@@ -155,13 +137,13 @@ nav_order: 3
 permalink: /chapters/appendix-c-comparison-chart.html
 ---
 
-# Appendix C: 10-Year Size Comparison Chart
+# Appendix C: Mature Size Comparison Chart
 
-This chart visualizes the approximate 10-year sizes of the Japanese Maples in our library, sorted from smallest to tallest. The colors represent their typical summer/fall foliage hues.
+This chart visualizes the approximate mature sizes of the Japanese Maples in our library, sorted from smallest to tallest. The colors represent their typical summer/fall foliage hues.
 
-![Comparison Chart]({{ 'assets/images/comparison-chart-v2.svg' | relative_url }})
+![Comparison Chart]({{ 'assets/images/comparison-chart-v3.svg' | relative_url }})
 
-> **Note:** Sizes are estimates based on average growth rates. For dwarf varieties, the 10-year size is capped at their maximum mature height. Actual sizes will vary depending on climate, soil, and care.
+> **Note:** Sizes represent the average mature height (typically 15-20+ years of growth). Actual sizes will vary depending on climate, soil, and care.
 
 ---
 
