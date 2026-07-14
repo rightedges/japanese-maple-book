@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Appendix A: Cultivar Quick Reference"
-parent: "Part VIII: Appendices"
-nav_order: 1
-permalink: /chapters/appendix-a-table.html
+title: "Appendix B: Cultivar Quick Reference"
+parent: "Part VII: Appendices"
+nav_order: 2
+permalink: /chapters/appendix-b-table.html
 ---
 
-# Appendix A: Cultivar Quick Reference
+# Appendix B: Cultivar Quick Reference
 
 This reference guide provides detailed information on some of the most popular Japanese Maples. This vertical "Profile" format ensures that technical specifications are readable on all devices, including E-readers and mobile phones.
 
@@ -708,4 +708,4 @@ Almost all cultivars listed above are hardy to **USDA Zones 5-9**. However, for 
 
 ---
 
-[← Previous: 17. Library]({{ site.baseurl }}/chapters/cultivar-library.html)
+[← Previous: Appendix A]({{ site.baseurl }}/chapters/appendix-a-cultivar-library.html) | [Next: Appendix C →]({{ site.baseurl }}/chapters/appendix-c-comparison-chart.html)

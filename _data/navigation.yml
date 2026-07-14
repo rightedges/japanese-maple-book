@@ -80,12 +80,12 @@
       url: /chapters/18-bonsai.html
       file: chapters/18-bonsai.md
 
-- title: "Part VII: Reference"
-  file: chapters/part-7-reference.md
+- title: "Part VII: Appendices"
+  file: chapters/part-7-appendices.md
   children:
-    - title: "19. Cultivar Library"
-      url: /chapters/cultivar-library.html
-      file: chapters/cultivar-library.md
+    - title: "Appendix A: Cultivar Library"
+      url: /chapters/appendix-a-cultivar-library.html
+      file: chapters/appendix-a-cultivar-library.md
       children:
         - title: "1. Palmatum Group"
           children:
@@ -236,15 +236,9 @@
             - title: "Aconitifolium"
               file: _cultivars/aconitifolium.md
 
-- title: "Part VIII: Appendices"
-  file: chapters/part-8-appendices.md
-  children:
-    - title: "Appendix A: Quick Reference"
-      url: /chapters/appendix-a-table.html
-      file: chapters/appendix-a-table.md
-    - title: "Appendix B: The Specialist's Kit"
-      url: /chapters/appendix-b-kit.html
-      file: chapters/appendix-b-kit.md
+    - title: "Appendix B: Cultivar Quick Reference"
+      url: /chapters/appendix-b-table.html
+      file: chapters/appendix-b-table.md
     - title: "Appendix C: Comparison Chart"
       url: /chapters/appendix-c-comparison-chart.html
       file: chapters/appendix-c-comparison-chart.md

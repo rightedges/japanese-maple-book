@@ -43,12 +43,9 @@ Welcome to the digital edition of *Japanese Maples*. This guide explores the his
 *   [17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html)
 *   [18. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/18-bonsai.html)
 
-### Part VII: Reference
-*   [19. Cultivar Library]({{ site.baseurl }}/chapters/cultivar-library.html)
-
-### Part VIII: Appendices
-*   [Appendix A: Quick Reference]({{ site.baseurl }}/chapters/appendix-a-table.html)
-*   [Appendix B: The Specialist's Kit]({{ site.baseurl }}/chapters/appendix-b-kit.html)
+### Part VII: Appendices
+*   [Appendix A: Cultivar Library]({{ site.baseurl }}/chapters/appendix-a-cultivar-library.html)
+*   [Appendix B: Cultivar Quick Reference]({{ site.baseurl }}/chapters/appendix-b-table.html)
 *   [Appendix C: Comparison Chart]({{ site.baseurl }}/chapters/appendix-c-comparison-chart.html)
 
 Please use the navigation sidebar or the links above to browse the chapters.

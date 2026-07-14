@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Appendix C: Comparison Chart"
-parent: "Part VIII: Appendices"
+parent: "Part VII: Appendices"
 nav_order: 3
 permalink: /chapters/appendix-c-comparison-chart.html
 ---
@@ -16,4 +16,4 @@ This chart visualizes the approximate mature sizes of the Japanese Maples in our
 
 ---
 
-[← Previous: Appendix B]({{ site.baseurl }}/chapters/appendix-b-kit.html)
+[← Previous: Appendix B]({{ site.baseurl }}/chapters/appendix-b-table.html)

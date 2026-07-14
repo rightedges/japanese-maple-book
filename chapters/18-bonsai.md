@@ -62,4 +62,4 @@ Bonsai is a "slow art." You can't rush a tree to grow, but that's part of the fu
 
 ---
 
-[← Previous: 17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html) | [Next: 19. Cultivar Library →]({{ site.baseurl }}/chapters/cultivar-library.html)
+[← Previous: 17. Staking and Training]({{ site.baseurl }}/chapters/17-staking-training.html) | [Next: Appendix A →]({{ site.baseurl }}/chapters/appendix-a-cultivar-library.html)

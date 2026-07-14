@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "19. Cultivar Library"
-parent: "Part VII: Reference"
+title: "Appendix A: Cultivar Library"
+parent: "Part VII: Appendices"
 has_children: true
 nav_order: 1
-permalink: /chapters/cultivar-library.html
+permalink: /chapters/appendix-a-cultivar-library.html
 ---
 
-# Cultivar Library: The Genetic Heritage
+# Appendix A: Cultivar Library: The Genetic Heritage
 
 Explore detailed profiles for each of the Japanese Maple cultivars mentioned in this guide, organized by their botanical groupings as defined in the **Group Selection Matrix**.
 
@@ -103,4 +103,4 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 ---
 
-[← Previous: 18. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/18-bonsai.html) | [Next: Appendix A →]({{ site.baseurl }}/chapters/appendix-a-table.html)
+[← Previous: 18. Maple Bonsai Introduction]({{ site.baseurl }}/chapters/18-bonsai.html) | [Next: Appendix B →]({{ site.baseurl }}/chapters/appendix-b-table.html)
