@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Mila"
-group: "Palmatum"
-foliage_sum_fall: "Pink-Red / Orange-Red"
-habit: "Upright Vase (10-15')"
-growth_rate: "Vigorous (8-18\"/yr)"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "18. Cultivar Library"
+title: Mila
+group: Palmatum
+foliage_sum_fall: Pink-Red / Orange-Red
+habit: Upright Vase (10-15')
+growth_rate: Vigorous (8-18"/yr)
+budding: Mid-season
+sun_tolerance: High
+parent: 18. Cultivar Library
+best_feature: '"Dutch Ruby." Produces constant flushes of vibrant red and pink growth
+  all summer long.'
 ---
 
 # 'Mila' Japanese Maple: The Dutch Ruby

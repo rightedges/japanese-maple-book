@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "First Ghost"
-group: "Variegated"
-foliage_sum_fall: "White-Green / Gold-Red"
-habit: "Upright-Bushy (8-10')"
-growth_rate: "Slow to Moderate"
-budding: "Early-season"
-sun_tolerance: "Low (Shade)"
-parent: "17. Cultivar Library"
+title: First Ghost
+group: Variegated
+foliage_sum_fall: White-Green / Gold-Red
+habit: Upright-Bushy (8-10')
+growth_rate: Slow to Moderate
+budding: Early-season
+sun_tolerance: Low (Shade)
+parent: 17. Cultivar Library
+best_feature: High-contrast reticulation. Deep green veins on white-cream leaves;
+  an ethereal collector's item.
 ---
 
 # 'First Ghost' Japanese Maple: The Original Apparition

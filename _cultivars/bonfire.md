@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Bonfire"
-group: "Palmatum"
-foliage_sum_fall: "Pinkish-Red / Green / Crimson"
-habit: "Upright-Rounded (6-10')"
-growth_rate: "Slow"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Bonfire
+group: Palmatum
+foliage_sum_fall: Pinkish-Red / Green / Crimson
+habit: Upright-Rounded (6-10')
+growth_rate: Slow
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: '"Fiery" color shifts. Intense pink-orange spring and scarlet-crimson
+  fall displays.'
 ---
 
 # 'Bonfire' Japanese Maple: A Fiery Spectacle

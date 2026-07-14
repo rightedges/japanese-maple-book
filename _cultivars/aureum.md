@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Aureum"
-group: "Shirasawanum"
-foliage_sum_fall: "Chartreuse-Gold / Orange-Red"
-habit: "Upright (15-20')"
-sun_tolerance: "Low (Shade)"
-parent: "17. Cultivar Library"
-growth_rate: "Slow (3-6\"/yr)"
-budding: "Mid-season"
+title: Aureum
+group: Shirasawanum
+foliage_sum_fall: Chartreuse-Gold / Orange-Red
+habit: Upright (15-20')
+sun_tolerance: Low (Shade)
+parent: 17. Cultivar Library
+growth_rate: Slow (3-6"/yr)
+budding: Mid-season
+best_feature: Luminous golden foliage. Round, fan-like leaves that glow in the shade;
+  very slow-growing and requires protection from afternoon sun.
+synonyms: Golden Full Moon Maple
 ---
 
 # 'Aureum' (Golden Full Moon Maple): The Lantern in the Woods

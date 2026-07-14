@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Olsen’s Frosted Strawberry"
-group: "Variegated"
-foliage_sum_fall: "Frosted-Pink / Fiery Orange"
-habit: "Rounded Dwarf (4-8')"
-growth_rate: "Slow"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "18. Cultivar Library"
+title: Olsen’s Frosted Strawberry
+group: Variegated
+foliage_sum_fall: Frosted-Pink / Fiery Orange
+habit: Rounded Dwarf (4-8')
+growth_rate: Slow
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 18. Cultivar Library
+best_feature: '"Cool Fire." Radiant strawberry-pink spring growth transitions to a
+  frosted, shimmering white in summer.'
 ---
 
 # 'Olsen’s Frosted Strawberry' Japanese Maple: The Reticulated Gem

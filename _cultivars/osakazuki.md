@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Osakazuki"
-group: "Amoenum"
-foliage_sum_fall: "Green / Crimson"
-habit: "Upright (15-20')"
-growth_rate: "Fast"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Osakazuki
+group: Amoenum
+foliage_sum_fall: Green / Crimson
+habit: Upright (15-20')
+growth_rate: Fast
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: World-class fall color. A "green giant" for 10 months, but becomes the
+  garden star in November.
+synonyms: '''Taihai'', ''Ohsakazuki'', "Big Cup"'
 ---
 
 # 'Osakazuki' Japanese Maple: The Saki Cup Maple

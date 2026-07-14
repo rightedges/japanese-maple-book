@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Sensu"
-group: "Palmatum"
-foliage_sum_fall: "Green / Orange-Red"
-habit: "Upright (10-15')"
-growth_rate: "Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Sensu
+group: Palmatum
+foliage_sum_fall: Green / Orange-Red
+habit: Upright (10-15')
+growth_rate: Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: '"Moving Fan" foliage. Graceful, pendulous branches that move elegantly
+  in the breeze; outstanding coppery fall colors.'
+synonyms: "'Moving Fan', Acer shirasawanum 'Sensu'"
 ---
 
 # 'Sensu' Japanese Maple: The Folding Fan Maple

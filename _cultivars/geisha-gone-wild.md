@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Geisha Gone Wild"
-group: "Variegated"
-foliage_sum_fall: "Pink-Green / Red-Purple"
-habit: "Upright (8-10')"
-growth_rate: "Slow to Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Geisha Gone Wild
+group: Variegated
+foliage_sum_fall: Pink-Green / Red-Purple
+habit: Upright (8-10')
+growth_rate: Slow to Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: 2021 Maple of the Year. Exceptional tri-color variegation with intense
+  pink spring and fall displays.
 ---
 
 # 'Geisha Gone Wild' Japanese Maple: The Flamboyant Rebel

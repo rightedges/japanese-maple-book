@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Villa Taranto"
-group: "Linearilobum"
-foliage_sum_fall: "Green-Red / Gold"
-habit: "Vase Shape (6-10')"
-growth_rate: "Moderate (6-10\"/yr)"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Villa Taranto
+group: Linearilobum
+foliage_sum_fall: Green-Red / Gold
+habit: Vase Shape (6-10')
+growth_rate: Moderate (6-10"/yr)
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Elegant "spider" foliage. Offers a delicate, transparent texture with
+  surprisingly good sun and heat tolerance.
 ---
 
 # 'Villa Taranto' Japanese Maple: The Purple Spider

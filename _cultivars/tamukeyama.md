@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Tamukeyama"
-group: "Dissectum"
-foliage_sum_fall: "Deep Purple / Crimson"
-habit: "Weeping (6-8')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Tamukeyama
+group: Dissectum
+foliage_sum_fall: Deep Purple / Crimson
+habit: Weeping (6-8')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Heat resilience master. The preferred red lace-leaf for the American
+  South due to soil/heat tolerance.
+synonyms: '"Hands folded in prayer on the mountain", Laceleaf Maple'
 ---
 
 # 'Tamukeyama' Japanese Maple: The Hands-Off Heirloom

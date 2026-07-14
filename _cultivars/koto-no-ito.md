@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Koto no ito"
-group: "Linearilobum"
-foliage_sum_fall: "Green / Yellow-Orange"
-habit: "Upright-Wavy (6-10')"
-growth_rate: "Moderate (6-10\"/yr)"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Koto no ito
+group: Linearilobum
+foliage_sum_fall: Green / Yellow-Orange
+habit: Upright-Wavy (6-10')
+growth_rate: Moderate (6-10"/yr)
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: '"Harp String" foliage. Finest texture of the Linearilobums; leaves
+  become more thread-like in summer.'
+synonyms: '"Harp Strings"'
 ---
 
 # 'Koto no ito' Japanese Maple: Harp Strings

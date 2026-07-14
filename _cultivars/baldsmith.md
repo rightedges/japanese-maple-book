@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Baldsmith"
-group: "Dissectum"
-foliage_sum_fall: "Coral-Red / Yellow-Orange"
-habit: "Weeping (4-6')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Baldsmith
+group: Dissectum
+foliage_sum_fall: Coral-Red / Yellow-Orange
+habit: Weeping (4-6')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Shifting multi-colors. Coral-pink spring foliage matures into a green-and-pink
+  summer tapestry.
 ---
 
 # 'Baldsmith' Japanese Maple: The Color Shifter

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Inaba shidare"
-group: "Dissectum"
-foliage_sum_fall: "Deep Purple / Crimson"
-habit: "Weeping (6-8')"
-growth_rate: "Fast for a Dissectum"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Inaba shidare
+group: Dissectum
+foliage_sum_fall: Deep Purple / Crimson
+habit: Weeping (6-8')
+growth_rate: Fast for a Dissectum
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Exceptional vigor. Most sun-tolerant of the red lace-leafs; excellent
+  for larger weeping specimens.
+synonyms: "'Red Select', 'Inabe shidare'"
 ---
 
 # 'Inaba shidare' Japanese Maple: The Rice Leaf Maple

@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Orange Dream"
-group: "Palmatum"
-foliage_sum_fall: "Orange-Gold / Green / Yellow"
-habit: "Upright (10-15')"
-growth_rate: "Fast (12-18\"/yr)"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Orange Dream
+group: Palmatum
+foliage_sum_fall: Orange-Gold / Green / Yellow
+habit: Upright (10-15')
+growth_rate: Fast (12-18"/yr)
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: '"Sunrise" spring growth. Emerging orange-gold transitions to a luminous
+  chartreuse in summer.'
 ---
 
 # 'Orange Dream' Japanese Maple: The Apricot Sunrise

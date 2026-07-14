@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Emperor 1"
-group: "Palmatum"
-foliage_sum_fall: "Dark Red / Scarlet"
-habit: "Upright (15-18')"
-growth_rate: "Fast (12-18\"/yr)"
-budding: "Late-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Emperor 1
+group: Palmatum
+foliage_sum_fall: Dark Red / Scarlet
+habit: Upright (15-18')
+growth_rate: Fast (12-18"/yr)
+budding: Late-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Late bud break. Excellent for avoiding late spring frosts; has a more
+  translucent red than 'Bloodgood'.
+synonyms: Red Emperor, 'Wolff', Emperor I
 ---
 
 # 'Emperor 1' Japanese Maple: The Late-Blooming King

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Autumn Moon"
-group: "Shirasawanum"
-foliage_sum_fall: "Peach-Gold / Orange-Red"
-habit: "Upright (8-12')"
-growth_rate: "Slow to Moderate"
-budding: "Late-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Autumn Moon
+group: Shirasawanum
+foliage_sum_fall: Peach-Gold / Orange-Red
+habit: Upright (8-12')
+growth_rate: Slow to Moderate
+budding: Late-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: '"Peach Moon" glow. A more sun-tolerant Shirasawanum that develops a
+  stunning orange-peach blush in morning sun.'
+synonyms: "*Acer shirasawanum* 'Autumn Moon'"
 ---
 
 # 'Autumn Moon' Japanese Maple: The Peachy Full Moon

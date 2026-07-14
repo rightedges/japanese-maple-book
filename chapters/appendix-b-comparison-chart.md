@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Appendix C: Comparison Chart"
+title: "Appendix B: Comparison Chart"
 parent: "Part VII: Appendices"
-nav_order: 3
-permalink: /chapters/appendix-c-comparison-chart.html
+nav_order: 2
+permalink: /chapters/appendix-b-comparison-chart.html
 ---
 
-# Appendix C: Mature Size Comparison Chart
+# Appendix B: Mature Size Comparison Chart
 
 This chart visualizes the approximate mature sizes of the Japanese Maples in our library, sorted from smallest to tallest. The colors represent their typical summer/fall foliage hues.
 
@@ -16,4 +16,4 @@ This chart visualizes the approximate mature sizes of the Japanese Maples in our
 
 ---
 
-[← Previous: Appendix B]({{ site.baseurl }}/chapters/appendix-b-table.html)
+[← Previous: Appendix A]({{ site.baseurl }}/chapters/appendix-a-cultivar-library.html)

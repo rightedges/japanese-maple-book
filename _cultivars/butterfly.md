@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Butterfly"
-group: "Variegated"
-foliage_sum_fall: "White-Green / Pink-Red"
-habit: "Upright (8-12')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Butterfly
+group: Variegated
+foliage_sum_fall: White-Green / Pink-Red
+habit: Upright (8-12')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Best hardy variegated variety. More resilient than 'Ukigumo'; stays
+  compact with light structural pruning.
+synonyms: "'Kochō-no-mai', Japanese Butterfly Maple"
 ---
 
 # 'Butterfly' Japanese Maple: The Painted Variegated

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Omure yama"
-group: "Matsumurae"
-foliage_sum_fall: "Green / Gold-Red"
-habit: "Weeping Upright (12-15')"
-growth_rate: "Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Omure yama
+group: Matsumurae
+foliage_sum_fall: Green / Gold-Red
+habit: Weeping Upright (12-15')
+growth_rate: Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Graceful weeping fountain form. Long, slender branches cascade like
+  a willow; unmatched fire-orange autumn display.
+synonyms: '"The Willow Maple"'
 ---
 
 # 'Omure yama' Japanese Maple: The Cascade Mountain

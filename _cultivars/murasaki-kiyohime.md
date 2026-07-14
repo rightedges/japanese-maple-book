@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Murasaki Kiyohime"
-group: "Dwarf"
-foliage_sum_fall: "Purple-Green / Orange-Red"
-habit: "Spreading Dwarf (3-4')"
-growth_rate: "Slow to Moderate"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Murasaki Kiyohime
+group: Dwarf
+foliage_sum_fall: Purple-Green / Orange-Red
+habit: Spreading Dwarf (3-4')
+growth_rate: Slow to Moderate
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Purple-tipped foliage. A vigorous, low-mounding dwarf that is extremely
+  durable and bonsai-friendly.
 ---
 
 # 'Murasaki Kiyohime' Japanese Maple: The Purple Princess

@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Peaches and Cream"
-group: "Variegated"
-foliage_sum_fall: "Peach-Cream / Yellow-Orange"
-habit: "Compact Upright (7-10')"
-growth_rate: "Slow to Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "18. Cultivar Library"
+title: Peaches and Cream
+group: Variegated
+foliage_sum_fall: Peach-Cream / Yellow-Orange
+habit: Compact Upright (7-10')
+growth_rate: Slow to Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 18. Cultivar Library
+best_feature: '"Pastel Jewel." Striking peachy-pink reticulation on a creamy base;
+  glows in the shade.'
 ---
 
 # 'Peaches and Cream' Japanese Maple: The Pastel Jewel

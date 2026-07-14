@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Scolopendrifolium"
-group: "Linearilobum"
-foliage_sum_fall: "Green / Yellow-Orange"
-habit: "Upright (10-15')"
-growth_rate: "Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Scolopendrifolium
+group: Linearilobum
+foliage_sum_fall: Green / Yellow-Orange
+habit: Upright (10-15')
+growth_rate: Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Dramatic "willow" look. Long, narrow lobes move beautifully in the wind;
+  provides an airy light filter.
+synonyms: "'Shinobuga oka', 'Fingerleaf', 'Linearifolium'"
 ---
 
 # 'Scolopendrifolium' Japanese Maple: The Fern-Leaf Willow

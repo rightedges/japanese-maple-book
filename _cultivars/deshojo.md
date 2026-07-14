@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Deshojo"
-group: "Palmatum"
-foliage_sum_fall: "Carmine-Red / Scarlet"
-habit: "Upright (8-10')"
-growth_rate: "Moderate"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Deshojo
+group: Palmatum
+foliage_sum_fall: Carmine-Red / Scarlet
+habit: Upright (8-10')
+growth_rate: Moderate
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Fluorescent carmine spring red. Perhaps the most famous cultivar for
+  bonsai; spring growth is an impossible, shocking red.
+synonyms: "'Shin deshojo'"
 ---
 
 # 'Deshojo' Japanese Maple: The Fluorescent Spring

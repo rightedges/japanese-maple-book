@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Peve Starfish"
-group: "Palmatum"
-foliage_sum_fall: "Deep Purple / Scarlet"
-habit: "Upright-Bushy (8-10')"
-growth_rate: "Moderate"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Peve Starfish
+group: Palmatum
+foliage_sum_fall: Deep Purple / Scarlet
+habit: Upright-Bushy (8-10')
+growth_rate: Moderate
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Downward-curling leaf margins. Unique sculptural foliage that holds
+  intense red color even in high humidity and heat.
 ---
 
 # 'Peve Starfish' Japanese Maple: The Curled Ruby

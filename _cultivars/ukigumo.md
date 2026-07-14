@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Ukigumo"
-group: "Variegated"
-foliage_sum_fall: "White-Variegated / Gold-Red"
-habit: "Upright (8-12')"
-growth_rate: "Slow to Moderate"
-budding: "Mid-season"
-sun_tolerance: "Low (Shade)"
-parent: "17. Cultivar Library"
+title: Ukigumo
+group: Variegated
+foliage_sum_fall: White-Variegated / Gold-Red
+habit: Upright (8-12')
+growth_rate: Slow to Moderate
+budding: Mid-season
+sun_tolerance: Low (Shade)
+parent: 17. Cultivar Library
+best_feature: Ethereal "floating cloud" look. Requires deep shade; white leaf portions
+  burn instantly in direct sun.
+synonyms: "'Floating Clouds', 'Uki-gumo'"
 ---
 
 # 'Ukigumo' Japanese Maple: The Floating Cloud

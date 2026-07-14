@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Sharp’s Pygmy"
-group: "Dwarf"
-foliage_sum_fall: "Lime-Green / Orange-Scarlet"
-habit: "Dense Globe Dwarf (2-4')"
-growth_rate: "Slow (1-3\"/yr)"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "18. Cultivar Library"
+title: Sharp’s Pygmy
+group: Dwarf
+foliage_sum_fall: Lime-Green / Orange-Scarlet
+habit: Dense Globe Dwarf (2-4')
+growth_rate: Slow (1-3"/yr)
+budding: Mid-season
+sun_tolerance: High
+parent: 18. Cultivar Library
+best_feature: '"Instant Age." The ultimate "natural bonsai" with a perfectly globe-like
+  habit and spectacular fall color.'
 ---
 
 # 'Sharp’s Pygmy' Japanese Maple: The Natural Bonsai

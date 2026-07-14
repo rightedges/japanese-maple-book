@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Amber Ghost"
-group: "Variegated"
-foliage_sum_fall: "Amber-Green / Gold-Red"
-habit: "Upright (10-12')"
-sun_tolerance: "Low (Shade)"
-parent: "17. Cultivar Library"
-growth_rate: "Moderate (6-10\"/yr)"
-budding: "Mid-season"
+title: Amber Ghost
+group: Variegated
+foliage_sum_fall: Amber-Green / Gold-Red
+habit: Upright (10-12')
+sun_tolerance: Low (Shade)
+parent: 17. Cultivar Library
+growth_rate: Moderate (6-10"/yr)
+budding: Mid-season
+best_feature: Radiant amber spring color with dark veins. A standout in the Ghost
+  series; requires deep shade.
 ---
 
 # 'Amber Ghost' Japanese Maple: The Glowing Apparition

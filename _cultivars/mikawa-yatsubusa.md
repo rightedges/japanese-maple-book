@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Mikawa Yatsubusa"
-group: "Dwarf"
-foliage_sum_fall: "Green / Gold-Red"
-habit: "Sculptural Dwarf (3-5')"
-growth_rate: "Very Slow"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Mikawa Yatsubusa
+group: Dwarf
+foliage_sum_fall: Green / Gold-Red
+habit: Sculptural Dwarf (3-5')
+growth_rate: Very Slow
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Unique shingled habit. Extremely slow-growing; ideal for containers
+  and focal points in rock gardens.
+synonyms: '"Mikawa", "Eight Tufts"'
 ---
 
 # 'Mikawa Yatsubusa' Japanese Maple: The Shingled Dwarf

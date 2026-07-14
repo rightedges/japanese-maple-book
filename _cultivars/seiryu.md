@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Seiryu"
-group: "Dissectum"
-foliage_sum_fall: "Green / Gold-Red"
-habit: "Upright Vase (10-15')"
-growth_rate: "Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Seiryu
+group: Dissectum
+foliage_sum_fall: Green / Gold-Red
+habit: Upright Vase (10-15')
+growth_rate: Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Elegant upright lace-leaf. Very vigorous for a dissectum; tolerates
+  heat better than weeping varieties.
+synonyms: '"Blue Green Dragon", Lace-leaf Japanese Maple'
 ---
 
 # 'Seiryu' Japanese Maple: The Blue Dragon

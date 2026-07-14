@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Moonrise"
-group: "Shirasawanum"
-foliage_sum_fall: "Chartreuse-Red / Orange-Gold"
-habit: "Upright-Rounded (8-12')"
-growth_rate: "Moderate"
-budding: "Late-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Moonrise
+group: Shirasawanum
+foliage_sum_fall: Chartreuse-Red / Orange-Gold
+habit: Upright-Rounded (8-12')
+growth_rate: Moderate
+budding: Late-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Luminous neon-green foliage. Emerges with a spectacular orange-pink
+  blush; much hardier than other shirasawanums.
 ---
 
 # 'Moonrise' Japanese Maple: The Rising Sun

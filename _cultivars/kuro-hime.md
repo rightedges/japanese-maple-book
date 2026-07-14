@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Kuro hime"
-group: "Dwarf"
-foliage_sum_fall: "Green-Pink / Red"
-habit: "Dwarf Mounding (3-5')"
-growth_rate: "Slow"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Kuro hime
+group: Dwarf
+foliage_sum_fall: Green-Pink / Red
+habit: Dwarf Mounding (3-5')
+growth_rate: Slow
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: '"Black-Red Princess". Dwarf habit with intense spring color and vibrant
+  red fall display.'
 ---
 
 # 'Kuro hime' Japanese Maple: The Black-Red Princess

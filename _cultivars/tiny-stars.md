@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Tiny Stars"
-group: "Dwarf"
-foliage_sum_fall: "Green / Gold-Red"
-habit: "Bushy Dwarf (2-4')"
-growth_rate: "Very Slow"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Tiny Stars
+group: Dwarf
+foliage_sum_fall: Green / Gold-Red
+habit: Bushy Dwarf (2-4')
+growth_rate: Very Slow
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Thumbnail-sized leaves. An extremely slow-growing miniature that is
+  perfect for bonsai and trough gardens.
 ---
 
 # 'Tiny Stars' Japanese Maple: The Twiggy Diamond

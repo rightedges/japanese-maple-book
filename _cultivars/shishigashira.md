@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Shishigashira"
-group: "Dwarf"
-foliage_sum_fall: "Green / Gold-Red"
-habit: "Sculptural Dwarf (8-12')"
-growth_rate: "Very Slow"
-budding: "Late-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Shishigashira
+group: Dwarf
+foliage_sum_fall: Green / Gold-Red
+habit: Sculptural Dwarf (8-12')
+growth_rate: Very Slow
+budding: Late-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: '"Lion''s Head" crinkled foliage. Holds leaves very late into autumn;
+  best used as a vertical architectural element.'
+synonyms: "'Lion's Mane', 'Lion's Head', 'Mejishi', 'Crispum'"
 ---
 
 # 'Shishigashira' Japanese Maple: The Lion's Head Maple

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Sango kaku"
-group: "Matsumurae"
-foliage_sum_fall: "Green / Yellow-Gold"
-habit: "Upright Vase (15-20')"
-growth_rate: "Fast"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Sango kaku
+group: Matsumurae
+foliage_sum_fall: Green / Yellow-Gold
+habit: Upright Vase (15-20')
+growth_rate: Fast
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Coral-red winter bark. Needs sun for red bark, but foliage is sensitive
+  to hot afternoon sun and dry winds.
+synonyms: "'Senkaki', 'Ebi-no-hige', 'Cinnabarinum'"
 ---
 
 # 'Sango kaku' Japanese Maple: The Coral Bark Maple

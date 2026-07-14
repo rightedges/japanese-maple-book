@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Sister Ghost"
-group: "Variegated"
-foliage_sum_fall: "Chartreuse-Green / Gold"
-habit: "Upright (8-12')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "Low (Shade)"
-parent: "17. Cultivar Library"
+title: Sister Ghost
+group: Variegated
+foliage_sum_fall: Chartreuse-Green / Gold
+habit: Upright (8-12')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: Low (Shade)
+parent: 17. Cultivar Library
+best_feature: Subtle chartreuse reticulation. Cooler and more refined than other Ghost
+  series maples.
 ---
 
 # 'Sister Ghost' Japanese Maple: The Subtle Spirit

@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Bihou"
-group: "Palmatum"
-foliage_sum_fall: "Yellow-Green / Yellow-Orange"
-habit: "Upright (10-15')"
-growth_rate: "Moderate to Fast"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Bihou
+group: Palmatum
+foliage_sum_fall: Yellow-Green / Yellow-Orange
+habit: Upright (10-15')
+growth_rate: Moderate to Fast
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Golden yellow winter bark. Stunning contrast to 'Sango Kaku'; susceptible
+  to dieback, so keep pruning tools sterile.
+synonyms: "'Bi Hoo', 'Bi Hou'"
 ---
 
 # 'Bihou' Japanese Maple: The Golden Bark Maple

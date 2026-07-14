@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Firefly"
-group: "Variegated"
-foliage_sum_fall: "Pink-Rose / Fire Red"
-habit: "Upright (8-12')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "18. Cultivar Library"
+title: Firefly
+group: Variegated
+foliage_sum_fall: Pink-Rose / Fire Red
+habit: Upright (8-12')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 18. Cultivar Library
+best_feature: '"Botanical neon." Hot pink spring emergence with intense lime-green
+  reticulation.'
 ---
 
 # 'Firefly' Japanese Maple: The Reticulated Light

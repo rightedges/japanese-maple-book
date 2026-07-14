@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Baton Rouge"
-group: "Palmatum"
-foliage_sum_fall: "Green / Yellow"
-habit: "Upright (10-15')"
-growth_rate: "Fast (12-24\"/yr)"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Baton Rouge
+group: Palmatum
+foliage_sum_fall: Green / Yellow
+habit: Upright (10-15')
+growth_rate: Fast (12-24"/yr)
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Intense lipstick-red bark. Bred for heat tolerance; bark color remains
+  vibrant even in southern climates.
 ---
 
 # 'Baton Rouge' Japanese Maple: The Lipstick Bark Maple

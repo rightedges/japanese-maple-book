@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Baby Ghost"
-group: "Variegated"
-foliage_sum_fall: "Amber-Pink / Bright Orange"
-habit: "Small Upright (6-10')"
-growth_rate: "Slow to Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "18. Cultivar Library"
+title: Baby Ghost
+group: Variegated
+foliage_sum_fall: Amber-Pink / Bright Orange
+habit: Small Upright (6-10')
+growth_rate: Slow to Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 18. Cultivar Library
+best_feature: '"Personality in a small package." The most compact member of the Ghost
+  series, offering intense amber-red reticulation.'
 ---
 
 # 'Baby Ghost' Japanese Maple: The Compact Spirit

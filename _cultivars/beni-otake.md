@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Beni otake"
-group: "Linearilobum"
-foliage_sum_fall: "Deep Red / Crimson"
-habit: "Upright (12-15')"
-growth_rate: "Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Beni otake
+group: Linearilobum
+foliage_sum_fall: Deep Red / Crimson
+habit: Upright (12-15')
+growth_rate: Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: '"Red Bamboo" foliage. Long strap-like lobes that flutter in wind; very
+  heat tolerant and vigorous for its group.'
+synonyms: '"Red Bamboo"'
 ---
 
 # 'Beni otake' Japanese Maple: The Big Red Bamboo

@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Coonara Pygmy"
-group: "Dwarf"
-foliage_sum_fall: "Pink-Gold / Green / Scarlet"
-habit: "Dense Rounded (3-6')"
-growth_rate: "Slow"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Coonara Pygmy
+group: Dwarf
+foliage_sum_fall: Pink-Gold / Green / Scarlet
+habit: Dense Rounded (3-6')
+growth_rate: Slow
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Dense globe-like habit. Small-leaved Australian dwarf with spectacular
+  tri-color spring emergence.
 ---
 
 # 'Coonara Pygmy' Japanese Maple: The Australian Gem

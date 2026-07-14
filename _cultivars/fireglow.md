@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Fireglow"
-group: "Palmatum"
-foliage_sum_fall: "Deep Red / Crimson"
-habit: "Upright (10-12')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Fireglow
+group: Palmatum
+foliage_sum_fall: Deep Red / Crimson
+habit: Upright (10-12')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Backlit "glow." Thinner, more translucent foliage than 'Bloodgood';
+  stays more compact.
 ---
 
 # 'Fireglow' Japanese Maple: The Glowing Ruby

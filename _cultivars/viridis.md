@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Viridis"
-group: "Dissectum"
-foliage_sum_fall: "Bright Green / Gold-Red"
-habit: "Weeping (6-8')"
-growth_rate: "Moderate"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Viridis
+group: Dissectum
+foliage_sum_fall: Bright Green / Gold-Red
+habit: Weeping (6-8')
+growth_rate: Moderate
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: The classic green lace-leaf. Forms a majestic, cascading dome of emerald
+  green that turns brilliant gold in fall.
+synonyms: Threadleaf Japanese Maple, Weeping Green
 ---
 
 # 'Viridis' Japanese Maple: The Green Cascade

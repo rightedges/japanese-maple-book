@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Hime-shojo"
-group: "Dwarf"
-foliage_sum_fall: "Deep Red / Scarlet"
-habit: "Bushy Dwarf (4-6')"
-growth_rate: "Slow to Moderate"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Hime-shojo
+group: Dwarf
+foliage_sum_fall: Deep Red / Scarlet
+habit: Bushy Dwarf (4-6')
+growth_rate: Slow to Moderate
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Intense cherry color. Maintains its maroon-red better through summer
+  heat than most small cultivars.
 ---
 
 # 'Hime-shojo' Japanese Maple: The Little Red Princess

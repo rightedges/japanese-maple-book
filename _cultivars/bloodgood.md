@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Bloodgood"
-group: "Palmatum"
-foliage_sum_fall: "Burgundy / Scarlet"
-habit: "Upright (15-20')"
-growth_rate: "Fast (12-18\"/yr)"
-budding: "Late-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Bloodgood
+group: Palmatum
+foliage_sum_fall: Burgundy / Scarlet
+habit: Upright (15-20')
+growth_rate: Fast (12-18"/yr)
+budding: Late-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Remarkable color retention. Robust and sun-tolerant, but requires very
+  well-drained soil.
+synonyms: Bloodgood Maple, 'Atropurpureum'
 ---
 
 # 'Bloodgood' Japanese Maple: The Industry Standard

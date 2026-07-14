@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Higasayama"
-group: "Variegated"
-foliage_sum_fall: "Variegated-Pink / Green-White / Gold"
-habit: "Upright (15-20')"
-growth_rate: "Fast"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Higasayama
+group: Variegated
+foliage_sum_fall: Variegated-Pink / Green-White / Gold
+habit: Upright (15-20')
+growth_rate: Fast
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Popcorn-like spring buds. Leaves unfold with tight pleats and white/pink
+  margins; handles full sun remarkably well.
+synonyms: '"The Opening Bud"'
 ---
 
 # 'Higasayama' Japanese Maple: The Opening Fan

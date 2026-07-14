@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Beni maiko"
-group: "Palmatum"
-foliage_sum_fall: "Red-Green / Scarlet"
-habit: "Bushy (6-8')"
-growth_rate: "Moderate"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Beni maiko
+group: Palmatum
+foliage_sum_fall: Red-Green / Scarlet
+habit: Bushy (6-8')
+growth_rate: Moderate
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Brilliant "Red Dance" spring color. Needs protection from late spring
+  frosts to protect first flush.
+synonyms: '"Red Haired Dancing Girl"'
 ---
 
 # 'Beni maiko' Japanese Maple: The Red Haired Dancing Girl

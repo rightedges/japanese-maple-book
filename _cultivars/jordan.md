@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Jordan"
-group: "Shirasawanum"
-foliage_sum_fall: "Ghost-Gold / Orange-Red"
-habit: "Upright (10-15')"
-growth_rate: "Moderate"
-budding: "Late-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Jordan
+group: Shirasawanum
+foliage_sum_fall: Ghost-Gold / Orange-Red
+habit: Upright (10-15')
+growth_rate: Moderate
+budding: Late-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Pastel neon foliage. Needs morning sun for best color, but afternoon
+  shade is critical in hot regions.
 ---
 
 # 'Jordan' Japanese Maple: The Luminous Gold Full Moon

@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Sekka Yatsubusa"
-group: "Dwarf"
-foliage_sum_fall: "Green / Yellow-Red"
-habit: "Congested Dwarf (2-4')"
-growth_rate: "Very Slow"
-budding: "Mid-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Sekka Yatsubusa
+group: Dwarf
+foliage_sum_fall: Green / Yellow-Red
+habit: Congested Dwarf (2-4')
+growth_rate: Very Slow
+budding: Mid-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Sculptural tufted growth. Features unique fasciated (flattened) stems
+  and layered leaf pads.
 ---
 
 # 'Sekka Yatsubusa' Japanese Maple: The Cockscomb Maple

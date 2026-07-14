@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Katsura"
-group: "Palmatum"
-foliage_sum_fall: "Gold-Green / Orange-Gold"
-habit: "Bushy Upright (10-12')"
-growth_rate: "Fast"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Katsura
+group: Palmatum
+foliage_sum_fall: Gold-Green / Orange-Gold
+habit: Bushy Upright (10-12')
+growth_rate: Fast
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Stunning orange spring growth. Forms a dense, tiered structure; prune
+  for air circulation to prevent mildew.
 ---
 
 # 'Katsura' Japanese Maple: The Wig of the Katsura Tree

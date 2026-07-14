@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Mikazuki"
-group: "Variegated"
-foliage_sum_fall: "Green-Cream / Gold-Orange"
-habit: "Upright (8-10')"
-growth_rate: "Moderate"
-budding: "Early-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Mikazuki
+group: Variegated
+foliage_sum_fall: Green-Cream / Gold-Orange
+habit: Upright (8-10')
+growth_rate: Moderate
+budding: Early-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: '"Crescent Moon" reticulation. Striking pink spring foliage with dark
+  green veins; elegant narrow lobes.'
+synonyms: Crescent Moon
 ---
 
 # 'Mikazuki' Japanese Maple: The Crescent Moon

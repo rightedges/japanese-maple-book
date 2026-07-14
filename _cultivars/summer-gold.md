@@ -1,13 +1,15 @@
 ---
 layout: default
-title: "Summer Gold"
-group: "Palmatum"
-foliage_sum_fall: "Lemon-Yellow / Orange-Red"
-habit: "Upright (10-12')"
-growth_rate: "Moderate to Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Summer Gold
+group: Palmatum
+foliage_sum_fall: Lemon-Yellow / Orange-Red
+habit: Upright (10-12')
+growth_rate: Moderate to Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Vibrant yellow focal point. Retains its golden-yellow color even in
+  the full sun of July and August.
 ---
 
 # 'Summer Gold' Japanese Maple: The Sun-Loving Yellow

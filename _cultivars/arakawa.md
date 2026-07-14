@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Arakawa"
-group: "Palmatum"
-foliage_sum_fall: "Green / Gold-Red"
-habit: "Upright (15-18')"
-growth_rate: "Fast"
-budding: "Mid-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Arakawa
+group: Palmatum
+foliage_sum_fall: Green / Gold-Red
+habit: Upright (15-18')
+growth_rate: Fast
+budding: Mid-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: '"Rough Skin" corky bark. Bark fissures start after 4-5 years; provides
+  instant aged look for bonsai and winter gardens.'
+synonyms: '"Rough Skin Maple", "Cork-bark Maple"'
 ---
 
 # 'Arakawa' Japanese Maple: The Cork Bark Maple

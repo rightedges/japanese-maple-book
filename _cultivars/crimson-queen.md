@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Crimson Queen"
-group: "Dissectum"
-foliage_sum_fall: "Burgundy / Red"
-habit: "Weeping (6-8')"
-growth_rate: "Moderate"
-budding: "Late-season"
-sun_tolerance: "Moderate"
-parent: "17. Cultivar Library"
+title: Crimson Queen
+group: Dissectum
+foliage_sum_fall: Burgundy / Red
+habit: Weeping (6-8')
+growth_rate: Moderate
+budding: Late-season
+sun_tolerance: Moderate
+parent: 17. Cultivar Library
+best_feature: Fine lacy texture. Requires shelter from prevailing winds and dappled
+  shade to prevent tip burn.
+synonyms: Crimson Queen Laceleaf, Crimson Queen Weeping
 ---
 
 # 'Crimson Queen' Japanese Maple: The Weeping Matriarch

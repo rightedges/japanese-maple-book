@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Aoyagi"
-group: "Palmatum"
-foliage_sum_fall: "Green / Yellow"
-habit: "Upright (10-15')"
-growth_rate: "Fast (12-18\"/yr)"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Aoyagi
+group: Palmatum
+foliage_sum_fall: Green / Yellow
+habit: Upright (10-15')
+growth_rate: Fast (12-18"/yr)
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Bright green winter bark. The green-barked counterpart to 'Sango Kaku';
+  excellent for year-round interest.
+synonyms: "'Ukon', 'Yukon', Green Bark Japanese Maple"
 ---
 
 # 'Aoyagi' Japanese Maple: The Green Bark Maple

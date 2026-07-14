@@ -1,13 +1,16 @@
 ---
 layout: default
-title: "Beni Chidori"
-group: "Palmatum"
-foliage_sum_fall: "Green / Orange-Gold"
-habit: "Bushy Dwarf (4-6')"
-growth_rate: "Moderate"
-budding: "Early-season"
-sun_tolerance: "High"
-parent: "17. Cultivar Library"
+title: Beni Chidori
+group: Palmatum
+foliage_sum_fall: Green / Orange-Gold
+habit: Bushy Dwarf (4-6')
+growth_rate: Moderate
+budding: Early-season
+sun_tolerance: High
+parent: 17. Cultivar Library
+best_feature: Shrimp-pink spring color. A compact dwarf with brilliant spring display,
+  often compared to 'Beni maiko'.
+synonyms: Red Plover
 ---
 
 # 'Beni Chidori' Japanese Maple: The Crimson Plover
