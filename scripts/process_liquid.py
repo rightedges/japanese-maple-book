@@ -87,10 +87,11 @@ def process_file(filepath):
     # This happens only in the combined.md stream
     h1_match = re.search(r'^#\s+(.*)$', markdown_content, re.MULTILINE)
     if h1_match:
-        original_h1 = h1_match.group(0).strip()
-        new_h1 = f"{original_h1} {{#{filename}}}"
+        original_h1_full = h1_match.group(0).strip()
+        clean_h1 = re.sub(r'\s+\{#[^}]+\}', '', original_h1_full)
+        new_h1 = f"{clean_h1} {{#{filename}}}"
         # We replace only the first occurrence
-        markdown_content = markdown_content.replace(original_h1, new_h1, 1)
+        markdown_content = markdown_content.replace(original_h1_full, new_h1, 1)
 
     # 2. Replace {{ page.variable }}
     def replace_page_var(match):
