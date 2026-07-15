@@ -15,6 +15,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign palmatum = site.cultivars | where: "group", "Palmatum" %}
 ## 1. Palmatum Group (The Genetic Standard)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in palmatum %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -22,6 +23,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign amoenum = site.cultivars | where: "group", "Amoenum" %}
 ## 2. Amoenum Group (Broad-Leafed Elegance)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in amoenum %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -29,6 +31,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign matsumurae = site.cultivars | where: "group", "Matsumurae" %}
 ## 3. Matsumurae Group (The Textural Deep-Cut)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in matsumurae %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -36,6 +39,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign dissectum = site.cultivars | where: "group", "Dissectum" %}
 ## 4. Dissectum Group (The Lace-leaf Maples)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in dissectum %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -43,6 +47,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign linearilobum = site.cultivars | where: "group", "Linearilobum" %}
 ## 5. Linearilobum Group (The Bamboo Maples)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in linearilobum %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -50,6 +55,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign dwarf = site.cultivars | where: "group", "Dwarf" %}
 ## 6. Dwarf Group (Small-Space Heroes)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in dwarf %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -57,6 +63,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign variegated = site.cultivars | where: "group", "Variegated" %}
 ## 7. Variegated Group (The Spotted Divas)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in variegated %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -64,6 +71,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign shirasawanum = site.cultivars | where: "group", "Shirasawanum" %}
 ## 8. Shirasawanum Group (The Golden Full Moons)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in shirasawanum %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
@@ -71,6 +79,7 @@ Explore detailed profiles for each of the Japanese Maple cultivars mentioned in 
 
 {% assign japonicum = site.cultivars | where: "group", "Japonicum" %}
 ## 9. Japonicum Group (The Downy Maples)
+
 | Cultivar | Habit | Sun Tolerance | Best Feature |
 | :--- | :--- | :--- | :--- |
 {% for cultivar in japonicum %}| [{{ cultivar.title }}]({{ cultivar.url | relative_url }}) | {{ cultivar.habit }} | {{ cultivar.sun_tolerance }} | {{ cultivar.best_feature }} |
