@@ -45,8 +45,7 @@ Welcome to the digital edition of *Japanese Maples*. This guide explores the his
 
 ### Part VII: Appendices
 *   [Appendix A: Cultivar Library]({{ site.baseurl }}/chapters/appendix-a-cultivar-library.html)
-*   [Appendix B: Cultivar Quick Reference]({{ site.baseurl }}/chapters/appendix-b-table.html)
-*   [Appendix C: Comparison Chart]({{ site.baseurl }}/chapters/appendix-c-comparison-chart.html)
+*   [Appendix B: Comparison Chart]({{ site.baseurl }}/chapters/appendix-b-comparison-chart.html)
 
 Please use the navigation sidebar or the links above to browse the chapters.
 
