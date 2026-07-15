@@ -236,9 +236,6 @@
             - title: "Aconitifolium"
               file: _cultivars/aconitifolium.md
 
-    - title: "Appendix B: Cultivar Quick Reference"
-      url: /chapters/appendix-b-table.html
-      file: chapters/appendix-b-table.md
-    - title: "Appendix C: Comparison Chart"
-      url: /chapters/appendix-c-comparison-chart.html
-      file: chapters/appendix-c-comparison-chart.md
+    - title: "Appendix B: Comparison Chart"
+      url: /chapters/appendix-b-comparison-chart.html
+      file: chapters/appendix-b-comparison-chart.md
