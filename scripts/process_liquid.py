@@ -126,10 +126,7 @@ def process_file(filepath):
 
     processed = re.sub(r'\{\{\s*site\.(\w+)\s*(\|[^}]+)?\}\}', replace_site_var, processed)
 
-    # 4. Handle {{ 'path' | relative_url }}
-    processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
-
-    # 4.5 Handle Cultivar loops
+    # 3.5 Handle Cultivar loops BEFORE relative_url regex breaks the markdown
     if "site.cultivars" in processed:
         cultivars = []
         cultivars_dir = os.path.join(os.getcwd(), '_cultivars')
@@ -163,6 +160,10 @@ def process_file(filepath):
 
         pattern = r'\{\%\s*assign\s+\w+\s*=\s*site\.cultivars\s*\|\s*where:\s*"group",\s*"([^"]+)"\s*\%\}\n(##[^\n]+)\n\n(\|.*?\|\n\|.*?\|)\n\{\%\s*for\s+cultivar\s+in\s+\w+\s*\%\}(.*?)\{\%\s*endfor\s*\%\}'
         processed = re.sub(pattern, resolve_for_loop, processed, flags=re.DOTALL)
+
+    # 4. Handle {{ 'path' | relative_url }}
+    # Fix regex so it doesn't greedily swallow other liquid tags
+    processed = re.sub(r'\{\{\s*["\']?([^"\'}]+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
 
     # 5. Normalize Links
     def normalize_link(match):
