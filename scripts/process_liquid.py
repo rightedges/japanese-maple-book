@@ -129,6 +129,41 @@ def process_file(filepath):
     # 4. Handle {{ 'path' | relative_url }}
     processed = re.sub(r'\{\{\s*["\']?([^"\']+)["\']?\s*\|\s*relative_url\s*\}\}', r'\1', processed)
 
+    # 4.5 Handle Cultivar loops
+    if "site.cultivars" in processed:
+        cultivars = []
+        cultivars_dir = os.path.join(os.getcwd(), '_cultivars')
+        if os.path.exists(cultivars_dir):
+            for fname in sorted(os.listdir(cultivars_dir)):
+                if fname.endswith('.md'):
+                    with open(os.path.join(cultivars_dir, fname), 'r', encoding='utf-8') as cf:
+                        c_content = cf.read()
+                        c_match = re.match(r'^---\s*\n(.*?)\n---\s*\n(.*)$', c_content, re.DOTALL)
+                        if c_match:
+                            c_fm = parse_simple_yaml(c_match.group(1))
+                            c_fm['url'] = f"/cultivars/{fname.replace('.md', '.html')}"
+                            cultivars.append(c_fm)
+
+        def resolve_for_loop(match):
+            group_name = match.group(1)
+            header = match.group(2)
+            table_head = match.group(3)
+            row_template = match.group(4)
+            
+            group_cultivars = [c for c in cultivars if c.get('group') == group_name]
+            
+            rows = []
+            for c in group_cultivars:
+                row = row_template
+                row = re.sub(r'\{\{\s*cultivar\.(\w+)\s*\}\}', lambda m: str(c.get(m.group(1), '')), row)
+                row = re.sub(r'\{\{\s*cultivar\.url\s*\|\s*relative_url\s*\}\}', lambda m: c.get('url', ''), row)
+                rows.append(row)
+                
+            return f"{header}\n\n{table_head}\n" + "".join(rows)
+
+        pattern = r'\{\%\s*assign\s+\w+\s*=\s*site\.cultivars\s*\|\s*where:\s*"group",\s*"([^"]+)"\s*\%\}\n(##[^\n]+)\n\n(\|.*?\|\n\|.*?\|)\n\{\%\s*for\s+cultivar\s+in\s+\w+\s*\%\}(.*?)\{\%\s*endfor\s*\%\}'
+        processed = re.sub(pattern, resolve_for_loop, processed, flags=re.DOTALL)
+
     # 5. Normalize Links
     def normalize_link(match):
         prefix = match.group(1) # ](
