@@ -113,6 +113,8 @@
               file: _cultivars/fireglow.md
             - title: "Katsura"
               file: _cultivars/katsura.md
+            - title: "Lieeanne's jewel"
+              file: _cultivars/lieeannes-jewel.md
             - title: "Mila"
               file: _cultivars/mila.md
             - title: "Orange Dream"
@@ -171,6 +173,8 @@
               file: _cultivars/coonara-pygmy.md
             - title: "Hime-shojo"
               file: _cultivars/hime-shojo.md
+            - title: "Hippi-fi-mo"
+              file: _cultivars/hippi-fi-mo.md
             - title: "Kuro hime"
               file: _cultivars/kuro-hime.md
             - title: "Mikawa Yatsubusa"
@@ -209,6 +213,8 @@
               file: _cultivars/geisha-gone-wild.md
             - title: "Higasayama"
               file: _cultivars/higasayama.md
+            - title: "Hinotori Nishiki"
+              file: _cultivars/hinotori-nishiki.md
             - title: "Mikazuki"
               file: _cultivars/mikazuki.md
             - title: "Olsen’s Frosted Strawberry"
