@@ -23,6 +23,27 @@ While any Japanese Maple can be grown in a pot, **dwarf and semi-dwarf cultivars
 
 When selecting your container, a critical rule is to **choose a pot that is only about twice the size of the current root ball**. Avoid placing a small tree in a massive pot; the excess soil will retain too much moisture, leading to root rot before the tree has a chance to establish itself. Ensure the pot has excellent drainage holes.
 
+### Pot Size by Tree Size
+
+Match the pot to the tree you have today — not the tree you hope for in five years. Pot up only **one or two sizes at a time** (roughly 2 inches wider each step).
+
+| Tree height (above soil) | Canopy spread | Pot to use | Typical pot diameter |
+| :--- | :--- | :--- | :--- |
+| 1–2 ft (young graft) | wispy, under 1 ft | 2–3 gallon | 10–12" |
+| 2–3 ft | 1–2 ft | 5 gallon | ~12" |
+| 3–5 ft | 2–3 ft | 7–10 gallon | 14–16" |
+| 5–7 ft | 3–5 ft | 15–20 gallon | 18–22" |
+| 7 ft+ specimen | 5 ft+ | 25 gallon / half-barrel | 22–24"+ |
+
+### Three Rules Behind the Table
+
+*   **Go wide, not deep.** Maple roots spread sideways and stay shallow. A broad, bowl-shaped pot suits them far better than a tall narrow one, which traps a deep saturated zone at the bottom (see Section 3 on the perched water table).
+*   **One size up, never three.** A small root ball in a huge pot sits in wet, airless soil it can't drink dry — the classic beginner killer. If the pot looks comically large next to the trunk, it is.
+*   **Repot into the same table, not a bigger pot, once mature.** When a tree reaches the largest pot you're willing to manage, stop sizing up: root-prune and refresh the soil on the 2–3 year cycle in Section 6 instead. That is how a maple lives 50+ years in one container.
+
+> [!TIP]
+> Shopping and unsure between two sizes? Take the smaller one. An underwatered maple wilts and recovers; an overpotted maple rots silently. You can always pot up next spring — you can't un-rot roots.
+
 ---
 
 ## 2. Pot Thermodynamics: Material Science
