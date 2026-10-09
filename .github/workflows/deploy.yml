@@ -18,6 +18,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -35,6 +37,11 @@ jobs:
       - name: Install Pandoc
         run: sudo apt-get update && sudo apt-get install -y pandoc
 
+      # Generate EPUB first: bumps the version in _config.yml so the
+      # site build and the EPUB share the same version number
+      - name: Generate EPUB
+        run: ./scripts/generate_epub.sh
+
       # Build the Jekyll site
       - name: Build with Jekyll
         run: bundle exec jekyll build
@@ -42,13 +49,16 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      # Generate EPUB
-      - name: Generate EPUB
-        run: ./scripts/generate_epub.sh
-
-
       - name: Copy EPUB to site folder
         run: cp assets/japanese-maple.epub _site/assets/
+
+      # Persist the version bump or _config.yml stays stale forever
+      - name: Commit version bump
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _config.yml
+          git diff --cached --quiet && echo "no version change" || (git commit -m "Bump version [skip ci]" && git push)
 
 
       - name: Upload artifact
