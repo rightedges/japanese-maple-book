@@ -8,6 +8,8 @@ growth_rate: "Fast"
 budding: "Early-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+best_feature: Cupped claw-like purple leaves on a vigorous 15-20' vase. Superb
+  heat-stable color; crimson fall.
 ---
 
 # 'Trompenburg' Japanese Maple: The Cupped Purple

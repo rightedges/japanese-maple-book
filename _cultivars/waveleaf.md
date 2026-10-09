@@ -1,13 +1,15 @@
 ---
 layout: default
 title: "Waveleaf"
-group: "Reticulated"
+group: Variegated
 foliage_sum_fall: "Dark Red / Crimson"
 habit: "Upright (8-10')"
 growth_rate: "Moderate (8-12\"/yr)"
 budding: "Mid-season"
 sun_tolerance: "Moderate (needs afternoon shade)"
 parent: "17. Cultivar Library"
+best_feature: Ruffled reticulate. Wavy dark-red foliage with black veining; textured
+  sculptural canopy turning crimson.
 ---
 
 # 'Waveleaf' Japanese Maple: Textured Drama

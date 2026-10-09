@@ -8,6 +8,8 @@ growth_rate: "Slow (2-4\"/yr)"
 budding: "Mid-season"
 sun_tolerance: "Moderate (needs afternoon shade)"
 parent: "19. Cultivar Library"
+best_feature: Rare weeping full-moon maple. Cascading dwarf form with spectacular
+  yellow-orange-red fall color; ideal for walls and containers.
 ---
 
 # 'Abby's Weeping' Japanese Maple: The Cascading Full Moon

@@ -1,13 +1,15 @@
 ---
 layout: default
 title: "Celebration"
-group: "Reticulated"
+group: Variegated
 foliage_sum_fall: "Pink-Green / Scarlet"
 habit: "Upright (8-10')"
 growth_rate: "Moderate (8-12\"/yr)"
 budding: "Mid-season"
 sun_tolerance: "Moderate (needs afternoon shade)"
 parent: "17. Cultivar Library"
+best_feature: Ghost-style reticulate. Bright pink spring veins over green, finishing
+  scarlet; vase-shaped focal point.
 ---
 
 # 'Celebration' Japanese Maple: The Reticulated Standout

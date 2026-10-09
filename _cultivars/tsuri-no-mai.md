@@ -8,6 +8,8 @@ growth_rate: "Slow (4-8\"/yr)"
 budding: "Mid-season"
 sun_tolerance: "Moderate (needs afternoon shade)"
 parent: "17. Cultivar Library"
+best_feature: Dancing-crane variegation. White-green leaves with pink spring edges
+  on pink stems; compact 5-8' tree.
 ---
 
 # 'Tsuri-no-mai' Japanese Maple: The Dancing Crane

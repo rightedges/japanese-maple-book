@@ -8,6 +8,8 @@ growth_rate: "Moderate"
 budding: "Mid-season"
 sun_tolerance: "Medium (Afternoon Shade)"
 parent: "19. Cultivar Library"
+best_feature: Fern-leaf full-moon maple. Deeply cut foliage, showy spring flowers,
+  and legendary scarlet-neon fall color.
 ---
 
 # 'Aconitifolium' Japanese Maple: The Dancing Peacock

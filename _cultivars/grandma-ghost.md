@@ -1,13 +1,15 @@
 ---
 layout: default
 title: "Grandma Ghost"
-group: "Reticulated"
+group: Variegated
 foliage_sum_fall: "Cream-Green / Crimson"
 habit: "Upright (8-10')"
 growth_rate: "Moderate (8-10\"/yr)"
 budding: "Mid-season"
 sun_tolerance: "Low (needs shade)"
 parent: "17. Cultivar Library"
+best_feature: Ethereal cream spring foliage with dark reticulated veins; vivid
+  crimson-orange fall. Lights up shade gardens.
 ---
 
 # 'Grandma Ghost' Japanese Maple: The Ethereal Beauty

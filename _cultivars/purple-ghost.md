@@ -8,6 +8,8 @@ growth_rate: "Moderate"
 budding: "Mid-season"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+best_feature: Royal reticulated ghost. Magenta spring with black veins to garnet
+  summer; vivid orange-red fall.
 ---
 
 # 'Purple Ghost' Japanese Maple: The Royal Apparition

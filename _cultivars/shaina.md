@@ -8,6 +8,8 @@ growth_rate: "Slow to Moderate"
 budding: "Early-season"
 sun_tolerance: "Moderate"
 parent: "17. Cultivar Library"
+best_feature: Witch's-broom Bloodgood sport. Dense twiggy 4-6' mound of ruby foliage
+  with scarlet fall; top container dwarf.
 ---
 
 # 'Shaina' Japanese Maple: The Dense Ruby

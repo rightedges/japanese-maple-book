@@ -8,6 +8,8 @@ growth_rate: "Moderate"
 budding: "Early-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+best_feature: Miniature Bloodgood. Compact 4-6' dwarf holding burgundy through summer
+  heat; excellent for sun and containers.
 ---
 
 # 'Pixie' Japanese Maple: The Miniature Bloodgood

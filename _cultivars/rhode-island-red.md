@@ -8,6 +8,8 @@ growth_rate: "Slow"
 budding: "Mid-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+best_feature: Ball-shaped dwarf ruby. Naturally spherical 3-4' mound with sun-stable
+  red color; superb for rock gardens and bonsai.
 ---
 
 # 'Rhode Island Red' Japanese Maple: The Compact Ruby

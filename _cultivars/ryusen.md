@@ -8,6 +8,8 @@ growth_rate: "Fast"
 budding: "Mid-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+best_feature: First weeping green palmatum. Waterfall habit trainable to any height;
+  gold-orange fall and striking winter silhouette.
 ---
 
 # 'Ryusen' Japanese Maple: The Dragon's Spring

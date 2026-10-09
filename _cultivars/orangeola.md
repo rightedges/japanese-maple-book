@@ -8,6 +8,8 @@ growth_rate: "Fast (for a Dissectum)"
 budding: "Mid-season"
 sun_tolerance: "Medium-High"
 parent: "19. Cultivar Library"
+best_feature: Premier color-shifting laceleaf. Orange-bronze spring, two-tone summer
+  flushes, fiery red fall; vigorous and sun-tolerant.
 ---
 
 # 'Orangeola' Japanese Maple: The Glowing Cascade

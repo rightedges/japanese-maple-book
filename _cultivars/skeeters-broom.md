@@ -8,6 +8,8 @@ growth_rate: "Moderate to Fast"
 budding: "Early-season"
 sun_tolerance: "High"
 parent: "17. Cultivar Library"
+best_feature: Narrow pillar Bloodgood broom. Upright 6-8' column of burgundy with
+  scarlet fall; height without width.
 ---
 
 # 'Skeeter's Broom' Japanese Maple: The Vertical Ruby

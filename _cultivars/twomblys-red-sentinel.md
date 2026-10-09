@@ -8,6 +8,8 @@ growth_rate: "Moderate"
 budding: "Mid-season"
 sun_tolerance: "High"
 parent: "19. Cultivar Library"
+best_feature: Columnar Bloodgood broom. Narrow 10-15' crimson pillar with red winter
+  stems; ideal for entries and tight spaces.
 ---
 
 # 'Twombly's Red Sentinel' Japanese Maple: The Crimson Column
