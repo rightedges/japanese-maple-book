@@ -66,6 +66,60 @@ Do not use "Garden Soil" or cheap "Potting Mix."
     *   **30% High-quality Peat or Compost**: Provides water retention.
 *   **The Lifecycle**: Organic components break down over 2-3 years. You must refresh the soil periodically to prevent it from becoming a "compacted muck" that suffocates roots.
 
+### The Big-Box Mix: Same Physics, Store-Bought Ingredients
+
+Pumice and pine bark fines are nursery-yard items — most big-box garden centers (Home Depot, Lowe's, and similar) don't carry them. The mix below hits the same 40/40/20 target using only bags you can find in a single trip.
+
+**Shopping list (generic types, any brand):**
+*   **Pine bark soil conditioner** (often labeled "soil conditioner" — small, composted bark pieces, not large nuggets). This is your structure and acidity base. If only pine bark *mulch/nuggets* are available, buy the smallest grade and screen out pieces larger than ~1/2 inch with 1/2-inch hardware cloth.
+*   **Perlite** (large bag, coarse grade if offered). Your permanent air spaces — it never decomposes. Rinse the dust off outdoors before mixing.
+*   **Sphagnum peat moss** (compressed bale). Your moisture retention plus acidity — maples want pH 5.5–6.5, and peat plus bark lands you there without amendments. Pre-moisten it in a wheelbarrow before mixing; dry peat repels water.
+*   **Optional: bagged leaf compost** (small bag). Adds biology and a gentle nutrient charge. Keep it a minor fraction — compost is the densest ingredient and the first to compact.
+
+**The recipe (measured by the bucket — any bucket, same one throughout):**
+*   **3 buckets pine bark + 2 buckets perlite + 1 bucket peat** ("3-2-1"). This is the all-round mix for most climates.
+*   **Hot, dry summers?** Go **3-1-2** (extra peat) so the pot doesn't dry out by mid-afternoon.
+*   **Cool, rainy climate?** Go **4-2-1** (extra bark) so the mix stays open and airy through wet spells.
+
+**What NOT to buy:**
+*   **Garden soil, topsoil, or "raised bed soil"** — far too dense; becomes anaerobic in a pot within a season (see [Chapter 14]({{ site.baseurl }}/chapters/14-soil-root-health.html)).
+*   **"Moisture control" potting mixes** — the water-retaining gels keep the root zone soggy and defeat the whole 40/40/20 design.
+*   **Bagged potting soil used straight** — fine on its own for flowers, but alone it compacts around maple roots. If you must use it, cut it 50/50 with bark and perlite.
+*   **Play sand or fine sand** — fills air pores instead of creating them; makes concrete, not drainage.
+*   **Dyed mulches or fresh uncomposted wood chips** — the dye adds nothing and fresh wood ties up nitrogen as it decays.
+
+**Mixing day method:**
+1.  Screen the bark, rinse the perlite, and pre-wet the peat until it holds together when squeezed with no water dripping out.
+2.  Combine in a wheelbarrow or tarp and turn until uniform — every handful should show bark, white perlite, and dark peat.
+3.  Pot slightly moist, never dusty-dry or sopping. Water thoroughly once after potting to settle the mix around the roots.
+4.  **Feed for the bark**: fresh bark temporarily borrows nitrogen as it ages, so apply a slow-release balanced fertilizer in early spring per [Chapter 7]({{ site.baseurl }}/chapters/07-fertilization.html) — established trees in good mix often need nothing more.
+
+> [!TIP]
+> Buy one extra bag of bark. In 2–3 years when the organic fraction breaks down, you'll top-dress and refresh with the same ingredient instead of hunting for it mid-season.
+
+### The Classic 5-1-1 Nursery Mix: The Industry Standard
+
+Before the big-box version above, there was the mix commercial nurseries actually grow trees in: **5 parts composted bark, 1 part peat, 1 part perlite** — the widely used "5-1-1." It is airier than the 3-2-1 above, which makes it the better pick for rainy climates, chronic over-waterers, and anyone who wants maximum root oxygen. The method is deliberately simple: one bucket, counted scoops, no weighing.
+
+**Ingredients (with specs that matter):**
+*   **Composted pine or fir bark fines (5 buckets)** — the backbone. "Composted" matters: fresh bark steals far more nitrogen and can carry resins that inhibit roots. Pieces should be roughly 1/8 to 3/8 inch; screen out anything over 1/2 inch and discard the dust at the bottom of the bag.
+*   **Sphagnum peat moss (1 bucket)** — measured fluffed, not compressed. Pre-wet it until it barely holds a squeeze.
+*   **Coarse perlite (1 bucket)** — rinsed. This is the permanent skeleton that keeps air in the mix after the bark eventually decays.
+*   **Dolomitic lime (1 tablespoon per gallon of finished mix)** — peat and bark together can dip below pH 5.0, too acidic even for maples. The lime nudges the mix into the 5.5–6.5 sweet spot and adds calcium and magnesium. Skip it only if your water is hard/alkaline.
+*   **Slow-release balanced fertilizer** — incorporated at label rate for containers, since bark-based mixes start nearly nutrient-free.
+*   **Optional: finished leaf compost (no more than half a bucket)** — a small dose feeds soil biology. More than that and you reintroduce the compaction problem compost causes in pots.
+
+**A note on sand:** classic nursery mixes deliberately leave it out. Fine or play sand doesn't create drainage — it lodges in the air pores between bark pieces and turns the mix denser, exactly the "heavy soil" failure in [Chapter 14]({{ site.baseurl }}/chapters/14-soil-root-health.html). If coarse washed paver sand is all you can find, you may swap it for *half* the perlite (never all of it), accept a heavier pot, and water a little less often.
+
+**Easy method:**
+1.  Wet the peat first in a wheelbarrow — dry peat sheds water and will never blend evenly.
+2.  Add the 5 buckets of bark and 1 of rinsed perlite. Turn with a fork until every handful shows all three ingredients.
+3.  Sprinkle the lime and fertilizer over the top while turning, so they distribute rather than clump.
+4.  **The drain test**: fill a nursery pot, water heavily — flow should exit the bottom within seconds, and a squeezed handful should crumble, not drip. If water ponds on top, your bark grade is too fine; add another bucket of bark.
+5.  Pot the tree, water once to settle, and top-dress with an inch of plain bark as mulch.
+
+**Living with it:** expect hungry trees in year one — fresh bark borrows nitrogen, so don't skip the spring feeding in [Chapter 7]({{ site.baseurl }}/chapters/07-fertilization.html). Plan a refresh or root-prune on the normal 2–3 year cycle, because even composted bark eventually becomes the "compacted muck" described in [Chapter 14]({{ site.baseurl }}/chapters/14-soil-root-health.html).
+
 > **The Pro Audit**: If your container tree isn't growing as expected, don't wait for the 3-year repotting cycle. Perform a "Subterranean Audit" as described in [Chapter 14]({{ site.baseurl }}/chapters/14-soil-root-health.html) to check for anaerobic soil conditions.
 
 ---
