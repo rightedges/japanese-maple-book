@@ -7,9 +7,8 @@ habit: Compact Upright (6-8')
 growth_rate: Slow to Moderate
 budding: Mid-season
 sun_tolerance: Low (needs shade)
-parent: 17. Cultivar Library
-best_feature: Whitest of the Peaches family. White reticulated spring foliage edged
-  peach-to-purple; yellow-orange fall.
+parent: "Appendix A: Cultivar Library"
+best_feature: "Whitest of the Peaches family. White reticulated spring foliage edged peach-to-purple; yellow-orange fall."
 synonyms: White sport of Peaches and Cream
 ---
 
@@ -26,13 +25,15 @@ synonyms: White sport of Peaches and Cream
 | **Synonyms** | White sport of Peaches and Cream |
 
 
+![White Peaches in early October]({{ '/assets/images/cultivars/white-peaches.jpg' | relative_url }})
+
 ## Overview
 'White Peaches' is the whiter strain of 'Peaches and Cream', discovered in Dr. Bump's garden by Talon Buchholz and believed to be a sport mutation carrying extra white that nurserymen grafted onward. Where 'Peaches and Cream' leans peachy-pink, 'White Peaches' opens nearly white — a reticulated ghost with green veins threading through a pale field. It reaches roughly 6-8 ft in 10 years in Zones 5-9.
 
 ## Key Features & Seasonal Interest
 - **Spring**: White reticulated foliage framed by a peach-to-purple border. The contrast is brightest at leaf-out, glowing against dark evergreen backdrops.
 - **Summer**: Green veins grow prominent through mid-to-late spring into summer as the white settles, keeping the net-like reticulation visible all season.
-- **Fall**: Turns yellow to orange — a softer, luminous finale compared with the red-leaning fall of many ghost types.
+- **Fall**: Turns yellow to orange, often flushing red toward the leaf tips — a softer, luminous finale compared with the red-leaning fall of many ghost types.
 
 ## Garden Use & Care
 A shade-garden illuminator: site it where its pale spring foliage lightens a dark corner, under high canopy or on a north-facing wall. Its compact upright form also suits large containers kept out of harsh sun.

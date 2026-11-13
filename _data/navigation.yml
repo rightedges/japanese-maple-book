@@ -127,6 +127,8 @@
               file: _cultivars/sensu.md
             - title: "Summer Gold"
               file: _cultivars/summer-gold.md
+            - title: "Tsuri-no-mai"
+              file: _cultivars/tsuri-no-mai.md
             - title: "Twombly's Red Sentinel"
               file: _cultivars/twomblys-red-sentinel.md
         - title: "2. Amoenum Group"
@@ -149,6 +151,8 @@
               file: _cultivars/crimson-queen.md
             - title: "Inaba shidare"
               file: _cultivars/inaba-shidare.md
+            - title: "Lion Heart"
+              file: _cultivars/lion-heart.md
             - title: "Orangeola"
               file: _cultivars/orangeola.md
             - title: "Seiryu"
@@ -205,12 +209,16 @@
               file: _cultivars/baby-ghost.md
             - title: "Butterfly"
               file: _cultivars/butterfly.md
+            - title: "Celebration"
+              file: _cultivars/celebration.md
             - title: "Firefly"
               file: _cultivars/firefly.md
             - title: "First Ghost"
               file: _cultivars/first-ghost.md
             - title: "Geisha Gone Wild"
               file: _cultivars/geisha-gone-wild.md
+            - title: "Grandma Ghost"
+              file: _cultivars/grandma-ghost.md
             - title: "Higasayama"
               file: _cultivars/higasayama.md
             - title: "Hinotori Nishiki"
@@ -225,20 +233,30 @@
               file: _cultivars/purple-ghost.md
             - title: "Sister Ghost"
               file: _cultivars/sister-ghost.md
+            - title: "Tiger Rose"
+              file: _cultivars/tiger-rose.md
             - title: "Ukigumo"
               file: _cultivars/ukigumo.md
+            - title: "Waveleaf"
+              file: _cultivars/waveleaf.md
+            - title: "White Peaches"
+              file: _cultivars/white-peaches.md
         - title: "8. Shirasawanum Group"
           children:
             - title: "Aureum"
               file: _cultivars/aureum.md
             - title: "Autumn Moon"
               file: _cultivars/autumn-moon.md
+            - title: "Gloria"
+              file: _cultivars/gloria.md
             - title: "Jordan"
               file: _cultivars/jordan.md
             - title: "Moonrise"
               file: _cultivars/moonrise.md
         - title: "9. Japonicum Group"
           children:
+            - title: "Abby's Weeping"
+              file: _cultivars/abbys-weeping.md
             - title: "Aconitifolium"
               file: _cultivars/aconitifolium.md
 

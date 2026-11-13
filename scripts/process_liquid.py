@@ -8,6 +8,7 @@ Automatically adds anchors to H1 headers for internal linking.
 import re
 import sys
 import os
+import yaml
 
 # Mapping of chapter/appendix text to anchor IDs
 REF_MAP = {
@@ -32,7 +33,20 @@ REF_MAP = {
 }
 
 def parse_simple_yaml(yaml_str):
-    """Simple YAML parser for key: value pairs."""
+    """Parse YAML front matter using PyYAML, with fallback to simple parser."""
+    try:
+        data = yaml.safe_load(yaml_str)
+        if isinstance(data, dict):
+            clean_data = {}
+            for k, v in data.items():
+                if isinstance(v, str):
+                    clean_data[k] = " ".join(v.split())
+                else:
+                    clean_data[k] = v
+            return clean_data
+    except Exception:
+        pass
+
     data = {}
     for line in yaml_str.split('\n'):
         line = line.strip()
